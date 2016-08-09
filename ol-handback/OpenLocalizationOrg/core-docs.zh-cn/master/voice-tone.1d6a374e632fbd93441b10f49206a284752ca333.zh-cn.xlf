@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">38e0278be784c964a0333e7c435c97c4348a1774</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">styleguide\voice-tone.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">15a437031be57e8dc273e97a7627fc94b304ce7e</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Guidelines</source>
+          <target state="new">Guidelines</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Developers will be reading your documents to learn .NET core, and to use it in their regular work.</source>
+          <target state="new">Developers will be reading your documents to learn .NET core, and to use it in their regular work.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Your goal is to create useful documentation that helps the reader on their journey.</source>
+          <target state="new">Your goal is to create useful documentation that helps the reader on their journey.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Our guidelines help with that.</source>
+          <target state="new">Our guidelines help with that.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Our style guide contains four recommendations:</source>
+          <target state="new">Our style guide contains four recommendations:</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Use a Conversational Tone</source>
+          <target state="new">Use a Conversational Tone</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Write in 2nd Person</source>
+          <target state="new">Write in 2nd Person</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Use Active Voice</source>
+          <target state="new">Use Active Voice</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Target a 5th Grade Reading Level</source>
+          <target state="new">Target a 5th Grade Reading Level</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You will see examples of each of these as you read this style guide.</source>
+          <target state="new">You will see examples of each of these as you read this style guide.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>We've written this guide following our guidelines to provide examples for you to follow as you build documentation for .NET core.</source>
+          <target state="new">We've written this guide following our guidelines to provide examples for you to follow as you build documentation for .NET core.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>We also provide contrasting samples so you can see what articles look like when you don't follow our guidelines.</source>
+          <target state="new">We also provide contrasting samples so you can see what articles look like when you don't follow our guidelines.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Details on each guideline</source>
+          <target state="new">Details on each guideline</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Use a Conversational Tone</source>
+          <target state="new">Use a Conversational Tone</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Appropriate Style:</source>
+          <target state="new">Appropriate Style:</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>We want our documentation to have a conversational tone.</source>
+          <target state="new">We want our documentation to have a conversational tone.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>You should feel as though you are having a conversation with the author as you read any of our tutorials or explanations.</source>
+          <target state="new">You should feel as though you are having a conversation with the author as you read any of our tutorials or explanations.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Your experience as a reader should be informal, conversational, and informative.</source>
+          <target state="new">Your experience as a reader should be informal, conversational, and informative.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>You should feel as though you are listening to the author explain the concepts to you.</source>
+          <target state="new">You should feel as though you are listening to the author explain the concepts to you.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Inappropriate Style:</source>
+          <target state="new">Inappropriate Style:</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>One might see the contrast between a conversational style and the style one finds with more academic treatments of technical topics.</source>
+          <target state="new">One might see the contrast between a conversational style and the style one finds with more academic treatments of technical topics.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Those resources are very useful, but the authors have written those articles in a very different style than our documentation.</source>
+          <target state="new">Those resources are very useful, but the authors have written those articles in a very different style than our documentation.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>When one reads an academic journal, one finds a very different tone and a very different style of writing.</source>
+          <target state="new">When one reads an academic journal, one finds a very different tone and a very different style of writing.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>One feels that they are reading a dry account of a very dry topic.</source>
+          <target state="new">One feels that they are reading a dry account of a very dry topic.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The first paragraph above follows our recommendation conversational style.</source>
+          <target state="new">The first paragraph above follows our recommendation conversational style.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>The second is a more academic style.</source>
+          <target state="new">The second is a more academic style.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>You see the difference immediately.</source>
+          <target state="new">You see the difference immediately.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Write in 2nd person</source>
+          <target state="new">Write in 2nd person</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Appropriate Style:</source>
+          <target state="new">Appropriate Style:</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>You should write your articles as though you are speaking directly to the reader.</source>
+          <target state="new">You should write your articles as though you are speaking directly to the reader.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>You should use second person often (as I just have in these two sentences).</source>
+          <target state="new">You should use second person often (as I just have in these two sentences).</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>2nd person doesn't always mean using the word 'you'.</source>
+          <target state="new">2nd person doesn't always mean using the word 'you'.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Write directly to the reader.</source>
+          <target state="new">Write directly to the reader.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Write imperative sentences.</source>
+          <target state="new">Write imperative sentences.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Tell your reader what you want them to learn.</source>
+          <target state="new">Tell your reader what you want them to learn.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Inappropriate Style:</source>
+          <target state="new">Inappropriate Style:</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>An author could also choose to write in 3rd person.</source>
+          <target state="new">An author could also choose to write in 3rd person.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>In that model, an author must find some pronoun or noun to use when referring to the reader.</source>
+          <target state="new">In that model, an author must find some pronoun or noun to use when referring to the reader.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>A reader might often find this 3rd person style less engaging and less enjoyable to read.</source>
+          <target state="new">A reader might often find this 3rd person style less engaging and less enjoyable to read.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>The first paragrah follows our recommended style.</source>
+          <target state="new">The first paragrah follows our recommended style.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>The second uses 3rd person.</source>
+          <target state="new">The second uses 3rd person.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Please write in second person.</source>
+          <target state="new">Please write in second person.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>You probably found that much easier to read.</source>
+          <target state="new">You probably found that much easier to read.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Use Active Voice</source>
+          <target state="new">Use Active Voice</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Write your articles in active voice.</source>
+          <target state="new">Write your articles in active voice.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Active voice means that the subject of the sentence performs the action (verb) of that sentence.</source>
+          <target state="new">Active voice means that the subject of the sentence performs the action (verb) of that sentence.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>It contrasts with passive voice, where the sentence is arranged such that the subject of the sentence is acted upon.</source>
+          <target state="new">It contrasts with passive voice, where the sentence is arranged such that the subject of the sentence is acted upon.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Constrast these two examples:</source>
+          <target state="new">Constrast these two examples:</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>The compiler transformed source code into an executable.</source>
+          <target state="new">The compiler transformed source code into an executable.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>The source code was transformed into an executable by the compiler.</source>
+          <target state="new">The source code was transformed into an executable by the compiler.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>The first sentence uses active voice.</source>
+          <target state="new">The first sentence uses active voice.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>The second sentence was written in passive voice.</source>
+          <target state="new">The second sentence was written in passive voice.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>(Those two sentences provide another example of each style).</source>
+          <target state="new">(Those two sentences provide another example of each style).</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>We recommend active voice because it is more readable.</source>
+          <target state="new">We recommend active voice because it is more readable.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Passive voice can be more difficult to read.</source>
+          <target state="new">Passive voice can be more difficult to read.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Target a 5th Grade Reading Level</source>
+          <target state="new">Target a 5th Grade Reading Level</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>We provide this final guideline because many of our readers are not native English speakers.</source>
+          <target state="new">We provide this final guideline because many of our readers are not native English speakers.</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>You are reaching an international audience with your articles.</source>
+          <target state="new">You are reaching an international audience with your articles.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Please take into account that they may not have the English vocabulary you have.</source>
+          <target state="new">Please take into account that they may not have the English vocabulary you have.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>However, you are still writing for technical professionals.</source>
+          <target state="new">However, you are still writing for technical professionals.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>You can assume that your readers have programming knowledge and the specific vocabulary for programming terms.</source>
+          <target state="new">You can assume that your readers have programming knowledge and the specific vocabulary for programming terms.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Object Oriented Programming, Class, and Object, Function and Method will all be familiar terms.</source>
+          <target state="new">Object Oriented Programming, Class, and Object, Function and Method will all be familiar terms.</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>However, not everyone reading your articles will have a formal computer science degree.</source>
+          <target state="new">However, not everyone reading your articles will have a formal computer science degree.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Terms like 'idempotent' probably need to be defined if you use it:</source>
+          <target state="new">Terms like 'idempotent' probably need to be defined if you use it:</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>The Close() method is idempotent, meaning that you can call it multiple times and the effect is the same as if you called it once.</source>
+          <target state="new">The Close() method is idempotent, meaning that you can call it multiple times and the effect is the same as if you called it once.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

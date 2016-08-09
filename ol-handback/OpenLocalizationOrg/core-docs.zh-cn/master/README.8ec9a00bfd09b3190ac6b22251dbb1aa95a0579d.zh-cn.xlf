@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1cc96bdb02a0ad8ba2b9f306bebfda59b097d8a0</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">README.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">7ffab64fa3b001ed993f9768b017bd1288f8712a</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>.NET Core Documentation</source>
+          <target state="new">.NET Core Documentation</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This repo contains work-in-progress documentation for .NET Core.</source>
+          <target state="new">This repo contains work-in-progress documentation for .NET Core.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Please see the <bpt id="p1">[</bpt>Contributing Guide<ept id="p1">](CONTRIBUTING.md)</ept> to get set up and take a look at our <bpt id="p2">[</bpt>issues list<ept id="p2">](https://github.com/dotnet/core-docs/issues)</ept>.</source>
+          <target state="new">Please see the <bpt id="p1">[</bpt>Contributing Guide<ept id="p1">](CONTRIBUTING.md)</ept> to get set up and take a look at our <bpt id="p2">[</bpt>issues list<ept id="p2">](https://github.com/dotnet/core-docs/issues)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>We very much welcome contributions to help us provide a complete set of .NET Core docs sooner.</source>
+          <target state="new">We very much welcome contributions to help us provide a complete set of .NET Core docs sooner.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Feel free to use (copy/paste) documentation from <bpt id="p1">[</bpt>.NET Framework docs<ept id="p1">](https://msdn.microsoft.com/library/w0x726c2.aspx)</ept> as a starting point for .NET Core docs.</source>
+          <target state="new">Feel free to use (copy/paste) documentation from <bpt id="p1">[</bpt>.NET Framework docs<ept id="p1">](https://msdn.microsoft.com/library/w0x726c2.aspx)</ept> as a starting point for .NET Core docs.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>We will likely port higher-quality .NET Core content to the .NET Framework docs, such that investments in this repo have a broader impact than .NET Core users.</source>
+          <target state="new">We will likely port higher-quality .NET Core content to the .NET Framework docs, such that investments in this repo have a broader impact than .NET Core users.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>We expect that <bpt id="p1">[</bpt>Xamarin<ept id="p1">](http://developer.xamarin.com/api/root/classlib/)</ept>, <bpt id="p2">[</bpt>Mono<ept id="p2">](http://docs.go-mono.com/?link=root%3a%2fclasslib)</ept> and <bpt id="p3">[</bpt>Unity<ept id="p3">](http://docs.unity3d.com/Manual/index.html)</ept> will also use this documentation.</source>
+          <target state="new">We expect that <bpt id="p1">[</bpt>Xamarin<ept id="p1">](http://developer.xamarin.com/api/root/classlib/)</ept>, <bpt id="p2">[</bpt>Mono<ept id="p2">](http://docs.go-mono.com/?link=root%3a%2fclasslib)</ept> and <bpt id="p3">[</bpt>Unity<ept id="p3">](http://docs.unity3d.com/Manual/index.html)</ept> will also use this documentation.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Samples</source>
+          <target state="new">Samples</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Current build status for .NET core samples:</source>
+          <target state="new">Current build status for .NET core samples:</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

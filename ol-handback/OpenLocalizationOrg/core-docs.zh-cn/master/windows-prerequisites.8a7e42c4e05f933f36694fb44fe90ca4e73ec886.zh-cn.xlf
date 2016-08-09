@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">335d4d1c628de468ef619ea96613d93b771f9490</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\windows-prerequisites.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a412b0fe6092ff138536abd6f0484cacd8f67274</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>.NET Core Pre-Requisites</source>
+          <target state="new">.NET Core Pre-Requisites</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>.NET Core Pre-Requisites</source>
+          <target state="new">.NET Core Pre-Requisites</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Pre-Requisites for Windows Development</source>
+          <target state="new">Pre-Requisites for Windows Development</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>.NET Core development on Windows with Visual Studio requires:</source>
+          <target state="new">.NET Core development on Windows with Visual Studio requires:</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>A supported version of the Windows client or operating system.</source>
+          <target state="new">A supported version of the Windows client or operating system.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Visual Studio 2015 Update 3.3 or later</source>
+          <target state="new">Visual Studio 2015 Update 3.3 or later</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>NuGet Manager extension for Visual Studio</source>
+          <target state="new">NuGet Manager extension for Visual Studio</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>.NET Core Tooling Preview 2</source>
+          <target state="new">.NET Core Tooling Preview 2</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Supported Windows Versions</source>
+          <target state="new">Supported Windows Versions</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>.NET Core 1.0 is supported on the following verions of Windows:</source>
+          <target state="new">.NET Core 1.0 is supported on the following verions of Windows:</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Windows 7+ / Server 2012 R2+</source>
+          <target state="new">Windows 7+ / Server 2012 R2+</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Windows Nano Server TP5</source>
+          <target state="new">Windows Nano Server TP5</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>You can see the full set of <bpt id="p1">[</bpt>suppported operating systems<ept id="p1">](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.0.md#rtm-platform-support)</ept> in in the <bpt id="p2">[</bpt>.NET Core Release Notes<ept id="p2">](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.0.md)</ept>.</source>
+          <target state="new">You can see the full set of <bpt id="p1">[</bpt>suppported operating systems<ept id="p1">](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.0.md#rtm-platform-support)</ept> in in the <bpt id="p2">[</bpt>.NET Core Release Notes<ept id="p2">](https://github.com/dotnet/core/blob/master/release-notes/1.0/1.0.0.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>.NET Core dependencies</source>
+          <target state="new">.NET Core dependencies</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>.NET Core requires the VC++ Redistributable when running on Windows.</source>
+          <target state="new">.NET Core requires the VC++ Redistributable when running on Windows.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>It is installed for you by the .NET Core installer.</source>
+          <target state="new">It is installed for you by the .NET Core installer.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>You need to install the Visual C++ redistributable manually is if you are installing .NET Core via the installer script (<ph id="ph1">`dotnet-install.ps1`</ph>).</source>
+          <target state="new">You need to install the Visual C++ redistributable manually is if you are installing .NET Core via the installer script (<ph id="ph1">`dotnet-install.ps1`</ph>).</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The Visual C++ Redistributable version differs by Windows version.</source>
+          <target state="new">The Visual C++ Redistributable version differs by Windows version.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Windows 10</source>
+          <target state="new">Windows 10</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Visual C++ Redistributable for Visual Studio 2015</source>
+          <target state="new">Visual C++ Redistributable for Visual Studio 2015</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Windows 7+ (not Windows 10)</source>
+          <target state="new">Windows 7+ (not Windows 10)</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Please make sure that your Windows installation is up-to-date and includes hotfix <bpt id="p1">[</bpt>KB2533623<ept id="p1">](https://support.microsoft.com/en-us/kb/2533623)</ept> installed through Windows Update.</source>
+          <target state="new">Please make sure that your Windows installation is up-to-date and includes hotfix <bpt id="p1">[</bpt>KB2533623<ept id="p1">](https://support.microsoft.com/en-us/kb/2533623)</ept> installed through Windows Update.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Universal CRT update<ept id="p1">](https://www.microsoft.com/en-us/download/details.aspx?id=48234)</ept> (you can get more info on what Universal CRT is in <bpt id="p2">[</bpt>this blog post<ept id="p2">](https://blogs.msdn.microsoft.com/vcblog/2015/03/03/introducing-the-universal-crt/)</ept>)</source>
+          <target state="new"><bpt id="p1">[</bpt>Universal CRT update<ept id="p1">](https://www.microsoft.com/en-us/download/details.aspx?id=48234)</ept> (you can get more info on what Universal CRT is in <bpt id="p2">[</bpt>this blog post<ept id="p2">](https://blogs.msdn.microsoft.com/vcblog/2015/03/03/introducing-the-universal-crt/)</ept>)</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Visual Studio</source>
+          <target state="new">Visual Studio</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>You need Visual Studio 2015 to develop .NET Core apps.</source>
+          <target state="new">You need Visual Studio 2015 to develop .NET Core apps.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>You can download <bpt id="p1">[</bpt>Visual Studio Community 2015<ept id="p1">](https://www.visualstudio.com/downloads/download-visual-studio-vs)</ept> for free.</source>
+          <target state="new">You can download <bpt id="p1">[</bpt>Visual Studio Community 2015<ept id="p1">](https://www.visualstudio.com/downloads/download-visual-studio-vs)</ept> for free.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Verify that you're running <bpt id="p1">[</bpt>Visual Studio 2015 Update 3.3<ept id="p1">](https://www.visualstudio.com/news/releasenotes/vs2015-update3-vs)</ept>:</source>
+          <target state="new">Verify that you're running <bpt id="p1">[</bpt>Visual Studio 2015 Update 3.3<ept id="p1">](https://www.visualstudio.com/news/releasenotes/vs2015-update3-vs)</ept>:</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>On the <bpt id="p1">**</bpt>Help<ept id="p1">**</ept> menu, choose <bpt id="p2">**</bpt>About Microsoft Visual Studio<ept id="p2">**</ept>.</source>
+          <target state="new">On the <bpt id="p1">**</bpt>Help<ept id="p1">**</ept> menu, choose <bpt id="p2">**</bpt>About Microsoft Visual Studio<ept id="p2">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>In the About Microsoft Visual Studio dialog, the version number should be 14.0.25424.00 or higher, and include "Update 3".</source>
+          <target state="new">In the About Microsoft Visual Studio dialog, the version number should be 14.0.25424.00 or higher, and include "Update 3".</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>If you don't have Update 3, you can download and install <bpt id="p1">[</bpt>Visual Studio 2015 Update 3<ept id="p1">](https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs)</ept>.</source>
+          <target state="new">If you don't have Update 3, you can download and install <bpt id="p1">[</bpt>Visual Studio 2015 Update 3<ept id="p1">](https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>If you have Update 3, you download and install <bpt id="p1">[</bpt>Visual Studio 2015 Update 3.3<ept id="p1">](https://msdn.microsoft.com/en-us/library/mt752379.aspx)</ept>.</source>
+          <target state="new">If you have Update 3, you download and install <bpt id="p1">[</bpt>Visual Studio 2015 Update 3.3<ept id="p1">](https://msdn.microsoft.com/en-us/library/mt752379.aspx)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>You can read more about the changes in Update 3.3 in the <bpt id="p1">[</bpt>release notes<ept id="p1">](https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs)</ept>.</source>
+          <target state="new">You can read more about the changes in Update 3.3 in the <bpt id="p1">[</bpt>release notes<ept id="p1">](https://www.visualstudio.com/en-us/news/releasenotes/vs2015-update3-vs)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>NuGet Manager extension for Visual Studio</source>
+          <target state="new">NuGet Manager extension for Visual Studio</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>NuGet is the package manager for the Microsoft development platform including .NET Core.</source>
+          <target state="new">NuGet is the package manager for the Microsoft development platform including .NET Core.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>You need <bpt id="p1">[</bpt>NuGet 3.5.0<ept id="p1">](https://dist.nuget.org/visualstudio-2015-vsix/v3.5.0-beta/NuGet.Tools.vsix)</ept> or higher to build .NET Core apps.</source>
+          <target state="new">You need <bpt id="p1">[</bpt>NuGet 3.5.0<ept id="p1">](https://dist.nuget.org/visualstudio-2015-vsix/v3.5.0-beta/NuGet.Tools.vsix)</ept> or higher to build .NET Core apps.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>.NET Core Tools for Visual Studio 2015</source>
+          <target state="new">.NET Core Tools for Visual Studio 2015</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Download and install the <bpt id="p1">[</bpt>.NET Core Tooling Preview 2 for Visual Studio 2015<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=817245)</ept>.</source>
+          <target state="new">Download and install the <bpt id="p1">[</bpt>.NET Core Tooling Preview 2 for Visual Studio 2015<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=817245)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>The .NET Core Tooling package installs .NET Core, project templates and other tools for Visual Studio 2015.</source>
+          <target state="new">The .NET Core Tooling package installs .NET Core, project templates and other tools for Visual Studio 2015.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Issues</source>
+          <target state="new">Issues</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>You may be blocked from installing the <bpt id="p1">[</bpt>.NET Core Tooling Preview 2 for Visual Studio 2015<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=817245)</ept> installer due to a temporary bug.</source>
+          <target state="new">You may be blocked from installing the <bpt id="p1">[</bpt>.NET Core Tooling Preview 2 for Visual Studio 2015<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=817245)</ept> installer due to a temporary bug.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>To workaround it, run the installer from the commandline with the <ph id="ph1">`SKIP_VSU_CHECK=1`</ph> argument, as you see in the example below.</source>
+          <target state="new">To workaround it, run the installer from the commandline with the <ph id="ph1">`SKIP_VSU_CHECK=1`</ph> argument, as you see in the example below.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

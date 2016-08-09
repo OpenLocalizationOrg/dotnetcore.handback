@@ -1,0 +1,246 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">b739593c5752364ef7a9e2a26ab2d53b807c4d70</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\app-types.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c0fc33a0d5a959d256a22ea57a5cad14439d8302</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>.NET Core App Types</source>
+          <target state="new">.NET Core App Types</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>.NET Core App Types</source>
+          <target state="new">.NET Core App Types</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>.NET Core App Types</source>
+          <target state="new">.NET Core App Types</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Introduction</source>
+          <target state="new">Introduction</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>There are several ways to think about the "types" of applications you can build.</source>
+          <target state="new">There are several ways to think about the "types" of applications you can build.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Usually, the types describe a certain execution model or are based on what the application can "do"; examples of these are "console application", "web application", etc. All of these types of applications (and more) can be created with .NET Core, since it is a general purpose development platform.</source>
+          <target state="new">Usually, the types describe a certain execution model or are based on what the application can "do"; examples of these are "console application", "web application", etc. All of these types of applications (and more) can be created with .NET Core, since it is a general purpose development platform.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>However, given its unique and cross-platform nature, .NET Core also has another angle through which to observe the type of the application and that is the application's <bpt id="p1">*</bpt>portability<ept id="p1">*</ept>.</source>
+          <target state="new">However, given its unique and cross-platform nature, .NET Core also has another angle through which to observe the type of the application and that is the application's <bpt id="p1">*</bpt>portability<ept id="p1">*</ept>.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Portability essentially means where you can run your application and what prerequisites you need to satisfy in order for your application to run on a given machine.</source>
+          <target state="new">Portability essentially means where you can run your application and what prerequisites you need to satisfy in order for your application to run on a given machine.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This document deals with this angle, portability, and outlines the two main types of portability that .NET Core enables.</source>
+          <target state="new">This document deals with this angle, portability, and outlines the two main types of portability that .NET Core enables.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>There are two main types that we can observe:</source>
+          <target state="new">There are two main types that we can observe:</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Portable application</source>
+          <target state="new">Portable application</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>As a subcategory of this, we have the portable application with native dependencies</source>
+          <target state="new">As a subcategory of this, we have the portable application with native dependencies</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Self-contained application</source>
+          <target state="new">Self-contained application</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Portable applications</source>
+          <target state="new">Portable applications</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Portable applications are the default type in .NET Core.</source>
+          <target state="new">Portable applications are the default type in .NET Core.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>They require .NET Core to be installed on the targeted machine in order for them to run.</source>
+          <target state="new">They require .NET Core to be installed on the targeted machine in order for them to run.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>To you as a developer, this means that your application is portable between installations of .NET Core.</source>
+          <target state="new">To you as a developer, this means that your application is portable between installations of .NET Core.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>This type of application will only carry its own code and dependencies that are outside of .NET Core libraries.</source>
+          <target state="new">This type of application will only carry its own code and dependencies that are outside of .NET Core libraries.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>As an example, let's say you are making a console application that has the ability to invoke a certain REST API and deserialize the returned JSON into a type and then display it.</source>
+          <target state="new">As an example, let's say you are making a console application that has the ability to invoke a certain REST API and deserialize the returned JSON into a type and then display it.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>You have everything you need for this small application except for a good JSON parser; for this, you add a dependency to your <ph id="ph1">`project.json`</ph> to include <bpt id="p1">[</bpt>Json.NET<ept id="p1">](https://www.nuget.org/packages/Newtonsoft.Json/)</ept>.</source>
+          <target state="new">You have everything you need for this small application except for a good JSON parser; for this, you add a dependency to your <ph id="ph1">`project.json`</ph> to include <bpt id="p1">[</bpt>Json.NET<ept id="p1">](https://www.nuget.org/packages/Newtonsoft.Json/)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Once you publish your application using <ph id="ph1">`dotnet publish`</ph>, you will see that only your application's code and JSON.net have been published in the output.</source>
+          <target state="new">Once you publish your application using <ph id="ph1">`dotnet publish`</ph>, you will see that only your application's code and JSON.net have been published in the output.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>The .NET Core libraries remain outside of your application's dependency closure.</source>
+          <target state="new">The .NET Core libraries remain outside of your application's dependency closure.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>In order to create a portable application, all you need to do is to target the .NET Core libraries in your <ph id="ph1">`project.json`</ph> and have your frameworks aligned as the below sample shows.</source>
+          <target state="new">In order to create a portable application, all you need to do is to target the .NET Core libraries in your <ph id="ph1">`project.json`</ph> and have your frameworks aligned as the below sample shows.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`Microsoft.NETCore.App`</ph> is a "metapackage" that states that you are targeting the .NET Core libraries.</source>
+          <target state="new">The <ph id="ph1">`Microsoft.NETCore.App`</ph> is a "metapackage" that states that you are targeting the .NET Core libraries.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`type: platform`</ph> property on that dependency means that at publish time, the tooling will skip publishing the assemblies for that dependency to the published output.</source>
+          <target state="new">The <ph id="ph1">`type: platform`</ph> property on that dependency means that at publish time, the tooling will skip publishing the assemblies for that dependency to the published output.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>You don't need these since they will be installed with .NET Core on the targeted machine.</source>
+          <target state="new">You don't need these since they will be installed with .NET Core on the targeted machine.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Portable application with native dependencies</source>
+          <target state="new">Portable application with native dependencies</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>A subgroup of the above, this type is a portable application that has native dependencies specified somewhere in its dependency chain.</source>
+          <target state="new">A subgroup of the above, this type is a portable application that has native dependencies specified somewhere in its dependency chain.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>This application is as portable as all of its native dependencies are portable.</source>
+          <target state="new">This application is as portable as all of its native dependencies are portable.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>You will be able to run the application on any platform that your native dependencies can run on.</source>
+          <target state="new">You will be able to run the application on any platform that your native dependencies can run on.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Prime example of this is Kestrel, the ASP.NET Core cross-platform web server.</source>
+          <target state="new">Prime example of this is Kestrel, the ASP.NET Core cross-platform web server.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>It is built on top of <bpt id="p1">[</bpt>libuv<ept id="p1">](https://github.com/libuv/libuv)</ept> which is its native dependency.</source>
+          <target state="new">It is built on top of <bpt id="p1">[</bpt>libuv<ept id="p1">](https://github.com/libuv/libuv)</ept> which is its native dependency.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>When you publish a portable application that has a native dependency, the published output will contain all the same things as the portable application described in the previous section.</source>
+          <target state="new">When you publish a portable application that has a native dependency, the published output will contain all the same things as the portable application described in the previous section.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>For native dependencies, the published output will contain a folder for each <bpt id="p1">[</bpt>Runtime Identifier (RID)<ept id="p1">](rid-catalog.md#what-are-rids)</ept> that the native dependency supports (and that exists in its NuGet package).</source>
+          <target state="new">For native dependencies, the published output will contain a folder for each <bpt id="p1">[</bpt>Runtime Identifier (RID)<ept id="p1">](rid-catalog.md#what-are-rids)</ept> that the native dependency supports (and that exists in its NuGet package).</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>The below <ph id="ph1">`project.json`</ph> sample is showing an example of a portable application with a native dependency.</source>
+          <target state="new">The below <ph id="ph1">`project.json`</ph> sample is showing an example of a portable application with a native dependency.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Self-contained application</source>
+          <target state="new">Self-contained application</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Unlike the portable application, a <bpt id="p1">*</bpt>self-contained application<ept id="p1">*</ept> does not rely on any shared component to be present on the machine where you want to deploy the application.</source>
+          <target state="new">Unlike the portable application, a <bpt id="p1">*</bpt>self-contained application<ept id="p1">*</ept> does not rely on any shared component to be present on the machine where you want to deploy the application.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>As its name implies, it means that the entire dependency closure, <bpt id="p1">**</bpt>including the runtime<ept id="p1">**</ept> is packaged with the application.</source>
+          <target state="new">As its name implies, it means that the entire dependency closure, <bpt id="p1">**</bpt>including the runtime<ept id="p1">**</ept> is packaged with the application.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>This makes it larger, but also makes it capable of running on any .NET Core supported platforms with the correct native dependencies, whether it has .NET Core installed or not.</source>
+          <target state="new">This makes it larger, but also makes it capable of running on any .NET Core supported platforms with the correct native dependencies, whether it has .NET Core installed or not.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>This makes it that much easier to deploy to the target machine, since you only deploy your application.</source>
+          <target state="new">This makes it that much easier to deploy to the target machine, since you only deploy your application.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Since the application carries the runtime within itself, you need to make an explicit choice which platforms your application needs to run on.</source>
+          <target state="new">Since the application carries the runtime within itself, you need to make an explicit choice which platforms your application needs to run on.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>For instance, if you publish a self-contained application for Windows 10, that same application will not work on macOS or Linux and vice versa.</source>
+          <target state="new">For instance, if you publish a self-contained application for Windows 10, that same application will not work on macOS or Linux and vice versa.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Of course, you can add or remove platforms during development at any given time.</source>
+          <target state="new">Of course, you can add or remove platforms during development at any given time.</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>There are several steps to get to a self-contained application.</source>
+          <target state="new">There are several steps to get to a self-contained application.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>The first is to remove any <ph id="ph1">`"type": "platform"`</ph> properties off of any dependencies you have.</source>
+          <target state="new">The first is to remove any <ph id="ph1">`"type": "platform"`</ph> properties off of any dependencies you have.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Second is to leave the dependency on <ph id="ph1">`Microsoft.NETCore.App`</ph> as it will pull in all of the rest of things that are needed.</source>
+          <target state="new">Second is to leave the dependency on <ph id="ph1">`Microsoft.NETCore.App`</ph> as it will pull in all of the rest of things that are needed.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Finally, you need to add a <ph id="ph1">`runtimes`</ph> node in your <ph id="ph2">`project.json`</ph> that will list out the <bpt id="p1">[</bpt>RIDs<ept id="p1">](rid-catalog.md#what-are-rids)</ept> you wish to use.</source>
+          <target state="new">Finally, you need to add a <ph id="ph1">`runtimes`</ph> node in your <ph id="ph2">`project.json`</ph> that will list out the <bpt id="p1">[</bpt>RIDs<ept id="p1">](rid-catalog.md#what-are-rids)</ept> you wish to use.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>When restoring a project that has the <ph id="ph1">`runtimes`</ph> node in it, NuGet will restore the needed runtime for all the RIDs specifies.</source>
+          <target state="new">When restoring a project that has the <ph id="ph1">`runtimes`</ph> node in it, NuGet will restore the needed runtime for all the RIDs specifies.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Then, when you want to publish your application for a given platform, you publish it using the <ph id="ph1">`--runtime &lt;RID&gt;`</ph> argument to <ph id="ph2">`dotnet publish`</ph>.</source>
+          <target state="new">Then, when you want to publish your application for a given platform, you publish it using the <ph id="ph1">`--runtime &lt;RID&gt;`</ph> argument to <ph id="ph2">`dotnet publish`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>The RID specified in the command invocation <bpt id="p1">**</bpt>has to be<ept id="p1">**</ept> an RID that is specified in your <ph id="ph1">`project.json`</ph>; otherwise, an error is thrown.</source>
+          <target state="new">The RID specified in the command invocation <bpt id="p1">**</bpt>has to be<ept id="p1">**</ept> an RID that is specified in your <ph id="ph1">`project.json`</ph>; otherwise, an error is thrown.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>If you want to publish for the RID that represents the operating system you are using the <bpt id="p1">[</bpt>.NET Core SDK<ept id="p1">](sdk.md)</ept> on, you don't have to specify anything to <ph id="ph1">`dotnet publish`</ph>.</source>
+          <target state="new">If you want to publish for the RID that represents the operating system you are using the <bpt id="p1">[</bpt>.NET Core SDK<ept id="p1">](sdk.md)</ept> on, you don't have to specify anything to <ph id="ph1">`dotnet publish`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>However, you still have to specify that RID in your <ph id="ph1">`project.json`</ph> in order to get a standalone application.</source>
+          <target state="new">However, you still have to specify that RID in your <ph id="ph1">`project.json`</ph> in order to get a standalone application.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>An important thing to note is that in the .NET Core Tools Preview 2 timeframe, the self-contained application is being published from the NuGet cache on your machine.</source>
+          <target state="new">An important thing to note is that in the .NET Core Tools Preview 2 timeframe, the self-contained application is being published from the NuGet cache on your machine.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>This means that all dependencies, including the actual .NET Core runtime and libraries, is not ready-to-run optimized, which means that it will have lower overall performance than portable applications.</source>
+          <target state="new">This means that all dependencies, including the actual .NET Core runtime and libraries, is not ready-to-run optimized, which means that it will have lower overall performance than portable applications.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>This is due to the fact that portable applications run against the installed .NET Core runtime and libraries which are ready-to-run.</source>
+          <target state="new">This is due to the fact that portable applications run against the installed .NET Core runtime and libraries which are ready-to-run.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The following <ph id="ph1">`project.json`</ph> sample illustrates a simple self-contained application.</source>
+          <target state="new">The following <ph id="ph1">`project.json`</ph> sample illustrates a simple self-contained application.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

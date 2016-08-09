@@ -1,0 +1,314 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">1b21aede43d5c1e4ae160bd0e5e02bd89b863db9</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\fsharp\getting-started-netcore.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a9f6c0fee699a1110aa97eead8c856713a898d12</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Getting started with F# on .NET Core</source>
+          <target state="new">Getting started with F# on .NET Core</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Getting started with F# on .NET Core</source>
+          <target state="new">Getting started with F# on .NET Core</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Getting started with F# on .NET Core</source>
+          <target state="new">Getting started with F# on .NET Core</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This article covers how you can get started with using F# on .NET Core with the ..NET Core SDK 1.0 Preview 2.</source>
+          <target state="new">This article covers how you can get started with using F# on .NET Core with the ..NET Core SDK 1.0 Preview 2.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>It will go through building a multi-project solution with a Class Library, a Console App, and an xUnit test project.</source>
+          <target state="new">It will go through building a multi-project solution with a Class Library, a Console App, and an xUnit test project.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Prerequisites</source>
+          <target state="new">Prerequisites</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>To begin, you must install the <bpt id="p1">[</bpt>.NET Core SDK 1.0 Preview 2<ept id="p1">](https://www.microsoft.com/net/core)</ept>.</source>
+          <target state="new">To begin, you must install the <bpt id="p1">[</bpt>.NET Core SDK 1.0 Preview 2<ept id="p1">](https://www.microsoft.com/net/core)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This article uses the command line and <bpt id="p1">[</bpt>Visual Studio Code<ept id="p1">](https://code.visualstudio.com)</ept> as the text editor.</source>
+          <target state="new">This article uses the command line and <bpt id="p1">[</bpt>Visual Studio Code<ept id="p1">](https://code.visualstudio.com)</ept> as the text editor.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You're free to use any editor you like, though.</source>
+          <target state="new">You're free to use any editor you like, though.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>To get awesome features like Intellisense, better syntax highlighting, and more, you can also download the <bpt id="p1">[</bpt>Ionide Extension<ept id="p1">](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)</ept> and get a lightweight IDE experience in Visual Studio Code.</source>
+          <target state="new">To get awesome features like Intellisense, better syntax highlighting, and more, you can also download the <bpt id="p1">[</bpt>Ionide Extension<ept id="p1">](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp)</ept> and get a lightweight IDE experience in Visual Studio Code.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Building a Simple Multi-project Solution</source>
+          <target state="new">Building a Simple Multi-project Solution</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Open up a Command Line/Terminal.</source>
+          <target state="new">Open up a Command Line/Terminal.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Create a new directory named <ph id="ph1">`FSNetCore`</ph>.</source>
+          <target state="new">Create a new directory named <ph id="ph1">`FSNetCore`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Open Visual Studio code or your preferred editor inside this directory.</source>
+          <target state="new">Open Visual Studio code or your preferred editor inside this directory.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`FSNetCore`</ph>, create <ph id="ph2">`src`</ph> and <ph id="ph3">`test`</ph> directories.</source>
+          <target state="new">Under <ph id="ph1">`FSNetCore`</ph>, create <ph id="ph2">`src`</ph> and <ph id="ph3">`test`</ph> directories.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`FSNetCore`</ph>, create a new file called <ph id="ph2">`global.json`</ph>.</source>
+          <target state="new">Under <ph id="ph1">`FSNetCore`</ph>, create a new file called <ph id="ph2">`global.json`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>It should have this as its contents:</source>
+          <target state="new">It should have this as its contents:</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Your solutions structure should now look like this:</source>
+          <target state="new">Your solutions structure should now look like this:</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Writing a Class library</source>
+          <target state="new">Writing a Class library</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Create a <ph id="ph1">`Library`</ph> folder under <ph id="ph2">`FSNetCore/src`</ph>.</source>
+          <target state="new">Create a <ph id="ph1">`Library`</ph> folder under <ph id="ph2">`FSNetCore/src`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>In the command line, execute <ph id="ph1">`dotnet new -l F#`</ph> in <ph id="ph2">`FSNetCore/src/Library`</ph>.</source>
+          <target state="new">In the command line, execute <ph id="ph1">`dotnet new -l F#`</ph> in <ph id="ph2">`FSNetCore/src/Library`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Remove the <ph id="ph1">`NuGet.Config`</ph> file.</source>
+          <target state="new">Remove the <ph id="ph1">`NuGet.Config`</ph> file.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Rename <ph id="ph1">`Program.fs`</ph> to <ph id="ph2">`Lib.fs`</ph>.</source>
+          <target state="new">Rename <ph id="ph1">`Program.fs`</ph> to <ph id="ph2">`Lib.fs`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Open the <ph id="ph1">`project.json`</ph> file and remove the <ph id="ph2">`emitEntryPoint`</ph> entry from <ph id="ph3">`buildOptions`</ph>.</source>
+          <target state="new">Open the <ph id="ph1">`project.json`</ph> file and remove the <ph id="ph2">`emitEntryPoint`</ph> entry from <ph id="ph3">`buildOptions`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`buildOptions/compile/includeFiles`</ph>, replace <ph id="ph2">`Program.fs`</ph> with <ph id="ph3">`Lib.fs`</ph>.</source>
+          <target state="new">Under <ph id="ph1">`buildOptions/compile/includeFiles`</ph>, replace <ph id="ph2">`Program.fs`</ph> with <ph id="ph3">`Lib.fs`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Remove the global <ph id="ph1">`dependencies`</ph> section.</source>
+          <target state="new">Remove the global <ph id="ph1">`dependencies`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`tools/dotnet-compile-fsc`</ph>, remove the <ph id="ph2">`imports`</ph> section.</source>
+          <target state="new">Under <ph id="ph1">`tools/dotnet-compile-fsc`</ph>, remove the <ph id="ph2">`imports`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`frameworks`</ph>, change <ph id="ph2">`netcoreapp1.0`</ph> to <ph id="ph3">`netstandard1.6`</ph>.</source>
+          <target state="new">Under <ph id="ph1">`frameworks`</ph>, change <ph id="ph2">`netcoreapp1.0`</ph> to <ph id="ph3">`netstandard1.6`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`frameworks/netstandard1.6`</ph>, remove the <ph id="ph2">`imports`</ph> section.</source>
+          <target state="new">Under <ph id="ph1">`frameworks/netstandard1.6`</ph>, remove the <ph id="ph2">`imports`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`frameworks/netstandard1.6/dependencies`</ph>, replace the <ph id="ph2">`Microsoft.NETCore.App`</ph> package with <ph id="ph3">`"NETStandard.Library":"1.6.0"`</ph>.</source>
+          <target state="new">Under <ph id="ph1">`frameworks/netstandard1.6/dependencies`</ph>, replace the <ph id="ph2">`Microsoft.NETCore.App`</ph> package with <ph id="ph3">`"NETStandard.Library":"1.6.0"`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Add <ph id="ph1">`"Microsoft.FSharp.Core.netcore": "1.0.0-alpha-160629"`</ph> and <ph id="ph2">`"Newtonsoft.Json": "9.0.1"`</ph>.</source>
+          <target state="new">Add <ph id="ph1">`"Microsoft.FSharp.Core.netcore": "1.0.0-alpha-160629"`</ph> and <ph id="ph2">`"Newtonsoft.Json": "9.0.1"`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Open <ph id="ph1">`Lib.fs`</ph> and change the contents to the following code:</source>
+          <target state="new">Open <ph id="ph1">`Lib.fs`</ph> and change the contents to the following code:</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Run <ph id="ph1">`dotnet restore`</ph> and <ph id="ph2">`dotnet build`</ph>.</source>
+          <target state="new">Run <ph id="ph1">`dotnet restore`</ph> and <ph id="ph2">`dotnet build`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>These should succeed.</source>
+          <target state="new">These should succeed.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Your <ph id="ph1">`project.json`</ph> file should look like this:</source>
+          <target state="new">Your <ph id="ph1">`project.json`</ph> file should look like this:</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>And your <ph id="ph1">`Lib.fs`</ph> file should look like this:</source>
+          <target state="new">And your <ph id="ph1">`Lib.fs`</ph> file should look like this:</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Writing a Console Application which Consumes the Class Library</source>
+          <target state="new">Writing a Console Application which Consumes the Class Library</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Create an <ph id="ph1">`App`</ph> folder under <ph id="ph2">`FSNetCore/src`</ph>.</source>
+          <target state="new">Create an <ph id="ph1">`App`</ph> folder under <ph id="ph2">`FSNetCore/src`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>In the command line, execute <ph id="ph1">`dotnet new -l F#`</ph> in <ph id="ph2">`FSNetCore/src/App`</ph>.</source>
+          <target state="new">In the command line, execute <ph id="ph1">`dotnet new -l F#`</ph> in <ph id="ph2">`FSNetCore/src/App`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Remove the <ph id="ph1">`NuGet.Config`</ph> file.</source>
+          <target state="new">Remove the <ph id="ph1">`NuGet.Config`</ph> file.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Open the <ph id="ph1">`project.json`</ph> file.</source>
+          <target state="new">Open the <ph id="ph1">`project.json`</ph> file.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Remove the global <ph id="ph1">`dependencies`</ph> section.</source>
+          <target state="new">Remove the global <ph id="ph1">`dependencies`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`tools/dotnet-compile-fsc`</ph>, remove the <ph id="ph2">`imports`</ph> section.</source>
+          <target state="new">Under <ph id="ph1">`tools/dotnet-compile-fsc`</ph>, remove the <ph id="ph2">`imports`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`frameworks/netcoreapp1.0/`</ph>, remove the <ph id="ph2">`imports`</ph> section.</source>
+          <target state="new">Under <ph id="ph1">`frameworks/netcoreapp1.0/`</ph>, remove the <ph id="ph2">`imports`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`frameworks/netcoreapp1.0/dependencies`</ph>, add the following after <ph id="ph2">`Microsoft.NETCore.App`</ph>:</source>
+          <target state="new">Under <ph id="ph1">`frameworks/netcoreapp1.0/dependencies`</ph>, add the following after <ph id="ph2">`Microsoft.NETCore.App`</ph>:</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Change <ph id="ph1">`Program.fs`</ph> to:</source>
+          <target state="new">Change <ph id="ph1">`Program.fs`</ph> to:</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Enter <ph id="ph1">`dotnet restore`</ph> and <ph id="ph2">`dotnet build`</ph> into the command line.</source>
+          <target state="new">Enter <ph id="ph1">`dotnet restore`</ph> and <ph id="ph2">`dotnet build`</ph> into the command line.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>These should succeed.</source>
+          <target state="new">These should succeed.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Enter <ph id="ph1">`dotnet run Hello World`</ph> into the command line.</source>
+          <target state="new">Enter <ph id="ph1">`dotnet run Hello World`</ph> into the command line.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>You should see results like this:</source>
+          <target state="new">You should see results like this:</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Your <ph id="ph1">`project.json`</ph> file should look like this:</source>
+          <target state="new">Your <ph id="ph1">`project.json`</ph> file should look like this:</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>And your <ph id="ph1">`Program.fs`</ph> file should look like this:</source>
+          <target state="new">And your <ph id="ph1">`Program.fs`</ph> file should look like this:</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Testing the Class Library with xUnit.net</source>
+          <target state="new">Testing the Class Library with xUnit.net</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Create a <ph id="ph1">`TestLibrary`</ph> folder under <ph id="ph2">`NETCoreFS/test`</ph>.</source>
+          <target state="new">Create a <ph id="ph1">`TestLibrary`</ph> folder under <ph id="ph2">`NETCoreFS/test`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>In the command line, execute <ph id="ph1">`dotnet new -l F#`</ph> in <ph id="ph2">`FSNetCore/src/Tests`</ph>.</source>
+          <target state="new">In the command line, execute <ph id="ph1">`dotnet new -l F#`</ph> in <ph id="ph2">`FSNetCore/src/Tests`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Remove the <ph id="ph1">`NuGet.Config`</ph>.</source>
+          <target state="new">Remove the <ph id="ph1">`NuGet.Config`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Rename <ph id="ph1">`Program.fs`</ph> to <ph id="ph2">`Tests.fs`</ph>.</source>
+          <target state="new">Rename <ph id="ph1">`Program.fs`</ph> to <ph id="ph2">`Tests.fs`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Open the <ph id="ph1">`project.json`</ph> file.</source>
+          <target state="new">Open the <ph id="ph1">`project.json`</ph> file.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Remove the <ph id="ph1">`emitEntryPoint`</ph> entry under <ph id="ph2">`buildOptions`</ph>.</source>
+          <target state="new">Remove the <ph id="ph1">`emitEntryPoint`</ph> entry under <ph id="ph2">`buildOptions`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`buildOptions/compile/includeFiles`</ph>, replace <ph id="ph2">`Program.fs`</ph> with <ph id="ph3">`Tests.fs`</ph>.</source>
+          <target state="new">Under <ph id="ph1">`buildOptions/compile/includeFiles`</ph>, replace <ph id="ph2">`Program.fs`</ph> with <ph id="ph3">`Tests.fs`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Remove the global <ph id="ph1">`dependencies`</ph> section.</source>
+          <target state="new">Remove the global <ph id="ph1">`dependencies`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`tools/dotnet-compile-fsc`</ph>, remove the <ph id="ph2">`imports`</ph> section.</source>
+          <target state="new">Under <ph id="ph1">`tools/dotnet-compile-fsc`</ph>, remove the <ph id="ph2">`imports`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`frameworks/netcoreapp1.0/`</ph>, remove the <ph id="ph2">`imports`</ph> section.</source>
+          <target state="new">Under <ph id="ph1">`frameworks/netcoreapp1.0/`</ph>, remove the <ph id="ph2">`imports`</ph> section.</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Under <ph id="ph1">`frameworks/netcoreapp1.0/dependencies`</ph>, add the following after <ph id="ph2">`Microsoft.NETCore.App`</ph>:</source>
+          <target state="new">Under <ph id="ph1">`frameworks/netcoreapp1.0/dependencies`</ph>, add the following after <ph id="ph2">`Microsoft.NETCore.App`</ph>:</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>After the <ph id="ph1">`frameworks`</ph> section, add <ph id="ph2">`"testRunner":"xunit"`</ph>.</source>
+          <target state="new">After the <ph id="ph1">`frameworks`</ph> section, add <ph id="ph2">`"testRunner":"xunit"`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Note that you can add this section anywhere in the <ph id="ph1">`project.json`</ph> file.</source>
+          <target state="new">Note that you can add this section anywhere in the <ph id="ph1">`project.json`</ph> file.</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>In <ph id="ph1">`test.fs`</ph>, paste the following code:</source>
+          <target state="new">In <ph id="ph1">`test.fs`</ph>, paste the following code:</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Run <ph id="ph1">`dotnet restore`</ph> and <ph id="ph2">`dotnet build`</ph>.</source>
+          <target state="new">Run <ph id="ph1">`dotnet restore`</ph> and <ph id="ph2">`dotnet build`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>You should now be able to run the test and verify it passes by doing <ph id="ph1">`dotnet test`</ph>.</source>
+          <target state="new">You should now be able to run the test and verify it passes by doing <ph id="ph1">`dotnet test`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>This will temporarily fail on macOS.</source>
+          <target state="new">This will temporarily fail on macOS.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>There is an issue here to track this<ept id="p1">](https://github.com/xunit/xunit/issues/859)</ept>.</source>
+          <target state="new"><bpt id="p1">[</bpt>There is an issue here to track this<ept id="p1">](https://github.com/xunit/xunit/issues/859)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Your <ph id="ph1">`project.json`</ph> file should look like this:</source>
+          <target state="new">Your <ph id="ph1">`project.json`</ph> file should look like this:</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>And your <ph id="ph1">`Tests.fs`</ph> file should look like this:</source>
+          <target state="new">And your <ph id="ph1">`Tests.fs`</ph> file should look like this:</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

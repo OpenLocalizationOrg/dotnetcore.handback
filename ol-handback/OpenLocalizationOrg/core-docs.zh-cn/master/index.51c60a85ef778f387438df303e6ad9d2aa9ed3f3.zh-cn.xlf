@@ -1,0 +1,242 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5f9d434bf25706746d0108fd80f5ee1a9ae71655</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\samples-and-tutorials\index.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">19a9b4231f2d7649e5216b239747833e85ba442c</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Samples and Tutorials</source>
+          <target state="new">Samples and Tutorials</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Samples and Tutorials</source>
+          <target state="new">Samples and Tutorials</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET</source>
+          <target state="new">.NET</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Samples and Tutorials</source>
+          <target state="new">Samples and Tutorials</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>We've got a rich catalog of samples and tutorials that you can use to learn more about .NET.</source>
+          <target state="new">We've got a rich catalog of samples and tutorials that you can use to learn more about .NET.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This area contains samples and tutorials for .NET Core, and the C# Language.</source>
+          <target state="new">This area contains samples and tutorials for .NET Core, and the C# Language.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can find great resources to learn the F# programming language on the <bpt id="p1">[</bpt>F# Foundation's site<ept id="p1">](http://fsharp.org/learn.html)</ept>.</source>
+          <target state="new">You can find great resources to learn the F# programming language on the <bpt id="p1">[</bpt>F# Foundation's site<ept id="p1">](http://fsharp.org/learn.html)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You can find great resources for learning ASP.NET Core on the <bpt id="p1">[</bpt>ASP.NET site<ept id="p1">](https://docs.asp.net/en/latest/tutorials/index.html)</ept></source>
+          <target state="new">You can find great resources for learning ASP.NET Core on the <bpt id="p1">[</bpt>ASP.NET site<ept id="p1">](https://docs.asp.net/en/latest/tutorials/index.html)</ept></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>In addition, if you are interested in exploring C# using an online playground, try these <bpt id="p1">[</bpt>interactive tutorials<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=817234)</ept>.</source>
+          <target state="new">In addition, if you are interested in exploring C# using an online playground, try these <bpt id="p1">[</bpt>interactive tutorials<ept id="p1">](http://go.microsoft.com/fwlink/?LinkId=817234)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="new">General</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Samples</source>
+          <target state="new">Samples</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Unit Testing in .NET Core using dotnet test</source>
+          <target state="new">Unit Testing in .NET Core using dotnet test</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>This guide shows how to create an ASP.NET Core web application and the associated unit tests.</source>
+          <target state="new">This guide shows how to create an ASP.NET Core web application and the associated unit tests.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>It will start by creating a simple web service application and then add tests, and continue by creating more tests to guide implementing new features.</source>
+          <target state="new">It will start by creating a simple web service application and then add tests, and continue by creating more tests to guide implementing new features.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The completed code is available <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/unit-testing/using-dotnet-test)</ept>.</source>
+          <target state="new">The completed code is available <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/unit-testing/using-dotnet-test)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+          <target state="new">Tutorials</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Writing .NET Core console apps using the CLI tools: A step-by-step guide</source>
+          <target state="new">Writing .NET Core console apps using the CLI tools: A step-by-step guide</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>This guide will show you how to use the .NET Core CLI tooling to build cross-platform console apps.</source>
+          <target state="new">This guide will show you how to use the .NET Core CLI tooling to build cross-platform console apps.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>It will start with the most basic console app and eventually span multiple projects, including testing.</source>
+          <target state="new">It will start with the most basic console app and eventually span multiple projects, including testing.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>You'll add these features step-by-step, building on what you've already seen and built.</source>
+          <target state="new">You'll add these features step-by-step, building on what you've already seen and built.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/core-projects/console-apps)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/core-projects/console-apps)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Writing Libraries with Cross Platform Tools</source>
+          <target state="new">Writing Libraries with Cross Platform Tools</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>This sample covers how you can write libraries for .NET using cross-platform CLI tools.</source>
+          <target state="new">This sample covers how you can write libraries for .NET using cross-platform CLI tools.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>They provide an efficient and low-level experience that works across any supported OS.</source>
+          <target state="new">They provide an efficient and low-level experience that works across any supported OS.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The completed code is available <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/core-projects/libraries/frameworks-library)</ept>.</source>
+          <target state="new">The completed code is available <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/core-projects/libraries/frameworks-library)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>C# Language</source>
+          <target state="new">C# Language</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Samples</source>
+          <target state="new">Samples</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Iterators</source>
+          <target state="new">Iterators</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>This sample demonstrates the syntax and features for creating and consuming C# iterators.</source>
+          <target state="new">This sample demonstrates the syntax and features for creating and consuming C# iterators.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/iterators)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/iterators)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Indexers</source>
+          <target state="new">Indexers</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>This sample demonstrates the syntax and features for C# indexers.</source>
+          <target state="new">This sample demonstrates the syntax and features for C# indexers.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/indexers)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/indexers)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Delegates and Events</source>
+          <target state="new">Delegates and Events</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This sample demonstrates the syntax and features for C# delegates and events.</source>
+          <target state="new">This sample demonstrates the syntax and features for C# delegates and events.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/delegates-and-events)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/delegates-and-events)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>A second sample, focused on events is also in the <bpt id="p1">[</bpt>same repository<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/events)</ept>.</source>
+          <target state="new">A second sample, focused on events is also in the <bpt id="p1">[</bpt>same repository<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/events)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Expression Trees</source>
+          <target state="new">Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>This sample demonstrates many of the problems that can be solved by using Expression Trees.</source>
+          <target state="new">This sample demonstrates many of the problems that can be solved by using Expression Trees.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/expression-trees)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/expression-trees)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>LINQ Samples</source>
+          <target state="new">LINQ Samples</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>These series of samples demonstrate many of the features of Language Integrated Query.</source>
+          <target state="new">These series of samples demonstrate many of the features of Language Integrated Query.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/linq/csharp)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/linq/csharp)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Tutorials</source>
+          <target state="new">Tutorials</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Console Application</source>
+          <target state="new">Console Application</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>This tutorial demonstrates Console I/O, the structure of a Console application, and the basics of the Task based asynchronous programming model.</source>
+          <target state="new">This tutorial demonstrates Console I/O, the structure of a Console application, and the basics of the Task based asynchronous programming model.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/console-teleprompter)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/console-teleprompter)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>REST Client</source>
+          <target state="new">REST Client</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>This tutorial demonstrates web communications, JSON serialization, and Object Oriented features in the C# language.</source>
+          <target state="new">This tutorial demonstrates web communications, JSON serialization, and Object Oriented features in the C# language.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/console-webapiclient)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/console-webapiclient)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>Working with LINQ</source>
+          <target state="new">Working with LINQ</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>This tutorial demonstrates many of the features of LINQ and the language elements that support it.</source>
+          <target state="new">This tutorial demonstrates many of the features of LINQ and the language elements that support it.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/console-linq)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/console-linq)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Microservices hosted in Docker</source>
+          <target state="new">Microservices hosted in Docker</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>This tutorial demonstrates building an asp.net core microservice and hosting it it Docker.</source>
+          <target state="new">This tutorial demonstrates building an asp.net core microservice and hosting it it Docker.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/WeatherMicroservice)</ept>.</source>
+          <target state="new">A finished version of the code you'll build is located <bpt id="p1">[</bpt>in the core-docs repository on GitHub<ept id="p1">](https://github.com/dotnet/core-docs/tree/master/samples/csharp-language/WeatherMicroservice)</ept>.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

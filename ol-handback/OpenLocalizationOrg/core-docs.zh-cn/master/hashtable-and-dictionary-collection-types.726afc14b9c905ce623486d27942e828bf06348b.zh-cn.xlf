@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">721f16154e1df4b7a075639ccce6bf2650b46c9b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\standard\collections\hashtable-and-dictionary-collection-types.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">882f96ae347677ab4af5ef8b650f9d573a18f748</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Hashtable and Dictionary Collection Types</source>
+          <target state="new">Hashtable and Dictionary Collection Types</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Hashtable and Dictionary Collection Types</source>
+          <target state="new">Hashtable and Dictionary Collection Types</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Hashtable and Dictionary Collection Types</source>
+          <target state="new">Hashtable and Dictionary Collection Types</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">[</bpt>System.Collections.Hashtable<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Hashtable)</ept> class, and the <bpt id="p2">[</bpt>System.Collections.Generic.Dictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.Dictionary-2)</ept> and <bpt id="p3">[</bpt>System.Collections.Concurrent.ConcurrentDictionary<ph id="ph3">&lt;T&gt;</ph><ept id="p3">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent.ConcurrentDictionary-2)</ept> generic classes implement the <bpt id="p4">[</bpt>System.Collections.IDictionary<ept id="p4">](https://docs.microsoft.com/dotnet/core/api/System.Collections.IDictionary)</ept> interface.</source>
+          <target state="new">The <bpt id="p1">[</bpt>System.Collections.Hashtable<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Hashtable)</ept> class, and the <bpt id="p2">[</bpt>System.Collections.Generic.Dictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.Dictionary-2)</ept> and <bpt id="p3">[</bpt>System.Collections.Concurrent.ConcurrentDictionary<ph id="ph3">&lt;T&gt;</ph><ept id="p3">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent.ConcurrentDictionary-2)</ept> generic classes implement the <bpt id="p4">[</bpt>System.Collections.IDictionary<ept id="p4">](https://docs.microsoft.com/dotnet/core/api/System.Collections.IDictionary)</ept> interface.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`Dictionary&lt;T&gt;`</ph> generic class also implements the <bpt id="p1">[</bpt>IDictionary<ph id="ph2">&amp;lt;</ph>TKey, TValue<ph id="ph3">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.IDictionary-2)</ept> generic interface.</source>
+          <target state="new">The <ph id="ph1">`Dictionary&lt;T&gt;`</ph> generic class also implements the <bpt id="p1">[</bpt>IDictionary<ph id="ph2">&amp;lt;</ph>TKey, TValue<ph id="ph3">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.IDictionary-2)</ept> generic interface.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Therefore, each element in these collections is a key-and-value pair.</source>
+          <target state="new">Therefore, each element in these collections is a key-and-value pair.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>A <ph id="ph1">`Hashtable`</ph> object consists of buckets that contain the elements of the collection.</source>
+          <target state="new">A <ph id="ph1">`Hashtable`</ph> object consists of buckets that contain the elements of the collection.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>A bucket is a virtual subgroup of elements within the <ph id="ph1">`Hashtable`</ph>, which makes searching and retrieving easier and faster than in most collections.</source>
+          <target state="new">A bucket is a virtual subgroup of elements within the <ph id="ph1">`Hashtable`</ph>, which makes searching and retrieving easier and faster than in most collections.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Each bucket is associated with a hash code, which is generated using a hash function and is based on the key of the element.</source>
+          <target state="new">Each bucket is associated with a hash code, which is generated using a hash function and is based on the key of the element.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The generic <bpt id="p1">[</bpt>HashSet<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.HashSet-1)</ept> class is an unordered collection for containing unique elements.</source>
+          <target state="new">The generic <bpt id="p1">[</bpt>HashSet<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.HashSet-1)</ept> class is an unordered collection for containing unique elements.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>A hash function is an algorithm that returns a numeric hash code based on a key.</source>
+          <target state="new">A hash function is an algorithm that returns a numeric hash code based on a key.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The key is the value of some property of the object being stored.</source>
+          <target state="new">The key is the value of some property of the object being stored.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>A hash function must always return the same hash code for the same key.</source>
+          <target state="new">A hash function must always return the same hash code for the same key.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>It is possible for a hash function to generate the same hash code for two different keys, but a hash function that generates a unique hash code for each unique key results in better performance when retrieving elements from the hash table.</source>
+          <target state="new">It is possible for a hash function to generate the same hash code for two different keys, but a hash function that generates a unique hash code for each unique key results in better performance when retrieving elements from the hash table.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Each object that is used as an element in a <ph id="ph1">`Hashtable`</ph> must be able to generate a hash code for itself by using an implementation of the <ph id="ph2">`GetHashCode`</ph> method.</source>
+          <target state="new">Each object that is used as an element in a <ph id="ph1">`Hashtable`</ph> must be able to generate a hash code for itself by using an implementation of the <ph id="ph2">`GetHashCode`</ph> method.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>When an object is added to a <ph id="ph1">`Hashtable`</ph>, it is stored in the bucket that is associated with the hash code that matches the object's hash code.</source>
+          <target state="new">When an object is added to a <ph id="ph1">`Hashtable`</ph>, it is stored in the bucket that is associated with the hash code that matches the object's hash code.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>When a value is being searched for in the <ph id="ph1">`Hashtable`</ph>, the hash code is generated for that value, and the bucket associated with that hash code is searched.</source>
+          <target state="new">When a value is being searched for in the <ph id="ph1">`Hashtable`</ph>, the hash code is generated for that value, and the bucket associated with that hash code is searched.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>For example, a hash function for a string might take the ASCII codes of each character in the string and add them together to generate a hash code.</source>
+          <target state="new">For example, a hash function for a string might take the ASCII codes of each character in the string and add them together to generate a hash code.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The string "picnic" would have a hash code that is different from the hash code for the string "basket"; therefore, the strings "picnic" and "basket" would be in different buckets.</source>
+          <target state="new">The string "picnic" would have a hash code that is different from the hash code for the string "basket"; therefore, the strings "picnic" and "basket" would be in different buckets.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>In contrast, "stressed" and "desserts" would have the same hash code and would be in the same bucket.</source>
+          <target state="new">In contrast, "stressed" and "desserts" would have the same hash code and would be in the same bucket.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`Dictionary&lt;T&gt;`</ph> and <ph id="ph2">`ConcurrentDictionary&lt;T&gt;`</ph> classes have the same functionality as the <ph id="ph3">`Hashtable`</ph> class.</source>
+          <target state="new">The <ph id="ph1">`Dictionary&lt;T&gt;`</ph> and <ph id="ph2">`ConcurrentDictionary&lt;T&gt;`</ph> classes have the same functionality as the <ph id="ph3">`Hashtable`</ph> class.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>A <ph id="ph1">`Dictionary&lt;T&gt;`</ph> of a specific type (other than <ph id="ph2">`Object`</ph>) provides better performance than a <ph id="ph3">`Hashtable`</ph> for value types.</source>
+          <target state="new">A <ph id="ph1">`Dictionary&lt;T&gt;`</ph> of a specific type (other than <ph id="ph2">`Object`</ph>) provides better performance than a <ph id="ph3">`Hashtable`</ph> for value types.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>This is because the elements of <ph id="ph1">`Hashtable`</ph> are of type <ph id="ph2">`Object`</ph>; therefore, boxing and unboxing typically occur when you store or retrieve a value type.</source>
+          <target state="new">This is because the elements of <ph id="ph1">`Hashtable`</ph> are of type <ph id="ph2">`Object`</ph>; therefore, boxing and unboxing typically occur when you store or retrieve a value type.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`ConcurrentDictionary&lt;T&gt;`</ph> class should be used when multiple threads might be accessing the collection simultaneously.</source>
+          <target state="new">The <ph id="ph1">`ConcurrentDictionary&lt;T&gt;`</ph> class should be used when multiple threads might be accessing the collection simultaneously.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>See Also</source>
+          <target state="new">See Also</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Hashtable</source>
+          <target state="new">Hashtable</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>IDictionary</source>
+          <target state="new">IDictionary</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Dictionary</source>
+          <target state="new">Dictionary</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic.IDictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue</source>
+          <target state="new">System.Collections.Generic.IDictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>System.Collections.Concurrent.ConcurrentDictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue</source>
+          <target state="new">System.Collections.Concurrent.ConcurrentDictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Commonly Used Collection Types</source>
+          <target state="new">Commonly Used Collection Types</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

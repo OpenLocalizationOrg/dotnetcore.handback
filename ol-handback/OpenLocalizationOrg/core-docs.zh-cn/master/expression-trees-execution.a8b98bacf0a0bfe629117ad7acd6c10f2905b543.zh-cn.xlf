@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">34818cdc266ee3005c2e3cb0b54b153d815fd49b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\expression-trees-execution.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0b41be70a3f4bb741c0382aeedc84f71b12a5f83</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Executing Expression Trees</source>
+          <target state="new">Executing Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Executing Expression Trees</source>
+          <target state="new">Executing Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Executing Expression Trees</source>
+          <target state="new">Executing Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Previous -- Framework Types Supporting Expression Trees</source>
+          <target state="new">Previous -- Framework Types Supporting Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>An <bpt id="p1">*</bpt>expression tree<ept id="p1">*</ept> is a data structure that represents some code.</source>
+          <target state="new">An <bpt id="p1">*</bpt>expression tree<ept id="p1">*</ept> is a data structure that represents some code.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>It is not compiled and executable code.</source>
+          <target state="new">It is not compiled and executable code.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>If you want to execute the .NET code that is represented by an expression tree, you must convert it into executable IL instructions.</source>
+          <target state="new">If you want to execute the .NET code that is represented by an expression tree, you must convert it into executable IL instructions.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Lambda Expressions to Functions</source>
+          <target state="new">Lambda Expressions to Functions</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You can convert any LambdaExpression, or any type derived from LambdaExpression into executable IL.</source>
+          <target state="new">You can convert any LambdaExpression, or any type derived from LambdaExpression into executable IL.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Other expression types cannot be directly converted into code.</source>
+          <target state="new">Other expression types cannot be directly converted into code.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This restriction has little effect in practice.</source>
+          <target state="new">This restriction has little effect in practice.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Lambda expressions are the only types of expressions that you would want to execute by converting to executable intermediate language (IL).</source>
+          <target state="new">Lambda expressions are the only types of expressions that you would want to execute by converting to executable intermediate language (IL).</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>(Think about what it would mean to directly execute a <ph id="ph1">`ConstantExpression`</ph>.</source>
+          <target state="new">(Think about what it would mean to directly execute a <ph id="ph1">`ConstantExpression`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Would it mean anything useful?) Any expression tree that is a <ph id="ph1">`LamdbaExpression`</ph>, or a type derived from <ph id="ph2">`LambdaExpression`</ph> can be converted to IL.</source>
+          <target state="new">Would it mean anything useful?) Any expression tree that is a <ph id="ph1">`LamdbaExpression`</ph>, or a type derived from <ph id="ph2">`LambdaExpression`</ph> can be converted to IL.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The expression type <ph id="ph1">`Expression&lt;TDelegate&gt;`</ph> is the only concrete example in the .NET Core libraries.</source>
+          <target state="new">The expression type <ph id="ph1">`Expression&lt;TDelegate&gt;`</ph> is the only concrete example in the .NET Core libraries.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>It's used to represent an expression that maps to any delegate type.</source>
+          <target state="new">It's used to represent an expression that maps to any delegate type.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Because this type maps to a delegate type, .NET can examine the expression, and generate IL for an appropriate delegate that matches the signature of the lambda expression.</source>
+          <target state="new">Because this type maps to a delegate type, .NET can examine the expression, and generate IL for an appropriate delegate that matches the signature of the lambda expression.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>In most cases, this creates a simple mapping between an expression, and its corresponding delegate.</source>
+          <target state="new">In most cases, this creates a simple mapping between an expression, and its corresponding delegate.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>For example, an expression tree that is represented by <ph id="ph1">`Expression&lt;Func&lt;int&gt;&gt;`</ph> would be converted to a delegate of the type <ph id="ph2">`Func&lt;int&gt;`</ph>.</source>
+          <target state="new">For example, an expression tree that is represented by <ph id="ph1">`Expression&lt;Func&lt;int&gt;&gt;`</ph> would be converted to a delegate of the type <ph id="ph2">`Func&lt;int&gt;`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>For a lambda expression with any return type and argument list, there exists a delegate type that is the target type for the executable code represented by that lamdba expression.</source>
+          <target state="new">For a lambda expression with any return type and argument list, there exists a delegate type that is the target type for the executable code represented by that lamdba expression.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`LamdbaExpression`</ph> type contains <ph id="ph2">`Compile`</ph> and <ph id="ph3">`CompileToMethod`</ph> members that you would use to convert an expression tree to executable code.</source>
+          <target state="new">The <ph id="ph1">`LamdbaExpression`</ph> type contains <ph id="ph2">`Compile`</ph> and <ph id="ph3">`CompileToMethod`</ph> members that you would use to convert an expression tree to executable code.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`Compile`</ph> method creates a delegate.</source>
+          <target state="new">The <ph id="ph1">`Compile`</ph> method creates a delegate.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`ConmpileToMethod`</ph> method updates a <ph id="ph2">`MethodBuilder`</ph> object with the IL that represents the compiled output of the expression tree.</source>
+          <target state="new">The <ph id="ph1">`ConmpileToMethod`</ph> method updates a <ph id="ph2">`MethodBuilder`</ph> object with the IL that represents the compiled output of the expression tree.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Note that <ph id="ph1">`CompileToMethod`</ph> is only available on the full desktop framework, not on the .NET Core framework.</source>
+          <target state="new">Note that <ph id="ph1">`CompileToMethod`</ph> is only available on the full desktop framework, not on the .NET Core framework.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Optionally, you can also provide a <ph id="ph1">`DebugInfoGenerator`</ph> that will receive the symbol debugging information for the generated delegate object.</source>
+          <target state="new">Optionally, you can also provide a <ph id="ph1">`DebugInfoGenerator`</ph> that will receive the symbol debugging information for the generated delegate object.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>This enables you to convert the expression tree into a delegate object, and have full debugging information about the generated delegate.</source>
+          <target state="new">This enables you to convert the expression tree into a delegate object, and have full debugging information about the generated delegate.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>You would convert an expression into a delegate using the following code:</source>
+          <target state="new">You would convert an expression into a delegate using the following code:</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Notice that the delegate type is based on the expression type.</source>
+          <target state="new">Notice that the delegate type is based on the expression type.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>You must know the return type and the argument list if you want to use the delegate object in a strongly typed manner.</source>
+          <target state="new">You must know the return type and the argument list if you want to use the delegate object in a strongly typed manner.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`LambdaExpression.Compile()`</ph> method returns the <ph id="ph2">`Delegate`</ph> type.</source>
+          <target state="new">The <ph id="ph1">`LambdaExpression.Compile()`</ph> method returns the <ph id="ph2">`Delegate`</ph> type.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>You will have to cast it to the correct delegate type to have any compile-time tools check the argument list of return type.</source>
+          <target state="new">You will have to cast it to the correct delegate type to have any compile-time tools check the argument list of return type.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Execution and Lifetimes</source>
+          <target state="new">Execution and Lifetimes</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>You execute the code by invoking the delegate created when you called <ph id="ph1">`LamdbaExpression.Compile()`</ph>.</source>
+          <target state="new">You execute the code by invoking the delegate created when you called <ph id="ph1">`LamdbaExpression.Compile()`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>You can see this above where <ph id="ph1">`add.Compile()`</ph> returns a delegate.</source>
+          <target state="new">You can see this above where <ph id="ph1">`add.Compile()`</ph> returns a delegate.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Invoking that delegate, by calling <ph id="ph1">`func()`</ph> executes the code.</source>
+          <target state="new">Invoking that delegate, by calling <ph id="ph1">`func()`</ph> executes the code.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>That delegate represents the code in the expression tree.</source>
+          <target state="new">That delegate represents the code in the expression tree.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>You can retain the handle to that delegate and invoke it later.</source>
+          <target state="new">You can retain the handle to that delegate and invoke it later.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>You don't need to compile the expression tree each time you want to execute the code it represents.</source>
+          <target state="new">You don't need to compile the expression tree each time you want to execute the code it represents.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>(Remember that expression trees are immutable, and compiling the same expression tree later will create a delegate that executes the same code.)</source>
+          <target state="new">(Remember that expression trees are immutable, and compiling the same expression tree later will create a delegate that executes the same code.)</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>I will caution you against trying to create any more sophisticated caching mechanisms to increase performance by avoiding unnecessary compile calls.</source>
+          <target state="new">I will caution you against trying to create any more sophisticated caching mechanisms to increase performance by avoiding unnecessary compile calls.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Comparing two arbitrary expression trees to determine if they represent the same algorithm will also be time consuming to execute.</source>
+          <target state="new">Comparing two arbitrary expression trees to determine if they represent the same algorithm will also be time consuming to execute.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>You'll likely find that the compute time you save avoiding any extra calls to <ph id="ph1">`LambdaExpression.Compile()`</ph> will be more than consumed by the time executing code that determines of two different expression trees result in the same executable code.</source>
+          <target state="new">You'll likely find that the compute time you save avoiding any extra calls to <ph id="ph1">`LambdaExpression.Compile()`</ph> will be more than consumed by the time executing code that determines of two different expression trees result in the same executable code.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Caveats</source>
+          <target state="new">Caveats</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Compiling a lambda expression to a delegate and invoking that delegate is one of the simplest operations you can perform with an expression tree.</source>
+          <target state="new">Compiling a lambda expression to a delegate and invoking that delegate is one of the simplest operations you can perform with an expression tree.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>However, even with this simple operation, there are caveats you must be aware of.</source>
+          <target state="new">However, even with this simple operation, there are caveats you must be aware of.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Lambda Expressions create closures over any local variables that are referenced in the expression.</source>
+          <target state="new">Lambda Expressions create closures over any local variables that are referenced in the expression.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>You must guarantee that any variables that would be part of the delegate are usable at the location where you call <ph id="ph1">`Compile`</ph>, and when you execute the resulting delegate.</source>
+          <target state="new">You must guarantee that any variables that would be part of the delegate are usable at the location where you call <ph id="ph1">`Compile`</ph>, and when you execute the resulting delegate.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>In general, the compiler will ensure that this is true.</source>
+          <target state="new">In general, the compiler will ensure that this is true.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>However, if your expression accesses a variable that implements <ph id="ph1">`IDisposable`</ph>, it's possible that your code might dispose of the object while it is still held by the expression tree.</source>
+          <target state="new">However, if your expression accesses a variable that implements <ph id="ph1">`IDisposable`</ph>, it's possible that your code might dispose of the object while it is still held by the expression tree.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>For example, this code works fine, because <ph id="ph1">`int`</ph> does not implement <ph id="ph2">`IDisposable`</ph>:</source>
+          <target state="new">For example, this code works fine, because <ph id="ph1">`int`</ph> does not implement <ph id="ph2">`IDisposable`</ph>:</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>The delegate has captured a reference to the local variable <ph id="ph1">`constant`</ph>.</source>
+          <target state="new">The delegate has captured a reference to the local variable <ph id="ph1">`constant`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>That variable is accessed at any time later, when the function returned by <ph id="ph1">`CreateBoundFunc`</ph> executes.</source>
+          <target state="new">That variable is accessed at any time later, when the function returned by <ph id="ph1">`CreateBoundFunc`</ph> executes.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>However, consider this (rather contrived) class that implements <ph id="ph1">`IDisposable`</ph>:</source>
+          <target state="new">However, consider this (rather contrived) class that implements <ph id="ph1">`IDisposable`</ph>:</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>If you use it in an expression as shown below, you'll get an <ph id="ph1">`ObjectDisposedException`</ph> when you execute the code referenced by the <ph id="ph2">`Resource.Argument`</ph> property:</source>
+          <target state="new">If you use it in an expression as shown below, you'll get an <ph id="ph1">`ObjectDisposedException`</ph> when you execute the code referenced by the <ph id="ph2">`Resource.Argument`</ph> property:</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>The delegate returned from this method has closed over the <ph id="ph1">`constant`</ph> object, which has been disposed of.</source>
+          <target state="new">The delegate returned from this method has closed over the <ph id="ph1">`constant`</ph> object, which has been disposed of.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>(It's been disposed, because it was declared in a <ph id="ph1">`using`</ph> statement.)</source>
+          <target state="new">(It's been disposed, because it was declared in a <ph id="ph1">`using`</ph> statement.)</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Now, when you execute the delegate returned from this method, you'll have a <ph id="ph1">`ObjecctDisposedException`</ph> thrown at the point of execution.</source>
+          <target state="new">Now, when you execute the delegate returned from this method, you'll have a <ph id="ph1">`ObjecctDisposedException`</ph> thrown at the point of execution.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>It does seem strange to have a runtime error representing a compile-time construct, but that's the world we enter when we work with expression trees.</source>
+          <target state="new">It does seem strange to have a runtime error representing a compile-time construct, but that's the world we enter when we work with expression trees.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>There are a lot of permutations of this problem, so it's hard to offer general guidance to avoid it.</source>
+          <target state="new">There are a lot of permutations of this problem, so it's hard to offer general guidance to avoid it.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Be careful about accessing local variables when defining expressions, and be careful about accessing state in the current object (represented by <ph id="ph1">`this`</ph>) when creating an expression tree that can be returned by a public API.</source>
+          <target state="new">Be careful about accessing local variables when defining expressions, and be careful about accessing state in the current object (represented by <ph id="ph1">`this`</ph>) when creating an expression tree that can be returned by a public API.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>The code in your expression may reference methods or properties in other assemblies.</source>
+          <target state="new">The code in your expression may reference methods or properties in other assemblies.</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>That assembly must be accessible when the expression is defined, and when it is compiled, and when the resulting delegate is invoked.</source>
+          <target state="new">That assembly must be accessible when the expression is defined, and when it is compiled, and when the resulting delegate is invoked.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>You'll be met with a <ph id="ph1">`ReferencedAssemblyNotFoundException`</ph> in cases where it is not present.</source>
+          <target state="new">You'll be met with a <ph id="ph1">`ReferencedAssemblyNotFoundException`</ph> in cases where it is not present.</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Summary</source>
+          <target state="new">Summary</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Expression Trees that represent lambda expressions can be compiled to create a delegate that you can execute.</source>
+          <target state="new">Expression Trees that represent lambda expressions can be compiled to create a delegate that you can execute.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>This provides one mechanism to execute the code represented by an expression tree.</source>
+          <target state="new">This provides one mechanism to execute the code represented by an expression tree.</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>The Expression Tree does represent the code that would execute for any given construct you create.</source>
+          <target state="new">The Expression Tree does represent the code that would execute for any given construct you create.</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>As long as the environment where you compile and execute the code matches the environment where you create the expression, everything works as expected.</source>
+          <target state="new">As long as the environment where you compile and execute the code matches the environment where you create the expression, everything works as expected.</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>When that doesn't happen, the errors are very predictable, and they will be caught in your first tests of any code using the expression trees.</source>
+          <target state="new">When that doesn't happen, the errors are very predictable, and they will be caught in your first tests of any code using the expression trees.</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Next -- Interpreting Expressions</source>
+          <target state="new">Next -- Interpreting Expressions</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

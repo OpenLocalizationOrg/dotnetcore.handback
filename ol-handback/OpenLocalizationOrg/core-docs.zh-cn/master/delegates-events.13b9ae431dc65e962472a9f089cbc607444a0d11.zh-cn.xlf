@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a3eb55a7dfc9f81f114de136c635b8ea1c93e512</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\delegates-events.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2076ad7a5635afeeab6fc3de7183764f5ba5aaf5</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Delegates &amp; events</source>
+          <target state="new">Delegates &amp; events</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Delegates &amp; events</source>
+          <target state="new">Delegates &amp; events</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Delegates &amp; events</source>
+          <target state="new">Delegates &amp; events</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This topic will be covered under the following articles:</source>
+          <target state="new">This topic will be covered under the following articles:</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>ol { list-style-type: upper-roman; } <ph id="ph1">&lt;/style&gt;</ph><bpt id="p1">
+1. [</bpt>Overview of Delegates<ept id="p1">](delegates-overview.md)</ept></source>
+          <target state="new">ol { list-style-type: upper-roman; } <ph id="ph1">&lt;/style&gt;</ph><bpt id="p1">
+1. [</bpt>Overview of Delegates<ept id="p1">](delegates-overview.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>System.Delegate and the <ph id="ph1">`delegate`</ph> keyword</source>
+          <target state="new">System.Delegate and the <ph id="ph1">`delegate`</ph> keyword</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This article covers the classes in the .NET Core Framework that support delegates and how that maps to the <ph id="ph1">`delegate`</ph> keyword.</source>
+          <target state="new">This article covers the classes in the .NET Core Framework that support delegates and how that maps to the <ph id="ph1">`delegate`</ph> keyword.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Strongly Typed Delegates</source>
+          <target state="new">Strongly Typed Delegates</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This article covers the types and techniques for using strongly typed delegates.</source>
+          <target state="new">This article covers the types and techniques for using strongly typed delegates.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Common Patterns for Delegates</source>
+          <target state="new">Common Patterns for Delegates</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This article covers common practices for delegates.</source>
+          <target state="new">This article covers common practices for delegates.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Overview of Events</source>
+          <target state="new">Overview of Events</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This article covers an overview of events in .NET.</source>
+          <target state="new">This article covers an overview of events in .NET.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The .NET Event Pattern</source>
+          <target state="new">The .NET Event Pattern</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>This article covers the standard event pattern in .NET.</source>
+          <target state="new">This article covers the standard event pattern in .NET.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The Updated .NET Event Pattern</source>
+          <target state="new">The Updated .NET Event Pattern</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>This article covers several updates to the .NET event pattern in recent releases.</source>
+          <target state="new">This article covers several updates to the .NET event pattern in recent releases.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Distinguishing Delegates from Events</source>
+          <target state="new">Distinguishing Delegates from Events</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>This article discusses how you should distinguish between using events and delegates in your designs.</source>
+          <target state="new">This article discusses how you should distinguish between using events and delegates in your designs.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

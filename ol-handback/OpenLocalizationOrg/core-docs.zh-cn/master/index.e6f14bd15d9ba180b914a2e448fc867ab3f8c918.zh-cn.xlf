@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0b9cbd6cb0bd5ea324a675d01bc46b6ea7b6ac85</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\tutorials\index.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">54d1e9c577aad516dc6971ba97946eeb5a56048b</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>C# Tutorials</source>
+          <target state="new">C# Tutorials</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>C# Tutorials</source>
+          <target state="new">C# Tutorials</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>C# Tutorials</source>
+          <target state="new">C# Tutorials</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>These exercises enable you to build C# programs using core CLR.</source>
+          <target state="new">These exercises enable you to build C# programs using core CLR.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Console Application<ept id="p1">](console-teleprompter.md)</ept>.</source>
+          <target state="new"><bpt id="p1">[</bpt>Console Application<ept id="p1">](console-teleprompter.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This tutorial demonstrates Console I/O, the structure of a Console application, and the basics of the Task based asynchronous programming model.</source>
+          <target state="new">This tutorial demonstrates Console I/O, the structure of a Console application, and the basics of the Task based asynchronous programming model.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>REST Client<ept id="p1">](console-webapiclient.md)</ept>.</source>
+          <target state="new"><bpt id="p1">[</bpt>REST Client<ept id="p1">](console-webapiclient.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This tutorial demonstrates web communications, JSON serialization, and Object Oriented features in the C# language.</source>
+          <target state="new">This tutorial demonstrates web communications, JSON serialization, and Object Oriented features in the C# language.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Working with LINQ<ept id="p1">](working-with-linq.md)</ept> This tutorial demonstrates many of the features of LINQ and the language elements that support it.</source>
+          <target state="new"><bpt id="p1">[</bpt>Working with LINQ<ept id="p1">](working-with-linq.md)</ept> This tutorial demonstrates many of the features of LINQ and the language elements that support it.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Microservices hosted in Docker<ept id="p1">](microservices.md)</ept> This tutorial demonstrates building an asp.net core microservice and hosting it it Docker.</source>
+          <target state="new"><bpt id="p1">[</bpt>Microservices hosted in Docker<ept id="p1">](microservices.md)</ept> This tutorial demonstrates building an asp.net core microservice and hosting it it Docker.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

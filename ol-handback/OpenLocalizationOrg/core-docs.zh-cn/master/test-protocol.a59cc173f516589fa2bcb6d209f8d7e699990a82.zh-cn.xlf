@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2248c20af08584769894fb88b5d227a1a2bb9534</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\test-protocol.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ab42463505e2accd39b7b7f2d62e30155546c1b3</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>.NET Core CLI test communication protocol</source>
+          <target state="new">.NET Core CLI test communication protocol</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>.NET Core CLI test communication protocol</source>
+          <target state="new">.NET Core CLI test communication protocol</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>.NET Core CLI test communication protocol</source>
+          <target state="new">.NET Core CLI test communication protocol</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Introduction</source>
+          <target state="new">Introduction</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Anytime you pass a port to dotnet test, the command will run in design time.</source>
+          <target state="new">Anytime you pass a port to dotnet test, the command will run in design time.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>That means that dotnet test will connect to that port using TCP and will then exchange an established set of messages with whatever else is connected to that port.</source>
+          <target state="new">That means that dotnet test will connect to that port using TCP and will then exchange an established set of messages with whatever else is connected to that port.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>When this happens, the runner also receives a new port that dotnet test will use to communicate with it.</source>
+          <target state="new">When this happens, the runner also receives a new port that dotnet test will use to communicate with it.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The reason why the runner also uses TCP to communicate with dotnet test is because in design mode, it is not sufficient to just output results to the console.</source>
+          <target state="new">The reason why the runner also uses TCP to communicate with dotnet test is because in design mode, it is not sufficient to just output results to the console.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The command needs to send the adapter structure messages containing the results of the test execution.</source>
+          <target state="new">The command needs to send the adapter structure messages containing the results of the test execution.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Communication protocol at design time.</source>
+          <target state="new">Communication protocol at design time.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Because during design time, dotnet test connects to a port when it starts up, the adapter needs to be listening on that port otherwise dotnet test will fail.</source>
+          <target state="new">Because during design time, dotnet test connects to a port when it starts up, the adapter needs to be listening on that port otherwise dotnet test will fail.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>We did it like this so that the adapter could reserve all the ports it needs by binding and listening to them before dotnet test ran and tried to get ports for the runner.</source>
+          <target state="new">We did it like this so that the adapter could reserve all the ports it needs by binding and listening to them before dotnet test ran and tried to get ports for the runner.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Once dotnet test starts, it sends a TestSession.Connected message to the adapter indicating that it is ready to receive messages.</source>
+          <target state="new">Once dotnet test starts, it sends a TestSession.Connected message to the adapter indicating that it is ready to receive messages.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>It is possible to send an optional <bpt id="p1">[</bpt>version check<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/ProtocolVersionMessage.cs)</ept> message with the adapter version of the protocol in it.</source>
+          <target state="new">It is possible to send an optional <bpt id="p1">[</bpt>version check<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/ProtocolVersionMessage.cs)</ept> message with the adapter version of the protocol in it.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Dotnet test will send back the version of the protocol that it supports.</source>
+          <target state="new">Dotnet test will send back the version of the protocol that it supports.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>All messages have the format described here: <bpt id="p1">[</bpt>Message.cs<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/Message.cs)</ept>.</source>
+          <target state="new">All messages have the format described here: <bpt id="p1">[</bpt>Message.cs<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/Message.cs)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The payload formats for each message is described in links to the classes used to serialize/deserialize the information in the description of the protocol.</source>
+          <target state="new">The payload formats for each message is described in links to the classes used to serialize/deserialize the information in the description of the protocol.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Test Execution</source>
+          <target state="new">Test Execution</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Test Execution</source>
+          <target state="new">Test Execution</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>After the optional version check, the adapter sends a TestExecution.GetTestRunnerProcessStartInfo, with the <bpt id="p1">[</bpt>tests<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/RunTestsMessage.cs)</ept> it wants to execute inside of it.</source>
+          <target state="new">After the optional version check, the adapter sends a TestExecution.GetTestRunnerProcessStartInfo, with the <bpt id="p1">[</bpt>tests<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/RunTestsMessage.cs)</ept> it wants to execute inside of it.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Dotnet test sends back a FileName and Arguments inside a <bpt id="p1">[</bpt>TestStartInfo<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/dotnet/commands/dotnet-test/TestStartInfo.cs)</ept> payload that the adapter can use to start the runner.</source>
+          <target state="new">Dotnet test sends back a FileName and Arguments inside a <bpt id="p1">[</bpt>TestStartInfo<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/dotnet/commands/dotnet-test/TestStartInfo.cs)</ept> payload that the adapter can use to start the runner.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>In the past, we would send the list of tests to run as part of that argument, but we were actually going over the command line size limit for some test projects.</source>
+          <target state="new">In the past, we would send the list of tests to run as part of that argument, but we were actually going over the command line size limit for some test projects.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>As part of the arguments, we send a port that the runner should connect to and for executing tests, a --wait-command flag, that indicates that the runner should connect to the port and wait for commands, instead of going ahead and executing the tests.</source>
+          <target state="new">As part of the arguments, we send a port that the runner should connect to and for executing tests, a --wait-command flag, that indicates that the runner should connect to the port and wait for commands, instead of going ahead and executing the tests.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>At this point, the adapter can launch the runner (and attach to it for debugging if it chooses to).</source>
+          <target state="new">At this point, the adapter can launch the runner (and attach to it for debugging if it chooses to).</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Once the runner starts, it sends dotnet test a TestRunner.WaitCommand message that indicates it is ready to receive commands, at which point dotnet test sends a TestRunner.Execute with the list of <bpt id="p1">[</bpt>tests<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/RunTestsMessage.cs)</ept> to run.</source>
+          <target state="new">Once the runner starts, it sends dotnet test a TestRunner.WaitCommand message that indicates it is ready to receive commands, at which point dotnet test sends a TestRunner.Execute with the list of <bpt id="p1">[</bpt>tests<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Messages/RunTestsMessage.cs)</ept> to run.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>This bypasses the command line size limit described above.</source>
+          <target state="new">This bypasses the command line size limit described above.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>The runner then sends dotnet test (and it passes forward to the adapter) a TestExecution.TestStarted for each tests as they start with the <bpt id="p1">[</bpt>test<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Test.cs)</ept> information inside of it.</source>
+          <target state="new">The runner then sends dotnet test (and it passes forward to the adapter) a TestExecution.TestStarted for each tests as they start with the <bpt id="p1">[</bpt>test<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Test.cs)</ept> information inside of it.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>The runner also sends dotnet test (and it forwards to the adapter) a TestExecution.TestResult for each test with the <bpt id="p1">[</bpt>individual result<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/TestResult.cs)</ept> of the test.</source>
+          <target state="new">The runner also sends dotnet test (and it forwards to the adapter) a TestExecution.TestResult for each test with the <bpt id="p1">[</bpt>individual result<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/TestResult.cs)</ept> of the test.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>After all tests finish, the runner sends a TestRunner.Completed message to dotnet test, which dotnet test sends as TestExecution.Completed to the adapter.</source>
+          <target state="new">After all tests finish, the runner sends a TestRunner.Completed message to dotnet test, which dotnet test sends as TestExecution.Completed to the adapter.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Once the adapter is done, it sends dotnet test a TestSession.Terminate which will cause dotnet test to shutdown.</source>
+          <target state="new">Once the adapter is done, it sends dotnet test a TestSession.Terminate which will cause dotnet test to shutdown.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Test discovery</source>
+          <target state="new">Test discovery</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Test discovery</source>
+          <target state="new">Test discovery</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>After the optional version check, the adapter sends a TestDiscovery.Start message.</source>
+          <target state="new">After the optional version check, the adapter sends a TestDiscovery.Start message.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Because in this case, the adapter does not need to attach to the process, dotnet test will start the runner itself.</source>
+          <target state="new">Because in this case, the adapter does not need to attach to the process, dotnet test will start the runner itself.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Also, since there is no long list of arguments to be passed to the runner, no --wait-command flag is needed to be passed to the runner.</source>
+          <target state="new">Also, since there is no long list of arguments to be passed to the runner, no --wait-command flag is needed to be passed to the runner.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>dotnet test only passes a --list argument to the runner, which means the runner should not run the tests, just list them.</source>
+          <target state="new">dotnet test only passes a --list argument to the runner, which means the runner should not run the tests, just list them.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>The runner then sends dotnet test (and it passes forward to the adapter) a TestDiscovery.TestFound for each <bpt id="p1">[</bpt>test<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Test.cs)</ept> found.</source>
+          <target state="new">The runner then sends dotnet test (and it passes forward to the adapter) a TestDiscovery.TestFound for each <bpt id="p1">[</bpt>test<ept id="p1">](https://github.com/dotnet/cli/blob/rel/1.0.0/src/Microsoft.Extensions.Testing.Abstractions/Test.cs)</ept> found.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>After all tests are discovered, the runner sends a TestRunner.Completed message to dotnet test, which dotnet test sends as TestDiscovery.Completed to the adapter.</source>
+          <target state="new">After all tests are discovered, the runner sends a TestRunner.Completed message to dotnet test, which dotnet test sends as TestDiscovery.Completed to the adapter.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Once the adapter is done, it sends dotnet test a TestSession.Terminate which will cause dotnet test to shutdown.</source>
+          <target state="new">Once the adapter is done, it sends dotnet test a TestSession.Terminate which will cause dotnet test to shutdown.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

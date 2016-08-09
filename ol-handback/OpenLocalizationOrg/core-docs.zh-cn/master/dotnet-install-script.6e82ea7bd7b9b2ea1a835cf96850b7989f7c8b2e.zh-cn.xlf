@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">679d626c5e0a32eb2b0f3afb645f61a630455908</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\dotnet-install-script.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">33a3f8624ede433636f77f54caf37e49cac021c6</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>dotnet-install scripts reference</source>
+          <target state="new">dotnet-install scripts reference</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>dotnet-install scripts reference</source>
+          <target state="new">dotnet-install scripts reference</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>dotnet-install scripts reference</source>
+          <target state="new">dotnet-install scripts reference</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>dotnet-install.ps1 | dotnet-install.sh - script used to install the Command Line Interface (CLI) tools and shared runtime</source>
+          <target state="new">dotnet-install.ps1 | dotnet-install.sh - script used to install the Command Line Interface (CLI) tools and shared runtime</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>SYNOPSIS</source>
+          <target state="new">SYNOPSIS</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Windows:</source>
+          <target state="new">Windows:</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>OS X/Linux:</source>
+          <target state="new">OS X/Linux:</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`dotnet-install`</ph> scripts are used to perform a non-admin install of the CLI toolchain and the shared runtime.</source>
+          <target state="new">The <ph id="ph1">`dotnet-install`</ph> scripts are used to perform a non-admin install of the CLI toolchain and the shared runtime.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>You can download the scripts from our <bpt id="p1">[</bpt>CLI GitHub repo<ept id="p1">](https://github.com/dotnet/cli/tree/rel/1.0.0-preview2/scripts/obtain)</ept>.</source>
+          <target state="new">You can download the scripts from our <bpt id="p1">[</bpt>CLI GitHub repo<ept id="p1">](https://github.com/dotnet/cli/tree/rel/1.0.0-preview2/scripts/obtain)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Their main use case is to help with automation scenarios and non-admin installations.</source>
+          <target state="new">Their main use case is to help with automation scenarios and non-admin installations.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>There are two scripts, one for PowerShell that works on Windows and a bash script that works on Linux/OS X. They both have the same behavior.</source>
+          <target state="new">There are two scripts, one for PowerShell that works on Windows and a bash script that works on Linux/OS X. They both have the same behavior.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Bash script also "understands" PowerShell switches so you can use them across the board.</source>
+          <target state="new">Bash script also "understands" PowerShell switches so you can use them across the board.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Installation scripts will download the ZIP/tarball file from the CLI build drops and will proceed to install it in either the default location or in a location specified by <ph id="ph1">`--install-dir`</ph>.</source>
+          <target state="new">Installation scripts will download the ZIP/tarball file from the CLI build drops and will proceed to install it in either the default location or in a location specified by <ph id="ph1">`--install-dir`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>By default, the installation script will download the SDK and install it; if you want to get just the shared runtime, you can specify the <ph id="ph1">`--shared-runtime`</ph> argument.</source>
+          <target state="new">By default, the installation script will download the SDK and install it; if you want to get just the shared runtime, you can specify the <ph id="ph1">`--shared-runtime`</ph> argument.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>By default, the script will add the install location to the $PATH for the current session.</source>
+          <target state="new">By default, the script will add the install location to the $PATH for the current session.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>This can be overridden if the <ph id="ph1">`--no-path`</ph> argument is used.</source>
+          <target state="new">This can be overridden if the <ph id="ph1">`--no-path`</ph> argument is used.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Before running the script, please install all the required <bpt id="p1">[</bpt>dependencies<ept id="p1">](https://github.com/dotnet/core/blob/master/Documentation/prereqs.md)</ept>.</source>
+          <target state="new">Before running the script, please install all the required <bpt id="p1">[</bpt>dependencies<ept id="p1">](https://github.com/dotnet/core/blob/master/Documentation/prereqs.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>You can install a specific version using the <ph id="ph1">`--version`</ph> argument.</source>
+          <target state="new">You can install a specific version using the <ph id="ph1">`--version`</ph> argument.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The version needs to be specified as 3-part version (for example 1.0.0-13232).</source>
+          <target state="new">The version needs to be specified as 3-part version (for example 1.0.0-13232).</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>If omitted, it will default to the first global.json file found in the hierarchy above the folder where the script was invoked in that contains the <ph id="ph1">`sdkVersion`</ph> property.</source>
+          <target state="new">If omitted, it will default to the first global.json file found in the hierarchy above the folder where the script was invoked in that contains the <ph id="ph1">`sdkVersion`</ph> property.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>If that is not present, it will use Latest.</source>
+          <target state="new">If that is not present, it will use Latest.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>You can also use this script to get the SDK or shared runtime debug binaries with debug symbols by using the <ph id="ph1">`--debug`</ph> argument.</source>
+          <target state="new">You can also use this script to get the SDK or shared runtime debug binaries with debug symbols by using the <ph id="ph1">`--debug`</ph> argument.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>If you do not do this on first install and realize you do need debug symbols later on, you can re-run the script with this argument and the version of the bits you installed.</source>
+          <target state="new">If you do not do this on first install and realize you do need debug symbols later on, you can re-run the script with this argument and the version of the bits you installed.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="new">Options</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Options are different between script implementations.</source>
+          <target state="new">Options are different between script implementations.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>PowerShell (Windows)</source>
+          <target state="new">PowerShell (Windows)</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Which channel (for example, "future", "preview", "production") to install from.</source>
+          <target state="new">Which channel (for example, "future", "preview", "production") to install from.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The default value is "Production".</source>
+          <target state="new">The default value is "Production".</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Which version of CLI to install; you need to specify the version as 3-part version (i.e. 1.0.0-13232).</source>
+          <target state="new">Which version of CLI to install; you need to specify the version as 3-part version (i.e. 1.0.0-13232).</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>If omitted, it will default to the first global.json that contains the sdkVersion property; if that is not present, it will use Latest.</source>
+          <target state="new">If omitted, it will default to the first global.json that contains the sdkVersion property; if that is not present, it will use Latest.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Path to install to.</source>
+          <target state="new">Path to install to.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>The directory is created if it doesn't exist.</source>
+          <target state="new">The directory is created if it doesn't exist.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>The default value is <ph id="ph1">`%LocalAppData%\.dotnet`</ph>.</source>
+          <target state="new">The default value is <ph id="ph1">`%LocalAppData%\.dotnet`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that larger packages containing debugging symbols should be used; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</source>
+          <target state="new"><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that larger packages containing debugging symbols should be used; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</source>
+          <target state="new">The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that the prefix/installdir are not exported to the path for the current session; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</source>
+          <target state="new"><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that the prefix/installdir are not exported to the path for the current session; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>, that is, the PATH is modified.</source>
+          <target state="new">The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>, that is, the PATH is modified.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>This makes the CLI tools available immediately after install.</source>
+          <target state="new">This makes the CLI tools available immediately after install.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to install just the shared runtime bits; <bpt id="p2">**</bpt>false<ept id="p2">**</ept> to install the entire SDK.</source>
+          <target state="new"><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to install just the shared runtime bits; <bpt id="p2">**</bpt>false<ept id="p2">**</ept> to install the entire SDK.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</source>
+          <target state="new">The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Bash (OS X/Linux)</source>
+          <target state="new">Bash (OS X/Linux)</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Which channel (for example "future", "preview", "production") to install from.</source>
+          <target state="new">Which channel (for example "future", "preview", "production") to install from.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>The default value is "Production".</source>
+          <target state="new">The default value is "Production".</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Which version of CLI to install; you need to specify the version as 3-part version (i.e. 1.0.0-13232).</source>
+          <target state="new">Which version of CLI to install; you need to specify the version as 3-part version (i.e. 1.0.0-13232).</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>If omitted, it will default to the first global.json that contains the sdkVersion property; if that is not present, it will use Latest.</source>
+          <target state="new">If omitted, it will default to the first global.json that contains the sdkVersion property; if that is not present, it will use Latest.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Path to where to install.</source>
+          <target state="new">Path to where to install.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>The directory is created if it doesn't exist.</source>
+          <target state="new">The directory is created if it doesn't exist.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>The default value is <ph id="ph1">`$HOME/.dotnet`</ph>.</source>
+          <target state="new">The default value is <ph id="ph1">`$HOME/.dotnet`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that larger packages containing debugging symbols should be used; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</source>
+          <target state="new"><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that larger packages containing debugging symbols should be used; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</source>
+          <target state="new">The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that the prefix/installdir are not exported to the path for the current session; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</source>
+          <target state="new"><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to indicate that the prefix/installdir are not exported to the path for the current session; otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>, that is, the PATH is modified.</source>
+          <target state="new">The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>, that is, the PATH is modified.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>This makes the CLI tools available immediately after install.</source>
+          <target state="new">This makes the CLI tools available immediately after install.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to install just the shared runtime bits; <bpt id="p2">**</bpt>false<ept id="p2">**</ept> to install the entire SDK.</source>
+          <target state="new"><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to install just the shared runtime bits; <bpt id="p2">**</bpt>false<ept id="p2">**</ept> to install the entire SDK.</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</source>
+          <target state="new">The default value is <bpt id="p1">**</bpt>false<ept id="p1">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>EXAMPLES</source>
+          <target state="new">EXAMPLES</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>Windows:</source>
+          <target state="new">Windows:</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>OS X/Linux:</source>
+          <target state="new">OS X/Linux:</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Installs the dev latest version to the default location.</source>
+          <target state="new">Installs the dev latest version to the default location.</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Windows:</source>
+          <target state="new">Windows:</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>OS X/Linux:</source>
+          <target state="new">OS X/Linux:</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Installs the latest preview to the specified location.</source>
+          <target state="new">Installs the latest preview to the specified location.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

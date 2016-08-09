@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0dae3a224217d5417cf08ac19a26abf90de9121d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\dotnet-restore.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">438233dbeddbc8cf60ec6843e4fcd43bea5ed8bf</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>dotnet-restore</source>
+          <target state="new">dotnet-restore</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>dotnet-restore</source>
+          <target state="new">dotnet-restore</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>dotnet-restore</source>
+          <target state="new">dotnet-restore</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>- Restores the dependencies and tools of a project</source>
+          <target state="new">- Restores the dependencies and tools of a project</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>SYNOPSIS</source>
+          <target state="new">SYNOPSIS</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`dotnet restore`</ph> command uses NuGet to restore dependencies as well as project-specific tools that are specified in the project.json file.</source>
+          <target state="new">The <ph id="ph1">`dotnet restore`</ph> command uses NuGet to restore dependencies as well as project-specific tools that are specified in the project.json file.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>By default, the restoration of dependencies and tools are done in parallel.</source>
+          <target state="new">By default, the restoration of dependencies and tools are done in parallel.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>In order to restore the dependencies, NuGet needs the feeds where the packages are located.</source>
+          <target state="new">In order to restore the dependencies, NuGet needs the feeds where the packages are located.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Feeds are usually provided via the NuGet.config configuration file; a default one is present when the CLI tools are installed.</source>
+          <target state="new">Feeds are usually provided via the NuGet.config configuration file; a default one is present when the CLI tools are installed.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>You can specify more feeds by creating your own NuGet.config file in the project directory.</source>
+          <target state="new">You can specify more feeds by creating your own NuGet.config file in the project directory.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Feeds can also be specified per invocation on the command line.</source>
+          <target state="new">Feeds can also be specified per invocation on the command line.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>For dependencies, you can specify where the restored packages are placed during the restore operation using the <ph id="ph1">`--packages`</ph> argument.</source>
+          <target state="new">For dependencies, you can specify where the restored packages are placed during the restore operation using the <ph id="ph1">`--packages`</ph> argument.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>If not specified, the default NuGet package cache is used.</source>
+          <target state="new">If not specified, the default NuGet package cache is used.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>It is found in the <ph id="ph1">`.nuget/packages`</ph> directory in the user's home directory on all operating systems (for example, <ph id="ph2">`/home/user1`</ph> on Linux or <ph id="ph3">`C:\Users\user1`</ph> on Windows).</source>
+          <target state="new">It is found in the <ph id="ph1">`.nuget/packages`</ph> directory in the user's home directory on all operating systems (for example, <ph id="ph2">`/home/user1`</ph> on Linux or <ph id="ph3">`C:\Users\user1`</ph> on Windows).</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>For project-specific tooling, <ph id="ph1">`dotnet restore`</ph> first restores the package in which the tool is packed, and then proceeds to restore the tool's dependencies as specified in its project.json.</source>
+          <target state="new">For project-specific tooling, <ph id="ph1">`dotnet restore`</ph> first restores the package in which the tool is packed, and then proceeds to restore the tool's dependencies as specified in its project.json.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>OPTIONS</source>
+          <target state="new">OPTIONS</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>A list of projects or project folders to restore.</source>
+          <target state="new">A list of projects or project folders to restore.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The list can contain either a path to a <ph id="ph1">`project.json`</ph> file, or a path to <ph id="ph2">`global.json`</ph> file or folder.</source>
+          <target state="new">The list can contain either a path to a <ph id="ph1">`project.json`</ph> file, or a path to <ph id="ph2">`global.json`</ph> file or folder.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The restore operation runs recursively for all subdirectories and restores for each given project.json file it finds.</source>
+          <target state="new">The restore operation runs recursively for all subdirectories and restores for each given project.json file it finds.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--source`</ph> [SOURCE]</source>
+          <target state="new">, <ph id="ph1">`--source`</ph> [SOURCE]</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Specifies a source to use during the restore operation.</source>
+          <target state="new">Specifies a source to use during the restore operation.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>This overrides all of the sources specified in the NuGet.config file(s).</source>
+          <target state="new">This overrides all of the sources specified in the NuGet.config file(s).</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Multiple sources can be provided by specifying this option multiple times.</source>
+          <target state="new">Multiple sources can be provided by specifying this option multiple times.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>[DIR]</source>
+          <target state="new">[DIR]</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Specifies the directory to place the restored packages in.</source>
+          <target state="new">Specifies the directory to place the restored packages in.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Disables restoring multiple projects in parallel.</source>
+          <target state="new">Disables restoring multiple projects in parallel.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--fallbacksource`</ph> [FEED]</source>
+          <target state="new">, <ph id="ph1">`--fallbacksource`</ph> [FEED]</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Specifies a fallback source that will be used in the restore operation if all other sources fail.</source>
+          <target state="new">Specifies a fallback source that will be used in the restore operation if all other sources fail.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>All valid feed formats are allowed.</source>
+          <target state="new">All valid feed formats are allowed.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Multiple fallback sources can be provided by specifying this option multiple times.</source>
+          <target state="new">Multiple fallback sources can be provided by specifying this option multiple times.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>[FILE]</source>
+          <target state="new">[FILE]</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Configuration file (NuGet.config) to use for the restore operation.</source>
+          <target state="new">Configuration file (NuGet.config) to use for the restore operation.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>[LEVEL]</source>
+          <target state="new">[LEVEL]</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The verbosity of logging to use.</source>
+          <target state="new">The verbosity of logging to use.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Allowed values: Debug, Verbose, Information, Minimal, Warning, or Error.</source>
+          <target state="new">Allowed values: Debug, Verbose, Information, Minimal, Warning, or Error.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>EXAMPLES</source>
+          <target state="new">EXAMPLES</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Restores dependencies and tools for the project in the current directory.</source>
+          <target state="new">Restores dependencies and tools for the project in the current directory.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Restores dependencies and tools for the <ph id="ph1">`app1`</ph> project found in the given path.</source>
+          <target state="new">Restores dependencies and tools for the <ph id="ph1">`app1`</ph> project found in the given path.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Restores the dependencies and tools for the project in the current directory using the file path provided as the fallback source.</source>
+          <target state="new">Restores the dependencies and tools for the project in the current directory using the file path provided as the fallback source.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Restores the dependencies and tools for the project in the current directory using the two file paths provided as the fallback sources.</source>
+          <target state="new">Restores the dependencies and tools for the project in the current directory using the two file paths provided as the fallback sources.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Restores dependencies and tools for the project in the current directory and shows only errors in the output.</source>
+          <target state="new">Restores dependencies and tools for the project in the current directory and shows only errors in the output.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

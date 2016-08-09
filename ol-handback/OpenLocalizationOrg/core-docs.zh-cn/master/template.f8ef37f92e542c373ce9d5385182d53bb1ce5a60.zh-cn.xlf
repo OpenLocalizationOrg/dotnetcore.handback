@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4bc22621b28b20047a34acf0c1aa44bf8d136a51</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">styleguide\template.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">442df065977100b8e1295b47d7961d5787e5758b</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>ARTICLE TITLE | SERVICE NAME</source>
+          <target state="new">ARTICLE TITLE | SERVICE NAME</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Metadata and Markdown Template</source>
+          <target state="new">Metadata and Markdown Template</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This core-docs template contains examples of Markdown syntax, as well as guidance on setting the metadata.</source>
+          <target state="new">This core-docs template contains examples of Markdown syntax, as well as guidance on setting the metadata.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>To get the most of it, you must view both the <bpt id="p1">[</bpt>raw Markdown<ept id="p1">](https://raw.githubusercontent.com/dotnet/core-docs/master/styleguide/template.md)</ept> and the <bpt id="p2">[</bpt>rendered view<ept id="p2">](https://github.com/dotnet/core-docs/blob/master/styleguide/template.md)</ept> (for instance, the raw Markdown shows the metadata block, while the rendered view does not).</source>
+          <target state="new">To get the most of it, you must view both the <bpt id="p1">[</bpt>raw Markdown<ept id="p1">](https://raw.githubusercontent.com/dotnet/core-docs/master/styleguide/template.md)</ept> and the <bpt id="p2">[</bpt>rendered view<ept id="p2">](https://github.com/dotnet/core-docs/blob/master/styleguide/template.md)</ept> (for instance, the raw Markdown shows the metadata block, while the rendered view does not).</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>When creating a Markdown file, you should copy this template to a new file, fill out the metadata as specified below, set the H1 heading above to the title of the article, and delete the content.</source>
+          <target state="new">When creating a Markdown file, you should copy this template to a new file, fill out the metadata as specified below, set the H1 heading above to the title of the article, and delete the content.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Metadata</source>
+          <target state="new">Metadata</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The full metadata block is above (in the <bpt id="p1">[</bpt>raw Markdown<ept id="p1">](https://raw.githubusercontent.com/dotnet/core-docs/master/template.md)</ept>), divided into required fields and optional fields.</source>
+          <target state="new">The full metadata block is above (in the <bpt id="p1">[</bpt>raw Markdown<ept id="p1">](https://raw.githubusercontent.com/dotnet/core-docs/master/template.md)</ept>), divided into required fields and optional fields.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Some key notes:</source>
+          <target state="new">Some key notes:</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You <bpt id="p1">**</bpt>must<ept id="p1">**</ept> have a space between the colon (:) and the value for a metadata element.</source>
+          <target state="new">You <bpt id="p1">**</bpt>must<ept id="p1">**</ept> have a space between the colon (:) and the value for a metadata element.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>If an optional metadata element does not have a value, comment out the element with a # or remove it (do not leave it blank or use "na"); if you are adding a value to an element that was commented out, be sure to remove the #.</source>
+          <target state="new">If an optional metadata element does not have a value, comment out the element with a # or remove it (do not leave it blank or use "na"); if you are adding a value to an element that was commented out, be sure to remove the #.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Colons in a value (for example, a title) break the metadata parser.</source>
+          <target state="new">Colons in a value (for example, a title) break the metadata parser.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>In this case, surround the title with double quotes (for example, <ph id="ph1">`title: "Writing .NET Core console apps: An advanced step-by-step guide"`</ph>).</source>
+          <target state="new">In this case, surround the title with double quotes (for example, <ph id="ph1">`title: "Writing .NET Core console apps: An advanced step-by-step guide"`</ph>).</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>title<ept id="p1">**</ept>: This title will appear in search engine results.</source>
+          <target state="new"><bpt id="p1">**</bpt>title<ept id="p1">**</ept>: This title will appear in search engine results.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>You can also add a pipe (|) followed by the product name (for example, <ph id="ph1">`title: Developing Libraries with Cross Platform Tools | .NET Core`</ph>).</source>
+          <target state="new">You can also add a pipe (|) followed by the product name (for example, <ph id="ph1">`title: Developing Libraries with Cross Platform Tools | .NET Core`</ph>).</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The title doesn't need be identical to the title in your H1 heading and it should contain 65 characters or less (including | PRODUCT NAME).</source>
+          <target state="new">The title doesn't need be identical to the title in your H1 heading and it should contain 65 characters or less (including | PRODUCT NAME).</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>author<ept id="p1">**</ept>, <bpt id="p2">**</bpt>manager<ept id="p2">**</ept>, <bpt id="p3">**</bpt>ms.reviewer<ept id="p3">**</ept>: The author field should contain the <bpt id="p4">**</bpt>GitHub username<ept id="p4">**</ept> of the author, not their alias.</source>
+          <target state="new"><bpt id="p1">**</bpt>author<ept id="p1">**</ept>, <bpt id="p2">**</bpt>manager<ept id="p2">**</ept>, <bpt id="p3">**</bpt>ms.reviewer<ept id="p3">**</ept>: The author field should contain the <bpt id="p4">**</bpt>GitHub username<ept id="p4">**</ept> of the author, not their alias.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The "manager" and "ms.reviewer" fields, on the other hand, should contain Microsoft aliases.</source>
+          <target state="new">The "manager" and "ms.reviewer" fields, on the other hand, should contain Microsoft aliases.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>ms.reviewer specifies the name of the PM/dev associated with the article or feature.</source>
+          <target state="new">ms.reviewer specifies the name of the PM/dev associated with the article or feature.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>ms.devlang<ept id="p1">**</ept> defines the technology.</source>
+          <target state="new"><bpt id="p1">**</bpt>ms.devlang<ept id="p1">**</ept> defines the technology.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Some of the supported values are: dotnet, cpp, csharp, fsharp, xml, vb and xml.</source>
+          <target state="new">Some of the supported values are: dotnet, cpp, csharp, fsharp, xml, vb and xml.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>ms.assetid<ept id="p1">**</ept>: This is the GUID of the article that is used for internal tracking purposes such as Business Intelligence (BI).</source>
+          <target state="new"><bpt id="p1">**</bpt>ms.assetid<ept id="p1">**</ept>: This is the GUID of the article that is used for internal tracking purposes such as Business Intelligence (BI).</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>When creating a new Markdown file, get a GUID from <bpt id="p1">[</bpt>https://www.guidgenerator.com<ept id="p1">](https://www.guidgenerator.com)</ept>.</source>
+          <target state="new">When creating a new Markdown file, get a GUID from <bpt id="p1">[</bpt>https://www.guidgenerator.com<ept id="p1">](https://www.guidgenerator.com)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Basic Markdown, GFM, and special characters</source>
+          <target state="new">Basic Markdown, GFM, and special characters</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>All basic and GitHub Flavored Markdown (GFM) is supported.</source>
+          <target state="new">All basic and GitHub Flavored Markdown (GFM) is supported.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>For more information on these, see:</source>
+          <target state="new">For more information on these, see:</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Baseline Markdown syntax</source>
+          <target state="new">Baseline Markdown syntax</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>GFM documentation</source>
+          <target state="new">GFM documentation</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Markdown uses special characters such as <ph id="ph1">\*</ph>, <ph id="ph2">\`</ph>, and <ph id="ph3">\#</ph> for formatting.</source>
+          <target state="new">Markdown uses special characters such as <ph id="ph1">\*</ph>, <ph id="ph2">\`</ph>, and <ph id="ph3">\#</ph> for formatting.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>If you wish to include one of these characters in your content, you must do one of two things:</source>
+          <target state="new">If you wish to include one of these characters in your content, you must do one of two things:</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Put a backslash before the special character to "escape" it (for example, <ph id="ph1">`\*`</ph> for a <ph id="ph2">\*</ph>)</source>
+          <target state="new">Put a backslash before the special character to "escape" it (for example, <ph id="ph1">`\*`</ph> for a <ph id="ph2">\*</ph>)</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Use the <bpt id="p1">[</bpt>HTML entity code<ept id="p1">](http://www.ascii.cl/htmlcodes.htm)</ept> for the character (for example, <ph id="ph1">`&amp;#42;`</ph> for a &amp;#42;).</source>
+          <target state="new">Use the <bpt id="p1">[</bpt>HTML entity code<ept id="p1">](http://www.ascii.cl/htmlcodes.htm)</ept> for the character (for example, <ph id="ph1">`&amp;#42;`</ph> for a &amp;#42;).</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>File name</source>
+          <target state="new">File name</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>File names use the following rules:</source>
+          <target state="new">File names use the following rules:</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Contain only lowercase letters, numbers, and hyphens.</source>
+          <target state="new">Contain only lowercase letters, numbers, and hyphens.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>No spaces or punctuation characters.</source>
+          <target state="new">No spaces or punctuation characters.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Use the hyphens to separate words and numbers in the file name.</source>
+          <target state="new">Use the hyphens to separate words and numbers in the file name.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Use action verbs that are specific, such as develop, buy, build, troubleshoot.</source>
+          <target state="new">Use action verbs that are specific, such as develop, buy, build, troubleshoot.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>No -ing words.</source>
+          <target state="new">No -ing words.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>No small words - don't include a, and, the, in, or, etc.</source>
+          <target state="new">No small words - don't include a, and, the, in, or, etc.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Must be in Markdown and use the .md file extension.</source>
+          <target state="new">Must be in Markdown and use the .md file extension.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Keep file names reasonably short.</source>
+          <target state="new">Keep file names reasonably short.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>They are part of the URL for your articles.</source>
+          <target state="new">They are part of the URL for your articles.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Headings</source>
+          <target state="new">Headings</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Use sentence-style capitalization.</source>
+          <target state="new">Use sentence-style capitalization.</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Always capitalize:</source>
+          <target state="new">Always capitalize:</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>The first word of a heading.</source>
+          <target state="new">The first word of a heading.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>The word following a colon in a title or heading (for example, "How to: Sort an array").</source>
+          <target state="new">The word following a colon in a title or heading (for example, "How to: Sort an array").</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Headings should be done using atx-style, that is, use 1-6 hash characters (#) at the start of the line to indicate a heading, corresponding to HTML headings levels H1 through H6.</source>
+          <target state="new">Headings should be done using atx-style, that is, use 1-6 hash characters (#) at the start of the line to indicate a heading, corresponding to HTML headings levels H1 through H6.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Examples of first- and second-level headers are used above.</source>
+          <target state="new">Examples of first- and second-level headers are used above.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>There <bpt id="p1">**</bpt>must<ept id="p1">**</ept> be only one first-level heading (H1) in your topic, which will be displayed as the on-page title.</source>
+          <target state="new">There <bpt id="p1">**</bpt>must<ept id="p1">**</ept> be only one first-level heading (H1) in your topic, which will be displayed as the on-page title.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>If your heading finishes with a <ph id="ph1">`#`</ph> character, you need to add an extra <ph id="ph2">`#`</ph> character in the end in order for the title to render correctly.</source>
+          <target state="new">If your heading finishes with a <ph id="ph1">`#`</ph> character, you need to add an extra <ph id="ph2">`#`</ph> character in the end in order for the title to render correctly.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>For example, <ph id="ph1">`# Async Programming in F# #`</ph>.</source>
+          <target state="new">For example, <ph id="ph1">`# Async Programming in F# #`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Second-level headings will generate the on-page TOC that appears in the "In this article" section underneath the on-page title.</source>
+          <target state="new">Second-level headings will generate the on-page TOC that appears in the "In this article" section underneath the on-page title.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Third-level heading</source>
+          <target state="new">Third-level heading</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Fourth-level heading</source>
+          <target state="new">Fourth-level heading</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Fifth level heading</source>
+          <target state="new">Fifth level heading</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Sixth-level heading</source>
+          <target state="new">Sixth-level heading</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Text styling</source>
+          <target state="new">Text styling</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Italics<ept id="p1">*</ept><ph id="ph1">
+</ph> Use for files, folders, paths (for long items, split onto their own line) - new terms - URLs (unless rendered as links, which is the default).</source>
+          <target state="new"><bpt id="p1">*</bpt>Italics<ept id="p1">*</ept><ph id="ph1">
+</ph> Use for files, folders, paths (for long items, split onto their own line) - new terms - URLs (unless rendered as links, which is the default).</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Bold<ept id="p1">**</ept> Use for UI elements.</source>
+          <target state="new"><bpt id="p1">**</bpt>Bold<ept id="p1">**</ept> Use for UI elements.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Links</source>
+          <target state="new">Links</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Internal Links</source>
+          <target state="new">Internal Links</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>To link to a header in the same Markdown file (also known as anchor links), you'll need to find out the id of the header you're trying to link to.</source>
+          <target state="new">To link to a header in the same Markdown file (also known as anchor links), you'll need to find out the id of the header you're trying to link to.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>To confirm the ID, view the source of the rendered article, find the id of the header (for example, <ph id="ph1">`id="blockquote"`</ph>), and link using # + id (for example, <ph id="ph2">`#blockquote`</ph>).</source>
+          <target state="new">To confirm the ID, view the source of the rendered article, find the id of the header (for example, <ph id="ph1">`id="blockquote"`</ph>), and link using # + id (for example, <ph id="ph2">`#blockquote`</ph>).</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>The id is auto-generated based on the header text.</source>
+          <target state="new">The id is auto-generated based on the header text.</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>So, for example, given a unique section named <ph id="ph1">`## Step 2`</ph>, the id would look like this <ph id="ph2">`id="step-2"`</ph>.</source>
+          <target state="new">So, for example, given a unique section named <ph id="ph1">`## Step 2`</ph>, the id would look like this <ph id="ph2">`id="step-2"`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Example: <bpt id="p1">[</bpt>Chapter 1<ept id="p1">](#chapter-1)</ept></source>
+          <target state="new">Example: <bpt id="p1">[</bpt>Chapter 1<ept id="p1">](#chapter-1)</ept></target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>To link to a Markdown file in the same repo, use <bpt id="p1">[</bpt>relative links<ept id="p1">](https://www.w3.org/TR/WD-html40-970917/htmlweb.html#h-5.1.2)</ept>, including the ".md" at the end of the filename.</source>
+          <target state="new">To link to a Markdown file in the same repo, use <bpt id="p1">[</bpt>relative links<ept id="p1">](https://www.w3.org/TR/WD-html40-970917/htmlweb.html#h-5.1.2)</ept>, including the ".md" at the end of the filename.</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Example: <bpt id="p1">[</bpt>Readme file<ept id="p1">](../readme.md)</ept></source>
+          <target state="new">Example: <bpt id="p1">[</bpt>Readme file<ept id="p1">](../readme.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Example: <bpt id="p1">[</bpt>Welcome to .NET<ept id="p1">](../docs/welcome.md)</ept></source>
+          <target state="new">Example: <bpt id="p1">[</bpt>Welcome to .NET<ept id="p1">](../docs/welcome.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>To link to a header in a Markdown file in the same repo, use relative linking + hashtag linking.</source>
+          <target state="new">To link to a header in a Markdown file in the same repo, use relative linking + hashtag linking.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Example: <bpt id="p1">[</bpt>.NET Community<ept id="p1">](../docs/welcome.md#community)</ept></source>
+          <target state="new">Example: <bpt id="p1">[</bpt>.NET Community<ept id="p1">](../docs/welcome.md#community)</ept></target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>External Links</source>
+          <target state="new">External Links</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>To link to an external file, use the full URL as the link.</source>
+          <target state="new">To link to an external file, use the full URL as the link.</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Example: <bpt id="p1">[</bpt>GitHub<ept id="p1">](http://www.github.com)</ept></source>
+          <target state="new">Example: <bpt id="p1">[</bpt>GitHub<ept id="p1">](http://www.github.com)</ept></target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>If a URL appears in a Markdown file, it will be transformed into a clickable link.</source>
+          <target state="new">If a URL appears in a Markdown file, it will be transformed into a clickable link.</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Example: http://www.github.com</source>
+          <target state="new">Example: http://www.github.com</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>Links to APIs</source>
+          <target state="new">Links to APIs</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>The build system has some extensions that allow us to link to .NET Core APIs without having to use external links.</source>
+          <target state="new">The build system has some extensions that allow us to link to .NET Core APIs without having to use external links.</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>When linking to an API, you can use its unique identifier (UID) that is auto-generated from the source code.</source>
+          <target state="new">When linking to an API, you can use its unique identifier (UID) that is auto-generated from the source code.</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>You can use one of the following syntax:</source>
+          <target state="new">You can use one of the following syntax:</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Markdown link:</source>
+          <target state="new">Markdown link:</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Auto link:</source>
+          <target state="new">Auto link:</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>Shorthand form:</source>
+          <target state="new">Shorthand form:</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Example:</source>
+          <target state="new">Example:</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Example:</source>
+          <target state="new">Example:</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>For more information about using this notation, see <bpt id="p1">[</bpt>Using cross reference<ept id="p1">](https://dotnet.github.io/docfx/tutorial/links_and_cross_references.html#using-cross-reference)</ept>.</source>
+          <target state="new">For more information about using this notation, see <bpt id="p1">[</bpt>Using cross reference<ept id="p1">](https://dotnet.github.io/docfx/tutorial/links_and_cross_references.html#using-cross-reference)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>Right now, there is no easy way to find the UIDs.</source>
+          <target state="new">Right now, there is no easy way to find the UIDs.</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>The best way to find the UID for an API is to search for it in this repo: <bpt id="p1">[</bpt>docascode/coreapi<ept id="p1">](https://github.com/docascode/coreapi)</ept>.</source>
+          <target state="new">The best way to find the UID for an API is to search for it in this repo: <bpt id="p1">[</bpt>docascode/coreapi<ept id="p1">](https://github.com/docascode/coreapi)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>We're working on having a better system in the future.</source>
+          <target state="new">We're working on having a better system in the future.</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Lists</source>
+          <target state="new">Lists</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>Ordered lists</source>
+          <target state="new">Ordered lists</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>This</source>
+          <target state="new">This</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>Is</source>
+          <target state="new">Is</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>An</source>
+          <target state="new">An</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>Ordered</source>
+          <target state="new">Ordered</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>List</source>
+          <target state="new">List</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>Ordered list with an embedded list</source>
+          <target state="new">Ordered list with an embedded list</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>Here</source>
+          <target state="new">Here</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>comes</source>
+          <target state="new">comes</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>an</source>
+          <target state="new">an</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>embedded</source>
+          <target state="new">embedded</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>Miss Scarlett</source>
+          <target state="new">Miss Scarlett</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>Professor Plum</source>
+          <target state="new">Professor Plum</target>
+        </trans-unit>
+        <trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>ordered</source>
+          <target state="new">ordered</target>
+        </trans-unit>
+        <trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="new">list</target>
+        </trans-unit>
+        <trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>Unordered Lists</source>
+          <target state="new">Unordered Lists</target>
+        </trans-unit>
+        <trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>This</source>
+          <target state="new">This</target>
+        </trans-unit>
+        <trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>is</source>
+          <target state="new">is</target>
+        </trans-unit>
+        <trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>a</source>
+          <target state="new">a</target>
+        </trans-unit>
+        <trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>bulleted</source>
+          <target state="new">bulleted</target>
+        </trans-unit>
+        <trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="new">list</target>
+        </trans-unit>
+        <trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>Unordered list with an embedded list</source>
+          <target state="new">Unordered list with an embedded list</target>
+        </trans-unit>
+        <trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>This</source>
+          <target state="new">This</target>
+        </trans-unit>
+        <trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>bulleted</source>
+          <target state="new">bulleted</target>
+        </trans-unit>
+        <trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>list</source>
+          <target state="new">list</target>
+        </trans-unit>
+        <trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>Mrs. Peacock</source>
+          <target state="new">Mrs. Peacock</target>
+        </trans-unit>
+        <trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>Mr. Green</source>
+          <target state="new">Mr. Green</target>
+        </trans-unit>
+        <trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>contains</source>
+          <target state="new">contains</target>
+        </trans-unit>
+        <trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>other</source>
+          <target state="new">other</target>
+        </trans-unit>
+        <trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>Colonel Mustard</source>
+          <target state="new">Colonel Mustard</target>
+        </trans-unit>
+        <trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>Mrs. White</source>
+          <target state="new">Mrs. White</target>
+        </trans-unit>
+        <trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>lists</source>
+          <target state="new">lists</target>
+        </trans-unit>
+        <trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>Horizontal rule</source>
+          <target state="new">Horizontal rule</target>
+        </trans-unit>
+        <trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>Tables</source>
+          <target state="new">Tables</target>
+        </trans-unit>
+        <trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>Tables</source>
+          <target state="new">Tables</target>
+        </trans-unit>
+        <trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>Are</source>
+          <target state="new">Are</target>
+        </trans-unit>
+        <trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>Cool</source>
+          <target state="new">Cool</target>
+        </trans-unit>
+        <trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>col 3 is</source>
+          <target state="new">col 3 is</target>
+        </trans-unit>
+        <trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>right-aligned</source>
+          <target state="new">right-aligned</target>
+        </trans-unit>
+        <trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>$1600</source>
+          <target state="new">$1600</target>
+        </trans-unit>
+        <trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>col 2 is</source>
+          <target state="new">col 2 is</target>
+        </trans-unit>
+        <trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>centered</source>
+          <target state="new">centered</target>
+        </trans-unit>
+        <trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>$12</source>
+          <target state="new">$12</target>
+        </trans-unit>
+        <trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>col 1 is default</source>
+          <target state="new">col 1 is default</target>
+        </trans-unit>
+        <trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>left-aligned</source>
+          <target state="new">left-aligned</target>
+        </trans-unit>
+        <trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>$1</source>
+          <target state="new">$1</target>
+        </trans-unit>
+        <trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>You can use a <bpt id="p1">[</bpt>Markdown table generator tool<ept id="p1">](http://www.tablesgenerator.com/markdown_tables)</ept> to help creating them more easily.</source>
+          <target state="new">You can use a <bpt id="p1">[</bpt>Markdown table generator tool<ept id="p1">](http://www.tablesgenerator.com/markdown_tables)</ept> to help creating them more easily.</target>
+        </trans-unit>
+        <trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="new">Code</target>
+        </trans-unit>
+        <trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>Code blocks with language identifier</source>
+          <target state="new">Code blocks with language identifier</target>
+        </trans-unit>
+        <trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>Use three backticks (<ph id="ph1">\`\`\`</ph>) + a language ID to apply language-specific color coding to a code block.</source>
+          <target state="new">Use three backticks (<ph id="ph1">\`\`\`</ph>) + a language ID to apply language-specific color coding to a code block.</target>
+        </trans-unit>
+        <trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>Here is the entire list of <bpt id="p1">[</bpt>GFM language IDs<ept id="p1">](https://github.com/jmm/gfm-lang-ids/wiki/GitHub-Flavored-Markdown-(GFM)-language-IDs)</ept>.</source>
+          <target state="new">Here is the entire list of <bpt id="p1">[</bpt>GFM language IDs<ept id="p1">](https://github.com/jmm/gfm-lang-ids/wiki/GitHub-Flavored-Markdown-(GFM)-language-IDs)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>C&amp;#9839;</source>
+          <target state="new">C&amp;#9839;</target>
+        </trans-unit>
+        <trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>Python</source>
+          <target state="new">Python</target>
+        </trans-unit>
+        <trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>PowerShell</source>
+          <target state="new">PowerShell</target>
+        </trans-unit>
+        <trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>Generic code block</source>
+          <target state="new">Generic code block</target>
+        </trans-unit>
+        <trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>Use three backticks (&amp;#96;&amp;#96;&amp;#96;) for generic code block coding.</source>
+          <target state="new">Use three backticks (&amp;#96;&amp;#96;&amp;#96;) for generic code block coding.</target>
+        </trans-unit>
+        <trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>The recommended approach is to use code blocks with language identifiers as explained in the previous section to ensure the proper syntax highlighting in the documentation site.</source>
+          <target state="new">The recommended approach is to use code blocks with language identifiers as explained in the previous section to ensure the proper syntax highlighting in the documentation site.</target>
+        </trans-unit>
+        <trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>Use generic code blocks only when necessary.</source>
+          <target state="new">Use generic code blocks only when necessary.</target>
+        </trans-unit>
+        <trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>Inline code</source>
+          <target state="new">Inline code</target>
+        </trans-unit>
+        <trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>Use backticks (&amp;#96;) for <ph id="ph1">`inline code`</ph>.</source>
+          <target state="new">Use backticks (&amp;#96;) for <ph id="ph1">`inline code`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>Use inline code for command-line commands, database table and column names, and language keywords.</source>
+          <target state="new">Use inline code for command-line commands, database table and column names, and language keywords.</target>
+        </trans-unit>
+        <trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>Blockquotes</source>
+          <target state="new">Blockquotes</target>
+        </trans-unit>
+        <trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended.</source>
+          <target state="new">The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended.</target>
+        </trans-unit>
+        <trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight.</source>
+          <target state="new">Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight.</target>
+        </trans-unit>
+        <trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.</source>
+          <target state="new">In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.</target>
+        </trans-unit>
+        <trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>Images</source>
+          <target state="new">Images</target>
+        </trans-unit>
+        <trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>Static Image or Animated gif</source>
+          <target state="new">Static Image or Animated gif</target>
+        </trans-unit>
+        <trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>this is the alt text</source>
+          <target state="new">this is the alt text</target>
+        </trans-unit>
+        <trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>Linked Image</source>
+          <target state="new">Linked Image</target>
+        </trans-unit>
+        <trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>lt text for linked image]</source>
+          <target state="new">lt text for linked image]</target>
+        </trans-unit>
+        <trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>Videos</source>
+          <target state="new">Videos</target>
+        </trans-unit>
+        <trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>Channel 9</source>
+          <target state="new">Channel 9</target>
+        </trans-unit>
+        <trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>YouTube</source>
+          <target state="new">YouTube</target>
+        </trans-unit>
+        <trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>docs.microsoft extensions</source>
+          <target state="new">docs.microsoft extensions</target>
+        </trans-unit>
+        <trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>docs.microsoft provides a few additional extensions to GitHub Flavored Markdown.</source>
+          <target state="new">docs.microsoft provides a few additional extensions to GitHub Flavored Markdown.</target>
+        </trans-unit>
+        <trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>Alerts</source>
+          <target state="new">Alerts</target>
+        </trans-unit>
+        <trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>It's important to use the following alert styles so they render with the proper style in the documentation site.</source>
+          <target state="new">It's important to use the following alert styles so they render with the proper style in the documentation site.</target>
+        </trans-unit>
+        <trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>However, the rendering engine on GitHub doesn't diferentiate them.</source>
+          <target state="new">However, the rendering engine on GitHub doesn't diferentiate them.</target>
+        </trans-unit>
+        <trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>Note</source>
+          <target state="new">Note</target>
+        </trans-unit>
+        <trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>This is a NOTE</source>
+          <target state="new">This is a NOTE</target>
+        </trans-unit>
+        <trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>Warning</source>
+          <target state="new">Warning</target>
+        </trans-unit>
+        <trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>This is a WARNING</source>
+          <target state="new">This is a WARNING</target>
+        </trans-unit>
+        <trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>Tip</source>
+          <target state="new">Tip</target>
+        </trans-unit>
+        <trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>This is a TIP</source>
+          <target state="new">This is a TIP</target>
+        </trans-unit>
+        <trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>Important</source>
+          <target state="new">Important</target>
+        </trans-unit>
+        <trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>This is IMPORTANT</source>
+          <target state="new">This is IMPORTANT</target>
+        </trans-unit>
+        <trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>And they'll render like this: <ph id="ph1">![</ph>Alert styles</source>
+          <target state="new">And they'll render like this: <ph id="ph1">![</ph>Alert styles</target>
+        </trans-unit>
+        <trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>Includes</source>
+          <target state="new">Includes</target>
+        </trans-unit>
+        <trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>You can embed the Markdown of one file into another using an include.</source>
+          <target state="new">You can embed the Markdown of one file into another using an include.</target>
+        </trans-unit>
+        <trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>Buttons</source>
+          <target state="new">Buttons</target>
+        </trans-unit>
+        <trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>button links</source>
+          <target state="new">button links</target>
+        </trans-unit>
+        <trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>You can see an example of buttons in action at the <bpt id="p1">[</bpt>Intune docs<ept id="p1">](https://docs.microsoft.com/en-us/intune/get-started/choose-how-to-enroll-devices)</ept>.</source>
+          <target state="new">You can see an example of buttons in action at the <bpt id="p1">[</bpt>Intune docs<ept id="p1">](https://docs.microsoft.com/en-us/intune/get-started/choose-how-to-enroll-devices)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>Selectors</source>
+          <target state="new">Selectors</target>
+        </trans-unit>
+        <trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>macOS</source>
+          <target state="new">macOS</target>
+        </trans-unit>
+        <trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>Windows</source>
+          <target state="new">Windows</target>
+        </trans-unit>
+        <trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>You can see an example of selectors in action at the <bpt id="p1">[</bpt>Intune docs<ept id="p1">](https://docs.microsoft.com/en-us/intune/deploy-use/what-to-tell-your-end-users-about-using-microsoft-intune#how-your-end-users-get-their-apps)</ept>.</source>
+          <target state="new">You can see an example of selectors in action at the <bpt id="p1">[</bpt>Intune docs<ept id="p1">](https://docs.microsoft.com/en-us/intune/deploy-use/what-to-tell-your-end-users-about-using-microsoft-intune#how-your-end-users-get-their-apps)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>Step-By-Steps</source>
+          <target state="new">Step-By-Steps</target>
+        </trans-unit>
+        <trans-unit id="289" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Pre<ept id="p1">](../docs/csharp/expression-trees-interpreting.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Next<ept id="p2">](../docs/csharp/expression-trees-translating.md)</ept></source>
+          <target state="new"><bpt id="p1">[</bpt>Pre<ept id="p1">](../docs/csharp/expression-trees-interpreting.md)</ept><ph id="ph1">
+</ph><bpt id="p2">[</bpt>Next<ept id="p2">](../docs/csharp/expression-trees-translating.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>You can see an example of step-by-steps in action at the <bpt id="p1">[</bpt>Advanced Threat Analytics docs<ept id="p1">](https://docs.microsoft.com/en-us/advanced-threat-analytics/deploy-use/install-ata-step2)</ept>.</source>
+          <target state="new">You can see an example of step-by-steps in action at the <bpt id="p1">[</bpt>Advanced Threat Analytics docs<ept id="p1">](https://docs.microsoft.com/en-us/advanced-threat-analytics/deploy-use/install-ata-step2)</ept>.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

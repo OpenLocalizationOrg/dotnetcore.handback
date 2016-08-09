@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">8347623f8a954b1d22c137cd13e6080ba51eb491</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">.github\PULL_REQUEST_TEMPLATE.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">78c8be8b29897cc982965f121e820c6c3d828ddf</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>On the title describe what you've fixed (or created) with this Pull Request (PR).</source>
+          <target state="new">On the title describe what you've fixed (or created) with this Pull Request (PR).</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Summary</source>
+          <target state="new">Summary</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Insert a short (one or two sentence) summary here.</source>
+          <target state="new">Insert a short (one or two sentence) summary here.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Fixes #Issue_Number</source>
+          <target state="new">Fixes #Issue_Number</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Note: The "Fixes #nnn" syntax in the PR description causes GitHub to automatically close the issue when this PR is merged.</source>
+          <target state="new">Note: The "Fixes #nnn" syntax in the PR description causes GitHub to automatically close the issue when this PR is merged.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Remove that line if you don't have issues associated with this PR.</source>
+          <target state="new">Remove that line if you don't have issues associated with this PR.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Click on the Guidelines for Contributing link above for details.</source>
+          <target state="new">Click on the Guidelines for Contributing link above for details.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target state="new">Details</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Explain your changes, and why you made them.</source>
+          <target state="new">Explain your changes, and why you made them.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If that information is already available in the issue referenced above, just referencing the issue is preferred to copying the text.</source>
+          <target state="new">If that information is already available in the issue referenced above, just referencing the issue is preferred to copying the text.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This may not be necessary depending on the scope of the PR changes.</source>
+          <target state="new">This may not be necessary depending on the scope of the PR changes.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>For example, "fix typo in introduction.md" is sufficient to describe that PR.</source>
+          <target state="new">For example, "fix typo in introduction.md" is sufficient to describe that PR.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Suggested Reviewers</source>
+          <target state="new">Suggested Reviewers</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>If you know who should review this, use '@' to request a review.</source>
+          <target state="new">If you know who should review this, use '@' to request a review.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

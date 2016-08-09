@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3c51694bb9150ada7f86174049b2974cc49df294</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\dotnet-test.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e7978dbe20fb4ec99d0a8500985a0bbeb45b6ffb</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>dotnet-test</source>
+          <target state="new">dotnet-test</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>dotnet-test</source>
+          <target state="new">dotnet-test</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>dotnet-test</source>
+          <target state="new">dotnet-test</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>- Runs unit tests using the configured test runner</source>
+          <target state="new">- Runs unit tests using the configured test runner</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>SYNOPSIS</source>
+          <target state="new">SYNOPSIS</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`dotnet test`</ph> command is used to execute unit tests in a given project.</source>
+          <target state="new">The <ph id="ph1">`dotnet test`</ph> command is used to execute unit tests in a given project.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Unit tests are class library projects that have dependencies on the unit test framework (for example, NUnit or xUnit) and the dotnet test runner for that unit testing framework.</source>
+          <target state="new">Unit tests are class library projects that have dependencies on the unit test framework (for example, NUnit or xUnit) and the dotnet test runner for that unit testing framework.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>These are packaged as NuGet packages and are restored as ordinary dependencies for the project.</source>
+          <target state="new">These are packaged as NuGet packages and are restored as ordinary dependencies for the project.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Test projects also need to specify a test runner property in project.json using the "testRunner" node.</source>
+          <target state="new">Test projects also need to specify a test runner property in project.json using the "testRunner" node.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>This value should contain the name of the unit test framework.</source>
+          <target state="new">This value should contain the name of the unit test framework.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The following sample project.json shows the properties needed:</source>
+          <target state="new">The following sample project.json shows the properties needed:</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>supports two running modes:</source>
+          <target state="new">supports two running modes:</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Console: In console mode, <ph id="ph1">`dotnet test`</ph> simply executes fully any command gets passed to it and outputs the results.</source>
+          <target state="new">Console: In console mode, <ph id="ph1">`dotnet test`</ph> simply executes fully any command gets passed to it and outputs the results.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Anytime you invoke <ph id="ph1">`dotnet test`</ph> without passing --port, it runs in console mode, which in turn will cause the runner to run in console mode.</source>
+          <target state="new">Anytime you invoke <ph id="ph1">`dotnet test`</ph> without passing --port, it runs in console mode, which in turn will cause the runner to run in console mode.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Design time: used in the context of other tools, such as editors or Integrated Development Environments (IDEs).</source>
+          <target state="new">Design time: used in the context of other tools, such as editors or Integrated Development Environments (IDEs).</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>You can find out more about this mode in the <bpt id="p1">[</bpt>dotnet-test protocol<ept id="p1">](test-protocol.md)</ept> document.</source>
+          <target state="new">You can find out more about this mode in the <bpt id="p1">[</bpt>dotnet-test protocol<ept id="p1">](test-protocol.md)</ept> document.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>OPTIONS</source>
+          <target state="new">OPTIONS</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Specifies a path to the test project.</source>
+          <target state="new">Specifies a path to the test project.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>If omitted, it defaults to current directory.</source>
+          <target state="new">If omitted, it defaults to current directory.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--configuration`</ph> [Debug|Release]</source>
+          <target state="new">, <ph id="ph1">`--configuration`</ph> [Debug|Release]</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Configuration under which to build.</source>
+          <target state="new">Configuration under which to build.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The default value is Release.</source>
+          <target state="new">The default value is Release.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--output`</ph> [DIR]</source>
+          <target state="new">, <ph id="ph1">`--output`</ph> [DIR]</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Directory in which to find binaries to run.</source>
+          <target state="new">Directory in which to find binaries to run.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--build-base-path`</ph> [DIR]</source>
+          <target state="new">, <ph id="ph1">`--build-base-path`</ph> [DIR]</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Directory in which to place temporary outputs.</source>
+          <target state="new">Directory in which to place temporary outputs.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--framework`</ph> [FRAMEWORK]</source>
+          <target state="new">, <ph id="ph1">`--framework`</ph> [FRAMEWORK]</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Looks for test binaries for a specific framework.</source>
+          <target state="new">Looks for test binaries for a specific framework.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--runtime`</ph> [RUNTIME_IDENTIFIER]</source>
+          <target state="new">, <ph id="ph1">`--runtime`</ph> [RUNTIME_IDENTIFIER]</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Look for test binaries for a for the specified runtime.</source>
+          <target state="new">Look for test binaries for a for the specified runtime.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Does not build the test project prior to running it.</source>
+          <target state="new">Does not build the test project prior to running it.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>--parentProcessId</source>
+          <target state="new">--parentProcessId</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Used by IDEs to specify their process ID.</source>
+          <target state="new">Used by IDEs to specify their process ID.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Test will exit if the parent process does.</source>
+          <target state="new">Test will exit if the parent process does.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Used by IDEs to specify a port number to listen for a connection.</source>
+          <target state="new">Used by IDEs to specify a port number to listen for a connection.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>EXAMPLES</source>
+          <target state="new">EXAMPLES</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Runs the tests in the project in the current directory.</source>
+          <target state="new">Runs the tests in the project in the current directory.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Runs the tests in the test1 project.</source>
+          <target state="new">Runs the tests in the test1 project.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>SEE ALSO</source>
+          <target state="new">SEE ALSO</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>dotnet-test communication protocol</source>
+          <target state="new">dotnet-test communication protocol</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

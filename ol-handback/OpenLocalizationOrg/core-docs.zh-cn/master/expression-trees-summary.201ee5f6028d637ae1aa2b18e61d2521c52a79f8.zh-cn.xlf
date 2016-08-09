@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e1a3766c9e4b3b749c26e065eb4c0c52b810d2b6</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\expression-trees-summary.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3742fd85fd0333b096d2f9db198d7fccce4956fe</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Expression Trees Summary</source>
+          <target state="new">Expression Trees Summary</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Expression Trees Summary</source>
+          <target state="new">Expression Trees Summary</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Expression Trees Summary</source>
+          <target state="new">Expression Trees Summary</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Previous -- Translating Expressions</source>
+          <target state="new">Previous -- Translating Expressions</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>In this series, you've seen how you can use <bpt id="p1">*</bpt>expression trees<ept id="p1">*</ept> to create dynamic programs that interpret code as data and build new functionality based on that code.</source>
+          <target state="new">In this series, you've seen how you can use <bpt id="p1">*</bpt>expression trees<ept id="p1">*</ept> to create dynamic programs that interpret code as data and build new functionality based on that code.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can examine expression trees to understand the intent of an algorithm.</source>
+          <target state="new">You can examine expression trees to understand the intent of an algorithm.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You can not only examine that code.</source>
+          <target state="new">You can not only examine that code.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You can build new expression trees that represent modified versions of the original code.</source>
+          <target state="new">You can build new expression trees that represent modified versions of the original code.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>You can also use expression trees to look at an algorithm, and translate that algorithm into another language or environment.</source>
+          <target state="new">You can also use expression trees to look at an algorithm, and translate that algorithm into another language or environment.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Limitations</source>
+          <target state="new">Limitations</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>There are some newer C# language elements that don't translate well into expression trees.</source>
+          <target state="new">There are some newer C# language elements that don't translate well into expression trees.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Expression trees cannot contain <ph id="ph1">`await`</ph> expressions, or <ph id="ph2">`async`</ph> lambda expressions.</source>
+          <target state="new">Expression trees cannot contain <ph id="ph1">`await`</ph> expressions, or <ph id="ph2">`async`</ph> lambda expressions.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Many of the features added in the C# 6 release don't appear exactly as written in expression trees.</source>
+          <target state="new">Many of the features added in the C# 6 release don't appear exactly as written in expression trees.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Instead, newer features will be exposed in expressions trees in the equivalent, earlier syntax.</source>
+          <target state="new">Instead, newer features will be exposed in expressions trees in the equivalent, earlier syntax.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>This may not be as much of a limitation as you might think.</source>
+          <target state="new">This may not be as much of a limitation as you might think.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>In fact, it means that your code that interprets expression trees will likely still work the same when new language features are introduced.</source>
+          <target state="new">In fact, it means that your code that interprets expression trees will likely still work the same when new language features are introduced.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Even with these limitations, expression trees do enable you to create dynamic algorithms that rely on interpreting and modifying code that is represetned as a data structure.</source>
+          <target state="new">Even with these limitations, expression trees do enable you to create dynamic algorithms that rely on interpreting and modifying code that is represetned as a data structure.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>It's a powerful tool, and it's one of the features of the .NET ecosystem that enables rich libraries such as Entity Framework to accomplish what they do.</source>
+          <target state="new">It's a powerful tool, and it's one of the features of the .NET ecosystem that enables rich libraries such as Entity Framework to accomplish what they do.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">761f8f892f1da3c4c3b98aaca4e31c20f5a6f93d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\properties.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">64c37dbe3689bd63fe0f55c3827c9c9d637ca9dc</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Properties</source>
+          <target state="new">Properties</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Properties</source>
+          <target state="new">Properties</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Properties</source>
+          <target state="new">Properties</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Properties are first class citizens in C#.</source>
+          <target state="new">Properties are first class citizens in C#.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The language defines syntax that enables developers to write code that accurately expresses their design intent.</source>
+          <target state="new">The language defines syntax that enables developers to write code that accurately expresses their design intent.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Properties behave like fields when they are accessed.</source>
+          <target state="new">Properties behave like fields when they are accessed.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>However, unlike fields, properties are implemented with accessors that define the statements executed when a property is accessed or assigned.</source>
+          <target state="new">However, unlike fields, properties are implemented with accessors that define the statements executed when a property is accessed or assigned.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Property Syntax</source>
+          <target state="new">Property Syntax</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The syntax for properties is a natural extension to fields.</source>
+          <target state="new">The syntax for properties is a natural extension to fields.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>A field defines a storage location:</source>
+          <target state="new">A field defines a storage location:</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>A property definition contains declarations for a <ph id="ph1">`get`</ph> and <ph id="ph2">`set`</ph> accessor that retrieves and assigns the value of that property:</source>
+          <target state="new">A property definition contains declarations for a <ph id="ph1">`get`</ph> and <ph id="ph2">`set`</ph> accessor that retrieves and assigns the value of that property:</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The syntax shown above is the <bpt id="p1">*</bpt>auto property<ept id="p1">*</ept> syntax.</source>
+          <target state="new">The syntax shown above is the <bpt id="p1">*</bpt>auto property<ept id="p1">*</ept> syntax.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The compiler generates the storage location for the field that backs up the property.</source>
+          <target state="new">The compiler generates the storage location for the field that backs up the property.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The compiler also implements the body of the <ph id="ph1">`get`</ph> and <ph id="ph2">`set`</ph> accessors.</source>
+          <target state="new">The compiler also implements the body of the <ph id="ph1">`get`</ph> and <ph id="ph2">`set`</ph> accessors.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>You can also define the storage yourself, as shown below:</source>
+          <target state="new">You can also define the storage yourself, as shown below:</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The property definition shown above is a read-write property.</source>
+          <target state="new">The property definition shown above is a read-write property.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Notice the keyword <ph id="ph1">`value`</ph> in the set accessor.</source>
+          <target state="new">Notice the keyword <ph id="ph1">`value`</ph> in the set accessor.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`set`</ph> accessor always has a single parameter named <ph id="ph2">`value`</ph>.</source>
+          <target state="new">The <ph id="ph1">`set`</ph> accessor always has a single parameter named <ph id="ph2">`value`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`get`</ph> accessor must return a value that is convertible to the type of the property (<ph id="ph2">`string`</ph> in this example).</source>
+          <target state="new">The <ph id="ph1">`get`</ph> accessor must return a value that is convertible to the type of the property (<ph id="ph2">`string`</ph> in this example).</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>That's the basics of the syntax.</source>
+          <target state="new">That's the basics of the syntax.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>There are many different variations that support a variety of different design idioms.</source>
+          <target state="new">There are many different variations that support a variety of different design idioms.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Let's explore those, and learn the syntax options for each.</source>
+          <target state="new">Let's explore those, and learn the syntax options for each.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Scenarios</source>
+          <target state="new">Scenarios</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The examples above showed one of the simplest cases of property definition: a read-write property with no validation.</source>
+          <target state="new">The examples above showed one of the simplest cases of property definition: a read-write property with no validation.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>By writing the code you want in the <ph id="ph1">`get`</ph> and <ph id="ph2">`set`</ph> accessors, you can create many different scenarios.</source>
+          <target state="new">By writing the code you want in the <ph id="ph1">`get`</ph> and <ph id="ph2">`set`</ph> accessors, you can create many different scenarios.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Validation</source>
+          <target state="new">Validation</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>You can write code in the <ph id="ph1">`set`</ph> accessor to ensure that the values represented by a property are always valid.</source>
+          <target state="new">You can write code in the <ph id="ph1">`set`</ph> accessor to ensure that the values represented by a property are always valid.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>For example, suppose one rule for the <ph id="ph1">`Person`</ph> class is that the name cannot be blank, or whitespace.</source>
+          <target state="new">For example, suppose one rule for the <ph id="ph1">`Person`</ph> class is that the name cannot be blank, or whitespace.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>You would write that as follows:</source>
+          <target state="new">You would write that as follows:</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The example above enforces the rule that the first name must not be blank, or whitespace.</source>
+          <target state="new">The example above enforces the rule that the first name must not be blank, or whitespace.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>If a developer writes</source>
+          <target state="new">If a developer writes</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>That assignment throws an <ph id="ph1">`ArgumentException`</ph>.</source>
+          <target state="new">That assignment throws an <ph id="ph1">`ArgumentException`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Because a property set accessor must have a void return type, you report errors in the set accessor by throwing an exception.</source>
+          <target state="new">Because a property set accessor must have a void return type, you report errors in the set accessor by throwing an exception.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>That is a simple case of validation.</source>
+          <target state="new">That is a simple case of validation.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>You can extend this same syntax to anything needed in your scenario.</source>
+          <target state="new">You can extend this same syntax to anything needed in your scenario.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>You can check the relationships between different properties, or validate against any external conditions.</source>
+          <target state="new">You can check the relationships between different properties, or validate against any external conditions.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Any valid C# statements are valid in a property accessor.</source>
+          <target state="new">Any valid C# statements are valid in a property accessor.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Read-only</source>
+          <target state="new">Read-only</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Up to this point, all the property definitions you have seen are read/write properties with public accessors.</source>
+          <target state="new">Up to this point, all the property definitions you have seen are read/write properties with public accessors.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>That's not the only valid accessibility for properties.</source>
+          <target state="new">That's not the only valid accessibility for properties.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>You can create read-only properties, or give different accessibility to the set and get accessors.</source>
+          <target state="new">You can create read-only properties, or give different accessibility to the set and get accessors.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Suppose that your <ph id="ph1">`Person`</ph> class should only enable changing the value of the <ph id="ph2">`FirstName`</ph> property from other methods in that class.</source>
+          <target state="new">Suppose that your <ph id="ph1">`Person`</ph> class should only enable changing the value of the <ph id="ph2">`FirstName`</ph> property from other methods in that class.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>You could give the set accessor <ph id="ph1">`private`</ph> accessibility instead of <ph id="ph2">`public`</ph>:</source>
+          <target state="new">You could give the set accessor <ph id="ph1">`private`</ph> accessibility instead of <ph id="ph2">`public`</ph>:</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Now, the <ph id="ph1">`FirstName`</ph> property can be accessed from any code, but it can only be assigned from other code in the <ph id="ph2">`Person`</ph> class.</source>
+          <target state="new">Now, the <ph id="ph1">`FirstName`</ph> property can be accessed from any code, but it can only be assigned from other code in the <ph id="ph2">`Person`</ph> class.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>You can add any restrictive access modifier to either the set or get accessors.</source>
+          <target state="new">You can add any restrictive access modifier to either the set or get accessors.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Any access modifier you place on the individual accessor must be more limited than the access modifier on the property definition.</source>
+          <target state="new">Any access modifier you place on the individual accessor must be more limited than the access modifier on the property definition.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>The above is legal because the <ph id="ph1">`FirstName`</ph> property is <ph id="ph2">`public`</ph>, but the set accessor is <ph id="ph3">`private`</ph>.</source>
+          <target state="new">The above is legal because the <ph id="ph1">`FirstName`</ph> property is <ph id="ph2">`public`</ph>, but the set accessor is <ph id="ph3">`private`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>You could not declare a <ph id="ph1">`private`</ph> property with a <ph id="ph2">`public`</ph> accessor.</source>
+          <target state="new">You could not declare a <ph id="ph1">`private`</ph> property with a <ph id="ph2">`public`</ph> accessor.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>Property declarations can also be declared <ph id="ph1">`protected`</ph>, <ph id="ph2">`internal`</ph>, <ph id="ph3">`protected internal`</ph> or even <ph id="ph4">`private`</ph>.</source>
+          <target state="new">Property declarations can also be declared <ph id="ph1">`protected`</ph>, <ph id="ph2">`internal`</ph>, <ph id="ph3">`protected internal`</ph> or even <ph id="ph4">`private`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>It is also legal to place the more restrictive modifier on the <ph id="ph1">`get`</ph> accessor.</source>
+          <target state="new">It is also legal to place the more restrictive modifier on the <ph id="ph1">`get`</ph> accessor.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>For example, you could have a <ph id="ph1">`public`</ph> property, but restrict the <ph id="ph2">`get`</ph> accessor to <ph id="ph3">`private`</ph>.</source>
+          <target state="new">For example, you could have a <ph id="ph1">`public`</ph> property, but restrict the <ph id="ph2">`get`</ph> accessor to <ph id="ph3">`private`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>That scenario is rarely done in practice.</source>
+          <target state="new">That scenario is rarely done in practice.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Computed Properties</source>
+          <target state="new">Computed Properties</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>A property does not need to simply return the value of a member field.</source>
+          <target state="new">A property does not need to simply return the value of a member field.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>You can create properties that return a computed value.</source>
+          <target state="new">You can create properties that return a computed value.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Let's expand the <ph id="ph1">`Person`</ph> object to return the full name, computed by concatenating the first and last names:</source>
+          <target state="new">Let's expand the <ph id="ph1">`Person`</ph> object to return the full name, computed by concatenating the first and last names:</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>The example above uses the <bpt id="p1">*</bpt>String Interpolation<ept id="p1">*</ept> syntax to create the formatted string for the full name.</source>
+          <target state="new">The example above uses the <bpt id="p1">*</bpt>String Interpolation<ept id="p1">*</ept> syntax to create the formatted string for the full name.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>You can also use <bpt id="p1">*</bpt>Expression Bodied Members<ept id="p1">*</ept>, which provides a more succinct way to create the computed <ph id="ph1">`FullName`</ph> property:</source>
+          <target state="new">You can also use <bpt id="p1">*</bpt>Expression Bodied Members<ept id="p1">*</ept>, which provides a more succinct way to create the computed <ph id="ph1">`FullName`</ph> property:</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">*</bpt>Expression Bodied Members<ept id="p1">*</ept> use the <bpt id="p2">*</bpt>lambda expression<ept id="p2">*</ept> syntax to define a method that contain a single expression.</source>
+          <target state="new"><bpt id="p1">*</bpt>Expression Bodied Members<ept id="p1">*</ept> use the <bpt id="p2">*</bpt>lambda expression<ept id="p2">*</ept> syntax to define a method that contain a single expression.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Here, that expression returns the full name for the person object.</source>
+          <target state="new">Here, that expression returns the full name for the person object.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Lazy Evaluated Properties</source>
+          <target state="new">Lazy Evaluated Properties</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>You can mix the concept of a computed property with storage and create a <bpt id="p1">*</bpt>lazy evaluated property<ept id="p1">*</ept>.</source>
+          <target state="new">You can mix the concept of a computed property with storage and create a <bpt id="p1">*</bpt>lazy evaluated property<ept id="p1">*</ept>.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>For example, you could update the <ph id="ph1">`FullName`</ph> property so that the string formatting only happened the first time it was accessed:</source>
+          <target state="new">For example, you could update the <ph id="ph1">`FullName`</ph> property so that the string formatting only happened the first time it was accessed:</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>The above code contains a bug though.</source>
+          <target state="new">The above code contains a bug though.</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>If code updates the value of either the <ph id="ph1">`FirstName`</ph> or <ph id="ph2">`LastName`</ph> property, the previously evaluated <ph id="ph3">`fullName`</ph> field is invalid.</source>
+          <target state="new">If code updates the value of either the <ph id="ph1">`FirstName`</ph> or <ph id="ph2">`LastName`</ph> property, the previously evaluated <ph id="ph3">`fullName`</ph> field is invalid.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>You need to update the <ph id="ph1">`set`</ph> accessors of the <ph id="ph2">`FirstName`</ph> and <ph id="ph3">`LastName`</ph> property so that the <ph id="ph4">`fullName`</ph> field is calculated again:</source>
+          <target state="new">You need to update the <ph id="ph1">`set`</ph> accessors of the <ph id="ph2">`FirstName`</ph> and <ph id="ph3">`LastName`</ph> property so that the <ph id="ph4">`fullName`</ph> field is calculated again:</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>This final version evaluates the <ph id="ph1">`FullName`</ph> property only when needed.</source>
+          <target state="new">This final version evaluates the <ph id="ph1">`FullName`</ph> property only when needed.</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>If the previously calculated version is valid, it's used.</source>
+          <target state="new">If the previously calculated version is valid, it's used.</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>If another state change invalidates the previously calculated version, it will be recalculated.</source>
+          <target state="new">If another state change invalidates the previously calculated version, it will be recalculated.</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Developers that use this class do not need to know the details of the implementation.</source>
+          <target state="new">Developers that use this class do not need to know the details of the implementation.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>None of these internal changes affect the use of the Person object.</source>
+          <target state="new">None of these internal changes affect the use of the Person object.</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>That's the key reason for using Properties to expose data members of an object.</source>
+          <target state="new">That's the key reason for using Properties to expose data members of an object.</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>INotifyPropertyChanged</source>
+          <target state="new">INotifyPropertyChanged</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>A final scenario where you need to write code in a property accessor is to support the <ph id="ph1">`INotifyPropertyChanged`</ph> interface used to notify data binding clients that a value has changed.</source>
+          <target state="new">A final scenario where you need to write code in a property accessor is to support the <ph id="ph1">`INotifyPropertyChanged`</ph> interface used to notify data binding clients that a value has changed.</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>When the value of a property changes, the object raises the <ph id="ph1">`PropertyChanged`</ph> event to indicate the change.</source>
+          <target state="new">When the value of a property changes, the object raises the <ph id="ph1">`PropertyChanged`</ph> event to indicate the change.</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>The data binding libraries, in turn, update display elements based on that change.</source>
+          <target state="new">The data binding libraries, in turn, update display elements based on that change.</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>The code below shows how you would implement <ph id="ph1">`INotifyPropertyChanged`</ph> for the <ph id="ph2">`FirstName`</ph> property of this person class.</source>
+          <target state="new">The code below shows how you would implement <ph id="ph1">`INotifyPropertyChanged`</ph> for the <ph id="ph2">`FirstName`</ph> property of this person class.</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`?.`</ph> operator is called the <bpt id="p1">*</bpt>null conditional operator<ept id="p1">*</ept>.</source>
+          <target state="new">The <ph id="ph1">`?.`</ph> operator is called the <bpt id="p1">*</bpt>null conditional operator<ept id="p1">*</ept>.</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>It checks for a null reference before evaluating the right side of the operator.</source>
+          <target state="new">It checks for a null reference before evaluating the right side of the operator.</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>The end result is that if there are no subscribers to the <ph id="ph1">`PropertyChanged`</ph> event, the code to raise the event doesn't execute.</source>
+          <target state="new">The end result is that if there are no subscribers to the <ph id="ph1">`PropertyChanged`</ph> event, the code to raise the event doesn't execute.</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>It would throw a <ph id="ph1">`NullReferenceException`</ph> without this check in that case.</source>
+          <target state="new">It would throw a <ph id="ph1">`NullReferenceException`</ph> without this check in that case.</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>See the page on <bpt id="p1">[</bpt><ph id="ph1">`events`</ph><ept id="p1">](delegates-events.md)</ept> for more details.</source>
+          <target state="new">See the page on <bpt id="p1">[</bpt><ph id="ph1">`events`</ph><ept id="p1">](delegates-events.md)</ept> for more details.</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>This example also uses the new <ph id="ph1">`nameof`</ph> operator to convert from the property name symbol to its text representation.</source>
+          <target state="new">This example also uses the new <ph id="ph1">`nameof`</ph> operator to convert from the property name symbol to its text representation.</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Using <ph id="ph1">`nameof`</ph> can reduce errors where you have mistyped the name of the property.</source>
+          <target state="new">Using <ph id="ph1">`nameof`</ph> can reduce errors where you have mistyped the name of the property.</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Again, this is an example of a case where you can write code in your accessors to support the scenarios you need.</source>
+          <target state="new">Again, this is an example of a case where you can write code in your accessors to support the scenarios you need.</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Summing up</source>
+          <target state="new">Summing up</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>Properties are a form of smart fields in a class or object.</source>
+          <target state="new">Properties are a form of smart fields in a class or object.</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>From outside the object, they appear like fields in the object.</source>
+          <target state="new">From outside the object, they appear like fields in the object.</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>However, properties can be implemented using the full palette of C# functionality.</source>
+          <target state="new">However, properties can be implemented using the full palette of C# functionality.</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>You can provide validation, different accessibility, lazy evaluation, or any requirements your scenarios need.</source>
+          <target state="new">You can provide validation, different accessibility, lazy evaluation, or any requirements your scenarios need.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

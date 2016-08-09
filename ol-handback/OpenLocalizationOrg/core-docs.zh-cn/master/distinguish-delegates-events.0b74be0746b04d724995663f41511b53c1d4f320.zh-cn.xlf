@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">10a555547b063aebe92dcb20a62b928aba7ee8c9</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\distinguish-delegates-events.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">df3cbc149ce8e91de5bf29b4035c9baa80913dcc</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Distinguising Delegates and Events</source>
+          <target state="new">Distinguising Delegates and Events</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Distinguising Delegates and Events</source>
+          <target state="new">Distinguising Delegates and Events</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Distinguising Delegates and Events</source>
+          <target state="new">Distinguising Delegates and Events</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Previous</source>
+          <target state="new">Previous</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Developers that are new to the .NET Core platform often struggle when deciding between a design based on <ph id="ph1">`delegates`</ph> and a design based on <ph id="ph2">`events`</ph>.</source>
+          <target state="new">Developers that are new to the .NET Core platform often struggle when deciding between a design based on <ph id="ph1">`delegates`</ph> and a design based on <ph id="ph2">`events`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This is a difficult concept, because the two language features are very similar.</source>
+          <target state="new">This is a difficult concept, because the two language features are very similar.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Events are even built using the language support for delegates.</source>
+          <target state="new">Events are even built using the language support for delegates.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>They both offer a late binding scenario: they enable scenarios where a component communicates by calling a method that is only known at runtime.</source>
+          <target state="new">They both offer a late binding scenario: they enable scenarios where a component communicates by calling a method that is only known at runtime.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>They both support single and multiple subscriber methods.</source>
+          <target state="new">They both support single and multiple subscriber methods.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>You may find this referred to as singlecast and multicast support.</source>
+          <target state="new">You may find this referred to as singlecast and multicast support.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>They both support similar syntax for adding and removing handlers.</source>
+          <target state="new">They both support similar syntax for adding and removing handlers.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Finally, raising an event and calling a delegate use exactly the same method call syntax.</source>
+          <target state="new">Finally, raising an event and calling a delegate use exactly the same method call syntax.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>They even both support the same <ph id="ph1">`Invoke()`</ph> method syntax for use with the <ph id="ph2">`?.`</ph> operator.</source>
+          <target state="new">They even both support the same <ph id="ph1">`Invoke()`</ph> method syntax for use with the <ph id="ph2">`?.`</ph> operator.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>With all those similarities, it is easy to have trouble determining when to use which.</source>
+          <target state="new">With all those similarities, it is easy to have trouble determining when to use which.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Listening to Events is Optional</source>
+          <target state="new">Listening to Events is Optional</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The most important consideration in determining which language feature to use is whether or not there must be an attached subscriber.</source>
+          <target state="new">The most important consideration in determining which language feature to use is whether or not there must be an attached subscriber.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>If your code must call the code supplied by the subscriber, you should use a design based on delegates.</source>
+          <target state="new">If your code must call the code supplied by the subscriber, you should use a design based on delegates.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>If your code can complete all its work without calling any subscribers, you should use a design based on events.</source>
+          <target state="new">If your code can complete all its work without calling any subscribers, you should use a design based on events.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Consider the examples built during this section.</source>
+          <target state="new">Consider the examples built during this section.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The code you built using <ph id="ph1">`List.Sort()`</ph> must be given a comparer function in order to properly sort the elements.</source>
+          <target state="new">The code you built using <ph id="ph1">`List.Sort()`</ph> must be given a comparer function in order to properly sort the elements.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>LINQ queries must be supplied with delegates in order to determine what elements to return.</source>
+          <target state="new">LINQ queries must be supplied with delegates in order to determine what elements to return.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Both used a design built with delegates.</source>
+          <target state="new">Both used a design built with delegates.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Consider the <ph id="ph1">`OnProgress`</ph> event handler.</source>
+          <target state="new">Consider the <ph id="ph1">`OnProgress`</ph> event handler.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>It reports progress on a task.</source>
+          <target state="new">It reports progress on a task.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>The task continues to proceed whether or not there are any listeners.</source>
+          <target state="new">The task continues to proceed whether or not there are any listeners.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`FileSearcher`</ph> is another example.</source>
+          <target state="new">The <ph id="ph1">`FileSearcher`</ph> is another example.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>It would still search and find all the files that were sought, even with no event subscribers attached.</source>
+          <target state="new">It would still search and find all the files that were sought, even with no event subscribers attached.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>UX controls still work correctly, even when there are no subscribers listening to the events.</source>
+          <target state="new">UX controls still work correctly, even when there are no subscribers listening to the events.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>They both use designs based on events.</source>
+          <target state="new">They both use designs based on events.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Return Values Require Delegates</source>
+          <target state="new">Return Values Require Delegates</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Another consideration is the method prototype you would want for your delegate method.</source>
+          <target state="new">Another consideration is the method prototype you would want for your delegate method.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>As you've seen, the delegates used for events all have a void return type.</source>
+          <target state="new">As you've seen, the delegates used for events all have a void return type.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>You've also seen that there are idioms to create event handlers that do pass information back to event sources through modifying properties of the event argument object.</source>
+          <target state="new">You've also seen that there are idioms to create event handlers that do pass information back to event sources through modifying properties of the event argument object.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>While these idioms do work, they are not as natural as returning a value from a method.</source>
+          <target state="new">While these idioms do work, they are not as natural as returning a value from a method.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Notice that these two heuristics may often both be present: If your delegate method returns a value, it will likely impact the algorithm in some way.</source>
+          <target state="new">Notice that these two heuristics may often both be present: If your delegate method returns a value, it will likely impact the algorithm in some way.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Event Listeners Often Have Longer Lifetimes</source>
+          <target state="new">Event Listeners Often Have Longer Lifetimes</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>This is a slightly weaker justification.</source>
+          <target state="new">This is a slightly weaker justification.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>However, you may find that event-based designs are more natural when the event source will be raising events over a long period of time.</source>
+          <target state="new">However, you may find that event-based designs are more natural when the event source will be raising events over a long period of time.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>You can see examples of this for UX controls on many systems.</source>
+          <target state="new">You can see examples of this for UX controls on many systems.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Once you subscribe to an event, the event source may raise events throughout the lifetime of the program.</source>
+          <target state="new">Once you subscribe to an event, the event source may raise events throughout the lifetime of the program.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>(You can unsubscribe from events when you no longer need them.)</source>
+          <target state="new">(You can unsubscribe from events when you no longer need them.)</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Contrast that with many delegate-based designs, where a delegate is used as an argument to a method, and the delegate is not used after that method returns.</source>
+          <target state="new">Contrast that with many delegate-based designs, where a delegate is used as an argument to a method, and the delegate is not used after that method returns.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Evaluate Carefully</source>
+          <target state="new">Evaluate Carefully</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>The above considerations are not hard and fast rules.</source>
+          <target state="new">The above considerations are not hard and fast rules.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Instead, they represent guidance that can help you decide which choice is best for your particular usage.</source>
+          <target state="new">Instead, they represent guidance that can help you decide which choice is best for your particular usage.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Because they are similar, you can even prototype both, and consider which would be more natural to work with.</source>
+          <target state="new">Because they are similar, you can even prototype both, and consider which would be more natural to work with.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>They both handle late binding scenarios well.</source>
+          <target state="new">They both handle late binding scenarios well.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Use the one that communicates your design the best.</source>
+          <target state="new">Use the one that communicates your design the best.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

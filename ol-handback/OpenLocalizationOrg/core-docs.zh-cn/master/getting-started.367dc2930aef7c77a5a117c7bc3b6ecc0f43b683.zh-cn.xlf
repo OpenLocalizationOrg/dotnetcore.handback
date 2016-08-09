@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c77caf8de3fc0e9e9f3756b42eaed119e885459d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\getting-started.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">704454673dd543c7c69cf4080611cd2da9831934</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Getting started with .NET Core</source>
+          <target state="new">Getting started with .NET Core</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Getting started with .NET Core</source>
+          <target state="new">Getting started with .NET Core</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Getting started with .NET Core</source>
+          <target state="new">Getting started with .NET Core</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>.NET Core runs on <bpt id="p1">[</bpt>Windows<ept id="p1">](#windows)</ept>, <bpt id="p2">[</bpt>Linux<ept id="p2">](#linux)</ept>, and <bpt id="p3">[</bpt>macOS / OS X<ept id="p3">](#macos)</ept></source>
+          <target state="new">.NET Core runs on <bpt id="p1">[</bpt>Windows<ept id="p1">](#windows)</ept>, <bpt id="p2">[</bpt>Linux<ept id="p2">](#linux)</ept>, and <bpt id="p3">[</bpt>macOS / OS X<ept id="p3">](#macos)</ept></target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Windows</source>
+          <target state="new">Windows</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Install .NET Core on <bpt id="p1">[</bpt>Windows<ept id="p1">](https://www.microsoft.com/net/core#windows)</ept>.</source>
+          <target state="new">Install .NET Core on <bpt id="p1">[</bpt>Windows<ept id="p1">](https://www.microsoft.com/net/core#windows)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You can get started developing .NET Core apps by following these step-by-step tutorials.</source>
+          <target state="new">You can get started developing .NET Core apps by following these step-by-step tutorials.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with .NET Core on Windows, using Visual Studio 2015<ept id="p1">](tutorials/using-on-windows.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio<ept id="p2">](https://www.visualstudio.com/)</ept>, the full-featured integrated development environment (IDE) for Windows.</source>
+          <target state="new"><bpt id="p1">[</bpt>Getting started with .NET Core on Windows, using Visual Studio 2015<ept id="p1">](tutorials/using-on-windows.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio<ept id="p2">](https://www.visualstudio.com/)</ept>, the full-featured integrated development environment (IDE) for Windows.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with .NET Core on macOS, using Visual Studio Code<ept id="p1">](tutorials/using-on-macos.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio Code<ept id="p2">](https://www.visualstudio.com/products/code-vs)</ept>, Microsoft's lightweight cross-platform code editor.</source>
+          <target state="new"><bpt id="p1">[</bpt>Getting started with .NET Core on macOS, using Visual Studio Code<ept id="p1">](tutorials/using-on-macos.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio Code<ept id="p2">](https://www.visualstudio.com/products/code-vs)</ept>, Microsoft's lightweight cross-platform code editor.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>This tutorial is written for macOS, but Visual Studio Code also works on Windows.</source>
+          <target state="new">This tutorial is written for macOS, but Visual Studio Code also works on Windows.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with .NET Core using the command line<ept id="p1">](tutorials/using-with-xplat-cli.md)</ept> - Use any code editor with the <bpt id="p2">[</bpt>.NET Core cross-platform command-line interface (CLI)<ept id="p2">](tools/index.md)</ept>.</source>
+          <target state="new"><bpt id="p1">[</bpt>Getting started with .NET Core using the command line<ept id="p1">](tutorials/using-with-xplat-cli.md)</ept> - Use any code editor with the <bpt id="p2">[</bpt>.NET Core cross-platform command-line interface (CLI)<ept id="p2">](tools/index.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>.NET Core is supported by the following versions of Windows (both 32-bit and 64-bit):</source>
+          <target state="new">.NET Core is supported by the following versions of Windows (both 32-bit and 64-bit):</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Windows 7 SP1</source>
+          <target state="new">Windows 7 SP1</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Windows 8.1</source>
+          <target state="new">Windows 8.1</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Windows 10</source>
+          <target state="new">Windows 10</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Windows Server 2008 R2 SP1 (Full Server or Server Core)</source>
+          <target state="new">Windows Server 2008 R2 SP1 (Full Server or Server Core)</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Windows Server 2012 SP1 (Full Server or Server Core)</source>
+          <target state="new">Windows Server 2012 SP1 (Full Server or Server Core)</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Windows Server 2012 R2 SP1 (Full Server or Server Core)</source>
+          <target state="new">Windows Server 2012 R2 SP1 (Full Server or Server Core)</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Windows Server 2016 (Full Server, Server Core or Nano Server)</source>
+          <target state="new">Windows Server 2016 (Full Server, Server Core or Nano Server)</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Linux</source>
+          <target state="new">Linux</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Install Linux on your distribution/version:</source>
+          <target state="new">Install Linux on your distribution/version:</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Red Hat Enterprise Linux 7 Server</source>
+          <target state="new">Red Hat Enterprise Linux 7 Server</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Ubuntu 14.04, 16.04 &amp; Linux Mint 17</source>
+          <target state="new">Ubuntu 14.04, 16.04 &amp; Linux Mint 17</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Debian 8.2</source>
+          <target state="new">Debian 8.2</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Fedora 23</source>
+          <target state="new">Fedora 23</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>CentOS 7.1 &amp; Oracle Linux 7.1</source>
+          <target state="new">CentOS 7.1 &amp; Oracle Linux 7.1</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>openSUSE 13.2</source>
+          <target state="new">openSUSE 13.2</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>You can get started developing .NET Core apps by following these step-by-step tutorials.</source>
+          <target state="new">You can get started developing .NET Core apps by following these step-by-step tutorials.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with .NET Core on macOS, using Visual Studio Code<ept id="p1">](tutorials/using-on-macos.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio Code<ept id="p2">](https://www.visualstudio.com/products/code-vs)</ept>, Microsoft's lightweight cross-platform code editor.</source>
+          <target state="new"><bpt id="p1">[</bpt>Getting started with .NET Core on macOS, using Visual Studio Code<ept id="p1">](tutorials/using-on-macos.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio Code<ept id="p2">](https://www.visualstudio.com/products/code-vs)</ept>, Microsoft's lightweight cross-platform code editor.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>This tutorial is written for macOS, but Visual Studio Code also works on Linux.</source>
+          <target state="new">This tutorial is written for macOS, but Visual Studio Code also works on Linux.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with .NET Core using the command line<ept id="p1">](tutorials/using-with-xplat-cli.md)</ept> - Use any code editor with the <bpt id="p2">[</bpt>.NET Core cross-platform command-line interface (CLI)<ept id="p2">](tools/index.md)</ept>.</source>
+          <target state="new"><bpt id="p1">[</bpt>Getting started with .NET Core using the command line<ept id="p1">](tutorials/using-with-xplat-cli.md)</ept> - Use any code editor with the <bpt id="p2">[</bpt>.NET Core cross-platform command-line interface (CLI)<ept id="p2">](tools/index.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>.NET Core is supported by the Linux distributions and versions listed above in the installation links.</source>
+          <target state="new">.NET Core is supported by the Linux distributions and versions listed above in the installation links.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>OS X / macOS</source>
+          <target state="new">OS X / macOS</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Install .NET Core for <bpt id="p1">[</bpt>Mac OS X 10.11<ept id="p1">](https://www.microsoft.com/net/core#macos)</ept>.</source>
+          <target state="new">Install .NET Core for <bpt id="p1">[</bpt>Mac OS X 10.11<ept id="p1">](https://www.microsoft.com/net/core#macos)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>You can get started developing .NET Core apps by following these step-by-step tutorials.</source>
+          <target state="new">You can get started developing .NET Core apps by following these step-by-step tutorials.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with .NET Core on macOS, using Visual Studio Code<ept id="p1">](tutorials/using-on-macos.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio Code<ept id="p2">](https://www.visualstudio.com/products/code-vs)</ept>, Microsoft's lightweight cross-platform code editor.</source>
+          <target state="new"><bpt id="p1">[</bpt>Getting started with .NET Core on macOS, using Visual Studio Code<ept id="p1">](tutorials/using-on-macos.md)</ept> - Use <bpt id="p2">[</bpt>Visual Studio Code<ept id="p2">](https://www.visualstudio.com/products/code-vs)</ept>, Microsoft's lightweight cross-platform code editor.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Getting started with .NET Core using the command line<ept id="p1">](tutorials/using-with-xplat-cli.md)</ept> - Use any code editor with the <bpt id="p2">[</bpt>.NET Core cross-platform command-line interface (CLI)<ept id="p2">](tools/index.md)</ept>.</source>
+          <target state="new"><bpt id="p1">[</bpt>Getting started with .NET Core using the command line<ept id="p1">](tutorials/using-with-xplat-cli.md)</ept> - Use any code editor with the <bpt id="p2">[</bpt>.NET Core cross-platform command-line interface (CLI)<ept id="p2">](tools/index.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>.NET Core is supported by 64-bit OS X 10.11 (El Capitan).</source>
+          <target state="new">.NET Core is supported by 64-bit OS X 10.11 (El Capitan).</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>It isn't yet supported by macOS Sierra, but will be soon.</source>
+          <target state="new">It isn't yet supported by macOS Sierra, but will be soon.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e72c459d21b892ac1f69e2273bbeef6a2e95bf81</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\iterators.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">2fa561c08f9f7b4ec65808160777daa90dd69966</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Iterators</source>
+          <target state="new">Iterators</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Iterators</source>
+          <target state="new">Iterators</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Iterators</source>
+          <target state="new">Iterators</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Almost every program you write will have some need to iterate over a collection.</source>
+          <target state="new">Almost every program you write will have some need to iterate over a collection.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You'll write code that examines every item in a collection.</source>
+          <target state="new">You'll write code that examines every item in a collection.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You'll also create iterator methods which are methods that produces an iterator for the elements of that class.</source>
+          <target state="new">You'll also create iterator methods which are methods that produces an iterator for the elements of that class.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>These can be used for:</source>
+          <target state="new">These can be used for:</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Performing an action on each item in a collection.</source>
+          <target state="new">Performing an action on each item in a collection.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Enumerating a custom collection.</source>
+          <target state="new">Enumerating a custom collection.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Extending <bpt id="p1">[</bpt>LINQ<ept id="p1">](linq.md)</ept> or other libraries.</source>
+          <target state="new">Extending <bpt id="p1">[</bpt>LINQ<ept id="p1">](linq.md)</ept> or other libraries.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Creating a data pipeline where data flows efficiently through iterator methods.</source>
+          <target state="new">Creating a data pipeline where data flows efficiently through iterator methods.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The C# language provides features for both these scenarios.</source>
+          <target state="new">The C# language provides features for both these scenarios.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This article provides an overview of those features.</source>
+          <target state="new">This article provides an overview of those features.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Iterating with foreach</source>
+          <target state="new">Iterating with foreach</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Enumerating a collection is simple: The <ph id="ph1">`foreach`</ph> keyword enumerates a collection, executing the embedded statement once for each element in the collection:</source>
+          <target state="new">Enumerating a collection is simple: The <ph id="ph1">`foreach`</ph> keyword enumerates a collection, executing the embedded statement once for each element in the collection:</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>That's all there is to it.</source>
+          <target state="new">That's all there is to it.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>To iterate over all the contents of a collection, the <ph id="ph1">`foreach`</ph> statement is all you need.</source>
+          <target state="new">To iterate over all the contents of a collection, the <ph id="ph1">`foreach`</ph> statement is all you need.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`foreach`</ph> statement isn't magic, though.</source>
+          <target state="new">The <ph id="ph1">`foreach`</ph> statement isn't magic, though.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>It relies on two generic interfaces defined in the .NET core library in order to generate the code necessary to iterate a collection: <ph id="ph1">`IEnumerable&lt;T&gt;`</ph> and <ph id="ph2">`IEnumerator&lt;T&gt;`</ph>.</source>
+          <target state="new">It relies on two generic interfaces defined in the .NET core library in order to generate the code necessary to iterate a collection: <ph id="ph1">`IEnumerable&lt;T&gt;`</ph> and <ph id="ph2">`IEnumerator&lt;T&gt;`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>This mechanism is explained in more detail below.</source>
+          <target state="new">This mechanism is explained in more detail below.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Both of these interfaces also have non-generic counterparts: <ph id="ph1">`IEnumerable`</ph> and <ph id="ph2">`IEnumerator`</ph>.</source>
+          <target state="new">Both of these interfaces also have non-generic counterparts: <ph id="ph1">`IEnumerable`</ph> and <ph id="ph2">`IEnumerator`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>The <bpt id="p1">[</bpt>generic<ept id="p1">](generics.md)</ept> versions are preferred for modern code.</source>
+          <target state="new">The <bpt id="p1">[</bpt>generic<ept id="p1">](generics.md)</ept> versions are preferred for modern code.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Enumeration sources with iterator methods</source>
+          <target state="new">Enumeration sources with iterator methods</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Another great feature of the C# language enables you to build methods that create a source for an enumeration.</source>
+          <target state="new">Another great feature of the C# language enables you to build methods that create a source for an enumeration.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>These are referred to as <bpt id="p1">*</bpt>iterator methods<ept id="p1">*</ept>.</source>
+          <target state="new">These are referred to as <bpt id="p1">*</bpt>iterator methods<ept id="p1">*</ept>.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>An iterator method defines how to generate the objects in a sequence when requested.</source>
+          <target state="new">An iterator method defines how to generate the objects in a sequence when requested.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>You use the <ph id="ph1">`yield return`</ph> contextual keywords to define an iterator method.</source>
+          <target state="new">You use the <ph id="ph1">`yield return`</ph> contextual keywords to define an iterator method.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>You could write this method to produce the sequence of integers from 0 through 9:</source>
+          <target state="new">You could write this method to produce the sequence of integers from 0 through 9:</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>The code above shows distinct <ph id="ph1">`yield return`</ph> statements to highlight the fact that you can use multiple discrete <ph id="ph2">`yield return`</ph> statements in an iterator method.</source>
+          <target state="new">The code above shows distinct <ph id="ph1">`yield return`</ph> statements to highlight the fact that you can use multiple discrete <ph id="ph2">`yield return`</ph> statements in an iterator method.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>You can (and often do) use other language constructs to simplify the code of an iterator method.</source>
+          <target state="new">You can (and often do) use other language constructs to simplify the code of an iterator method.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>The method definition below produces the exact same sequence of numbers:</source>
+          <target state="new">The method definition below produces the exact same sequence of numbers:</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>You don't have to decide one or the other.</source>
+          <target state="new">You don't have to decide one or the other.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>You can have as many <ph id="ph1">`yield return`</ph> statements as necessary to meet the needs of your method:</source>
+          <target state="new">You can have as many <ph id="ph1">`yield return`</ph> statements as necessary to meet the needs of your method:</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>That's the basic syntax.</source>
+          <target state="new">That's the basic syntax.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Let's consider a real world example where you would write an iterator method.</source>
+          <target state="new">Let's consider a real world example where you would write an iterator method.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Imagine you're on an IoT project and the device sensors generate a very large stream of data.</source>
+          <target state="new">Imagine you're on an IoT project and the device sensors generate a very large stream of data.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>To get a feel for the data, you might write a method that samples every Nth data element.</source>
+          <target state="new">To get a feel for the data, you might write a method that samples every Nth data element.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>This small iterator method does the trick:</source>
+          <target state="new">This small iterator method does the trick:</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>There is one important restriction on iterator methods: you can't have both a <ph id="ph1">`return`</ph> statement and a <ph id="ph2">`yield return`</ph> statement in the same method.</source>
+          <target state="new">There is one important restriction on iterator methods: you can't have both a <ph id="ph1">`return`</ph> statement and a <ph id="ph2">`yield return`</ph> statement in the same method.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>The following will not compile:</source>
+          <target state="new">The following will not compile:</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>This restriction normally isn't a problem.</source>
+          <target state="new">This restriction normally isn't a problem.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>You have a choice of either using <ph id="ph1">`yield return`</ph> throughout the method, or separating the original method into multiple methods, some using <ph id="ph2">`return`</ph>, and some using <ph id="ph3">`yield return`</ph>.</source>
+          <target state="new">You have a choice of either using <ph id="ph1">`yield return`</ph> throughout the method, or separating the original method into multiple methods, some using <ph id="ph2">`return`</ph>, and some using <ph id="ph3">`yield return`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>You can modify the last method slightly to use <ph id="ph1">`yield return`</ph> everywhere:</source>
+          <target state="new">You can modify the last method slightly to use <ph id="ph1">`yield return`</ph> everywhere:</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Sometimes, the right answer is to split an iterator method into two different methods.</source>
+          <target state="new">Sometimes, the right answer is to split an iterator method into two different methods.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>One that uses <ph id="ph1">`return`</ph>, and a second that uses <ph id="ph2">`yield return`</ph>.</source>
+          <target state="new">One that uses <ph id="ph1">`return`</ph>, and a second that uses <ph id="ph2">`yield return`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Consider a situation where you might want to return an empty collection, or the first 5 odd numbers, based on a boolean argument.</source>
+          <target state="new">Consider a situation where you might want to return an empty collection, or the first 5 odd numbers, based on a boolean argument.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>You could write that as these two methods:</source>
+          <target state="new">You could write that as these two methods:</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Look at the methods above.</source>
+          <target state="new">Look at the methods above.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>The first uses the standard <ph id="ph1">`return`</ph> statement to return either an empy collection, or the iterator created by the second method.</source>
+          <target state="new">The first uses the standard <ph id="ph1">`return`</ph> statement to return either an empy collection, or the iterator created by the second method.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>The second method uses the <ph id="ph1">`yield return`</ph> statement to create the requested sequence.</source>
+          <target state="new">The second method uses the <ph id="ph1">`yield return`</ph> statement to create the requested sequence.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Deeper Dive into</source>
+          <target state="new">Deeper Dive into</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`foreach`</ph> statement expands into a standard idiom that uses the <ph id="ph2">`IEnumable&lt;T&gt;`</ph> and <ph id="ph3">`IEnumerator&lt;T&gt;`</ph> interfaces to iterate across all elements of a colleciton.</source>
+          <target state="new">The <ph id="ph1">`foreach`</ph> statement expands into a standard idiom that uses the <ph id="ph2">`IEnumable&lt;T&gt;`</ph> and <ph id="ph3">`IEnumerator&lt;T&gt;`</ph> interfaces to iterate across all elements of a colleciton.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>It also  minimizes errors developers make by not properly managing resources.</source>
+          <target state="new">It also  minimizes errors developers make by not properly managing resources.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>The compiler translates the <ph id="ph1">`foreach`</ph> loop shown in the first example into something similar to this construct:</source>
+          <target state="new">The compiler translates the <ph id="ph1">`foreach`</ph> loop shown in the first example into something similar to this construct:</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>The construct above represents the code generated by the C# compiler as of version 5 and above.</source>
+          <target state="new">The construct above represents the code generated by the C# compiler as of version 5 and above.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Prior to version 5, the <ph id="ph1">`item`</ph> variable had a different scope:</source>
+          <target state="new">Prior to version 5, the <ph id="ph1">`item`</ph> variable had a different scope:</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>This was changed because the earlier behavior could lead to subtle and hard to diagnose bugs involving lambda expressions.</source>
+          <target state="new">This was changed because the earlier behavior could lead to subtle and hard to diagnose bugs involving lambda expressions.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>See the section on <bpt id="p1">[</bpt>lambda expressions<ept id="p1">](lambda-expressions.md)</ept> for more information.</source>
+          <target state="new">See the section on <bpt id="p1">[</bpt>lambda expressions<ept id="p1">](lambda-expressions.md)</ept> for more information.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>The exact code generated by the compiler is somewhat more complicated, and handles situations where the object returned by <ph id="ph1">`GetEnumerator()`</ph> implements the <ph id="ph2">`IDisposable`</ph> interface.</source>
+          <target state="new">The exact code generated by the compiler is somewhat more complicated, and handles situations where the object returned by <ph id="ph1">`GetEnumerator()`</ph> implements the <ph id="ph2">`IDisposable`</ph> interface.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>The full expansion generates code more like this:</source>
+          <target state="new">The full expansion generates code more like this:</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>The manner in which the enumerator is disposed of depends on the characteristics of the type of <ph id="ph1">`enumerator`</ph>.</source>
+          <target state="new">The manner in which the enumerator is disposed of depends on the characteristics of the type of <ph id="ph1">`enumerator`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>In the general case, the <ph id="ph1">`finally`</ph> clause expands to:</source>
+          <target state="new">In the general case, the <ph id="ph1">`finally`</ph> clause expands to:</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>However, if the type of <ph id="ph1">`enumerator`</ph> is a sealed type and there is no implicit conversion from the type of <ph id="ph2">`enumerator`</ph> to <ph id="ph3">`IDisposable`</ph>, the <ph id="ph4">`finally`</ph> clause expands to an empty block:</source>
+          <target state="new">However, if the type of <ph id="ph1">`enumerator`</ph> is a sealed type and there is no implicit conversion from the type of <ph id="ph2">`enumerator`</ph> to <ph id="ph3">`IDisposable`</ph>, the <ph id="ph4">`finally`</ph> clause expands to an empty block:</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>If there is an implicit conversion from the type of <ph id="ph1">`enumerator`</ph> to <ph id="ph2">`IDisposable`</ph>, and <ph id="ph3">`enumerator`</ph> is a non-nullable value type, the <ph id="ph4">`finally`</ph> clause expands to:</source>
+          <target state="new">If there is an implicit conversion from the type of <ph id="ph1">`enumerator`</ph> to <ph id="ph2">`IDisposable`</ph>, and <ph id="ph3">`enumerator`</ph> is a non-nullable value type, the <ph id="ph4">`finally`</ph> clause expands to:</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Thankfully, you don't need to remember all these details.</source>
+          <target state="new">Thankfully, you don't need to remember all these details.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`foreach`</ph> statement handles all those nuances for you.</source>
+          <target state="new">The <ph id="ph1">`foreach`</ph> statement handles all those nuances for you.</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>The compiler will generate the correct code for any of these constructs.</source>
+          <target state="new">The compiler will generate the correct code for any of these constructs.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

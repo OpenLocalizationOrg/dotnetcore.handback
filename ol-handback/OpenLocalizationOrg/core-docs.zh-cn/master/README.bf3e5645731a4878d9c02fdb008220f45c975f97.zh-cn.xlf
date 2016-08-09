@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">c1d40fca97b319de572e229c2990bf5abd4e958d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">samples\csharp-language\WeatherMicroservice\wwwroot\README.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d147762215621d0616d90519eb10b5e97e52c8ca</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Welcome to ASP.NET Core</source>
+          <target state="new">Welcome to ASP.NET Core</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>We've made some big updates in this release, so it’s <bpt id="p1">**</bpt>important<ept id="p1">**</ept> that you spend a few minutes to learn what’s new.</source>
+          <target state="new">We've made some big updates in this release, so it’s <bpt id="p1">**</bpt>important<ept id="p1">**</ept> that you spend a few minutes to learn what’s new.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>You've created a new ASP.NET Core project.</source>
+          <target state="new">You've created a new ASP.NET Core project.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Learn what's new</source>
+          <target state="new">Learn what's new</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This application consists of:</source>
+          <target state="new">This application consists of:</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Sample pages using ASP.NET Core MVC</source>
+          <target state="new">Sample pages using ASP.NET Core MVC</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Gulp<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=518007)</ept> and <bpt id="p2">[</bpt>Bower<ept id="p2">](https://go.microsoft.com/fwlink/?LinkId=518004)</ept> for managing client-side libraries</source>
+          <target state="new"><bpt id="p1">[</bpt>Gulp<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=518007)</ept> and <bpt id="p2">[</bpt>Bower<ept id="p2">](https://go.microsoft.com/fwlink/?LinkId=518004)</ept> for managing client-side libraries</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Theming using <bpt id="p1">[</bpt>Bootstrap<ept id="p1">](https://go.microsoft.com/fwlink/?LinkID=398939)</ept></source>
+          <target state="new">Theming using <bpt id="p1">[</bpt>Bootstrap<ept id="p1">](https://go.microsoft.com/fwlink/?LinkID=398939)</ept></target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>How to</source>
+          <target state="new">How to</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Add a Controller and View</source>
+          <target state="new">Add a Controller and View</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Add an appsetting in config and access it in app.</source>
+          <target state="new">Add an appsetting in config and access it in app.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Manage User Secrets using Secret Manager.</source>
+          <target state="new">Manage User Secrets using Secret Manager.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Use logging to log a message.</source>
+          <target state="new">Use logging to log a message.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Add packages using NuGet.</source>
+          <target state="new">Add packages using NuGet.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Add client packages using Bower.</source>
+          <target state="new">Add client packages using Bower.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Target development, staging or production environment.</source>
+          <target state="new">Target development, staging or production environment.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Overview</source>
+          <target state="new">Overview</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Conceptual overview of what is ASP.NET Core</source>
+          <target state="new">Conceptual overview of what is ASP.NET Core</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Fundamentals of ASP.NET Core such as Startup and middleware.</source>
+          <target state="new">Fundamentals of ASP.NET Core such as Startup and middleware.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Working with Data</source>
+          <target state="new">Working with Data</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Security</source>
+          <target state="new">Security</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Client side development</source>
+          <target state="new">Client side development</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Develop on different platforms</source>
+          <target state="new">Develop on different platforms</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Read more on the documentation site</source>
+          <target state="new">Read more on the documentation site</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Run &amp; Deploy</source>
+          <target state="new">Run &amp; Deploy</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Run your app</source>
+          <target state="new">Run your app</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Run tools such as EF migrations and more</source>
+          <target state="new">Run tools such as EF migrations and more</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Publish to Microsoft Azure Web Apps</source>
+          <target state="new">Publish to Microsoft Azure Web Apps</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>We would love to hear your <bpt id="p1">[</bpt>feedback<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=518015)</ept></source>
+          <target state="new">We would love to hear your <bpt id="p1">[</bpt>feedback<ept id="p1">](https://go.microsoft.com/fwlink/?LinkId=518015)</ept></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

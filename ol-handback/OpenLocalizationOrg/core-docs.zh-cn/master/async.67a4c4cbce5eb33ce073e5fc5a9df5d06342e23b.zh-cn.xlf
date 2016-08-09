@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e0f4e609a4899c3163e4c32773a9078001ce3b2b</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\fsharp\async.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">27d93f85ffa44a31fb9dfa4863f5c7ede3459818</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Async Programming in F</source>
+          <target state="new">Async Programming in F</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Async Programming in F</source>
+          <target state="new">Async Programming in F</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Async Programming in F</source>
+          <target state="new">Async Programming in F</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Some inaccuracies have been discovered in this article.</source>
+          <target state="new"><bpt id="p1">**</bpt>Note:<ept id="p1">**</ept> Some inaccuracies have been discovered in this article.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>It is being rewritten.</source>
+          <target state="new">It is being rewritten.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>See <bpt id="p1">[</bpt>Issue #666<ept id="p1">](https://github.com/dotnet/core-docs/issues/666)</ept> to learn about the changes.</source>
+          <target state="new">See <bpt id="p1">[</bpt>Issue #666<ept id="p1">](https://github.com/dotnet/core-docs/issues/666)</ept> to learn about the changes.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Async programming in F# can be accomplished through a language-level programming model designed to be easy to use and natural to the language.</source>
+          <target state="new">Async programming in F# can be accomplished through a language-level programming model designed to be easy to use and natural to the language.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The core of async programming in F# is <ph id="ph1">`Async&lt;'T&gt;`</ph>, a representation of work that can be triggered to run in the background, where <ph id="ph2">`'T`</ph> is either the type returned via the special <ph id="ph3">`return`</ph> keyword or <ph id="ph4">`unit`</ph> if the async workflow has no result to return.</source>
+          <target state="new">The core of async programming in F# is <ph id="ph1">`Async&lt;'T&gt;`</ph>, a representation of work that can be triggered to run in the background, where <ph id="ph2">`'T`</ph> is either the type returned via the special <ph id="ph3">`return`</ph> keyword or <ph id="ph4">`unit`</ph> if the async workflow has no result to return.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The key concept to understand is that an async expression’s type is <ph id="ph1">`Async&lt;'T&gt;`</ph>, which is merely a <bpt id="p1">_</bpt>specification<ept id="p1">_</ept> of work to be done in an asynchronous context.</source>
+          <target state="new">The key concept to understand is that an async expression’s type is <ph id="ph1">`Async&lt;'T&gt;`</ph>, which is merely a <bpt id="p1">_</bpt>specification<ept id="p1">_</ept> of work to be done in an asynchronous context.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>It is not executed until you explicitly start it with one of the starting functions (such as <ph id="ph1">`Async.RunSynchronously`</ph>).</source>
+          <target state="new">It is not executed until you explicitly start it with one of the starting functions (such as <ph id="ph1">`Async.RunSynchronously`</ph>).</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Although this is a different way of thinking about doing work, it ends up being quite simple in practice.</source>
+          <target state="new">Although this is a different way of thinking about doing work, it ends up being quite simple in practice.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>For example, say you wanted to download the HTML from dotnetfoundation.org without blocking the main thread.</source>
+          <target state="new">For example, say you wanted to download the HTML from dotnetfoundation.org without blocking the main thread.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>You can accomplish it like this:</source>
+          <target state="new">You can accomplish it like this:</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>And that’s it!</source>
+          <target state="new">And that’s it!</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Aside from the use of <ph id="ph1">`async`</ph>, <ph id="ph2">`let!`</ph>, and <ph id="ph3">`return`</ph>, this is just normal F# code.</source>
+          <target state="new">Aside from the use of <ph id="ph1">`async`</ph>, <ph id="ph2">`let!`</ph>, and <ph id="ph3">`return`</ph>, this is just normal F# code.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>There are a few syntactical constructs which are worth noting:</source>
+          <target state="new">There are a few syntactical constructs which are worth noting:</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>binds the result of an async expression (which runs on another context).</source>
+          <target state="new">binds the result of an async expression (which runs on another context).</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>works just like <ph id="ph1">`let!`</ph>, but disposes its bound resources when it goes out of scope.</source>
+          <target state="new">works just like <ph id="ph1">`let!`</ph>, but disposes its bound resources when it goes out of scope.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>will await an async workflow which doesn’t return anything.</source>
+          <target state="new">will await an async workflow which doesn’t return anything.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>simply returns a result from an async expression.</source>
+          <target state="new">simply returns a result from an async expression.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>executes another async workflow and returns its return value as a result.</source>
+          <target state="new">executes another async workflow and returns its return value as a result.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Additionally, normal <ph id="ph1">`let`</ph>, <ph id="ph2">`use`</ph>, and <ph id="ph3">`do`</ph> keywords can be used alongside the async versions just as they would in a normal function.</source>
+          <target state="new">Additionally, normal <ph id="ph1">`let`</ph>, <ph id="ph2">`use`</ph>, and <ph id="ph3">`do`</ph> keywords can be used alongside the async versions just as they would in a normal function.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>How to start Async Code in F</source>
+          <target state="new">How to start Async Code in F</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>As mentioned earlier, async code is a specification of work to be done in another context which needs to be explicitly started.</source>
+          <target state="new">As mentioned earlier, async code is a specification of work to be done in another context which needs to be explicitly started.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Here are two primary ways to accomplish this:</source>
+          <target state="new">Here are two primary ways to accomplish this:</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>will start an async workflow on another thread and await its result.</source>
+          <target state="new">will start an async workflow on another thread and await its result.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>will start an async workflow on another thread, and will <bpt id="p1">**</bpt>not<ept id="p1">**</ept> await its result.</source>
+          <target state="new">will start an async workflow on another thread, and will <bpt id="p1">**</bpt>not<ept id="p1">**</ept> await its result.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>There are other ways to start an async workflow available for more specific scenarios.</source>
+          <target state="new">There are other ways to start an async workflow available for more specific scenarios.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>They are detailed <bpt id="p1">[</bpt>in the Async reference<ept id="p1">](https://msdn.microsoft.com/library/ee370232.aspx)</ept>.</source>
+          <target state="new">They are detailed <bpt id="p1">[</bpt>in the Async reference<ept id="p1">](https://msdn.microsoft.com/library/ee370232.aspx)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>A Note on Threads</source>
+          <target state="new">A Note on Threads</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>The phrase “on another thread” is mentioned above, but it is important to know that <bpt id="p1">**</bpt>this does not mean that async workflows are a facade for multithreading<ept id="p1">**</ept>.</source>
+          <target state="new">The phrase “on another thread” is mentioned above, but it is important to know that <bpt id="p1">**</bpt>this does not mean that async workflows are a facade for multithreading<ept id="p1">**</ept>.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>The workflow actually “jumps” between threads, borrowing them for a small amount of time to do useful work.</source>
+          <target state="new">The workflow actually “jumps” between threads, borrowing them for a small amount of time to do useful work.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>When an async workflow is effectively “waiting” (e.g. waiting for a network call to return something), any thread it was borrowing at the time is freed up to go do useful work on something else.</source>
+          <target state="new">When an async workflow is effectively “waiting” (e.g. waiting for a network call to return something), any thread it was borrowing at the time is freed up to go do useful work on something else.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This allows async workflows to utilize the system they run on as effectively as possible, and makes them especially strong for high-volume I/O scenarios.</source>
+          <target state="new">This allows async workflows to utilize the system they run on as effectively as possible, and makes them especially strong for high-volume I/O scenarios.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>How to Add Parallelism to Async Code</source>
+          <target state="new">How to Add Parallelism to Async Code</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Sometimes you may need to perform multiple asynchronous jobs in parallel, collect their results, and interpret them in some way.</source>
+          <target state="new">Sometimes you may need to perform multiple asynchronous jobs in parallel, collect their results, and interpret them in some way.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>allows you to do this without needing to use the Task Parallel Library, which would involve needing to coerce <ph id="ph1">`Task&lt;'T&gt;`</ph> and <ph id="ph2">`Async&lt;'T&gt;`</ph> types.</source>
+          <target state="new">allows you to do this without needing to use the Task Parallel Library, which would involve needing to coerce <ph id="ph1">`Task&lt;'T&gt;`</ph> and <ph id="ph2">`Async&lt;'T&gt;`</ph> types.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>The following example will use <ph id="ph1">`Async.Parallel`</ph> to download the HTML from four popular sites in parallel, wait for those tasks to complete, and then print the HTML which was downloaded.</source>
+          <target state="new">The following example will use <ph id="ph1">`Async.Parallel`</ph> to download the HTML from four popular sites in parallel, wait for those tasks to complete, and then print the HTML which was downloaded.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Important Info and Advice</source>
+          <target state="new">Important Info and Advice</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Append “Async” to the end of any functions you’ll consume</source>
+          <target state="new">Append “Async” to the end of any functions you’ll consume</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Although this is just a naming convention, it does make things like API discoverability easier.</source>
+          <target state="new">Although this is just a naming convention, it does make things like API discoverability easier.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Particularly if there are synchronous and asynchronous versions of the same routine, it’s a good idea to explicitly state which is asynchronous via the name.</source>
+          <target state="new">Particularly if there are synchronous and asynchronous versions of the same routine, it’s a good idea to explicitly state which is asynchronous via the name.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Listen to the compiler!</source>
+          <target state="new">Listen to the compiler!</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>F#’s compiler is very strict, making it nearly impossible to do something troubling like run “async” code synchronously.</source>
+          <target state="new">F#’s compiler is very strict, making it nearly impossible to do something troubling like run “async” code synchronously.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>If you come across a warning, that’s a sign that the code won’t execute how you think it will.</source>
+          <target state="new">If you come across a warning, that’s a sign that the code won’t execute how you think it will.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>If you can make the compiler happy, your code will most likely execute as expected.</source>
+          <target state="new">If you can make the compiler happy, your code will most likely execute as expected.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>For the C#/VB Programmer Looking Into F</source>
+          <target state="new">For the C#/VB Programmer Looking Into F</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>This section assumes you’re familiar with the async model in C#/VB.</source>
+          <target state="new">This section assumes you’re familiar with the async model in C#/VB.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>If you are not, <bpt id="p1">[</bpt>Async Programming in C#<ept id="p1">](../csharp/async.md)</ept> is a starting point.</source>
+          <target state="new">If you are not, <bpt id="p1">[</bpt>Async Programming in C#<ept id="p1">](../csharp/async.md)</ept> is a starting point.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>There is a fundamental difference between the C#/VB async model and the F# async model.</source>
+          <target state="new">There is a fundamental difference between the C#/VB async model and the F# async model.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>When you call a function which returns a <ph id="ph1">`Task`</ph> or <ph id="ph2">`Task&lt;'T&gt;`</ph>, that job has already begun execution.</source>
+          <target state="new">When you call a function which returns a <ph id="ph1">`Task`</ph> or <ph id="ph2">`Task&lt;'T&gt;`</ph>, that job has already begun execution.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>The handle returned represents an already-running asynchronous job.</source>
+          <target state="new">The handle returned represents an already-running asynchronous job.</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>In contrast, when you call an async function in F#, the <ph id="ph1">`Async&lt;'a&gt;`</ph> returned represents a job which will be <bpt id="p1">**</bpt>generated<ept id="p1">**</ept> at some point.</source>
+          <target state="new">In contrast, when you call an async function in F#, the <ph id="ph1">`Async&lt;'a&gt;`</ph> returned represents a job which will be <bpt id="p1">**</bpt>generated<ept id="p1">**</ept> at some point.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Understanding this model is powerful, because it allows for asynchronous jobs in F# to be chained together easier, performed conditionally, and be started with a finer grain of control.</source>
+          <target state="new">Understanding this model is powerful, because it allows for asynchronous jobs in F# to be chained together easier, performed conditionally, and be started with a finer grain of control.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>There are a few other similarities and differences worth noting.</source>
+          <target state="new">There are a few other similarities and differences worth noting.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>Similarities</source>
+          <target state="new">Similarities</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`use!`</ph>, and <ph id="ph2">`do!`</ph> are analogous to <ph id="ph3">`await`</ph> when calling an async job from within an <ph id="ph4">`async{ }`</ph> block.</source>
+          <target state="new">, <ph id="ph1">`use!`</ph>, and <ph id="ph2">`do!`</ph> are analogous to <ph id="ph3">`await`</ph> when calling an async job from within an <ph id="ph4">`async{ }`</ph> block.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>The three keywords can only be used within an <ph id="ph1">`async { }`</ph> block, similar to how <ph id="ph2">`await`</ph> can only be invoked inside an <ph id="ph3">`async`</ph> method.</source>
+          <target state="new">The three keywords can only be used within an <ph id="ph1">`async { }`</ph> block, similar to how <ph id="ph2">`await`</ph> can only be invoked inside an <ph id="ph3">`async`</ph> method.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>In short, <ph id="ph1">`let!`</ph> is for when you want to capture and use a result, <ph id="ph2">`use!`</ph> is the same but for something whose resources should get cleaned after it’s used, and <ph id="ph3">`do!`</ph> is for when you want to wait for an async workflow with no return value to finish before moving on.</source>
+          <target state="new">In short, <ph id="ph1">`let!`</ph> is for when you want to capture and use a result, <ph id="ph2">`use!`</ph> is the same but for something whose resources should get cleaned after it’s used, and <ph id="ph3">`do!`</ph> is for when you want to wait for an async workflow with no return value to finish before moving on.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>F# supports data-parallelism in a similar way.</source>
+          <target state="new">F# supports data-parallelism in a similar way.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Although it operates very differently, <ph id="ph1">`Async.Parallel`</ph> corresponds to <ph id="ph2">`Task.WhenAll`</ph> for the scenario of wanting the results of a set of async jobs when they all complete.</source>
+          <target state="new">Although it operates very differently, <ph id="ph1">`Async.Parallel`</ph> corresponds to <ph id="ph2">`Task.WhenAll`</ph> for the scenario of wanting the results of a set of async jobs when they all complete.</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Differences</source>
+          <target state="new">Differences</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>Nested <ph id="ph1">`let!`</ph> is not allowed, unlike nested</source>
+          <target state="new">Nested <ph id="ph1">`let!`</ph> is not allowed, unlike nested</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Unlike <ph id="ph1">`await`</ph>, which can be nested indefinitely, <ph id="ph2">`let!`</ph> cannot and must have its result bound before using it inside of another <ph id="ph3">`let!`</ph>, <ph id="ph4">`do!`</ph>, or <ph id="ph5">`use!`</ph>.</source>
+          <target state="new">Unlike <ph id="ph1">`await`</ph>, which can be nested indefinitely, <ph id="ph2">`let!`</ph> cannot and must have its result bound before using it inside of another <ph id="ph3">`let!`</ph>, <ph id="ph4">`do!`</ph>, or <ph id="ph5">`use!`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Cancellation support is simpler in F# than in C#/VB.</source>
+          <target state="new">Cancellation support is simpler in F# than in C#/VB.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>Supporting cancellation of a task midway through its execution in C#/VB requires checking the <ph id="ph1">`IsCancellationRequested`</ph> property or calling <ph id="ph2">`ThrowIfCancellationRequested()`</ph> on a <ph id="ph3">`CancellationToken`</ph> object that’s passed into the async method.</source>
+          <target state="new">Supporting cancellation of a task midway through its execution in C#/VB requires checking the <ph id="ph1">`IsCancellationRequested`</ph> property or calling <ph id="ph2">`ThrowIfCancellationRequested()`</ph> on a <ph id="ph3">`CancellationToken`</ph> object that’s passed into the async method.</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>In contrast, F# async workflows are more naturally cancellable.</source>
+          <target state="new">In contrast, F# async workflows are more naturally cancellable.</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>Cancellation is a simple three-step process.</source>
+          <target state="new">Cancellation is a simple three-step process.</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>Create a new <ph id="ph1">`CancellationTokenSource`</ph>.</source>
+          <target state="new">Create a new <ph id="ph1">`CancellationTokenSource`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Pass it into a starting function.</source>
+          <target state="new">Pass it into a starting function.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>Call <ph id="ph1">`Cancel`</ph> on the token.</source>
+          <target state="new">Call <ph id="ph1">`Cancel`</ph> on the token.</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Example:</source>
+          <target state="new">Example:</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>And that’s it!</source>
+          <target state="new">And that’s it!</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Further resources:</source>
+          <target state="new">Further resources:</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Async Workflows on MSDN</source>
+          <target state="new">Async Workflows on MSDN</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>Asynchronous Sequences for F</source>
+          <target state="new">Asynchronous Sequences for F</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>F# Data HTTP Utilities</source>
+          <target state="new">F# Data HTTP Utilities</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

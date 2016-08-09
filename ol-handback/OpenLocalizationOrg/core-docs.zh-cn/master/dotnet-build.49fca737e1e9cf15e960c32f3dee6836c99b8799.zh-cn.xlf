@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bf844a369ae5ca365b650e741687f5cfbeb746da</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\dotnet-build.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">e8a775474e1ecad604da17ed79a352c16803e409</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>dotnet-build</source>
+          <target state="new">dotnet-build</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>dotnet-build</source>
+          <target state="new">dotnet-build</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>dotnet-build</source>
+          <target state="new">dotnet-build</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>dotnet-build -- Builds a project and all of its dependencies</source>
+          <target state="new">dotnet-build -- Builds a project and all of its dependencies</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>SYNOPSIS</source>
+          <target state="new">SYNOPSIS</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`dotnet build`</ph> command builds multiple source file from a source project and its dependencies into a binary.</source>
+          <target state="new">The <ph id="ph1">`dotnet build`</ph> command builds multiple source file from a source project and its dependencies into a binary.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The binary will be in Intermediate Language (IL) by default and will have a DLL extension.</source>
+          <target state="new">The binary will be in Intermediate Language (IL) by default and will have a DLL extension.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>will also drop a <ph id="ph1">`\*.deps`</ph> file which outlines what the host needs to run the application.</source>
+          <target state="new">will also drop a <ph id="ph1">`\*.deps`</ph> file which outlines what the host needs to run the application.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Building requires the existence of a lock file, which means that you have to run <bpt id="p1">[</bpt><ph id="ph1">`dotnet restore`</ph><ept id="p1">](dotnet-restore.md)</ept> prior to building your code.</source>
+          <target state="new">Building requires the existence of a lock file, which means that you have to run <bpt id="p1">[</bpt><ph id="ph1">`dotnet restore`</ph><ept id="p1">](dotnet-restore.md)</ept> prior to building your code.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Before any compilation begins, the build verb analyzes the project and its dependencies for incremental safety checks.</source>
+          <target state="new">Before any compilation begins, the build verb analyzes the project and its dependencies for incremental safety checks.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>If all checks pass, then build proceeds with incremental compilation of the project and its dependencies; otherwise, it falls back to non-incremental compilation.</source>
+          <target state="new">If all checks pass, then build proceeds with incremental compilation of the project and its dependencies; otherwise, it falls back to non-incremental compilation.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Via a profile flag, users can choose to receive additional information on how they can improve their build times.</source>
+          <target state="new">Via a profile flag, users can choose to receive additional information on how they can improve their build times.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>All projects in the dependency graph that need compilation must pass the following safety checks in order for the compilation process to be incremental:</source>
+          <target state="new">All projects in the dependency graph that need compilation must pass the following safety checks in order for the compilation process to be incremental:</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>not use pre/post compile scripts</source>
+          <target state="new">not use pre/post compile scripts</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>not load compilation tools from PATH (for example, resgen, compilers)</source>
+          <target state="new">not load compilation tools from PATH (for example, resgen, compilers)</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>use only known compilers (csc, vbc, fsc)</source>
+          <target state="new">use only known compilers (csc, vbc, fsc)</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>In order to build an executable application, you need a special configuration section in your project.json file:</source>
+          <target state="new">In order to build an executable application, you need a special configuration section in your project.json file:</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>OPTIONS</source>
+          <target state="new">OPTIONS</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--output`</ph> [DIR]</source>
+          <target state="new">, <ph id="ph1">`--output`</ph> [DIR]</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Directory in which to place the built binaries.</source>
+          <target state="new">Directory in which to place the built binaries.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--build-base-path`</ph> [DIR]</source>
+          <target state="new">, <ph id="ph1">`--build-base-path`</ph> [DIR]</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Directory in which to place temporary outputs.</source>
+          <target state="new">Directory in which to place temporary outputs.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--framework`</ph> [FRAMEWORK]</source>
+          <target state="new">, <ph id="ph1">`--framework`</ph> [FRAMEWORK]</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Compiles for a specific framework.</source>
+          <target state="new">Compiles for a specific framework.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>The framework needs to be defined in the project.json file.</source>
+          <target state="new">The framework needs to be defined in the project.json file.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--configuration`</ph> [Debug|Release]</source>
+          <target state="new">, <ph id="ph1">`--configuration`</ph> [Debug|Release]</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Defines a configuration under which to build.</source>
+          <target state="new">Defines a configuration under which to build.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>If omitted, it defaults to Debug.</source>
+          <target state="new">If omitted, it defaults to Debug.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--runtime`</ph> [RUNTIME_IDENTIFIER]</source>
+          <target state="new">, <ph id="ph1">`--runtime`</ph> [RUNTIME_IDENTIFIER]</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Target runtime to build for.</source>
+          <target state="new">Target runtime to build for.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>[VERSION_SUFFIX]</source>
+          <target state="new">[VERSION_SUFFIX]</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Defines what <ph id="ph1">`*`</ph> should be replaced with in the version field in the project.json file.</source>
+          <target state="new">Defines what <ph id="ph1">`*`</ph> should be replaced with in the version field in the project.json file.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>The format follows NuGet's version guidelines.</source>
+          <target state="new">The format follows NuGet's version guidelines.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Prints out the incremental safety checks that users need to address in order for incremental compilation to be automatically turned on.</source>
+          <target state="new">Prints out the incremental safety checks that users need to address in order for incremental compilation to be automatically turned on.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Marks the build as unsafe for incremental build.</source>
+          <target state="new">Marks the build as unsafe for incremental build.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>This turns off incremental compilation and forces a clean rebuild of the project dependency graph.</source>
+          <target state="new">This turns off incremental compilation and forces a clean rebuild of the project dependency graph.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Ignores project-to-project references and only builds the root project specified to build.</source>
+          <target state="new">Ignores project-to-project references and only builds the root project specified to build.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

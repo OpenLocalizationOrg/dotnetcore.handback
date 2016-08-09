@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fa4e69a9a8b16f77b7b627805974f8ccfe19358d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">samples\core-projects\console-apps\NewTypes\README.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">5d3c18b6a86abd3b0b37581787236028b40e7482</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>NewTypes Pets Sample</source>
+          <target state="new">NewTypes Pets Sample</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This sample is part of the <bpt id="p1">[</bpt>step-by-step tutorial<ept id="p1">](https://docs.microsoft.com/dotnet/articles/core/tutorials/using-with-xplat-cli)</ept> for creating .NET Core Console Applications.</source>
+          <target state="new">This sample is part of the <bpt id="p1">[</bpt>step-by-step tutorial<ept id="p1">](https://docs.microsoft.com/dotnet/articles/core/tutorials/using-with-xplat-cli)</ept> for creating .NET Core Console Applications.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Please see that topic for detailed steps on the code for this sample.</source>
+          <target state="new">Please see that topic for detailed steps on the code for this sample.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Key Features</source>
+          <target state="new">Key Features</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This sample builds a program and an associated unit test assembly.</source>
+          <target state="new">This sample builds a program and an associated unit test assembly.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You'll learn how to structure projects as part of a larger solution, and incorporate unit tests into your projects.</source>
+          <target state="new">You'll learn how to structure projects as part of a larger solution, and incorporate unit tests into your projects.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Build and Run</source>
+          <target state="new">Build and Run</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>To build and run the sample, change to the <ph id="ph1">`src/NewTypes`</ph> directory and type the following three commands:</source>
+          <target state="new">To build and run the sample, change to the <ph id="ph1">`src/NewTypes`</ph> directory and type the following three commands:</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>installs all the dependencies for this sample into the current directory.</source>
+          <target state="new">installs all the dependencies for this sample into the current directory.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>creates the output assembly (or assemblies).</source>
+          <target state="new">creates the output assembly (or assemblies).</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>runs the output executable.</source>
+          <target state="new">runs the output executable.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>To run the tests, change to the <ph id="ph1">`tests/NewTypesTests`</ph> directory and type the following three commands:</source>
+          <target state="new">To run the tests, change to the <ph id="ph1">`tests/NewTypesTests`</ph> directory and type the following three commands:</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>runs all the configure tests</source>
+          <target state="new">runs all the configure tests</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Note that you must run <ph id="ph1">`dotnet restore`</ph> in the <ph id="ph2">`src/NewTypes`</ph> directory before you can run the tests.</source>
+          <target state="new">Note that you must run <ph id="ph1">`dotnet restore`</ph> in the <ph id="ph2">`src/NewTypes`</ph> directory before you can run the tests.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>will follow the dependency and build both the library and unit tests projects, but it will not restore NuGet packages.</source>
+          <target state="new">will follow the dependency and build both the library and unit tests projects, but it will not restore NuGet packages.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

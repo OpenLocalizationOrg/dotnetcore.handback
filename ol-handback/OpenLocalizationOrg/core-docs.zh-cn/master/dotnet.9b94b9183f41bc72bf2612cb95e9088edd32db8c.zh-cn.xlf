@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">fe1af161a83106a3c4416cc53c8cfe7963ea8484</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\dotnet.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0d4c27d87eb987c5288588beb10c186c778b5f1e</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>dotnet command</source>
+          <target state="new">dotnet command</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>dotnet command</source>
+          <target state="new">dotnet command</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>dotnet command</source>
+          <target state="new">dotnet command</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>dotnet -- General driver for running the command-line commands</source>
+          <target state="new">dotnet -- General driver for running the command-line commands</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>SYNOPSIS</source>
+          <target state="new">SYNOPSIS</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>is a generic driver for the Command Line Interface (CLI) toolchain.</source>
+          <target state="new">is a generic driver for the Command Line Interface (CLI) toolchain.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Invoked on its own, it will give out brief usage instructions.</source>
+          <target state="new">Invoked on its own, it will give out brief usage instructions.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Each specific feature is implemented as a command.</source>
+          <target state="new">Each specific feature is implemented as a command.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>In order to use the feature, the command is specified after <ph id="ph1">`dotnet`</ph>, such as <bpt id="p1">[</bpt><ph id="ph2">`dotnet build`</ph><ept id="p1">](dotnet-build.md)</ept>.</source>
+          <target state="new">In order to use the feature, the command is specified after <ph id="ph1">`dotnet`</ph>, such as <bpt id="p1">[</bpt><ph id="ph2">`dotnet build`</ph><ept id="p1">](dotnet-build.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>All of the arguments following the command are its own arguments.</source>
+          <target state="new">All of the arguments following the command are its own arguments.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The only time <ph id="ph1">`dotnet`</ph> is used as a command on its own is to run portable apps.</source>
+          <target state="new">The only time <ph id="ph1">`dotnet`</ph> is used as a command on its own is to run portable apps.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Just specify a portable application DLL after the <ph id="ph1">`dotnet`</ph> verb to execute the application.</source>
+          <target state="new">Just specify a portable application DLL after the <ph id="ph1">`dotnet`</ph> verb to execute the application.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>OPTIONS</source>
+          <target state="new">OPTIONS</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Enables verbose output.</source>
+          <target state="new">Enables verbose output.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Prints out the version of the CLI tooling.</source>
+          <target state="new">Prints out the version of the CLI tooling.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Prints out more detailed information about the CLI tooling, such as the current operating system, commit SHA for the version, etc.</source>
+          <target state="new">Prints out more detailed information about the CLI tooling, such as the current operating system, commit SHA for the version, etc.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Prints out a short help and a list of current commands.</source>
+          <target state="new">Prints out a short help and a list of current commands.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>DOTNET COMMANDS</source>
+          <target state="new">DOTNET COMMANDS</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The following commands exist for dotnet:</source>
+          <target state="new">The following commands exist for dotnet:</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>dotnet-new</source>
+          <target state="new">dotnet-new</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Initializes a C# or F# console application project.</source>
+          <target state="new">Initializes a C# or F# console application project.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>dotnet-restore</source>
+          <target state="new">dotnet-restore</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Restores the dependencies for a given application.</source>
+          <target state="new">Restores the dependencies for a given application.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>dotnet-build</source>
+          <target state="new">dotnet-build</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Builds a .NET Core application.</source>
+          <target state="new">Builds a .NET Core application.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>dotnet-publish</source>
+          <target state="new">dotnet-publish</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Publishes a .NET portable or self-contained application.</source>
+          <target state="new">Publishes a .NET portable or self-contained application.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>dotnet-run</source>
+          <target state="new">dotnet-run</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Runs the application from source.</source>
+          <target state="new">Runs the application from source.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>dotnet-test</source>
+          <target state="new">dotnet-test</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Runs tests using a test runner specified in the project.json.</source>
+          <target state="new">Runs tests using a test runner specified in the project.json.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>dotnet-pack</source>
+          <target state="new">dotnet-pack</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Creates a NuGet package of your code.</source>
+          <target state="new">Creates a NuGet package of your code.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>EXAMPLES</source>
+          <target state="new">EXAMPLES</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>Initializes a sample .NET Core console application that can be compiled and run.</source>
+          <target state="new">Initializes a sample .NET Core console application that can be compiled and run.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Restores dependencies for a given application.</source>
+          <target state="new">Restores dependencies for a given application.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Compiles the application in a given directory.</source>
+          <target state="new">Compiles the application in a given directory.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Runs a portable app named <ph id="ph1">`myapp.dll`</ph>.</source>
+          <target state="new">Runs a portable app named <ph id="ph1">`myapp.dll`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>ENVIRONMENT</source>
+          <target state="new">ENVIRONMENT</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>The primary package cache.</source>
+          <target state="new">The primary package cache.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>If not set, it defaults to $HOME/.nuget/packages on Unix or %HOME%\NuGet\Packages on Windows.</source>
+          <target state="new">If not set, it defaults to $HOME/.nuget/packages on Unix or %HOME%\NuGet\Packages on Windows.</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Specifies the location of the servicing index to use by the shared host when loading the runtime.</source>
+          <target state="new">Specifies the location of the servicing index to use by the shared host when loading the runtime.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Specifies whether data about the .NET Core tools usage is collected and sent to Microsoft.</source>
+          <target state="new">Specifies whether data about the .NET Core tools usage is collected and sent to Microsoft.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to opt-out of the telemetry feature (values true, 1 or yes accepted); otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept> (values false, 0 or no accepted).</source>
+          <target state="new"><bpt id="p1">**</bpt>true<ept id="p1">**</ept> to opt-out of the telemetry feature (values true, 1 or yes accepted); otherwise, <bpt id="p2">**</bpt>false<ept id="p2">**</ept> (values false, 0 or no accepted).</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>If not set, it defaults to <bpt id="p1">**</bpt>false<ept id="p1">**</ept>, that is, the telemetry feature is on.</source>
+          <target state="new">If not set, it defaults to <bpt id="p1">**</bpt>false<ept id="p1">**</ept>, that is, the telemetry feature is on.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

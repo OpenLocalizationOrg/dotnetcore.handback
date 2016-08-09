@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">4266b181ba8fc26ccb2ce7f9d470d1b17bceeb0c</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\expression-classes.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">bb2cf287fa91fb5a30e9fcef3fb8ced346a21af2</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Framework Types Supporting Expression Trees</source>
+          <target state="new">Framework Types Supporting Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Framework Types Supporting Expression Trees</source>
+          <target state="new">Framework Types Supporting Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Framework Types Supporting Expression Trees</source>
+          <target state="new">Framework Types Supporting Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Previous -- Expression Trees Explained</source>
+          <target state="new">Previous -- Expression Trees Explained</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>There is a large list of classes in the .NET Core framework that work with Expression Trees.</source>
+          <target state="new">There is a large list of classes in the .NET Core framework that work with Expression Trees.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You can see the full list <bpt id="p1">[</bpt>here<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Linq.Expressions)</ept>.</source>
+          <target state="new">You can see the full list <bpt id="p1">[</bpt>here<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Linq.Expressions)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Rather than run through the full list, let's understand how the framework classes have been designed.</source>
+          <target state="new">Rather than run through the full list, let's understand how the framework classes have been designed.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>In language design, an expression is a body of code that evaluates and returns a value.</source>
+          <target state="new">In language design, an expression is a body of code that evaluates and returns a value.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Expressions may be very simple: the constant expression <ph id="ph1">`1`</ph> returns the constant value of 1.</source>
+          <target state="new">Expressions may be very simple: the constant expression <ph id="ph1">`1`</ph> returns the constant value of 1.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>They may be more complicated: The expression <ph id="ph1">`(-B + Math.Sqrt(B*B + 4 * A * C)) / (2 * A)`</ph> returns one root for a quadratic equation (in the case where the equation has a solution).</source>
+          <target state="new">They may be more complicated: The expression <ph id="ph1">`(-B + Math.Sqrt(B*B + 4 * A * C)) / (2 * A)`</ph> returns one root for a quadratic equation (in the case where the equation has a solution).</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>It all starts with System.Linq.Expression</source>
+          <target state="new">It all starts with System.Linq.Expression</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>One of the complexities of working with expression trees is that many different kinds of expressions are valid in many places in programs.</source>
+          <target state="new">One of the complexities of working with expression trees is that many different kinds of expressions are valid in many places in programs.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Consider an assignment expression.</source>
+          <target state="new">Consider an assignment expression.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The right hand side of an assignment could be a constant value, a variable, a method call expression, or others.</source>
+          <target state="new">The right hand side of an assignment could be a constant value, a variable, a method call expression, or others.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>That language flexibility means that you may encounter many different expression types anywhere in the nodes of a tree when you traverse an expression tree.</source>
+          <target state="new">That language flexibility means that you may encounter many different expression types anywhere in the nodes of a tree when you traverse an expression tree.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Therefore, when you can work with the base expression type, that's the simplest way to work.</source>
+          <target state="new">Therefore, when you can work with the base expression type, that's the simplest way to work.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>However, sometimes you need to know more.</source>
+          <target state="new">However, sometimes you need to know more.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The base Expression class contains a <ph id="ph1">`NodeType`</ph> property for this purpose.</source>
+          <target state="new">The base Expression class contains a <ph id="ph1">`NodeType`</ph> property for this purpose.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>It returns an <ph id="ph1">`ExpressionType`</ph> which is an enumeration of possible expression types.</source>
+          <target state="new">It returns an <ph id="ph1">`ExpressionType`</ph> which is an enumeration of possible expression types.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Once you know the type of the node, you can cast it to that type, and perform specific actions knowing the type of the expression node.</source>
+          <target state="new">Once you know the type of the node, you can cast it to that type, and perform specific actions knowing the type of the expression node.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>You can search for certain node types, and then work with the specific properties of that kind of expression.</source>
+          <target state="new">You can search for certain node types, and then work with the specific properties of that kind of expression.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>For example, this code will print the name of a variable for a variable access expression.</source>
+          <target state="new">For example, this code will print the name of a variable for a variable access expression.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>I've followed the practice of checking the node type, then casting to a variable access expression and then checking the properties of the specific expression type:</source>
+          <target state="new">I've followed the practice of checking the node type, then casting to a variable access expression and then checking the properties of the specific expression type:</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Creating Expression Trees</source>
+          <target state="new">Creating Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`System.Linq.Expression`</ph> class also contains many static methods to create expressions.</source>
+          <target state="new">The <ph id="ph1">`System.Linq.Expression`</ph> class also contains many static methods to create expressions.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>These methods create an expression node using the arguments supplied for its children.</source>
+          <target state="new">These methods create an expression node using the arguments supplied for its children.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>In this way, you build an expression up from its leaf nodes.</source>
+          <target state="new">In this way, you build an expression up from its leaf nodes.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>For example, this code builds an Add expression:</source>
+          <target state="new">For example, this code builds an Add expression:</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>You can see from this simple example that many types are involved in creating and working with expression trees.</source>
+          <target state="new">You can see from this simple example that many types are involved in creating and working with expression trees.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>That complexity is necessary to provide the capabilities of the rich vocabulary provided by the C# language.</source>
+          <target state="new">That complexity is necessary to provide the capabilities of the rich vocabulary provided by the C# language.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Navigating the APIs</source>
+          <target state="new">Navigating the APIs</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>There are Expression node types that map to almost all of the syntax elements of the C# language.</source>
+          <target state="new">There are Expression node types that map to almost all of the syntax elements of the C# language.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Each type has specific methods for that type of language element.</source>
+          <target state="new">Each type has specific methods for that type of language element.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>It's a lot to keep in your head at one time.</source>
+          <target state="new">It's a lot to keep in your head at one time.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Rather than try to memorize everything, here are the techniques I use to work with Expression trees:</source>
+          <target state="new">Rather than try to memorize everything, here are the techniques I use to work with Expression trees:</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Look at the members of the <ph id="ph1">`ExpressionType`</ph> enum to determine possible nodes you should be examining.</source>
+          <target state="new">Look at the members of the <ph id="ph1">`ExpressionType`</ph> enum to determine possible nodes you should be examining.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>This really helps when you want to traverse and understand an expression tree.</source>
+          <target state="new">This really helps when you want to traverse and understand an expression tree.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Look at the static members of the <ph id="ph1">`Expression`</ph> class to build an expression.</source>
+          <target state="new">Look at the static members of the <ph id="ph1">`Expression`</ph> class to build an expression.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>Those methods can build any expression type from a set of its child nodes.</source>
+          <target state="new">Those methods can build any expression type from a set of its child nodes.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Look at the <ph id="ph1">`ExpressionVisitor`</ph> class to build a modified expression tree.</source>
+          <target state="new">Look at the <ph id="ph1">`ExpressionVisitor`</ph> class to build a modified expression tree.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>You'll find more as you look at each of those three areas.</source>
+          <target state="new">You'll find more as you look at each of those three areas.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Invariably, you will find what you need when you start with one of those three steps.</source>
+          <target state="new">Invariably, you will find what you need when you start with one of those three steps.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Next -- Executing Expression Trees</source>
+          <target state="new">Next -- Executing Expression Trees</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

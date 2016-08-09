@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0d4bec7a6e9b38f69a3c10df17771fe4e625756d</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\dotnet-new.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">043ec8c59b4ce1526c366ffe1e0e3149fbb8ac92</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>dotnet-new</source>
+          <target state="new">dotnet-new</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>dotnet-new</source>
+          <target state="new">dotnet-new</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>dotnet-new</source>
+          <target state="new">dotnet-new</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>dotnet-new -- Creates a new .NET Core project</source>
+          <target state="new">dotnet-new -- Creates a new .NET Core project</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>SYNOPSIS</source>
+          <target state="new">SYNOPSIS</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`dotnet new`</ph> command provides a convenient way to initialize a valid .NET Core project and sample source code to try out the Command Line Interface (CLI) toolset.</source>
+          <target state="new">The <ph id="ph1">`dotnet new`</ph> command provides a convenient way to initialize a valid .NET Core project and sample source code to try out the Command Line Interface (CLI) toolset.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This command is invoked in the context of a directory.</source>
+          <target state="new">This command is invoked in the context of a directory.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>When invoked, the command will result in two main artifacts being dropped to the directory:</source>
+          <target state="new">When invoked, the command will result in two main artifacts being dropped to the directory:</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>A <ph id="ph1">`Program.cs`</ph> (or <ph id="ph2">`Program.fs`</ph>) file that contains a sample "Hello World" program.</source>
+          <target state="new">A <ph id="ph1">`Program.cs`</ph> (or <ph id="ph2">`Program.fs`</ph>) file that contains a sample "Hello World" program.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>A valid <ph id="ph1">`project.json`</ph> file.</source>
+          <target state="new">A valid <ph id="ph1">`project.json`</ph> file.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>After this, the project is ready to be compiled and/or edited further.</source>
+          <target state="new">After this, the project is ready to be compiled and/or edited further.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="new">Options</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Language of the project.</source>
+          <target state="new">Language of the project.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Defaults to <ph id="ph1">`C#`</ph>.</source>
+          <target state="new">Defaults to <ph id="ph1">`C#`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>(<ph id="ph1">`fsharp`</ph>) or <ph id="ph2">`cs`</ph> (<ph id="ph3">`fs`</ph>) are also valid options.</source>
+          <target state="new">(<ph id="ph1">`fsharp`</ph>) or <ph id="ph2">`cs`</ph> (<ph id="ph3">`fs`</ph>) are also valid options.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>Type of the project.</source>
+          <target state="new">Type of the project.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Valid values are <ph id="ph1">`console`</ph>, <ph id="ph2">`web`</ph>, <ph id="ph3">`lib`</ph> and <ph id="ph4">`xunittest`</ph>.</source>
+          <target state="new">Valid values are <ph id="ph1">`console`</ph>, <ph id="ph2">`web`</ph>, <ph id="ph3">`lib`</ph> and <ph id="ph4">`xunittest`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>EXAMPLES</source>
+          <target state="new">EXAMPLES</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Drops a C# project in the current directory.</source>
+          <target state="new">Drops a C# project in the current directory.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Drops an F# project in the current directory.</source>
+          <target state="new">Drops an F# project in the current directory.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Drops an C# project in the current directory.</source>
+          <target state="new">Drops an C# project in the current directory.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Drops a new ASP.NET Core project in the current directory.</source>
+          <target state="new">Drops a new ASP.NET Core project in the current directory.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

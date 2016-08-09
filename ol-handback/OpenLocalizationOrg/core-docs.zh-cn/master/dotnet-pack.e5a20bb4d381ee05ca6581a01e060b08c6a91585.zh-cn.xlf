@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0a652f0612c31ac5fae551dd7b0a18d1046c55fc</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\dotnet-pack.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">71a1696014ab57403fcbb642bb7ae5a4a16fcb8c</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>dotnet-pack</source>
+          <target state="new">dotnet-pack</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>dotnet-pack</source>
+          <target state="new">dotnet-pack</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>dotnet-pack</source>
+          <target state="new">dotnet-pack</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>NAME</source>
+          <target state="new">NAME</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>- Packs the code into a NuGet package</source>
+          <target state="new">- Packs the code into a NuGet package</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>SYNOPSIS</source>
+          <target state="new">SYNOPSIS</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>DESCRIPTION</source>
+          <target state="new">DESCRIPTION</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`dotnet pack`</ph> command builds the project and creates NuGet packages.</source>
+          <target state="new">The <ph id="ph1">`dotnet pack`</ph> command builds the project and creates NuGet packages.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The result of this operation is two packages with the <ph id="ph1">`nupkg`</ph> extension.</source>
+          <target state="new">The result of this operation is two packages with the <ph id="ph1">`nupkg`</ph> extension.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>One package contains the code and the other contains the debug symbols.</source>
+          <target state="new">One package contains the code and the other contains the debug symbols.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>NuGet dependencies of the project being packed are added to the nuspec file, so they are able to be resolved when the package is installed.</source>
+          <target state="new">NuGet dependencies of the project being packed are added to the nuspec file, so they are able to be resolved when the package is installed.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Project-to-project references are not packaged inside the project by default.</source>
+          <target state="new">Project-to-project references are not packaged inside the project by default.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>If you wish to do this, you need to reference the required project in your dependencies node with a <ph id="ph1">`type`</ph> set to "build" like in the following example:</source>
+          <target state="new">If you wish to do this, you need to reference the required project in your dependencies node with a <ph id="ph1">`type`</ph> set to "build" like in the following example:</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>by default first builds the project.</source>
+          <target state="new">by default first builds the project.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>If you wish to avoid this, pass the <ph id="ph1">`--no-build`</ph> option.</source>
+          <target state="new">If you wish to avoid this, pass the <ph id="ph1">`--no-build`</ph> option.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>This can be useful in Continuous Integration (CI) build scenarios in which you know the code was just previously built, for example.</source>
+          <target state="new">This can be useful in Continuous Integration (CI) build scenarios in which you know the code was just previously built, for example.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>OPTIONS</source>
+          <target state="new">OPTIONS</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The project to pack.</source>
+          <target state="new">The project to pack.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>It can be either a path to a <ph id="ph1">`project.json`</ph> file or to a directory.</source>
+          <target state="new">It can be either a path to a <ph id="ph1">`project.json`</ph> file or to a directory.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>If omitted, it will default to the current directory.</source>
+          <target state="new">If omitted, it will default to the current directory.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>, <ph id="ph1">`--output`</ph> [DIR]</source>
+          <target state="new">, <ph id="ph1">`--output`</ph> [DIR]</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Places the built packages in the directory specified.</source>
+          <target state="new">Places the built packages in the directory specified.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Skips the building phase of the packing process.</source>
+          <target state="new">Skips the building phase of the packing process.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Places the temporary build artifacts in the specified directory.</source>
+          <target state="new">Places the temporary build artifacts in the specified directory.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>By default, they go to the obj directory in the current directory.</source>
+          <target state="new">By default, they go to the obj directory in the current directory.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>,</source>
+          <target state="new">,</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Configuration to use when building the project.</source>
+          <target state="new">Configuration to use when building the project.</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>If not specified, will default to "Debug".</source>
+          <target state="new">If not specified, will default to "Debug".</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Updates the star in <ph id="ph1">`-*`</ph> package version suffix with a specified string.</source>
+          <target state="new">Updates the star in <ph id="ph1">`-*`</ph> package version suffix with a specified string.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>EXAMPLES</source>
+          <target state="new">EXAMPLES</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Packs the current project.</source>
+          <target state="new">Packs the current project.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Packs the app1 project.</source>
+          <target state="new">Packs the app1 project.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Packs the current project and place the resulting packages into the specified folder.</source>
+          <target state="new">Packs the current project and place the resulting packages into the specified folder.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Packs the current project into the specified folder and skips the build step.</source>
+          <target state="new">Packs the current project into the specified folder and skips the build step.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Packs the current project and updates the resulting packages version with the given suffix.</source>
+          <target state="new">Packs the current project and updates the resulting packages version with the given suffix.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>E.g.</source>
+          <target state="new">E.g.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>version <ph id="ph1">`1.0.0-*`</ph> will be updated to <ph id="ph2">`1.0.0-ci-1234`</ph>.</source>
+          <target state="new">version <ph id="ph1">`1.0.0-*`</ph> will be updated to <ph id="ph2">`1.0.0-ci-1234`</ph>.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

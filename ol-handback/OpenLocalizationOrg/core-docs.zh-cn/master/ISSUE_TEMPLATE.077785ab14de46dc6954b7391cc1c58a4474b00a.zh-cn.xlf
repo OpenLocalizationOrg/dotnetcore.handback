@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">88ae2ce68b4efec9cc91f7beaf4c7645512653d7</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">.github\ISSUE_TEMPLATE.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9ae94242ce96185acddb3f8bbf45d581da74a399</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Issue Title</source>
+          <target state="new">Issue Title</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Be as descriptive as you can with your title.</source>
+          <target state="new">Be as descriptive as you can with your title.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>If your issue requests a new topic, preface the title with [NewTopic].</source>
+          <target state="new">If your issue requests a new topic, preface the title with [NewTopic].</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="new">General</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>We use issues to drive the discussion for changes to existing topics and the creation of new topics.</source>
+          <target state="new">We use issues to drive the discussion for changes to existing topics and the creation of new topics.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This way, we have those discussions before significant effort is spent writing a new topic.</source>
+          <target state="new">This way, we have those discussions before significant effort is spent writing a new topic.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Click on the Guidelines for Contributing link above for details.</source>
+          <target state="new">Click on the Guidelines for Contributing link above for details.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Issues with Existing Topics</source>
+          <target state="new">Issues with Existing Topics</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>If the issue is a simple typo or similar correction, you can just submit a PR.</source>
+          <target state="new">If the issue is a simple typo or similar correction, you can just submit a PR.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Otherwise, let us know what's wrong or what we should improve.</source>
+          <target state="new">Otherwise, let us know what's wrong or what we should improve.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Include a link to the topic.</source>
+          <target state="new">Include a link to the topic.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Requests for new Topics</source>
+          <target state="new">Requests for new Topics</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Tell us where this topic should go in the Table of Contents.</source>
+          <target state="new">Tell us where this topic should go in the Table of Contents.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Consider where you looked for this information before opening an issue.</source>
+          <target state="new">Consider where you looked for this information before opening an issue.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Write an abstract</source>
+          <target state="new">Write an abstract</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>In one <bpt id="p1">**</bpt>short<ept id="p1">**</ept> paragraph, describe what this topic will cover.</source>
+          <target state="new">In one <bpt id="p1">**</bpt>short<ept id="p1">**</ept> paragraph, describe what this topic will cover.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Fill in an outline</source>
+          <target state="new">Fill in an outline</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Write a complete outline for the new topic.</source>
+          <target state="new">Write a complete outline for the new topic.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>We'll help review the outline and approve that before anyone writes a topic.</source>
+          <target state="new">We'll help review the outline and approve that before anyone writes a topic.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>Suggest reviewers</source>
+          <target state="new">Suggest reviewers</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>If you know someone who can provide feedback, use '@' to ask them to review.</source>
+          <target state="new">If you know someone who can provide feedback, use '@' to ask them to review.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

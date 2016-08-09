@@ -1,0 +1,374 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">0c7067d17a8ac7178680a62c2bb01a8babc6ea71</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\core\tools\index.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">db3c44b2acebf68699ce66691f5d2bcea2723c92</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>.NET Core Command Line Tools (CLI)</source>
+          <target state="new">.NET Core Command Line Tools (CLI)</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>.NET Core Command Line Tools (CLI)</source>
+          <target state="new">.NET Core Command Line Tools (CLI)</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>.NET Core Command Line Tools</source>
+          <target state="new">.NET Core Command Line Tools</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>What is the .NET Core Command Line Interface (CLI)?</source>
+          <target state="new">What is the .NET Core Command Line Interface (CLI)?</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The .NET Core CLI is a new foundational cross-platform toolchain for developing .NET Core applications.</source>
+          <target state="new">The .NET Core CLI is a new foundational cross-platform toolchain for developing .NET Core applications.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>It is "foundational" because it is the primary layer on which other, higher-level tools, such as Integrated Development Environments (IDEs), editors and build orchestrators can build on.</source>
+          <target state="new">It is "foundational" because it is the primary layer on which other, higher-level tools, such as Integrated Development Environments (IDEs), editors and build orchestrators can build on.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>It is also cross-platform by default and has the same surface area on each of the supported platforms.</source>
+          <target state="new">It is also cross-platform by default and has the same surface area on each of the supported platforms.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This means that when you learn how to use the tooling, you can use it the same way from any of the supported platforms.</source>
+          <target state="new">This means that when you learn how to use the tooling, you can use it the same way from any of the supported platforms.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Installation</source>
+          <target state="new">Installation</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>As with any tooling, the first thing is to get the tools to your machine.</source>
+          <target state="new">As with any tooling, the first thing is to get the tools to your machine.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Depending on your scenario, you can either use the native installers to install the CLI or use the installation shell script.</source>
+          <target state="new">Depending on your scenario, you can either use the native installers to install the CLI or use the installation shell script.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The native installers are primarily meant for developer's machines.</source>
+          <target state="new">The native installers are primarily meant for developer's machines.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The CLI is distributed using each supported platform's native install mechanism, for instance DEB packages on Ubuntu or MSI bundles on Windows.</source>
+          <target state="new">The CLI is distributed using each supported platform's native install mechanism, for instance DEB packages on Ubuntu or MSI bundles on Windows.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>These installers will install and set up the environment as needed for the user to use the CLI immediately after the install.</source>
+          <target state="new">These installers will install and set up the environment as needed for the user to use the CLI immediately after the install.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>However, they also require administrative privileges on the machine.</source>
+          <target state="new">However, they also require administrative privileges on the machine.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>You can view the installation instructions on the <bpt id="p1">[</bpt>.NET Core getting started page<ept id="p1">](https://aka.ms/dotnetcoregs)</ept>.</source>
+          <target state="new">You can view the installation instructions on the <bpt id="p1">[</bpt>.NET Core getting started page<ept id="p1">](https://aka.ms/dotnetcoregs)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Install scripts, on the other hand, do not require administrative privileges.</source>
+          <target state="new">Install scripts, on the other hand, do not require administrative privileges.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>However, they will also not install any prerequisites on the machine; you need to install all of the prerequisites manually.</source>
+          <target state="new">However, they will also not install any prerequisites on the machine; you need to install all of the prerequisites manually.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The scripts are meant mostly for setting up build servers or when you wish to install the tools without administrative privileges (do note the prerequisites caveat above).</source>
+          <target state="new">The scripts are meant mostly for setting up build servers or when you wish to install the tools without administrative privileges (do note the prerequisites caveat above).</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>You can find more information on the <bpt id="p1">[</bpt>install script reference topic<ept id="p1">](dotnet-install-script.md)</ept>.</source>
+          <target state="new">You can find more information on the <bpt id="p1">[</bpt>install script reference topic<ept id="p1">](dotnet-install-script.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>If you are interested in how to set up CLI on your continuous integration (CI) build server you can take a look at the <bpt id="p1">[</bpt>CLI with CI servers<ept id="p1">](using-ci-with-cli.md)</ept> document.</source>
+          <target state="new">If you are interested in how to set up CLI on your continuous integration (CI) build server you can take a look at the <bpt id="p1">[</bpt>CLI with CI servers<ept id="p1">](using-ci-with-cli.md)</ept> document.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>By default, the CLI will install in a side-by-side (SxS) manner.</source>
+          <target state="new">By default, the CLI will install in a side-by-side (SxS) manner.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>This means that multiple versions of the CLI tools can coexist at any given time on a single machine.</source>
+          <target state="new">This means that multiple versions of the CLI tools can coexist at any given time on a single machine.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>How the correct version gets used is explained in more detail in the <bpt id="p1">[</bpt>driver section<ept id="p1">](#driver)</ept> below.</source>
+          <target state="new">How the correct version gets used is explained in more detail in the <bpt id="p1">[</bpt>driver section<ept id="p1">](#driver)</ept> below.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>What commands come in the box?</source>
+          <target state="new">What commands come in the box?</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The following commands are installed by default:</source>
+          <target state="new">The following commands are installed by default:</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>new</source>
+          <target state="new">new</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>restore</source>
+          <target state="new">restore</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>run</source>
+          <target state="new">run</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>build</source>
+          <target state="new">build</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>test</source>
+          <target state="new">test</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>publish</source>
+          <target state="new">publish</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>pack</source>
+          <target state="new">pack</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>There is also a way to import more commands on a per-project basis as well as to add your own commands.</source>
+          <target state="new">There is also a way to import more commands on a per-project basis as well as to add your own commands.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>This is explained in greater detail in the <bpt id="p1">[</bpt>extensibility section<ept id="p1">](#extensibility)</ept>.</source>
+          <target state="new">This is explained in greater detail in the <bpt id="p1">[</bpt>extensibility section<ept id="p1">](#extensibility)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Working with the CLI</source>
+          <target state="new">Working with the CLI</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>A short sample</source>
+          <target state="new">A short sample</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Before we go into any more details, let's see how working with the CLI looks like from a 10,000-foot view.</source>
+          <target state="new">Before we go into any more details, let's see how working with the CLI looks like from a 10,000-foot view.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>The sample below utilizes several commands from the CLI standard install to initialize a new simple console application, restore the dependencies, build the application and then run it.</source>
+          <target state="new">The sample below utilizes several commands from the CLI standard install to initialize a new simple console application, restore the dependencies, build the application and then run it.</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>How does it work?</source>
+          <target state="new">How does it work?</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>As we saw in the short sample <bpt id="p1">[</bpt>above<ept id="p1">](#a-short-sample)</ept>, there is a pattern in the way you use the CLI tools.</source>
+          <target state="new">As we saw in the short sample <bpt id="p1">[</bpt>above<ept id="p1">](#a-short-sample)</ept>, there is a pattern in the way you use the CLI tools.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Within that pattern, we can identify three main pieces of each command:</source>
+          <target state="new">Within that pattern, we can identify three main pieces of each command:</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>The driver ("dotnet")</source>
+          <target state="new">The driver ("dotnet")</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>The command, or "verb"</source>
+          <target state="new">The command, or "verb"</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Command arguments</source>
+          <target state="new">Command arguments</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>Let's dig into more details on each of the above.</source>
+          <target state="new">Let's dig into more details on each of the above.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>Driver</source>
+          <target state="new">Driver</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>The driver is named <ph id="ph1">`dotnet`</ph>.</source>
+          <target state="new">The driver is named <ph id="ph1">`dotnet`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>It is the first part of what you invoke.</source>
+          <target state="new">It is the first part of what you invoke.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>The driver has two responsibilities:</source>
+          <target state="new">The driver has two responsibilities:</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Executing IL code</source>
+          <target state="new">Executing IL code</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>Executing the verb</source>
+          <target state="new">Executing the verb</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Which of the two things it does is dependent on what is specified on the command line.</source>
+          <target state="new">Which of the two things it does is dependent on what is specified on the command line.</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>In the first case, you would specify an IL assembly that <ph id="ph1">`dotnet`</ph> would run similar to this: <ph id="ph2">`dotnet /path/to/your.dll`</ph>.</source>
+          <target state="new">In the first case, you would specify an IL assembly that <ph id="ph1">`dotnet`</ph> would run similar to this: <ph id="ph2">`dotnet /path/to/your.dll`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>In the second case, the driver attempts to invoke the specified command.</source>
+          <target state="new">In the second case, the driver attempts to invoke the specified command.</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>This will start the CLI command execution process.</source>
+          <target state="new">This will start the CLI command execution process.</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>First, the driver will determine the version of the tooling that you want.</source>
+          <target state="new">First, the driver will determine the version of the tooling that you want.</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>You can specify the version in the <ph id="ph1">`global.json`</ph> file using the <ph id="ph2">`sdkVersion`</ph> property.</source>
+          <target state="new">You can specify the version in the <ph id="ph1">`global.json`</ph> file using the <ph id="ph2">`sdkVersion`</ph> property.</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>If that is not available, the driver will find the latest version of the tools that is installed on disk and will use that version.</source>
+          <target state="new">If that is not available, the driver will find the latest version of the tools that is installed on disk and will use that version.</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>Once the version is determined, it will execute the command.</source>
+          <target state="new">Once the version is determined, it will execute the command.</target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>The "verb"</source>
+          <target state="new">The "verb"</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>The verb is simply a command that performs an action.</source>
+          <target state="new">The verb is simply a command that performs an action.</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>will build your code.</source>
+          <target state="new">will build your code.</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>will publish your code.</source>
+          <target state="new">will publish your code.</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>The verb is implemented as a console application that is named per convention: <ph id="ph1">`dotnet-{verb}`</ph>.</source>
+          <target state="new">The verb is implemented as a console application that is named per convention: <ph id="ph1">`dotnet-{verb}`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>All of the logic is implemented in the console application that represents the verb.</source>
+          <target state="new">All of the logic is implemented in the console application that represents the verb.</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>The arguments</source>
+          <target state="new">The arguments</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>The arguments that you pass on the command line are the arguments to the actual verb/command being invoked.</source>
+          <target state="new">The arguments that you pass on the command line are the arguments to the actual verb/command being invoked.</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>For example, when you type <ph id="ph1">`dotnet publish --output publishedapp`</ph> the <ph id="ph2">`--output`</ph> argument is passed to the <ph id="ph3">`publish`</ph> command.</source>
+          <target state="new">For example, when you type <ph id="ph1">`dotnet publish --output publishedapp`</ph> the <ph id="ph2">`--output`</ph> argument is passed to the <ph id="ph3">`publish`</ph> command.</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Types of application portability</source>
+          <target state="new">Types of application portability</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>CLI enables applications to be portable in two main ways:</source>
+          <target state="new">CLI enables applications to be portable in two main ways:</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>Completely portable application that can run anywhere .NET Core is installed</source>
+          <target state="new">Completely portable application that can run anywhere .NET Core is installed</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>Self-contained applications</source>
+          <target state="new">Self-contained applications</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>You can learn more about both of these in the <bpt id="p1">[</bpt>application types overview<ept id="p1">](../app-types.md)</ept> topic.</source>
+          <target state="new">You can learn more about both of these in the <bpt id="p1">[</bpt>application types overview<ept id="p1">](../app-types.md)</ept> topic.</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Migration from DNX</source>
+          <target state="new">Migration from DNX</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>If you used DNX in RC1 of .NET Core, you may be wondering what happened to it and how do these new tools relate to the DNX tools.</source>
+          <target state="new">If you used DNX in RC1 of .NET Core, you may be wondering what happened to it and how do these new tools relate to the DNX tools.</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>In short, the DNX tools have been replaced with the .NET Core CLI tools.</source>
+          <target state="new">In short, the DNX tools have been replaced with the .NET Core CLI tools.</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>If you have existing projects or are just wondering how the commands map, you can use the <bpt id="p1">[</bpt>DNX to CLI migration document<ept id="p1">](../migrating-from-dnx.md)</ept> to get all of the details.</source>
+          <target state="new">If you have existing projects or are just wondering how the commands map, you can use the <bpt id="p1">[</bpt>DNX to CLI migration document<ept id="p1">](../migrating-from-dnx.md)</ept> to get all of the details.</target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>Extensibility</source>
+          <target state="new">Extensibility</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Of course, not every tool that you could use in your workflow will be a part of the core CLI tools.</source>
+          <target state="new">Of course, not every tool that you could use in your workflow will be a part of the core CLI tools.</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>However, .NET Core CLI has an extensibility model that allows you to specify additional tools for your projects.</source>
+          <target state="new">However, .NET Core CLI has an extensibility model that allows you to specify additional tools for your projects.</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>You can find out more in the <bpt id="p1">[</bpt>extensibility document<ept id="p1">](extensibility.md)</ept>.</source>
+          <target state="new">You can find out more in the <bpt id="p1">[</bpt>extensibility document<ept id="p1">](extensibility.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>More resources</source>
+          <target state="new">More resources</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>This was a short overview of the most important features of the CLI.</source>
+          <target state="new">This was a short overview of the most important features of the CLI.</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>You can find out more by using the reference and conceptual topics on this site.</source>
+          <target state="new">You can find out more by using the reference and conceptual topics on this site.</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>There are also other resources you can use:</source>
+          <target state="new">There are also other resources you can use:</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>GitHub repo</source>
+          <target state="new">GitHub repo</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>Getting Started instructions</source>
+          <target state="new">Getting Started instructions</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

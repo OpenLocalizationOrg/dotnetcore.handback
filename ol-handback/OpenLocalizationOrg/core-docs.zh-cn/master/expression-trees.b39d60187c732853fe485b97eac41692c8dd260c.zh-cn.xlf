@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">f98dd3506827405d243f8364233c1e2c351cbdd6</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\csharp\expression-trees.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">9d8e4d2d71b50978e32ebc9752db37d8c795e0cb</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Expression Trees</source>
+          <target state="new">Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Expression Trees</source>
+          <target state="new">Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Expression Trees</source>
+          <target state="new">Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If you have used LINQ, you have experience with a rich library where the <ph id="ph1">`Func`</ph> types are part of the API set.</source>
+          <target state="new">If you have used LINQ, you have experience with a rich library where the <ph id="ph1">`Func`</ph> types are part of the API set.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>(If you are not familiar with LINQ, you probably want to read <bpt id="p1">[</bpt>the LINQ tutorial<ept id="p1">](linq.md)</ept> and the tutorial on <bpt id="p2">[</bpt>lambda expressions<ept id="p2">](lambda-expressions.md)</ept> before this one.) <bpt id="p3">*</bpt>Expression Trees<ept id="p3">*</ept> provide richer interaction with the arguments that are functions.</source>
+          <target state="new">(If you are not familiar with LINQ, you probably want to read <bpt id="p1">[</bpt>the LINQ tutorial<ept id="p1">](linq.md)</ept> and the tutorial on <bpt id="p2">[</bpt>lambda expressions<ept id="p2">](lambda-expressions.md)</ept> before this one.) <bpt id="p3">*</bpt>Expression Trees<ept id="p3">*</ept> provide richer interaction with the arguments that are functions.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>You write function arguments, typically using Lambda Expressions, when you create LINQ queries.</source>
+          <target state="new">You write function arguments, typically using Lambda Expressions, when you create LINQ queries.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>In a typical LINQ query, those function arguments are transformed into a delegate the compiler creates.</source>
+          <target state="new">In a typical LINQ query, those function arguments are transformed into a delegate the compiler creates.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>When you want to have a richer interaction, you need to use <bpt id="p1">*</bpt>Expression Trees<ept id="p1">*</ept>.</source>
+          <target state="new">When you want to have a richer interaction, you need to use <bpt id="p1">*</bpt>Expression Trees<ept id="p1">*</ept>.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Expression Trees represent code as a structure that you can examine, modify, or execute.</source>
+          <target state="new">Expression Trees represent code as a structure that you can examine, modify, or execute.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>These tools give you the power to manipulate code during run time.</source>
+          <target state="new">These tools give you the power to manipulate code during run time.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>You can write code that examines running algorithms, or injects new capabilities.</source>
+          <target state="new">You can write code that examines running algorithms, or injects new capabilities.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>In more advanced scenarios, you can modify running algorithms, and even translate C# expressions into another form for execution in another environment.</source>
+          <target state="new">In more advanced scenarios, you can modify running algorithms, and even translate C# expressions into another form for execution in another environment.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>You've likely already written code that uses Expression Trees.</source>
+          <target state="new">You've likely already written code that uses Expression Trees.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Entity Framework's LINQ APIs accept Expression Trees as the arguments for the LINQ Query Expression Pattern.</source>
+          <target state="new">Entity Framework's LINQ APIs accept Expression Trees as the arguments for the LINQ Query Expression Pattern.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>That enables <bpt id="p1">[</bpt>Entity Framework<ept id="p1">](http://docs.efproject.net/en/latest/)</ept> to translate the query you wrote in C# into SQL that executes in the database engine.</source>
+          <target state="new">That enables <bpt id="p1">[</bpt>Entity Framework<ept id="p1">](http://docs.efproject.net/en/latest/)</ept> to translate the query you wrote in C# into SQL that executes in the database engine.</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Another example is <bpt id="p1">[</bpt>Moq<ept id="p1">](https://github.com/Moq/moq)</ept>, which is a popular mocking framework for .NET.</source>
+          <target state="new">Another example is <bpt id="p1">[</bpt>Moq<ept id="p1">](https://github.com/Moq/moq)</ept>, which is a popular mocking framework for .NET.</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The remaining sections of this tutorial will explore what Expression Trees are, examine the framework classes that support expression trees, and show you how to work with expression trees.</source>
+          <target state="new">The remaining sections of this tutorial will explore what Expression Trees are, examine the framework classes that support expression trees, and show you how to work with expression trees.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>You'll learn how to read expression trees, how to create expression trees, how to create modified expression trees, and how to execute the code represented by expression trees.</source>
+          <target state="new">You'll learn how to read expression trees, how to create expression trees, how to create modified expression trees, and how to execute the code represented by expression trees.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>After reading, you will be ready to use these structures to create rich adaptive algorithms.</source>
+          <target state="new">After reading, you will be ready to use these structures to create rich adaptive algorithms.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>ol { list-style-type: upper-roman; } <ph id="ph1">&lt;/style&gt;</ph><bpt id="p1">
+1. [</bpt>Expression Trees Explained<ept id="p1">](expression-trees-explained.md)</ept></source>
+          <target state="new">ol { list-style-type: upper-roman; } <ph id="ph1">&lt;/style&gt;</ph><bpt id="p1">
+1. [</bpt>Expression Trees Explained<ept id="p1">](expression-trees-explained.md)</ept></target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Framework Types Supporting Expression Trees</source>
+          <target state="new">Framework Types Supporting Expression Trees</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Learn about the structures and classes that define and manipulate expression trees.</source>
+          <target state="new">Learn about the structures and classes that define and manipulate expression trees.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Executing Expressions</source>
+          <target state="new">Executing Expressions</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>Learn how to convert an expression tree represented as a Lambda Expression into a delegate and execute the resulting delegate.</source>
+          <target state="new">Learn how to convert an expression tree represented as a Lambda Expression into a delegate and execute the resulting delegate.</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>Interpreting Expressions</source>
+          <target state="new">Interpreting Expressions</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Learn how to traverse and examine <bpt id="p1">*</bpt>expression trees<ept id="p1">*</ept> to understand what code the expression tree represents.</source>
+          <target state="new">Learn how to traverse and examine <bpt id="p1">*</bpt>expression trees<ept id="p1">*</ept> to understand what code the expression tree represents.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Building Expressions</source>
+          <target state="new">Building Expressions</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Learn how to construct the nodes for an expression tree and build expression trees.</source>
+          <target state="new">Learn how to construct the nodes for an expression tree and build expression trees.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>Translating Expressions</source>
+          <target state="new">Translating Expressions</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>Learn how to build a modified copy of an expression tree, or translate an expression tree into a different format.</source>
+          <target state="new">Learn how to build a modified copy of an expression tree, or translate an expression tree into a different format.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Summing up</source>
+          <target state="new">Summing up</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Review the information on expression trees.</source>
+          <target state="new">Review the information on expression trees.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

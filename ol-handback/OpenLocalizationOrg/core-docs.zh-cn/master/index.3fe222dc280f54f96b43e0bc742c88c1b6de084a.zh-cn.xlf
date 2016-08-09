@@ -1,0 +1,434 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3f2831f21654d9eb1523cd80166b674e7c41d8bb</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">docs\standard\collections\index.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">3ea5a4943397804aa82d71ac02818151cf77119d</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>Collections and Data Structures</source>
+          <target state="new">Collections and Data Structures</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Collections and Data Structures</source>
+          <target state="new">Collections and Data Structures</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>.NET, .NET Core</source>
+          <target state="new">.NET, .NET Core</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Collections and Data Structures</source>
+          <target state="new">Collections and Data Structures</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Similar data can often be handled more efficiently when stored and manipulated as a collection.</source>
+          <target state="new">Similar data can often be handled more efficiently when stored and manipulated as a collection.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You can use the <bpt id="p1">[</bpt>System.Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept> class or the classes in the <bpt id="p2">[</bpt>System.Collections<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept>, <bpt id="p3">[</bpt>System.Collections.Generic<ept id="p3">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic)</ept>, or <bpt id="p4">[</bpt>System.Collections.Concurrent<ept id="p4">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)</ept> namespaces to add, remove, and modify either individual elements or a range of elements in a collection.</source>
+          <target state="new">You can use the <bpt id="p1">[</bpt>System.Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept> class or the classes in the <bpt id="p2">[</bpt>System.Collections<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept>, <bpt id="p3">[</bpt>System.Collections.Generic<ept id="p3">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic)</ept>, or <bpt id="p4">[</bpt>System.Collections.Concurrent<ept id="p4">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)</ept> namespaces to add, remove, and modify either individual elements or a range of elements in a collection.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>There are two main types of collections; generic collections and non-generic collections.</source>
+          <target state="new">There are two main types of collections; generic collections and non-generic collections.</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Generic collections are type-safe at compile time.</source>
+          <target state="new">Generic collections are type-safe at compile time.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Because of this, generic collections typically offer better performance.</source>
+          <target state="new">Because of this, generic collections typically offer better performance.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Generic collections accept a type parameter when they are constructed and do not require that you cast to and from the <bpt id="p1">[</bpt>Object<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Object)</ept> type when you add or remove items from the collection.</source>
+          <target state="new">Generic collections accept a type parameter when they are constructed and do not require that you cast to and from the <bpt id="p1">[</bpt>Object<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Object)</ept> type when you add or remove items from the collection.</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Non-generic collections store items as <bpt id="p1">[</bpt>Object<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Object)</ept> and require casting.</source>
+          <target state="new">Non-generic collections store items as <bpt id="p1">[</bpt>Object<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Object)</ept> and require casting.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>You may see non-generic collections in older code.</source>
+          <target state="new">You may see non-generic collections in older code.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The collections in the <bpt id="p1">[</bpt>System.Collections.Concurrent<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)</ept> namespace provide efficient thread-safe operations for accessing collection items from multiple threads.</source>
+          <target state="new">The collections in the <bpt id="p1">[</bpt>System.Collections.Concurrent<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)</ept> namespace provide efficient thread-safe operations for accessing collection items from multiple threads.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Common collection features</source>
+          <target state="new">Common collection features</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>All collections provide methods for adding, removing or finding items in the collection.</source>
+          <target state="new">All collections provide methods for adding, removing or finding items in the collection.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>In addition, all collections that directly or indirectly implement the <bpt id="p1">[</bpt>ICollection<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.ICollection)</ept> interface or the <bpt id="p2">[</bpt>ICollection<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.ICollection-1)</ept> interface share these features:</source>
+          <target state="new">In addition, all collections that directly or indirectly implement the <bpt id="p1">[</bpt>ICollection<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.ICollection)</ept> interface or the <bpt id="p2">[</bpt>ICollection<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.ICollection-1)</ept> interface share these features:</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>The ability to enumerate the collection</source>
+          <target state="new">The ability to enumerate the collection</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>.NET Framework collections either implement <bpt id="p1">[</bpt>System.Collections.IEnumerable<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.IEnumerable)</ept> or <bpt id="p2">[</bpt>System.Collections.Generic.IEnumerable<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.IEnumerable-1)</ept> to enable the collection to be iterated through.</source>
+          <target state="new">.NET Framework collections either implement <bpt id="p1">[</bpt>System.Collections.IEnumerable<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.IEnumerable)</ept> or <bpt id="p2">[</bpt>System.Collections.Generic.IEnumerable<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.IEnumerable-1)</ept> to enable the collection to be iterated through.</target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>An enumerator can be thought of as a movable pointer to any element in the collection.</source>
+          <target state="new">An enumerator can be thought of as a movable pointer to any element in the collection.</target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The <ph id="ph1">`foreach, in`</ph> statement (C#) uses the enumerator exposed by the <ph id="ph2">`GetEnumerator`</ph> method and hides the complexity of manipulating the enumerator.</source>
+          <target state="new">The <ph id="ph1">`foreach, in`</ph> statement (C#) uses the enumerator exposed by the <ph id="ph2">`GetEnumerator`</ph> method and hides the complexity of manipulating the enumerator.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>In addition, any collection that implements <bpt id="p1">[</bpt>System.Collections.Generic.IEnumerable<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.IEnumerable-1)</ept> is considered a queryable type and can be queried with LINQ.</source>
+          <target state="new">In addition, any collection that implements <bpt id="p1">[</bpt>System.Collections.Generic.IEnumerable<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.IEnumerable-1)</ept> is considered a queryable type and can be queried with LINQ.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>LINQ queries provide a common pattern for accessing data.</source>
+          <target state="new">LINQ queries provide a common pattern for accessing data.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>They are typically more concise and readable than standard for each loops, and provide filtering, ordering and grouping capabilities.</source>
+          <target state="new">They are typically more concise and readable than standard for each loops, and provide filtering, ordering and grouping capabilities.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>LINQ queries can also improve performance.</source>
+          <target state="new">LINQ queries can also improve performance.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>The ability to copy the collection contents to an array</source>
+          <target state="new">The ability to copy the collection contents to an array</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>All collections can be copied to an array using the <ph id="ph1">`CopyTo`</ph> method; however, the order of the elements in the new array is based on the sequence in which the enumerator returns them.</source>
+          <target state="new">All collections can be copied to an array using the <ph id="ph1">`CopyTo`</ph> method; however, the order of the elements in the new array is based on the sequence in which the enumerator returns them.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>The resulting array is always one-dimensional with a lower bound of zero.</source>
+          <target state="new">The resulting array is always one-dimensional with a lower bound of zero.</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>In addition, many collection classes contain the following features:</source>
+          <target state="new">In addition, many collection classes contain the following features:</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Capacity and Count properties</source>
+          <target state="new">Capacity and Count properties</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>The capacity of a collection is the number of elements it can contain.</source>
+          <target state="new">The capacity of a collection is the number of elements it can contain.</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>The count of a collection is the number of elements it actually contains.</source>
+          <target state="new">The count of a collection is the number of elements it actually contains.</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Some collections hide the capacity or the count or both.</source>
+          <target state="new">Some collections hide the capacity or the count or both.</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Most collections automatically expand in capacity when the current capacity is reached.</source>
+          <target state="new">Most collections automatically expand in capacity when the current capacity is reached.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>The memory is reallocated, and the elements are copied from the old collection to the new one.</source>
+          <target state="new">The memory is reallocated, and the elements are copied from the old collection to the new one.</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This reduces the code required to use the collection; however, the performance of the collection might be negatively affected.</source>
+          <target state="new">This reduces the code required to use the collection; however, the performance of the collection might be negatively affected.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>For example, for <bpt id="p1">[</bpt>List<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.List-1)</ept>, if <ph id="ph3">`Count`</ph> is less than <ph id="ph4">`Capacity`</ph>, adding an item is an O(1) operation.</source>
+          <target state="new">For example, for <bpt id="p1">[</bpt>List<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.List-1)</ept>, if <ph id="ph3">`Count`</ph> is less than <ph id="ph4">`Capacity`</ph>, adding an item is an O(1) operation.</target>
+        </trans-unit>
+        <trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>If the capacity needs to be increased to accommodate the new element, adding an item becomes an O(n) operation, where n is <ph id="ph1">`Count`</ph>.</source>
+          <target state="new">If the capacity needs to be increased to accommodate the new element, adding an item becomes an O(n) operation, where n is <ph id="ph1">`Count`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>The best way to avoid poor performance caused by multiple reallocations is to set the initial capacity to be the estimated size of the collection.</source>
+          <target state="new">The best way to avoid poor performance caused by multiple reallocations is to set the initial capacity to be the estimated size of the collection.</target>
+        </trans-unit>
+        <trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>A <bpt id="p1">[</bpt>BitArray<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.BitArray)</ept> is a special case; its capacity is the same as its length, which is the same as its count.</source>
+          <target state="new">A <bpt id="p1">[</bpt>BitArray<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.BitArray)</ept> is a special case; its capacity is the same as its length, which is the same as its count.</target>
+        </trans-unit>
+        <trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>A consistent lower bound</source>
+          <target state="new">A consistent lower bound</target>
+        </trans-unit>
+        <trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>The lower bound of a collection is the index of its first element.</source>
+          <target state="new">The lower bound of a collection is the index of its first element.</target>
+        </trans-unit>
+        <trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>All indexed collections in the <bpt id="p1">[</bpt>System.Collections<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept> namespaces have a lower bound of zero, meaning they are 0-indexed.</source>
+          <target state="new">All indexed collections in the <bpt id="p1">[</bpt>System.Collections<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept> namespaces have a lower bound of zero, meaning they are 0-indexed.</target>
+        </trans-unit>
+        <trans-unit id="143" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept> has a lower bound of zero by default, but a different lower bound can be defined when creating an instance of the <ph id="ph1">`Array`</ph> class using <ph id="ph2">`Array.CreateInstance`</ph>.</source>
+          <target state="new"><bpt id="p1">[</bpt>Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept> has a lower bound of zero by default, but a different lower bound can be defined when creating an instance of the <ph id="ph1">`Array`</ph> class using <ph id="ph2">`Array.CreateInstance`</ph>.</target>
+        </trans-unit>
+        <trans-unit id="144" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">**</bpt>Synchronization for access from multiple threads<ept id="p1">**</ept> (<bpt id="p2">[</bpt>System.Collections<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept> classes only).</source>
+          <target state="new"><bpt id="p1">**</bpt>Synchronization for access from multiple threads<ept id="p1">**</ept> (<bpt id="p2">[</bpt>System.Collections<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept> classes only).</target>
+        </trans-unit>
+        <trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Non-generic collection types in the <bpt id="p1">[</bpt>System.Collections<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept> namespace provide some thread safety with synchronization; typically exposed through the <ph id="ph1">`SyncRoot`</ph> and <ph id="ph2">`IsSynchronized`</ph> members.</source>
+          <target state="new">Non-generic collection types in the <bpt id="p1">[</bpt>System.Collections<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections)</ept> namespace provide some thread safety with synchronization; typically exposed through the <ph id="ph1">`SyncRoot`</ph> and <ph id="ph2">`IsSynchronized`</ph> members.</target>
+        </trans-unit>
+        <trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>These collections are not thread-safe by default.</source>
+          <target state="new">These collections are not thread-safe by default.</target>
+        </trans-unit>
+        <trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>If you require scalable and efficient multi-threaded access to a collection, use one of the classes in the <bpt id="p1">[</bpt>System.Collections.Concurrent<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)</ept> namespace or consider using an immutable collection.</source>
+          <target state="new">If you require scalable and efficient multi-threaded access to a collection, use one of the classes in the <bpt id="p1">[</bpt>System.Collections.Concurrent<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent)</ept> namespace or consider using an immutable collection.</target>
+        </trans-unit>
+        <trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>For more information, see <bpt id="p1">[</bpt>Thread-Safe Collections<ept id="p1">](threadsafe/index.md)</ept>.</source>
+          <target state="new">For more information, see <bpt id="p1">[</bpt>Thread-Safe Collections<ept id="p1">](threadsafe/index.md)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Choosing a collection</source>
+          <target state="new">Choosing a collection</target>
+        </trans-unit>
+        <trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>In general, you should use generic collections.</source>
+          <target state="new">In general, you should use generic collections.</target>
+        </trans-unit>
+        <trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>The following table describes some common collection scenarios and the collection classes you can use for those scenarios.</source>
+          <target state="new">The following table describes some common collection scenarios and the collection classes you can use for those scenarios.</target>
+        </trans-unit>
+        <trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>If you are new to generic collections, this table will help you choose the generic collection that works the best for your task.</source>
+          <target state="new">If you are new to generic collections, this table will help you choose the generic collection that works the best for your task.</target>
+        </trans-unit>
+        <trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>I want to…</source>
+          <target state="new">I want to…</target>
+        </trans-unit>
+        <trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Generic collection option(s)</source>
+          <target state="new">Generic collection option(s)</target>
+        </trans-unit>
+        <trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Non-generic collection option(s)</source>
+          <target state="new">Non-generic collection option(s)</target>
+        </trans-unit>
+        <trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Store items as key/value pairs for quick look-up by key</source>
+          <target state="new">Store items as key/value pairs for quick look-up by key</target>
+        </trans-unit>
+        <trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic.Dictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue</source>
+          <target state="new">System.Collections.Generic.Dictionary<ph id="ph1">&amp;lt;</ph>TKey, TValue</target>
+        </trans-unit>
+        <trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>Hashtable</source>
+          <target state="new">Hashtable</target>
+        </trans-unit>
+        <trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>Access items by index</source>
+          <target state="new">Access items by index</target>
+        </trans-unit>
+        <trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic.List<ph id="ph1">&amp;lt;</ph>T</source>
+          <target state="new">System.Collections.Generic.List<ph id="ph1">&amp;lt;</ph>T</target>
+        </trans-unit>
+        <trans-unit id="161" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>System.Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept>, <bpt id="p2">[</bpt>System.Collections.ArrayList<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.ArrayList)</ept></source>
+          <target state="new"><bpt id="p1">[</bpt>System.Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept>, <bpt id="p2">[</bpt>System.Collections.ArrayList<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.ArrayList)</ept></target>
+        </trans-unit>
+        <trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Use items first-in-first-out (FIFO)</source>
+          <target state="new">Use items first-in-first-out (FIFO)</target>
+        </trans-unit>
+        <trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic.Queue<ph id="ph1">&amp;lt;</ph>T</source>
+          <target state="new">System.Collections.Generic.Queue<ph id="ph1">&amp;lt;</ph>T</target>
+        </trans-unit>
+        <trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>System.Collections.Queue</source>
+          <target state="new">System.Collections.Queue</target>
+        </trans-unit>
+        <trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Use data Last-In-First-Out (LIFO)</source>
+          <target state="new">Use data Last-In-First-Out (LIFO)</target>
+        </trans-unit>
+        <trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic.Stack<ph id="ph1">&amp;lt;</ph>T</source>
+          <target state="new">System.Collections.Generic.Stack<ph id="ph1">&amp;lt;</ph>T</target>
+        </trans-unit>
+        <trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>System.Collections.Stack</source>
+          <target state="new">System.Collections.Stack</target>
+        </trans-unit>
+        <trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>Access items sequentially</source>
+          <target state="new">Access items sequentially</target>
+        </trans-unit>
+        <trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic.LinkedList<ph id="ph1">&amp;lt;</ph>T</source>
+          <target state="new">System.Collections.Generic.LinkedList<ph id="ph1">&amp;lt;</ph>T</target>
+        </trans-unit>
+        <trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>No recommendation</source>
+          <target state="new">No recommendation</target>
+        </trans-unit>
+        <trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>Receive notifications when items are removed or added to the collection.</source>
+          <target state="new">Receive notifications when items are removed or added to the collection.</target>
+        </trans-unit>
+        <trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>(implements <bpt id="p1">[</bpt>INotifyPropertyChanged<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.ComponentModel.INotifyPropertyChanged)</ept> and <bpt id="p2">[</bpt>INotifyCollectionChanged<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Specialized.INotifyCollectionChanged)</ept>)</source>
+          <target state="new">(implements <bpt id="p1">[</bpt>INotifyPropertyChanged<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.ComponentModel.INotifyPropertyChanged)</ept> and <bpt id="p2">[</bpt>INotifyCollectionChanged<ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Specialized.INotifyCollectionChanged)</ept>)</target>
+        </trans-unit>
+        <trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>System.Collections.ObjectModel.ObservableCollection<ph id="ph1">&amp;lt;</ph>T</source>
+          <target state="new">System.Collections.ObjectModel.ObservableCollection<ph id="ph1">&amp;lt;</ph>T</target>
+        </trans-unit>
+        <trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>No recommendation</source>
+          <target state="new">No recommendation</target>
+        </trans-unit>
+        <trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>Use a sorted collection</source>
+          <target state="new">Use a sorted collection</target>
+        </trans-unit>
+        <trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic.SortedList<ph id="ph1">&amp;lt;</ph>TKey, TValue</source>
+          <target state="new">System.Collections.Generic.SortedList<ph id="ph1">&amp;lt;</ph>TKey, TValue</target>
+        </trans-unit>
+        <trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>System.Collections.SortedList</source>
+          <target state="new">System.Collections.SortedList</target>
+        </trans-unit>
+        <trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>Manage efficient storage and access of unique elements</source>
+          <target state="new">Manage efficient storage and access of unique elements</target>
+        </trans-unit>
+        <trans-unit id="179" translate="yes" xml:space="preserve">
+          <source><bpt id="p1">[</bpt>System.Collections.Generic.HashSet<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.HashSet-1)</ept>, <bpt id="p2">[</bpt>System.Collections.Generic.SortedSet<ph id="ph3">&amp;lt;</ph>T<ph id="ph4">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.SortedSet-1)</ept></source>
+          <target state="new"><bpt id="p1">[</bpt>System.Collections.Generic.HashSet<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.HashSet-1)</ept>, <bpt id="p2">[</bpt>System.Collections.Generic.SortedSet<ph id="ph3">&amp;lt;</ph>T<ph id="ph4">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.SortedSet-1)</ept></target>
+        </trans-unit>
+        <trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>No recommendation</source>
+          <target state="new">No recommendation</target>
+        </trans-unit>
+        <trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>Related Topics</source>
+          <target state="new">Related Topics</target>
+        </trans-unit>
+        <trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <target state="new">Title</target>
+        </trans-unit>
+        <trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target state="new">Description</target>
+        </trans-unit>
+        <trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>Selecting a Collection Class</source>
+          <target state="new">Selecting a Collection Class</target>
+        </trans-unit>
+        <trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>Describes the different collections and helps you select one for your scenario.</source>
+          <target state="new">Describes the different collections and helps you select one for your scenario.</target>
+        </trans-unit>
+        <trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>Commonly Used Collection Types</source>
+          <target state="new">Commonly Used Collection Types</target>
+        </trans-unit>
+        <trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>Describes commonly used generic and nongeneric collection types such as <bpt id="p1">[</bpt>System.Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept>, <bpt id="p2">[</bpt>System.Collections.Generic.List<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.List-1)</ept>, and <bpt id="p3">[</bpt>System.Collections.Generic.Dictionary<ph id="ph3">&amp;lt;</ph>TKey, TValue<ph id="ph4">&amp;gt;</ph><ept id="p3">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.Dictionary-2)</ept>.</source>
+          <target state="new">Describes commonly used generic and nongeneric collection types such as <bpt id="p1">[</bpt>System.Array<ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Array)</ept>, <bpt id="p2">[</bpt>System.Collections.Generic.List<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.List-1)</ept>, and <bpt id="p3">[</bpt>System.Collections.Generic.Dictionary<ph id="ph3">&amp;lt;</ph>TKey, TValue<ph id="ph4">&amp;gt;</ph><ept id="p3">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Generic.Dictionary-2)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>When to Use Generic Collections</source>
+          <target state="new">When to Use Generic Collections</target>
+        </trans-unit>
+        <trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>Discusses the use of generic collection types.</source>
+          <target state="new">Discusses the use of generic collection types.</target>
+        </trans-unit>
+        <trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>Comparisons and Sorts Within Collections</source>
+          <target state="new">Comparisons and Sorts Within Collections</target>
+        </trans-unit>
+        <trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>Discusses the use of equality comparisons and sorting comparisons in collections.</source>
+          <target state="new">Discusses the use of equality comparisons and sorting comparisons in collections.</target>
+        </trans-unit>
+        <trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>Sorted Collection Types</source>
+          <target state="new">Sorted Collection Types</target>
+        </trans-unit>
+        <trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>Describes sorted collections performance and characteristics.</source>
+          <target state="new">Describes sorted collections performance and characteristics.</target>
+        </trans-unit>
+        <trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>Hashtable and Dictionary Collection Types</source>
+          <target state="new">Hashtable and Dictionary Collection Types</target>
+        </trans-unit>
+        <trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>Describes the features of generic and non-generic hash-based dictionary types.</source>
+          <target state="new">Describes the features of generic and non-generic hash-based dictionary types.</target>
+        </trans-unit>
+        <trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>Thread-Safe Collections</source>
+          <target state="new">Thread-Safe Collections</target>
+        </trans-unit>
+        <trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>Describes collection types such as <bpt id="p1">[</bpt>System.Collections.Concurrent.BlockingCollection<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent.BlockingCollection-1)</ept> and <bpt id="p2">[</bpt>System.Collections.Concurrent.ConcurrentBag<ph id="ph3">&amp;lt;</ph>T<ph id="ph4">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent.ConcurrentBag-1)</ept> that support safe and efficient concurrent access from multiple threads.</source>
+          <target state="new">Describes collection types such as <bpt id="p1">[</bpt>System.Collections.Concurrent.BlockingCollection<ph id="ph1">&amp;lt;</ph>T<ph id="ph2">&amp;gt;</ph><ept id="p1">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent.BlockingCollection-1)</ept> and <bpt id="p2">[</bpt>System.Collections.Concurrent.ConcurrentBag<ph id="ph3">&amp;lt;</ph>T<ph id="ph4">&amp;gt;</ph><ept id="p2">](https://docs.microsoft.com/dotnet/core/api/System.Collections.Concurrent.ConcurrentBag-1)</ept> that support safe and efficient concurrent access from multiple threads.</target>
+        </trans-unit>
+        <trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>Reference</source>
+          <target state="new">Reference</target>
+        </trans-unit>
+        <trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>System.Array</source>
+          <target state="new">System.Array</target>
+        </trans-unit>
+        <trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>System.Collections</source>
+          <target state="new">System.Collections</target>
+        </trans-unit>
+        <trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>System.Collections.Concurrent</source>
+          <target state="new">System.Collections.Concurrent</target>
+        </trans-unit>
+        <trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>System.Collections.Generic</source>
+          <target state="new">System.Collections.Generic</target>
+        </trans-unit>
+        <trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>System.Collections.Specialized</source>
+          <target state="new">System.Collections.Specialized</target>
+        </trans-unit>
+        <trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>System.Linq</source>
+          <target state="new">System.Linq</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

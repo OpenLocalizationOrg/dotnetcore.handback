@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" original="markdown" source-language="en-US" target-language="zh-cn">
+    <header>
+      <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-442b6d0" tool-company="Microsoft" />
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">6c454f8cbaa23d85a6caed34ceb85e865e97ac36</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">samples\README.md</xliffext:olfilepath>
+      <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">
+      </xliffext:oltranslationpriority>
+      <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">78502221c6bc6008d4aa2219da1ecdd91914a4ae</xliffext:olskeletonhash>
+    </header>
+    <body>
+      <group id="content" extype="content">
+        <trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>.NET Core Samples</source>
+          <target state="new">.NET Core Samples</target>
+        </trans-unit>
+        <trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This folder contains all the sample code that is part of any topic under the .NET Core documentation.</source>
+          <target state="new">This folder contains all the sample code that is part of any topic under the .NET Core documentation.</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>There are several different projects that are organized in sub-folders.</source>
+          <target state="new">There are several different projects that are organized in sub-folders.</target>
+        </trans-unit>
+        <trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>These sub-folders are organized similar to the organization of the docs for .NET Core.</source>
+          <target state="new">These sub-folders are organized similar to the organization of the docs for .NET Core.</target>
+        </trans-unit>
+        <trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Some of the articles will have more than one sample associated with them.</source>
+          <target state="new">Some of the articles will have more than one sample associated with them.</target>
+        </trans-unit>
+        <trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The readme.md file for each sample will refer to the article so that you can read more about the concepts covered in each sample.</source>
+          <target state="new">The readme.md file for each sample will refer to the article so that you can read more about the concepts covered in each sample.</target>
+        </trans-unit>
+        <trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Building a sample</source>
+          <target state="new">Building a sample</target>
+        </trans-unit>
+        <trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>You build the samples using the .NET CLI.</source>
+          <target state="new">You build the samples using the .NET CLI.</target>
+        </trans-unit>
+        <trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You can download the CLI from <bpt id="p1">[</bpt>the .NET Core home page<ept id="p1">](http://microsoft.com/net/core)</ept>.</source>
+          <target state="new">You can download the CLI from <bpt id="p1">[</bpt>the .NET Core home page<ept id="p1">](http://microsoft.com/net/core)</ept>.</target>
+        </trans-unit>
+        <trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>Then, execute these commands from the CLI in the directory of any sample:</source>
+          <target state="new">Then, execute these commands from the CLI in the directory of any sample:</target>
+        </trans-unit>
+        <trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>These will install any needed dependencies, build the project, and run the project respectively.</source>
+          <target state="new">These will install any needed dependencies, build the project, and run the project respectively.</target>
+        </trans-unit>
+        <trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Multi-project samples have instructions in their root directory in a <ph id="ph1">`README.md`</ph> file.</source>
+          <target state="new">Multi-project samples have instructions in their root directory in a <ph id="ph1">`README.md`</ph> file.</target>
+        </trans-unit>
+        <trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Except where noted, all samples will build from the command line, on any platform supported by .NET Core.</source>
+          <target state="new">Except where noted, all samples will build from the command line, on any platform supported by .NET Core.</target>
+        </trans-unit>
+        <trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>There are a few samples that are specific to Visual Studio, and will require Visual Studio 2015 Update 3 or a newer version.</source>
+          <target state="new">There are a few samples that are specific to Visual Studio, and will require Visual Studio 2015 Update 3 or a newer version.</target>
+        </trans-unit>
+        <trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>In addition, some samples show platform specific features, and will require a specific platform.</source>
+          <target state="new">In addition, some samples show platform specific features, and will require a specific platform.</target>
+        </trans-unit>
+        <trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Creating new samples</source>
+          <target state="new">Creating new samples</target>
+        </trans-unit>
+        <trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>If you wish to add a code sample:</source>
+          <target state="new">If you wish to add a code sample:</target>
+        </trans-unit>
+        <trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Your sample <bpt id="p1">**</bpt>must be part of a buildable project<ept id="p1">**</ept></source>
+          <target state="new">Your sample <bpt id="p1">**</bpt>must be part of a buildable project<ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Your sample <bpt id="p1">**</bpt>cannot be a Visual Studio Project<ept id="p1">**</ept></source>
+          <target state="new">Your sample <bpt id="p1">**</bpt>cannot be a Visual Studio Project<ept id="p1">**</ept></target>
+        </trans-unit>
+        <trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>We do not want Windows and Visual Studio to be a dependency for people building these on their own.</source>
+          <target state="new">We do not want Windows and Visual Studio to be a dependency for people building these on their own.</target>
+        </trans-unit>
+        <trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The only exception is if your sample highlights particular tooling and is referenced by a topic that explains the prerequisites.</source>
+          <target state="new">The only exception is if your sample highlights particular tooling and is referenced by a topic that explains the prerequisites.</target>
+        </trans-unit>
+        <trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Your sample should conform to the <bpt id="p1">[</bpt>corefx coding style<ept id="p1">](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md)</ept> to maintain consistency.</source>
+          <target state="new">Your sample should conform to the <bpt id="p1">[</bpt>corefx coding style<ept id="p1">](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md)</ept> to maintain consistency.</target>
+        </trans-unit>
+        <trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Additionally, we prefer the use of <ph id="ph1">`static`</ph> methods rather than instance methods when demonstrating something that doesn't require instantiating a new object.</source>
+          <target state="new">Additionally, we prefer the use of <ph id="ph1">`static`</ph> methods rather than instance methods when demonstrating something that doesn't require instantiating a new object.</target>
+        </trans-unit>
+        <trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>We will eventually have a CI system in place to build these projects.</source>
+          <target state="new">We will eventually have a CI system in place to build these projects.</target>
+        </trans-unit>
+        <trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>To create a sample:</source>
+          <target state="new">To create a sample:</target>
+        </trans-unit>
+        <trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>File an <bpt id="p1">[</bpt>issue<ept id="p1">](https://github.com/dotnet/core-docs/issues)</ept> or add a comment to an existing one that you are working on it.</source>
+          <target state="new">File an <bpt id="p1">[</bpt>issue<ept id="p1">](https://github.com/dotnet/core-docs/issues)</ept> or add a comment to an existing one that you are working on it.</target>
+        </trans-unit>
+        <trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Write the topic that explains the concepts demonstrated in your sample (example: <ph id="ph1">`docs/standard/linq/where-clause.md`</ph>)</source>
+          <target state="new">Write the topic that explains the concepts demonstrated in your sample (example: <ph id="ph1">`docs/standard/linq/where-clause.md`</ph>)</target>
+        </trans-unit>
+        <trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>Write your sample (example: <ph id="ph1">`WhereClause-Sample1.cs`</ph>)</source>
+          <target state="new">Write your sample (example: <ph id="ph1">`WhereClause-Sample1.cs`</ph>)</target>
+        </trans-unit>
+        <trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Create a Program.cs with a Main entry point that calls your samples.</source>
+          <target state="new">Create a Program.cs with a Main entry point that calls your samples.</target>
+        </trans-unit>
+        <trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>If there is already one there, add the call to your sample:</source>
+          <target state="new">If there is already one there, add the call to your sample:</target>
+        </trans-unit>
+        <trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>To build and run your sample...</source>
+          <target state="new">To build and run your sample...</target>
+        </trans-unit>
+        <trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>Restore dependencies</source>
+          <target state="new">Restore dependencies</target>
+        </trans-unit>
+        <trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>Go to the sample folder and Build to check for errors.</source>
+          <target state="new">Go to the sample folder and Build to check for errors.</target>
+        </trans-unit>
+        <trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Run!</source>
+          <target state="new">Run!</target>
+        </trans-unit>
+        <trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>Add a readme.md to the root directory of your sample.</source>
+          <target state="new">Add a readme.md to the root directory of your sample.</target>
+        </trans-unit>
+        <trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>This should include a brief description of the code, and refer people to the article that references the sample.</source>
+          <target state="new">This should include a brief description of the code, and refer people to the article that references the sample.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
