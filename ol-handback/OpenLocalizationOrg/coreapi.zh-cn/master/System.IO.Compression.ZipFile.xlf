@@ -1,0 +1,328 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides static methods for creating, extracting, and opening zip archives.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxx xxxxxxx xxx xxxxxxxx$ xxxxxxxxxx$ xxx xxxxxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a zip archive that contains the files and directories from the specified directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxxx xxxx xxxxxxxx xxx xxxxx xxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xx xxxxxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xx xxxxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$$ xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxxxxxx xx xxxx xxx xxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$X xxxx xx xxx xxxxxxxxx xxxxxxxxx xxxxx xxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxxx x xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxxxxxxx xxxxxxxxx xx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxx xxxx xxxxxxxxx xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxx xxxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a zip archive that contains the files and directories from the specified directory, uses the specified compression level, and optionally includes the base directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxxx xxxx xxxxxxxx xxx xxxxx xxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx$ xxxx xxx xxxxxxxxx xxxxxxxxxxx xxxxx$ xxx xxxxxxxxxx xxxxxxxx xxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xx xxxxxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xx xxxxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether to emphasize speed or compression effectiveness when creating the entry.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xx xxxxxxxxx xxxxx xx xxxxxxxxxxx xxxxxxxxxxxxx xxxx xxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to include the directory name from &lt;em&gt;sourceDirectoryName&lt;/em&gt; at the root of the archive; &lt;strong&gt;false&lt;/strong&gt; to include only the contents of the directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxx xxxxxxxxx xxxx xxxx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxx xxxx xx xxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxx xxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$$ xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxxxxxx xx xxxx xxx xxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$X xxxx xx xxx xxxxxxxxx xxxxxxxxx xxxxx xxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxxx x xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxxxxxxx xxxxxxxxx xx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxx xxxx xxxxxxxxx xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxx xxxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a zip archive that contains the files and directories from the specified directory, uses the specified compression level and character encoding for entry names, and optionally includes the base directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxxx xxxx xxxxxxxx xxx xxxxx xxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx$ xxxx xxx xxxxxxxxx xxxxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxxxx xxx xxxxx xxxxx$ xxx xxxxxxxxxx xxxxxxxx xxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory to be archived, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xx xxxxxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of the archive to be created, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xx xxxxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether to emphasize speed or compression effectiveness when creating the entry.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xx xxxxxxxxx xxxxx xx xxxxxxxxxxx xxxxxxxxxxxxx xxxx xxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to include the directory name from &lt;em&gt;sourceDirectoryName&lt;/em&gt; at the root of the archive; &lt;strong&gt;false&lt;/strong&gt; to include only the contents of the directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxx xxxxxxxxx xxxx xxxx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxx xxxx xx xxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxx xxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxx xxxxxxx xx xxxxxxx xxxxx xxxxx xx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx x xxxxx xxx xxxx xxxxxxxxx xxxx xxxx xx xxxxxxxx xx xxxxxxxx xxx xxxxxxxxxxxxxxxx xxxx xxx xxxxxxx xxxxx xxx xxxxxxxxx xxxx xx xxx xxxxxxx XXX$0 xxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$$ xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxxxxxx xx xxxx xxx xxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;A file in the specified directory could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$X xxxx xx xxx xxxxxxxxx xxxxxxxxx xxxxx xxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationArchiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the directory specified in &lt;em&gt;sourceDirectoryName&lt;/em&gt; or the file specified in &lt;em&gt;destinationArchiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxxx x xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxxxxxxx xxxxxxxxx xx $xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx xxx xxxx xxxxxxxxx xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; or &lt;em&gt;destinationArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxx xxxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Extracts all the files in the specified zip archive to a directory on the file system.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxx xxxxx xx xxx xxxxxxxxx xxx xxxxxxx xx x xxxxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive that is to be extracted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxx xx xx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory in which to place the extracted files, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxx xx xxxxx xxx xxxxxxxxx xxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path in &lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; exceeds the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx $xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission to access the archive or the destination directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxxxxx xx xxx xxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceArchiveFileName&lt;/em&gt; was not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The archive specified by &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is not a valid zip archive.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was not found or was corrupt.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was compressed by using a compression method that is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxx xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xx xxx x xxxxx xxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xxxxx xxx xxx xxxxx xx xxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xxxxx xxx xxxxxxxxxx xx xxxxx x xxxxxxxxxxx xxxxxx xxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Extracts all the files in the specified zip archive to a directory on the file system and uses the specified character encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxx xxxxx xx xxx xxxxxxxxx xxx xxxxxxx xx x xxxxxxxxx xx xxx xxxx xxxxxx xxx xxxx xxx xxxxxxxxx xxxxxxxxx xxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive that is to be extracted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxx xx xx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the directory in which to place the extracted files, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxx xx xxxxx xxx xxxxxxxxx xxxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxx xxxxxxx xx xxxxxxx xxxxx xxxxx xx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx x xxxxx xxx xxxx xxxxxxxxx xxxx xxxx xx xxxxxxxx xx xxxxxxxx xxx xxxxxxxxxxxxxxxx xxxx xxx xxxxxxx xxxxx xxx xxxxxxxxx xxxx xx xxx xxxxxxx XXX$0 xxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path in &lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; exceeds the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx $xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission to access the archive or the destination directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxxxxx xx xxx xxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; or &lt;em&gt;sourceArchiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceArchiveFileName&lt;/em&gt; was not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The archive specified by &lt;em&gt;sourceArchiveFileName&lt;/em&gt; is not a valid zip archive.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was not found or was corrupt.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An archive entry was compressed by using a compression method that is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxx xx $xx$xxxxxxXxxxxxxXxxxXxxx$$xx$ xx xxx x xxxxx xxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xxxxx xxx xxx xxxxx xx xxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xxxxx xxx xxxxxxxxxx xx xxxxx x xxxxxxxxxxx xxxxxx xxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a zip archive at the specified path and in the specified mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxx xxxxxxx xx xxx xxxxxxxxx xxxx xxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the actions which are allowed on the entries in the opened archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxx xxxxx xxx xxxxxxx xx xxx xxxxxxx xx xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xx $xx$xxxxxxxXxxxXxxx$$xx$$ xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xx xxxxxxx xx xxxx xxx xxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxxxxxx x xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxx xxxxxxxxx xx $xx$xxxxxxxXxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; specifies an invalid value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxxxx xx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a zip archive at the specified path, in the specified mode, and by using the specified character encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxx xxxxxxx xx xxx xxxxxxxxx xxxx$ xx xxx xxxxxxxxx xxxx$ xxx xx xxxxx xxx xxxxxxxxx xxxxxxxxx xxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the actions that are allowed on the entries in the opened archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxx xxxx xxx xxxxxxx xx xxx xxxxxxx xx xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxx xxxxxxx xx xxxxxxx xxxxx xxxxx xx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx x xxxxx xxx xxxx xxxxxxxxx xxxx xxxx xx xxxxxxxx xx xxxxxxxx xxx xxxxxxxxxxxxxxxx xxxx xxx xxxxxxx xxxxx xxx xxxxxxxxx xxxx xx xxx xxxxxxx XXX$0 xxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xx $xx$xxxxxxxXxxxXxxx$$xx$$ xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xx xxxxxxx xx xxxx xxx xxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxxxxxx x xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxx xxxxxxxxx xx $xx$xxxxxxxXxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; specifies an invalid value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxxxx xx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a zip archive for reading at the specified path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxx xxxxxxx xxx xxxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the archive to open, specified as a relative or absolute path.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxxx$ xxxxxxxxx xx x xxxxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>A relative path is interpreted as relative to the current working directory.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxx xxxx xx xxxxxxxxxxx xx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In &lt;em&gt;archiveFileName&lt;/em&gt;, the specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xx $xx$xxxxxxxXxxxXxxx$$xx$$ xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must not exceed 248 characters, and file names must not exceed 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxx xxxxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; is invalid or does not exist (for example, it is on an unmapped drive).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xx xxxxxxx xx xxxx xxx xxxxx $xxx xxxxxxx$ xx xx xx xx xxxxxxxx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; could not be opened.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxx xxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; specifies a directory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission to access the file specified in &lt;em&gt;archiveFileName&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxxxxxx x xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxx xxx xxxx xxxxxxxxx xx $xx$xxxxxxxXxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file specified in &lt;em&gt;archiveFileName&lt;/em&gt; is not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xx $xx$xxxxxxxXxxxXxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; contains an invalid format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;archiveFileName&lt;/em&gt; could not be interpreted as a zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxxXxxx$$xx$ xxxxx xxx xx xxxxxxxxxxx xx x xxx xxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

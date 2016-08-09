@@ -1,0 +1,22 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines different rules for determining the first week of the year.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxxxx xxxxx xxx xxxxxxxxxxx xxx xxxxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the first week of the year starts on the first day of the year and ends before the following designated first day of the week.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxx xxxx xx xxx xxxx xxxxxx xx xxx xxxxx xxx xx xxx xxxx xxx xxxx xxxxxx xxx xxxxxxxxx xxxxxxxxxx xxxxx xxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The value is 0.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the first week of the year is the first week with four or more days before the designated first day of the week.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxx xxxx xx xxx xxxx xx xxx xxxxx xxxx xxxx xxxx xx xxxx xxxx xxxxxx xxx xxxxxxxxxx xxxxx xxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The value is 2.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the first week of the year begins on the first occurrence of the designated first day of the week on or after the first day of the year.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxx xxxx xx xxx xxxx xxxxxx xx xxx xxxxx xxxxxxxxxx xx xxx xxxxxxxxxx xxxxx xxx xx xxx xxxx xx xx xxxxx xxx xxxxx xxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The value is 1.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xx 0.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

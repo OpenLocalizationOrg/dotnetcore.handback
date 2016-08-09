@@ -1,0 +1,148 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a class member, such as a property or event.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxx xxxxxx$ xxxx xx x xxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This is an abstract base class.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx xx xxxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the member.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the member.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets an array of attributes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xx xxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the collection of attributes for this member.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this member should be set only at design time; &lt;strong&gt;false&lt;/strong&gt; if the member can be set during run time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx xxxxxx xxxxxx xx xxx xxxx xx xxxxxx xxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxx xxx xx xxx xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name that can be displayed in a window, such as a Properties window.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxx xx xxxxxxxxx xx x xxxxxx$ xxxx xx x Xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name to display for the member.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the member.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the member.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash code for the name of the member.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a collection of attributes using the array of attributes passed to the constructor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxxxx xxxxx xxx xxxxx xx xxxxxxxxxx xxxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Compares this instance to the given object to see if they are equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxx xxxxxxxx xx xxx xxxxx xxxxxx xx xxx xx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to compare to the current instance.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xx xxx xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if equivalent; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, adds the attributes of the inheriting class to the specified list of attributes in the parent class.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxx xxx xxxxxxxxxx xx xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxx xx xxxxxxxxxx xx xxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Finds the given method through reflection, searching only for public methods.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxx xxxxxx xxxxxxx xxxxxxxxxx$ xxxxxxxxx xxxx xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component that contains the method.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the method to find.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of parameters for the method, used to choose between overloaded methods.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxxxx xxx xxx xxxxxx$ xxxx xx xxxxxx xxxxxxx xxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type to return for the method.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Finds the given method through reflection, with an option to search only public methods.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxx xxxxxx xxxxxxx xxxxxxxxxx$ xxxx xx xxxxxx xx xxxxxx xxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component that contains the method.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the method to find.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of parameters for the method, used to choose between overloaded methods.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxxxx xxx xxx xxxxxx$ xxxx xx xxxxxx xxxxxxx xxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type to return for the method.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Whether to restrict search to public methods.</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxx xxxxxx xx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the object that should be used during invocation of members.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxx xxxx xxxxxx xx xxxx xxxxxx xxxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The potential invocation target.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to be used during member invocations.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx xxxx xxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; or &lt;em&gt;instance&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a component site for the given component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxxxxx xxxx xxx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component for which you want to find a site.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxx xxxxx xxx xxxx xx xxxx x xxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The site of the component, or &lt;strong&gt;null&lt;/strong&gt; if a site does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx x xxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

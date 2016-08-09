@@ -1,0 +1,310 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides culture-specific information about the format of date and time values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxxx xxxxx xxx xxxxxx xx xxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to an array that is multidimensional or that has a length that is not exactly 7.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx xx xxxxx xxxx xx xxxxxxxxxxxxxxxx xx xxxx xxx x xxxxxx xxxx xx xxx xxxxxxx 0.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of abbreviated month names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxxxxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the array is multidimensional or has a length that is not exactly 13.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxx xx xxxxxxxxxxxxxxxx xx xxx x xxxxxx xxxx xx xxx xxxxxxx 00.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the array or one of the elements of the array is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxx xx xxx xx xxx xxxxxxxx xx xxx xxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a one-dimensional string array that contains the culture-specific abbreviated names of the months.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxx$xxxxxxxxxxx xxxxxx xxxxx xxxx xxxxxxxx xxx xxxxxxx$xxxxxxxx xxxxxxxxxxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to an array that is multidimensional or that has a length that is not exactly 13.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx xx xxxxx xxxx xx xxxxxxxxxxxxxxxx xx xxxx xxx x xxxxxx xxxx xx xxx xxxxxxx 00.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the calendar to use for the current culture.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xx xxx xxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that specifies which rule is used to determine the first calendar week of the year.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxx xxxxx xxxx xx xxxx xx xxxxxxxxx xxx xxxxx xxxxxxxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a one-dimensional string array that contains the culture-specific full names of the days of the week.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxx$xxxxxxxxxxx xxxxxx xxxxx xxxx xxxxxxxx xxx xxxxxxx$xxxxxxxx xxxx xxxxx xx xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to an array that is multidimensional or that has a length that is not exactly 7.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx xx xxxxx xxxx xx xxxxxxxxxxxxxxxx xx xxxx xxx x xxxxxx xxxx xx xxx xxxxxxx 0.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the first day of the week.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the custom format string for a long date and long time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxxx xxx xxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a long date and long time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxxx xxx xxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A read-only object that is culture-independent (invariant).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx$xxxx xxxxxx xxxx xx xxxxxxx$xxxxxxxxxxx $xxxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the custom format string for a long date value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a long date value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the custom format string for a long time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format pattern for a long time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx xxx x xxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the custom format string for a month and day value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a month and day value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string array of month names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxx xx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the array is multidimensional or has a length that is not exactly 13.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxx xx xxxxxxxxxxxxxxxx xx xxx x xxxxxx xxxx xx xxx xxxxxxx 00.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the array or one of its elements is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxx xx xxx xx xxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to an array that is multidimensional or that has a length that is not exactly 13.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx xx xxxxx xxxx xx xxxxxxxxxxxxxxxx xx xxxx xxx x xxxxxx xxxx xx xxx xxxxxxx 00.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the custom format string for a time value that is based on the Internet Engineering Task Force (IETF) Request for Comments (RFC) 1123 specification.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxxxx xxxx xx xxxxx xx xxx Xxxxxxxx Xxxxxxxxxxx Xxxx Xxxxx $XXXX$ Xxxxxxx xxx Xxxxxxxx $XXX$ 0000 xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a time value that is based on the IETF RFC 1123 specification.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxxxx xxxx xx xxxxx xx xxx XXXX XXX 0000 xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the custom format string for a short date value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a short date value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string array of day names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the array does not have exactly seven elements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxx xxxx xxx xxxx xxxxxxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the value array or one of the elements of the value array is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxx xxxxx xx xxx xx xxx xxxxxxxx xx xxx xxxxx xxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the custom format string for a short time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a short time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the custom format string for a sortable date and time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxxxxxx xxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a sortable date and time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxxxxxx xxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the custom format string for a universal, sortable date and time string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxxxxxxx$ xxxxxxxx xxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a universal, sortable date and time string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxxxxxxx$ xxxxxxxx xxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the custom format string for a year and month value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The custom format string for a year and month value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxxx xxx x xxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is being set to &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture-specific abbreviated name of the day of the week represented by &lt;em&gt;dayofweek&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx$xxxxxxxx xxxxxxxxxxx xxxx xx xxx xxx xx xxx xxxx xxxxxxxxxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the string containing the abbreviated name of the specified era, if an abbreviation exists.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxxxxxxxxx xxx xxxxxxxxxxx xxxx xx xxx xxxxxxxxx xxx$ xx xx xxxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The integer representing the era.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing the abbreviated name of the specified era, if an abbreviation exists.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;A string containing the full name of the era, if an abbreviation does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx xxx xxxxxxxxxxx xxxx xx xxx xxxxxxxxx xxx$ xx xx xxxxxxxxxxxx xxxxxx.$$x$$x$x$$xx$ $$x$$x$x$X xxxxxx xxxxxxxxxx xxx xxxx xxxx xx xxx xxx$ xx xx xxxxxxxxxxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 13 representing the name of the month to retrieve.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxxxxxxxxxx xxx xxxx xx xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture-specific abbreviated name of the month represented by &lt;em&gt;month&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx$xxxxxxxx xxxxxxxxxxx xxxx xx xxx xxxxx xxxxxxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;month&lt;/em&gt; is less than 1 or greater than 13.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx 0 xx xxxxxxx xxxx 00.</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture-specific full name of the day of the week represented by &lt;em&gt;dayofweek&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx$xxxxxxxx xxxx xxxx xx xxx xxx xx xxx xxxx xxxxxxxxxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the integer representing the specified era.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxxxxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string containing the name of the era.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xxx xxxx xx xxx xxx.</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The integer representing the era, if &lt;em&gt;eraName&lt;/em&gt; is valid; otherwise, -1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxxxx xxx xxx$ xx $xx$xxxXxxx$$xx$ xx xxxxx$ xxxxxxxxx$ $0.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;eraName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the string containing the name of the specified era.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxxxxxxxxx xxx xxxx xx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The integer representing the era.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing the name of the era.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx xxx xxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an object of the specified type that provides a date and time  formatting service.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxx xx xxx xxxxxxxxx xxxx xxxx xxxxxxxx x xxxx xxx xxxx  xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the required formatting service.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 13 representing the name of the month to retrieve.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxxxxxxxxxx xxx xxxx xx xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture-specific full name of the month represented by &lt;em&gt;month&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx$xxxxxxxx xxxx xxxx xx xxx xxxxx xxxxxxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;month&lt;/em&gt; is less than 1 or greater than 13.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx 0 xx xxxxxxx xxxx 00.</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;dtfi&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

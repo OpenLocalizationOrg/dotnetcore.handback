@@ -1,0 +1,16 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an error that occurs when a dynamic bind in the C# runtime binder is processed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxx xxxx xxxxxx xxxx x xxxxxxx xxxx xx xxx X$ xxxxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message that describes the exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The caller of this constructor is required to ensure that this string has been localized for the current system culture.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xx xxxx xxxxxxxxxxx xx xxxxxxxx xx xxxxxx xxxx xxxx xxxxxx xxx xxxx xxxxxxxxx xxx xxx xxxxxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is the cause of the current exception, or a null reference if no inner exception is specified.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx xx xxx xxxxxxx xxxxxxxxx$ xx x xxxx xxxxxxxxx xx xx xxxxx xxxxxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

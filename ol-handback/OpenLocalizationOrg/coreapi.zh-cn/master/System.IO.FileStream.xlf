@@ -1,0 +1,943 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A file handle for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxx xxxxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as a disk error, occurred.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx x xxxx xxxxx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;access&lt;/em&gt; requested is not permitted by the operating system for the specified file handle, such as when &lt;em&gt;access&lt;/em&gt; is &lt;strong&gt;Write&lt;/strong&gt; or &lt;strong&gt;ReadWrite&lt;/strong&gt; and the file handle is set for read-only access.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx xxx xxx xxxxxxxxx xxxx xxxxxx$ xxxx xx xxxx $xx$xxxxxx$$xx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxxx$$xxxxxx$ xxx xxx xxxx xxxxxx xx xxx xxx xxxx$xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A file handle for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxx xxxxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;handle&lt;/em&gt; parameter is an invalid handle.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;handle&lt;/em&gt; parameter is a synchronous handle and it was used asynchronously.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xx xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx x xxxxxxxxxxx xxxxxx xxx xx xxx xxxx xxxxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;bufferSize&lt;/em&gt; parameter is negative.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxXxxx$$xx$ xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as a disk error, occurred.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx x xxxx xxxxx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;access&lt;/em&gt; requested is not permitted by the operating system for the specified file handle, such as when &lt;em&gt;access&lt;/em&gt; is &lt;strong&gt;Write&lt;/strong&gt; or &lt;strong&gt;ReadWrite&lt;/strong&gt; and the file handle is set for read-only access.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx xxx xxx xxxxxxxxx xxxx xxxxxx$ xxxx xx xxxx $xx$xxxxxx$$xx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxxx$$xxxxxx$ xxx xxx xxxx xxxxxx xx xxx xxx xxxx$xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A file handle for the file that this &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxx xxxxxx xxx xxx xxxx xxxx xxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the handle was opened asynchronously (that is, in overlapped I/O mode); otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxx xxxxxx xxxxxxxxxxxxxx $xxxx xx$ xx xxxxxxxxxx X$X xxxx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;handle&lt;/em&gt; parameter is an invalid handle.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;handle&lt;/em&gt; parameter is a synchronous handle and it was used asynchronously.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xx xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx x xxxxxxxxxxx xxxxxx xxx xx xxx xxxx xxxxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;bufferSize&lt;/em&gt; parameter is negative.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxXxxx$$xx$ xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as a disk error, occurred.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx x xxxx xxxxx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;access&lt;/em&gt; requested is not permitted by the operating system for the specified file handle, such as when &lt;em&gt;access&lt;/em&gt; is &lt;strong&gt;Write&lt;/strong&gt; or &lt;strong&gt;ReadWrite&lt;/strong&gt; and the file handle is set for read-only access.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx xxx xxx xxxxxxxxx xxxx xxxxxx$ xxxx xx xxxx $xx$xxxxxx$$xx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxxx$$xxxxxx$ xxx xxx xxxx xxxxxx xx xxx xxx xxxx$xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A relative or absolute path for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxxxxxxx xxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how to open or create the file.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file cannot be found, such as when &lt;em&gt;mode&lt;/em&gt; is &lt;strong&gt;FileMode.Truncate&lt;/strong&gt; or &lt;strong&gt;FileMode.Open&lt;/strong&gt;, and the file specified by &lt;em&gt;path&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx$ xxxx xx xxxx $xx$xxxx$$xx$ xx $xxxxxx$XxxxXxxx.Xxxxxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxx.Xxxx$$xxxxxx$$ xxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>The file must already exist in these modes.</source>
+          <target state="new">Xxx xxxx xxxx xxxxxxx xxxxx xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as specifying &lt;strong&gt;FileMode.CreateNew&lt;/strong&gt; when the file specified by &lt;em&gt;path&lt;/em&gt; already exists, occurred.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx xxxxxxxxxx $xxxxxx$XxxxXxxx.XxxxxxXxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxxxxx xxxxxx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; contains an invalid value.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A relative or absolute path for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxxxxxxx xxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how to open or create the file.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file cannot be found, such as when &lt;em&gt;mode&lt;/em&gt; is &lt;strong&gt;FileMode.Truncate&lt;/strong&gt; or &lt;strong&gt;FileMode.Open&lt;/strong&gt;, and the file specified by &lt;em&gt;path&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx$ xxxx xx xxxx $xx$xxxx$$xx$ xx $xxxxxx$XxxxXxxx.Xxxxxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxx.Xxxx$$xxxxxx$$ xxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>The file must already exist in these modes.</source>
+          <target state="new">Xxx xxxx xxxx xxxxxxx xxxxx xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as specifying &lt;strong&gt;FileMode.CreateNew&lt;/strong&gt; when the file specified by &lt;em&gt;path&lt;/em&gt; already exists, occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx xxxxxxxxxx $xxxxxx$XxxxXxxx.XxxxxxXxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxxxxx xxxxxx$ xxxxxxxx.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;access&lt;/em&gt; requested is not permitted by the operating system for the specified &lt;em&gt;path&lt;/em&gt;, such as when &lt;em&gt;access&lt;/em&gt; is &lt;strong&gt;Write&lt;/strong&gt; or &lt;strong&gt;ReadWrite&lt;/strong&gt; and the file or directory is set for read-only access.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx xxx xxx xxxxxxxxx $xx$xxxx$$xx$$ xxxx xx xxxx $xx$xxxxxx$$xx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxxx$$xxxxxx$ xxx xxx xxxx xx xxxxxxxxx xx xxx xxx xxxx$xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; contains an invalid value.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A relative or absolute path for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxxxxxxx xxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how to open or create the file.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how the file will be shared by processes.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xxx xxxx xxxx xx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file cannot be found, such as when &lt;em&gt;mode&lt;/em&gt; is &lt;strong&gt;FileMode.Truncate&lt;/strong&gt; or &lt;strong&gt;FileMode.Open&lt;/strong&gt;, and the file specified by &lt;em&gt;path&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx$ xxxx xx xxxx $xx$xxxx$$xx$ xx $xxxxxx$XxxxXxxx.Xxxxxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxx.Xxxx$$xxxxxx$$ xxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>The file must already exist in these modes.</source>
+          <target state="new">Xxx xxxx xxxx xxxxxxx xxxxx xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as specifying &lt;strong&gt;FileMode.CreateNew&lt;/strong&gt; when the file specified by &lt;em&gt;path&lt;/em&gt; already exists, occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx xxxxxxxxxx $xxxxxx$XxxxXxxx.XxxxxxXxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxxxxx xxxxxx$ xxxxxxxx.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The system is running Windows 98 or Windows 98 Second Edition and &lt;em&gt;share&lt;/em&gt; is set to &lt;strong&gt;FileShare.Delete&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xx xxxxxxx Xxxxxxx 00 xx Xxxxxxx 00 Xxxxxx Xxxxxxx xxx $xx$xxxxx$$xx$ xx xxx xx $xxxxxx$XxxxXxxxx.Xxxxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;access&lt;/em&gt; requested is not permitted by the operating system for the specified &lt;em&gt;path&lt;/em&gt;, such as when &lt;em&gt;access&lt;/em&gt; is &lt;strong&gt;Write&lt;/strong&gt; or &lt;strong&gt;ReadWrite&lt;/strong&gt; and the file or directory is set for read-only access.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx xxx xxx xxxxxxxxx $xx$xxxx$$xx$$ xxxx xx xxxx $xx$xxxxxx$$xx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxxx$$xxxxxx$ xxx xxx xxxx xx xxxxxxxxx xx xxx xxx xxxx$xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; contains an invalid value.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A relative or absolute path for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxxxxxxx xxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how to open or create the file.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how the file will be shared by processes.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xxx xxxx xxxx xx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;bufferSize&lt;/em&gt; is negative or zero.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt;, &lt;em&gt;access&lt;/em&gt;, or &lt;em&gt;share&lt;/em&gt; contain an invalid value.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxx$$xx$ xx xxxxxxxx xx xxxx.$$x$$x$x$$xx$ $$x$$x$x$$x$xx$xxxx$$xx$$ $xx$xxxxxx$$xx$$ xx $xx$xxxxx$$xx$ xxxxxxx xx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file cannot be found, such as when &lt;em&gt;mode&lt;/em&gt; is &lt;strong&gt;FileMode.Truncate&lt;/strong&gt; or &lt;strong&gt;FileMode.Open&lt;/strong&gt;, and the file specified by &lt;em&gt;path&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx$ xxxx xx xxxx $xx$xxxx$$xx$ xx $xxxxxx$XxxxXxxx.Xxxxxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxx.Xxxx$$xxxxxx$$ xxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>The file must already exist in these modes.</source>
+          <target state="new">Xxx xxxx xxxx xxxxxxx xxxxx xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as specifying &lt;strong&gt;FileMode.CreateNew&lt;/strong&gt; when the file specified by &lt;em&gt;path&lt;/em&gt; already exists, occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx xxxxxxxxxx $xxxxxx$XxxxXxxx.XxxxxxXxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxxxxx xxxxxx$ xxxxxxxx.</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The system is running Windows 98 or Windows 98 Second Edition and &lt;em&gt;share&lt;/em&gt; is set to &lt;strong&gt;FileShare.Delete&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xx xxxxxxx Xxxxxxx 00 xx Xxxxxxx 00 Xxxxxx Xxxxxxx xxx $xx$xxxxx$$xx$ xx xxx xx $xxxxxx$XxxxXxxxx.Xxxxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;access&lt;/em&gt; requested is not permitted by the operating system for the specified &lt;em&gt;path&lt;/em&gt;, such as when &lt;em&gt;access&lt;/em&gt; is &lt;strong&gt;Write&lt;/strong&gt; or &lt;strong&gt;ReadWrite&lt;/strong&gt; and the file or directory is set for read-only access.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx xxx xxx xxxxxxxxx $xx$xxxx$$xx$$ xxxx xx xxxx $xx$xxxxxx$$xx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxxx$$xxxxxx$ xxx xxx xxxx xx xxxxxxxxx xx xxx xxx xxxx$xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A relative or absolute path for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxxxxxxx xxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how to open or create the file.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how the file will be shared by processes.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xxx xxxx xxxx xx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;bufferSize&lt;/em&gt; is negative or zero.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt;, &lt;em&gt;access&lt;/em&gt;, or &lt;em&gt;share&lt;/em&gt; contain an invalid value.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxx$$xx$ xx xxxxxxxx xx xxxx.$$x$$x$x$$xx$ $$x$$x$x$$x$xx$xxxx$$xx$$ $xx$xxxxxx$$xx$$ xx $xx$xxxxx$$xx$ xxxxxxx xx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file cannot be found, such as when &lt;em&gt;mode&lt;/em&gt; is &lt;strong&gt;FileMode.Truncate&lt;/strong&gt; or &lt;strong&gt;FileMode.Open&lt;/strong&gt;, and the file specified by &lt;em&gt;path&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx$ xxxx xx xxxx $xx$xxxx$$xx$ xx $xxxxxx$XxxxXxxx.Xxxxxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxx.Xxxx$$xxxxxx$$ xxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>The file must already exist in these modes.</source>
+          <target state="new">Xxx xxxx xxxx xxxxxxx xxxxx xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as specifying &lt;strong&gt;FileMode.CreateNew&lt;/strong&gt; when the file specified by &lt;em&gt;path&lt;/em&gt; already exists, occurred.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The system is running Windows 98 or Windows 98 Second Edition and &lt;em&gt;share&lt;/em&gt; is set to &lt;strong&gt;FileShare.Delete&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx xxxxxxxxxx $xxxxxx$XxxxXxxx.XxxxxxXxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxxxxx xxxxxx$ xxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxx xx xxxxxxx Xxxxxxx 00 xx Xxxxxxx 00 Xxxxxx Xxxxxxx xxx $xx$xxxxx$$xx$ xx xxx xx $xxxxxx$XxxxXxxxx.Xxxxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;access&lt;/em&gt; requested is not permitted by the operating system for the specified &lt;em&gt;path&lt;/em&gt;, such as when &lt;em&gt;access&lt;/em&gt; is &lt;strong&gt;Write&lt;/strong&gt; or &lt;strong&gt;ReadWrite&lt;/strong&gt; and the file or directory is set for read-only access.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx xxx xxx xxxxxxxxx $xx$xxxx$$xx$$ xxxx xx xxxx $xx$xxxxxx$$xx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxxx$$xxxxxx$ xxx xxx xxxx xx xxxxxxxxx xx xxx xxx xxxx$xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A relative or absolute path for the file that the current &lt;strong&gt;FileStream&lt;/strong&gt; object will encapsulate.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxxxxxxx xxxx xxx xxx xxxx xxxx xxx xxxxxxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how to open or create the file.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A constant that determines how the file will be shared by processes.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxxxxxxxx xxx xxx xxxx xxxx xx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that specifies additional file options.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxxxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;bufferSize&lt;/em&gt; is negative or zero.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt;, &lt;em&gt;access&lt;/em&gt;, or &lt;em&gt;share&lt;/em&gt; contain an invalid value.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxx$$xx$ xx xxxxxxxx xx xxxx.$$x$$x$x$$xx$ $$x$$x$x$$x$xx$xxxx$$xx$$ $xx$xxxxxx$$xx$$ xx $xx$xxxxx$$xx$ xxxxxxx xx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file cannot be found, such as when &lt;em&gt;mode&lt;/em&gt; is &lt;strong&gt;FileMode.Truncate&lt;/strong&gt; or &lt;strong&gt;FileMode.Open&lt;/strong&gt;, and the file specified by &lt;em&gt;path&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx$ xxxx xx xxxx $xx$xxxx$$xx$ xx $xxxxxx$XxxxXxxx.Xxxxxxxx$$xxxxxx$ xx $xxxxxx$XxxxXxxx.Xxxx$$xxxxxx$$ xxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>The file must already exist in these modes.</source>
+          <target state="new">Xxx xxxx xxxx xxxxxxx xxxxx xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as specifying &lt;strong&gt;FileMode.CreateNew&lt;/strong&gt; when the file specified by &lt;em&gt;path&lt;/em&gt; already exists, occurred.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx xxxxxxxxxx $xxxxxx$XxxxXxxx.XxxxxxXxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxxxxx xxxxxx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the current stream supports reading.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the stream supports reading; &lt;strong&gt;false&lt;/strong&gt; if the stream is closed or was opened with write-only access.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxxxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxx xx xxxxxx xx xxx xxxxxx xxxx xxxxx$xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the current stream supports seeking.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the stream supports seeking; &lt;strong&gt;false&lt;/strong&gt; if the stream is closed or if the &lt;strong&gt;FileStream&lt;/strong&gt; was constructed from an operating-system handle such as a pipe or output to the console.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxxxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxx xx xxxxxx xx xx xxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxx xxxxxxxxxxx xxxx xx xxxxxxxxx$xxxxxx xxxxxx xxxx xx x xxxx xx xxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the current stream supports writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the stream supports writing; &lt;strong&gt;false&lt;/strong&gt; if the stream is closed or was opened with read-only access.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxxxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxx xx xxxxxx xx xxx xxxxxx xxxx xxxx$xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the &lt;strong&gt;FileStream&lt;/strong&gt; was opened asynchronously or synchronously.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxx xxxxxx xxxxxxxxxxxxxx xx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;strong&gt;FileStream&lt;/strong&gt; was opened asynchronously; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxx xxxxxx xxxxxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the length in bytes of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A long value representing the length of the stream in bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxx xxxxxxxxxxxx xxx xxxxxx xx xxx xxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as the file being closed, occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx xxx xxxx xxxxx xxxxxx$ xxxxxxxx.</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the &lt;strong&gt;FileStream&lt;/strong&gt; that was passed to the constructor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xxxx xxx xxxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that is the name of the &lt;strong&gt;FileStream&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xx xxx xxxx xx xxx $xxxxxx$XxxxXxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the current position of this stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxxxx xx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current position of this stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support seeking.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;The position was set to a very large value beyond the end of the stream in Windows 98 or earlier.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$ xx $$$x$$x$x$Xxx xxxxxxxx xxx xxx xx x xxxx xxxxx xxxxx xxxxxx xxx xxx xx xxx xxxxxx xx Xxxxxxx 00 xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attempted to set the position to a negative value.</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxx xxxxxxxx xx x xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attempted seeking past the end of a stream that does not support this.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxxx xxx xxx xx x xxxxxx xxxx xxxx xxx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Ensures that resources are freed and other cleanup operations are performed when the garbage collector reclaims the &lt;strong&gt;FileStream&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxxxxxxxx xxx xxxxx xxx xxxxx xxxxxxx xxxxxxxxxx xxx xxxxxxxxx xxxx xxx xxxxxxx xxxxxxxxx xxxxxxxx xxx $xxxxxx$XxxxXxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears buffers for this stream and causes any buffered data to be written to the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxxxx xxx xxxx xxxxxx xxx xxxxxx xxx xxxxxxxx xxxx xx xx xxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears buffers for this stream and causes any buffered data to be written to the file, and also clears all intermediate file buffers.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxxxx xxx xxxx xxxxxx xxx xxxxxx xxx xxxxxxxx xxxx xx xx xxxxxxx xx xxx xxxx$ xxx xxxx xxxxxx xxx xxxxxxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to flush all intermediate file buffers; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xxx xxxxxxxxxxxx xxxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Asynchronously clears all buffers for this stream, causes any buffered data to be written to the underlying device, and monitors cancellation requests.</source>
+          <target state="new">$x$x$Xxxxxxxxxxxxxx xxxxxx xxx xxxxxxx xxx xxxx xxxxxx$ xxxxxx xxx xxxxxxxx xxxx xx xx xxxxxxx xx xxx xxxxxxxxxx xxxxxx$ xxx xxxxxxxx xxxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The token to monitor for cancellation requests.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxx xxx xxxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous flush operation.</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads a block of bytes from the stream and writes the data in a given buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxx xx xxxxx xxxx xxx xxxxxx xxx xxxxxx xxx xxxx xx x xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the specified byte array with the values between &lt;em&gt;offset&lt;/em&gt; and (&lt;em&gt;offset&lt;/em&gt; + &lt;em&gt;count&lt;/em&gt; - 1&lt;em&gt;)&lt;/em&gt; replaced by the bytes read from the current source.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xxxxxxxx xxx xxxxxxxxx xxxx xxxxx xxxx xxx xxxxxx xxxxxxx $xx$xxxxxx$$xx$ xxx $$xx$xxxxxx$$xx$ $ $xx$xxxxx$$xx$ $ 0$xx$$$$xx$ xxxxxxxx xx xxx xxxxx xxxx xxxx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte offset in &lt;em&gt;array&lt;/em&gt; at which the read bytes will be placed.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxx xxxx xxxxx xxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to read.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The total number of bytes read into the buffer.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>This might be less than the number of bytes requested if that number of bytes are not currently available, or zero if the end of the stream is reached.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx xxxx xxx xxxxxx xx xxxxx xxxxxxxxx xx xxxx xxxxxx xx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx$ xx xxxx xx xxx xxx xx xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is negative.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support reading.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; and &lt;em&gt;count&lt;/em&gt; describe an invalid range in &lt;em&gt;array&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Methods were called after the stream was closed.</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxxxxx xxxxx xxx xxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxxxxx xxxxx x xxxxxxxx xx xxxxx xxxx xxx xxxxxxx xxxxxx$ xxxxxxxx xxx xxxxxxxx xxxxxx xxx xxxxxx xx xxx xxxxxx xx xxxxx xxxx$ xxx xxxxxxxx xxxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to write the data into.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte offset in &lt;em&gt;buffer&lt;/em&gt; at which to begin writing data from the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xx xxxxx xx xxxxx xxxxxxx xxxx xxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="335" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The token to monitor for cancellation requests.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxx xxx xxxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="337" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous read operation.</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>The value of the &lt;em&gt;TResult&lt;/em&gt; parameter contains the total number of bytes read into the buffer.</source>
+          <target state="new">Xxx xxxxx xx xxx $xx$XXxxxxx$$xx$ xxxxxxxxx xxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="339" translate="yes" xml:space="preserve">
+          <source>The result value can be less than the number of bytes requested if the number of bytes currently available is less than the requested number, or it can be 0 (zero) if the end of the stream has been reached.</source>
+          <target state="new">Xxx xxxxxx xxxxx xxx xx xxxx xxxx xxx xxxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxx xx xxxxx xxxxxxxxx xxxxxxxxx xx xxxx xxxx xxx xxxxxxxxx xxxxxx$ xx xx xxx xx 0 $xxxx$ xx xxx xxx xx xxx xxxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="340" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="341" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;buffer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="342" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is negative.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="343" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The sum of &lt;em&gt;offset&lt;/em&gt; and &lt;em&gt;count&lt;/em&gt; is larger than the buffer length.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx $xx$xxxxxx$$xx$ xxx $xx$xxxxx$$xx$ xx xxxxxx xxxx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="344" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support reading.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="345" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="346" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is currently in use by a previous read operation.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxx xx xxx xx x xxxxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="347" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="348" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads a byte from the file and advances the read position one byte.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xxxx xxx xxxx xxx xxxxxxxx xxx xxxx xxxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="349" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current stream does not support reading.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="350" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="351" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="352" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="353" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the current position of this stream to the given value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxx xx xxxx xxxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="354" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The point relative to &lt;em&gt;origin&lt;/em&gt; from which to begin seeking.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxx xx $xx$xxxxxx$$xx$ xxxx xxxxx xx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="355" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="356" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new position in the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="357" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="358" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="359" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support seeking, such as if the &lt;strong&gt;FileStream&lt;/strong&gt; is constructed from a pipe or console output.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx$ xxxx xx xx xxx $xxxxxx$XxxxXxxxxx$$xxxxxx$ xx xxxxxxxxxxx xxxx x xxxx xx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="360" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="361" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Seeking is attempted before the beginning of the stream.</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxx xxxxxx xxx xxxxxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="362" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="363" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Methods were called after the stream was closed.</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxxxxx xxxxx xxx xxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="364" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="365" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the length of this stream to the given value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxx xxxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="366" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new length of the stream.</source>
+          <target state="new">$x$x$Xxx xxx xxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="367" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="368" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error has occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="369" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="370" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support both writing and seeking.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxx xxxxxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="371" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="372" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attempted to set the &lt;em&gt;value&lt;/em&gt; parameter to less than 0.</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxx xxxx 0.</target>
+        </trans-unit><trans-unit id="373" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="374" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a block of bytes to the file stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxx xx xxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="375" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer containing data to write to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xxxx xx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="376" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based byte offset in &lt;em&gt;array&lt;/em&gt; from which to begin copying bytes to the stream.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxx xxxxxx xx $xx$xxxxx$$xx$ xxxx xxxxx xx xxxxx xxxxxxx xxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="377" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="378" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to write.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="379" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="380" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="381" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="382" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; and &lt;em&gt;count&lt;/em&gt; describe an invalid range in &lt;em&gt;array&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxxxxx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="383" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="384" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is negative.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="385" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="386" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="387" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;Another thread may have caused an unexpected change in the position of the operating system's file handle.</source>
+          <target state="new">$$x$$x$x$$ xx $$$x$$x$x$Xxxxxxx xxxxxx xxx xxxx xxxxxx xx xxxxxxxxxx xxxxxx xx xxx xxxxxxxx xx xxx xxxxxxxxx xxxxxx$x xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="388" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="389" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="390" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="391" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current stream instance does not support writing.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xxxxxxxx xxxx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="392" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="393" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Asynchronously writes a sequence of bytes to the current stream, advances the current position within this stream by the number of bytes written, and monitors cancellation requests.</source>
+          <target state="new">$x$x$Xxxxxxxxxxxxxx xxxxxx x xxxxxxxx xx xxxxx xx xxx xxxxxxx xxxxxx$ xxxxxxxx xxx xxxxxxx xxxxxxxx xxxxxx xxxx xxxxxx xx xxx xxxxxx xx xxxxx xxxxxxx$ xxx xxxxxxxx xxxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="394" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="395" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to write data from.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="396" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="397" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based byte offset in &lt;em&gt;buffer&lt;/em&gt; from which to begin copying bytes to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xxxx xxxxx xx xxxxx xxxxxxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="398" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to write.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="399" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The token to monitor for cancellation requests.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxx xxx xxxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="400" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous write operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="401" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;buffer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="402" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is negative.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="403" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The sum of &lt;em&gt;offset&lt;/em&gt; and &lt;em&gt;count&lt;/em&gt; is larger than the buffer length.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx $xx$xxxxxx$$xx$ xxx $xx$xxxxx$$xx$ xx xxxxxx xxxx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="404" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="405" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="406" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is currently in use by a previous write operation.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxx xx xxx xx x xxxxxxxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="407" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="408" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a byte to the current position in the file stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="409" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A byte to write to the stream.</source>
+          <target state="new">$x$x$X xxxx xx xxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="410" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="411" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="412" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="413" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support writing.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="414" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

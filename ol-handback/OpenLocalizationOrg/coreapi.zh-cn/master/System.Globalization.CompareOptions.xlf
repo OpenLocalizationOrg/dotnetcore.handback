@@ -1,0 +1,31 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the string comparison must ignore case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxxxxxx xxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the string comparison must ignore symbols, such as white-space characters, punctuation, currency symbols, the percent sign, mathematical symbols, the ampersand, and so on.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxxxxxx xxxx xxxxxx xxxxxxx$ xxxx xx xxxxx$xxxxx xxxxxxxxxx$ xxxxxxxxxxx$ xxxxxxxx xxxxxxx$ xxx xxxxxxx xxxx$ xxxxxxxxxxxx xxxxxxx$ xxx xxxxxxxxx$ xxx xx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the string comparison must ignore the character width.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxxxxxx xxxx xxxxxx xxx xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>For example, Japanese katakana characters can be written as full-width or half-width.</source>
+          <target state="new">Xxx xxxxxxx$ Xxxxxxxx xxxxxxxx xxxxxxxxxx xxx xx xxxxxxx xx xxxx$xxxxx xx xxxx$xxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If this value is selected, the katakana characters written as full-width are considered equal to the same characters written as half-width.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xxxxx xx xxxxxxxx$ xxx xxxxxxxx xxxxxxxxxx xxxxxxx xx xxxx$xxxxx xxx xxxxxxxxxx xxxxx xx xxx xxxx xxxxxxxxxx xxxxxxx xx xxxx$xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates the default option settings for string comparisons.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xxxxxx xxxxxxxx xxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;String comparison must ignore case, then perform an ordinal comparison.</source>
+          <target state="new">$x$x$Xxxxxx xxxxxxxxxx xxxx xxxxxx xxxx$ xxxx xxxxxxx xx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This technique is equivalent to converting the string to uppercase using the invariant culture and then performing an ordinal comparison on the result.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxxxxxxxxx xx xxxxxxxxxx xxx xxxxxx xx xxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the string comparison must use the string sort algorithm.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxxxxxx xxxx xxx xxx xxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>In a string sort, the hyphen and the apostrophe, as well as other nonalphanumeric symbols, come before alphanumeric characters.&lt;/p&gt;\n</source>
+          <target state="new">Xx x xxxxxx xxxx$ xxx xxxxxx xxx xxx xxxxxxxxxx$ xx xxxx xx xxxxx xxxxxxxxxxxxxxx xxxxxxx$ xxxx xxxxxx xxxxxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

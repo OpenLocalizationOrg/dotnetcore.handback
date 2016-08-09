@@ -1,0 +1,13 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies options to control the buffering behavior of a partitioner&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xx xxxxxxx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxxxx$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Create a partitioner that takes items from the source enumerable one at a time and does not use intermediate storage that can be accessed more efficiently by multiple threads.</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxxxxx xxxx xxxxx xxxxx xxxx xxx xxxxxx xxxxxxxxxx xxx xx x xxxx xxx xxxx xxx xxx xxxxxxxxxxxx xxxxxxx xxxx xxx xx xxxxxxxx xxxx xxxxxxxxxxx xx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This option provides support for low latency (items will be processed as soon as they are available from the source) and provides partial support for dependencies between items (a thread cannot deadlock waiting for an item that the thread itself is responsible for processing).&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxxxx xxxxxxx xxx xxx xxxxxxx $xxxxx xxxx xx xxxxxxxxx xx xxxx xx xxxx xxx xxxxxxxxx xxxx xxx xxxxxx$ xxx xxxxxxxx xxxxxxx xxxxxxx xxx xxxxxxxxxxxx xxxxxxx xxxxx $x xxxxxx xxxxxx xxxxxxxx xxxxxxx xxx xx xxxx xxxx xxx xxxxxx xxxxxx xx xxxxxxxxxxx xxx xxxxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Use the default behavior, which is to use buffering to achieve optimal performance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxxxxxx$ xxxxx xx xx xxx xxxxxxxxx xx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

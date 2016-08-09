@@ -1,0 +1,7 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Notifies listeners of dynamic changes, such as when an item is added and removed or the whole list is cleared.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxx xx xxxxxxx xxxxxxx$ xxxx xx xxxx xx xxxx xx xxxxx xxx xxxxxxx xx xxx xxxxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when the collection changes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

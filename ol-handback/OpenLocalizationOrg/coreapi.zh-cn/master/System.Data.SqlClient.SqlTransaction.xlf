@@ -1,0 +1,82 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a Transact-SQL transaction to be made in a SQL Server database.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x Xxxxxxxx$XXX xxxxxxxxxxx xx xx xxxx xx x XXX Xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Commits the database transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred while trying to commit the transaction.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxxx xxxxxx xx xxxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The transaction has already been committed or rolled back.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The connection is broken.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Rolls back a transaction from a pending state.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxx x xxxxxxxxxxx xxxx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred while trying to commit the transaction.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxxx xxxxxx xx xxxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The transaction has already been committed or rolled back.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The connection is broken.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Rolls back a transaction from a pending state, and specifies the transaction or savepoint name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxx x xxxxxxxxxxx xxxx x xxxxxxx xxxxx$ xxx xxxxxxxxx xxx xxxxxxxxxxx xx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the transaction to roll back, or the savepoint to which to roll back.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xx xxxx xxxx$ xx xxx xxxxxxxxx xx xxxxx xx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No transaction name was specified.</source>
+          <target state="new">$x$x$Xx xxxxxxxxxxx xxxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The transaction has already been committed or rolled back.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The connection is broken.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a savepoint in the transaction that can be used to roll back a part of the transaction, and specifies the savepoint name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxx xx xxx xxxxxxxxxxx xxxx xxx xx xxxx xx xxxx xxxx x xxxx xx xxx xxxxxxxxxxx$ xxx xxxxxxxxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the savepoint.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred while trying to commit the transaction.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxxx xxxxxx xx xxxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The transaction has already been committed or rolled back.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The connection is broken.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

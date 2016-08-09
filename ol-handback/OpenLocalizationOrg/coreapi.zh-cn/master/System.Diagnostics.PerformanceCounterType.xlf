@@ -1,0 +1,193 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An average counter that shows how many items are processed, on average, during an operation.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxx xxxx xxxxx xxx xxxx xxxxx xxx xxxxxxxxx$ xx xxxxxxx$ xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Counters of this type display a ratio of the items processed to the number of operations completed.</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxxxxxx x xxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxx xx xxxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The ratio is calculated by comparing the number of items processed during the last interval to the number of operations completed during the last interval.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xx xxxxxxxxxx xx xxxxxxxxx xxx xxxxxx xx xxxxx xxxxxxxxx xxxxxx xxx xxxx xxxxxxxx xx xxx xxxxxx xx xxxxxxxxxx xxxxxxxxx xxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An average counter that measures the time it takes, on average, to complete a process or operation.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxx xxxx xxxxxxxx xxx xxxx xx xxxxx$ xx xxxxxxx$ xx xxxxxxxx x xxxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Counters of this type display a ratio of the total elapsed time of the sample interval to the number of processes or operations completed during that time.</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxxxxxx x xxxxx xx xxx xxxxx xxxxxxx xxxx xx xxx xxxxxx xxxxxxxx xx xxx xxxxxx xx xxxxxxxxx xx xxxxxxxxxx xxxxxxxxx xxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This counter type measures time in ticks of the system clock.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxx xxxx xxxxxxxx xxxx xx xxxxx xx xxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A difference counter that shows the change in the measured attribute between the two most recent sample intervals.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxx xx xxx xxxxxxxx xxxxxxxxx xxxxxxx xxx xxx xxxx xxxxxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A difference counter that shows the change in the measured attribute between the two most recent sample intervals.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxx xx xxx xxxxxxxx xxxxxxxxx xxxxxxx xxx xxx xxxx xxxxxx xxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>It is the same as the &lt;strong&gt;CounterDelta32&lt;/strong&gt; counter type except that is uses larger fields to accomodate larger values.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxx xxxx xx xxx $xxxxxx$XxxxxxxXxxxx00$$xxxxxx$ xxxxxxx xxxx xxxxxx xxxx xx xxxx xxxxxx xxxxxx xx xxxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A base counter that indicates the number of items sampled.</source>
+          <target state="new">$x$x$X xxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxx xx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>It is used as the denominator in the calculations to get an average among the items sampled when taking timings of multiple, but similar items.</source>
+          <target state="new">Xx xx xxxx xx xxx xxxxxxxxxxx xx xxx xxxxxxxxxxxx xx xxx xx xxxxxxx xxxxx xxx xxxxx xxxxxxx xxxx xxxxxx xxxxxxx xx xxxxxxxx$ xxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Used with &lt;strong&gt;CounterMultiTimer&lt;/strong&gt;, &lt;strong&gt;CounterMultiTimerInverse&lt;/strong&gt;, &lt;strong&gt;CounterMultiTimer100Ns&lt;/strong&gt;, and &lt;strong&gt;CounterMultiTimer100NsInverse&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx $xxxxxx$XxxxxxxXxxxxXxxxx$$xxxxxx$$ $xxxxxx$XxxxxxxXxxxxXxxxxXxxxxxx$$xxxxxx$$ $xxxxxx$XxxxxxxXxxxxXxxxx000Xx$$xxxxxx$$ xxx $xxxxxx$XxxxxxxXxxxxXxxxx000XxXxxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that displays the active time of one or more components as a percentage of the total time of the sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxxx xx xxx xx xxxx xxxxxxxxxx xx x xxxxxxxxxx xx xxx xxxxx xxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Because the numerator records the active time of components operating simultaneously, the resulting percentage can exceed 100 percent.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxx xxxx xx xxxxxxxxxx xxxxxxxxx xxxxxxxxxxxxxx$ xxx xxxxxxxxx xxxxxxxxxx xxx xxxxxx 000 xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that shows the active time of one or more components as a percentage of the total time of the sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxx xxxx xx xxx xx xxxx xxxxxxxxxx xx x xxxxxxxxxx xx xxx xxxxx xxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>It measures time in 100 nanosecond (ns) units.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxxx xxxx xx 000 xxxxxxxxxx $xx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that shows the active time of one or more components as a percentage of the total time of the sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxx xxxx xx xxx xx xxxx xxxxxxxxxx xx x xxxxxxxxxx xx xxx xxxxx xxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Counters of this type measure time in 100 nanosecond (ns) units.</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxxxxxx xxxx xx 000 xxxxxxxxxx $xx$ xxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>They derive the active time by measuring the time that the components were not active and subtracting the result from multiplying 100 percent by the number of objects monitored.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxx xxxxxx xxxx xx xxxxxxxxx xxx xxxx xxxx xxx xxxxxxxxxx xxxx xxx xxxxxx xxx xxxxxxxxxxx xxx xxxxxx xxxx xxxxxxxxxxx 000 xxxxxxx xx xxx xxxxxx xx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that shows the active time of one or more components as a percentage of the total time of the sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxx xxxx xx xxx xx xxxx xxxxxxxxxx xx x xxxxxxxxxx xx xxx xxxxx xxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>It derives the active time by measuring the time that the components were not active and subtracting the result from 100 percent by the number of objects monitored.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxx xxx xxxxxx xxxx xx xxxxxxxxx xxx xxxx xxxx xxx xxxxxxxxxx xxxx xxx xxxxxx xxx xxxxxxxxxxx xxx xxxxxx xxxx 000 xxxxxxx xx xxx xxxxxx xx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that shows the average time that a component is active as a percentage of the total sample time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxxx xxxx xxxx x xxxxxxxxx xx xxxxxx xx x xxxxxxxxxx xx xxx xxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that displays the average percentage of active time observed during sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxxx xxxxxxxxxx xx xxxxxx xxxx xxxxxxxx xxxxxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>The value of these counters is calculated by monitoring the percentage of time that the service was inactive and then subtracting that value from 100 percent.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xx xxxxx xxxxxxxx xx xxxxxxxxxx xx xxxxxxxxxx xxx xxxxxxxxxx xx xxxx xxxx xxx xxxxxxx xxx xxxxxxxx xxx xxxx xxxxxxxxxxx xxxx xxxxx xxxx 000 xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An average counter designed to monitor the average length of a queue to a resource over time.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxx xxxxxxxx xx xxxxxxx xxx xxxxxxx xxxxxx xx x xxxxx xx x xxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>It shows the difference between the queue lengths observed during the last two sample intervals divided by the duration of the interval.</source>
+          <target state="new">Xx xxxxx xxx xxxxxxxxxx xxxxxxx xxx xxxxx xxxxxxx xxxxxxxx xxxxxx xxx xxxx xxx xxxxxx xxxxxxxxx xxxxxxx xx xxx xxxxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>This type of counter is typically used to track the number of items that are queued or waiting.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xx xxxxxxx xx xxxxxxxxx xxxx xx xxxxx xxx xxxxxx xx xxxxx xxxx xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An average counter that monitors the average length of a queue to a resource over time.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxxx xxxxxx xx x xxxxx xx x xxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>Counters of this type display the difference between the queue lengths observed during the last two sample intervals, divided by the duration of the interval.</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxxxxxx xxx xxxxxxxxxx xxxxxxx xxx xxxxx xxxxxxx xxxxxxxx xxxxxx xxx xxxx xxx xxxxxx xxxxxxxxx$ xxxxxxx xx xxx xxxxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>This counter type is the same as &lt;strong&gt;CountPerTimeInterval32&lt;/strong&gt; except that it uses larger fields to accommodate larger values.</source>
+          <target state="new">Xxxx xxxxxxx xxxx xx xxx xxxx xx $xxxxxx$XxxxxXxxXxxxXxxxxxxx00$$xxxxxx$ xxxxxx xxxx xx xxxx xxxxxx xxxxxx xx xxxxxxxxxxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>This type of counter is typically used to track a high-volume or very large number of items that are queued or waiting.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xx xxxxxxx xx xxxxxxxxx xxxx xx xxxxx x xxxx$xxxxxx xx xxxx xxxxx xxxxxx xx xxxxx xxxx xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A difference timer that shows the total time between when the component or process started and the time when this value is calculated.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxx xxxx xxxxx xxx xxxxx xxxx xxxxxxx xxxx xxx xxxxxxxxx xx xxxxxxx xxxxxxx xxx xxx xxxx xxxx xxxx xxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instantaneous counter that shows the most recently observed value.</source>
+          <target state="new">$x$x$Xx xxxxxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxx xxxxxxxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>Used, for example, to maintain a simple count of items or operations.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx$ xxx xxxxxxx$ xx xxxxxxxx x xxxxxx xxxxx xx xxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instantaneous counter that shows the most recently observed value.</source>
+          <target state="new">$x$x$Xx xxxxxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxx xxxxxxxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>Used, for example, to maintain a simple count of a very large number of items or operations.</source>
+          <target state="new">Xxxx$ xxx xxxxxxx$ xx xxxxxxxx x xxxxxx xxxxx xx x xxxx xxxxx xxxxxx xx xxxxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>It is the same as &lt;strong&gt;NumberOfItems32&lt;/strong&gt; except that it uses larger fields to accommodate larger values.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxx xxxx xx $xxxxxx$XxxxxxXxXxxxx00$$xxxxxx$ xxxxxx xxxx xx xxxx xxxxxx xxxxxx xx xxxxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instantaneous counter that shows the most recently observed value in hexadecimal format.</source>
+          <target state="new">$x$x$Xx xxxxxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxx xxxxxxxx xxxxxxxx xxxxx xx xxxxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Used, for example, to maintain a simple count of items or operations.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx$ xxx xxxxxxx$ xx xxxxxxxx x xxxxxx xxxxx xx xxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instantaneous counter that shows the most recently observed value.</source>
+          <target state="new">$x$x$Xx xxxxxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxx xxxxxxxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>Used, for example, to maintain a simple count of a very large number of items or operations.</source>
+          <target state="new">Xxxx$ xxx xxxxxxx$ xx xxxxxxxx x xxxxxx xxxxx xx x xxxx xxxxx xxxxxx xx xxxxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>It is the same as &lt;strong&gt;NumberOfItemsHEX32&lt;/strong&gt; except that it uses larger fields to accommodate larger values.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxx xxxx xx $xxxxxx$XxxxxxXxXxxxxXXX00$$xxxxxx$ xxxxxx xxxx xx xxxx xxxxxx xxxxxx xx xxxxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A difference counter that shows the average number of operations completed during each second of the sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxxx xxxxxx xx xxxxxxxxxx xxxxxxxxx xxxxxx xxxx xxxxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Counters of this type measure time in ticks of the system clock.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxxxxxx xxxx xx xxxxx xx xxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A difference counter that shows the average number of operations completed during each second of the sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxxx xxxxxx xx xxxxxxxxxx xxxxxxxxx xxxxxx xxxx xxxxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>Counters of this type measure time in ticks of the system clock.</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxxxxxx xxxx xx xxxxx xx xxx xxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>This counter type is the same as the &lt;strong&gt;RateOfCountsPerSecond32&lt;/strong&gt; type, but it uses larger fields to accommodate larger values to track a high-volume number of items or operations per second, such as a byte-transmission rate.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxx xxxx xx xxx xxxx xx xxx $xxxxxx$XxxxXxXxxxxxXxxXxxxxx00$$xxxxxx$ xxxx$ xxx xx xxxx xxxxxx xxxxxx xx xxxxxxxxxxx xxxxxx xxxxxx xx xxxxx x xxxx$xxxxxx xxxxxx xx xxxxx xx xxxxxxxxxx xxx xxxxxx$ xxxx xx x xxxx$xxxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A base counter that stores the denominator of a counter that presents a general arithmetic fraction.</source>
+          <target state="new">$x$x$X xxxx xxxxxxx xxxx xxxxxx xxx xxxxxxxxxxx xx x xxxxxxx xxxx xxxxxxxx x xxxxxxx xxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>Check that this value is greater than zero before using it as the denominator in a &lt;strong&gt;RawFraction&lt;/strong&gt; value calculation.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxx xxxx xxxx xxxxx xx xxxxxxx xxxx xxxx xxxxxx xxxxx xx xx xxx xxxxxxxxxxx xx x $xxxxxx$XxxXxxxxxxx$$xxxxxx$ xxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instantaneous percentage counter that shows the ratio of a subset to its set as a percentage.</source>
+          <target state="new">$x$x$Xx xxxxxxxxxxxxx xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxx xx x xxxxxx xx xxx xxx xx x xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>For example, it compares the number of bytes in use on a disk to the total number of bytes on the disk.</source>
+          <target state="new">Xxx xxxxxxx$ xx xxxxxxxx xxx xxxxxx xx xxxxx xx xxx xx x xxxx xx xxx xxxxx xxxxxx xx xxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Counters of this type display the current percentage only, not an average over time.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxxxxxx xxx xxxxxxx xxxxxxxxxx xxxx$ xxx xx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A base counter that stores the number of sampling interrupts taken and is used as a denominator in the sampling fraction.</source>
+          <target state="new">$x$x$X xxxx xxxxxxx xxxx xxxxxx xxx xxxxxx xx xxxxxxxx xxxxxxxxxx xxxxx xxx xx xxxx xx x xxxxxxxxxxx xx xxx xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>The sampling fraction is the number of samples that were 1 (or &lt;strong&gt;true&lt;/strong&gt;) for a sample interrupt.</source>
+          <target state="new">Xxx xxxxxxxx xxxxxxxx xx xxx xxxxxx xx xxxxxxx xxxx xxxx 0 $xx $xxxxxx$xxxx$$xxxxxx$$ xxx x xxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>Check that this value is greater than zero before using it as the denominator in a calculation of &lt;strong&gt;SampleFraction&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxx xxxx xxxx xxxxx xx xxxxxxx xxxx xxxx xxxxxx xxxxx xx xx xxx xxxxxxxxxxx xx x xxxxxxxxxxx xx $xxxxxx$XxxxxxXxxxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An average counter that shows the average number of operations completed in one second.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxxx xxxxxx xx xxxxxxxxxx xxxxxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>When a counter of this type samples the data, each sampling interrupt returns one or zero.</source>
+          <target state="new">Xxxx x xxxxxxx xx xxxx xxxx xxxxxxx xxx xxxx$ xxxx xxxxxxxx xxxxxxxxx xxxxxxx xxx xx xxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>The counter data is the number of ones that were sampled.</source>
+          <target state="new">Xxx xxxxxxx xxxx xx xxx xxxxxx xx xxxx xxxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>It measures time in units of ticks of the system performance timer.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxxx xxxx xx xxxxx xx xxxxx xx xxx xxxxxx xxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that shows the average ratio of hits to all operations during the last two sample intervals.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxxx xxxxx xx xxxx xx xxx xxxxxxxxxx xxxxxx xxx xxxx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that shows the active time of a component as a percentage of the total elapsed time of the sample interval.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxx xxxx xx x xxxxxxxxx xx x xxxxxxxxxx xx xxx xxxxx xxxxxxx xxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>It measures time in units of 100 nanoseconds (ns).</source>
+          <target state="new">Xx xxxxxxxx xxxx xx xxxxx xx 000 xxxxxxxxxxx $xx$.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Counters of this type are designed to measure the activity of one component at a time.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxx xx xxxx xxxx xxx xxxxxxxx xx xxxxxxx xxx xxxxxxxx xx xxx xxxxxxxxx xx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A percentage counter that shows the average percentage of active time observed during the sample interval.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxxx xxxx xxxxx xxx xxxxxxx xxxxxxxxxx xx xxxxxx xxxx xxxxxxxx xxxxxx xxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

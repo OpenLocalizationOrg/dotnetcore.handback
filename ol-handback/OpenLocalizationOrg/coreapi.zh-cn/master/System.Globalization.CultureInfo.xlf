@@ -1,0 +1,121 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides information about a specific culture (called a locale for unmanaged code development).</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxx xxxxx x xxxxxxxx xxxxxxx $xxxxxx x xxxxxx xxx xxxxxxxxx xxxx xxxxxxxxxxx$.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>The information includes the names for the culture, the writing system, the calendar used, the sort order of strings, and formatting for dates and numbers.</source>
+          <target state="new">Xxx xxxxxxxxxxx xxxxxxxx xxx xxxxx xxx xxx xxxxxxx$ xxx xxxxxxx xxxxxx$ xxx xxxxxxxx xxxx$ xxx xxxx xxxxx xx xxxxxxx$ xxx xxxxxxxxxx xxx xxxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is null.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is not a valid culture name.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxx x xxxxx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>For more information, see the Notes to Callers section.</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx$ xxx xxx Xxxxx xx Xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the default calendar used by the culture.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the culture used by the current thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxx xxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture used by the Resource Manager to look up culture-specific resources at run time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx Xxxxxxxx Xxxxxxx xx xxxx xx xxxxxxx$xxxxxxxx xxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to a culture name that cannot be used to locate a resource file.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx x xxxxxxx xxxx xxxx xxxxxx xx xxxx xx xxxxxx x xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Resource filenames can include only letters, numbers, hyphens, or underscores.</source>
+          <target state="new">Xxxxxxxx xxxxxxxxx xxx xxxxxxx xxxx xxxxxxx$ xxxxxxx$ xxxxxxx$ xx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to null.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx xxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the default culture for threads in the current application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxxx xxx xxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The default culture for threads in the current application domain, or &lt;strong&gt;null&lt;/strong&gt; if the current system culture is the default thread culture in the application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxx xxx xxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the default UI culture for threads in the current application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx XX xxxxxxx xxx xxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The default UI culture for threads in the current application domain, or &lt;strong&gt;null&lt;/strong&gt; if the current system UI culture is the default thread UI culture in the application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx XX xxxxxxx xxx xxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxxx XX xxxxxxx xx xxx xxxxxxx xxxxxx XX xxxxxxx xx xxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the full localized culture name.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxxx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The full localized culture name in the format languagefull [country/regionfull], where languagefull is the full name of the language and country/regionfull is the full name of the country/region.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxxx $xxxxxxx$xxxxxxxxxx$$ xxxxx xxxxxxxxxxxx xx xxx xxxx xxxx xx xxx xxxxxxxx xxx xxxxxxx$xxxxxxxxxx xx xxx xxxx xxxx xx xxx xxxxxxx$xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the culture name in the format languagefull [country/regionfull] in English.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxxx $xxxxxxx$xxxxxxxxxx$ xx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture name in the format languagefull [country/regionfull] in English, where languagefull is the full name of the language and country/regionfull is the full name of the country/region.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxxx $xxxxxxx$xxxxxxxxxx$ xx Xxxxxxx$ xxxxx xxxxxxxxxxxx xx xxx xxxx xxxx xx xxx xxxxxxxx xxx xxxxxxx$xxxxxxxxxx xx xxx xxxx xxxx xx xxx xxxxxxx$xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object that is culture-independent (invariant).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxxxxxx$xxxxxxxxxxx $xxxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the culture name in the format languagecode2-country/regioncode2.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxxx0$xxxxxxx$xxxxxxxxxx0.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The culture name in the format languagecode2-country/regioncode2.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxxx0$xxxxxxx$xxxxxxxxxx0.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>languagecode2 is a lowercase two-letter code derived from ISO 639-1.</source>
+          <target state="new">xxxxxxxxxxxx0 xx x xxxxxxxxx xxx$xxxxxx xxxx xxxxxxx xxxx XXX 000$0.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>country/regioncode2 is derived from ISO 3166 and usually consists of two uppercase letters, or a BCP-47 language tag.</source>
+          <target state="new">xxxxxxx$xxxxxxxxxx0 xx xxxxxxx xxxx XXX 0000 xxx xxxxxxx xxxxxxxx xx xxx xxxxxxxxx xxxxxxx$ xx x XXX$00 xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the culture name, consisting of the language, the country/region, and the optional script, that the culture is set to display.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx$ xxxxxxxxxx xx xxx xxxxxxxx$ xxx xxxxxxx$xxxxxx$ xxx xxx xxxxxxxx xxxxxx$ xxxx xxx xxxxxxx xx xxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to null.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx xxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the list of calendars that can be used by the culture.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxxxxxxxx xxxx xxx xx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an object that defines how to format the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xxxx xxxxxxx xxx xx xxxxxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;ci&lt;/em&gt; is null.</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx xxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

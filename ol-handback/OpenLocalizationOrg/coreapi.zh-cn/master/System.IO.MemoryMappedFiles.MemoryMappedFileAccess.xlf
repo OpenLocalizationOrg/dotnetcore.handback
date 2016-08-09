@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies access capabilities and restrictions for a memory-mapped file or view.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxx x xxxxxx$xxxxxx xxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read and write access to the file, with the restriction that any write operations will not be seen by other processes.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxx xx xxx xxxx$ xxxx xxx xxxxxxxxxxx xxxx xxx xxxxx xxxxxxxxxx xxxx xxx xx xxxx xx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read-only access to the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx$xxxx xxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read access to the file that can store and run executable code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxx xx xxx xxxx xxxx xxx xxxxx xxx xxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read and write access to the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read and write access to the file that can can store and run executable code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxx xx xxx xxxx xxxx xxx xxx xxxxx xxx xxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Write-only access to file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx$xxxx xxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

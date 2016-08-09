@@ -1,0 +1,10 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates to compilers that a method call or attribute should be ignored unless a specified conditional compilation symbol is defined.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxxxxxx xxxx x xxxxxx xxxx xx xxxxxxxxx xxxxxx xx xxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that specifies the case-sensitive conditional compilation symbol that is associated with the attribute.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxxx xxx xxxx$xxxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

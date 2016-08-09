@@ -1,0 +1,55 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an expression that has a binary operator.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxxxxxx xxxx xxx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether the expression tree node can be reduced.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxx xxxx xxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;True if the expression tree node can be reduced, otherwise false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxx xxxxxxxxxx xxxx xxxx xxx xx xxxxxxx$ xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the type conversion function that is used by a coalescing or compound assignment operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxxxx xxxxxxxx xxxx xx xxxx xx x xxxxxxxxxx xx xxxxxxxx xxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether the expression tree node represents a lifted call to an operator.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxx xxxx xxxxxxxxxx x xxxxxx xxxx xx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the node represents a lifted call; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxxxxxxxxx x xxxxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether the expression tree node represents a lifted call to an operator whose return type is lifted to a nullable type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxx xxxx xxxxxxxxxx x xxxxxx xxxx xx xx xxxxxxxx xxxxx xxxxxx xxxx xx xxxxxx xx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the operator's return type is lifted to a nullable type; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxx$x xxxxxx xxxx xx xxxxxx xx x xxxxxxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the left operand of the binary operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the implementing method for the binary operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxxxx xxxxxx xxx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the right operand of the binary operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The visitor to visit this node with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of visiting this node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reduces the binary expression node to a simpler expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxxxxxxxxx xxxx xx x xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The reduced expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new expression that is like this one, but using the supplied children.</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxxxxxx xxxx xx xxxx xxxx xxx$ xxx xxxxx xxx xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>If all of the children are the same, it will return this expression.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xx xxx xxxxxxxx xxx xxx xxxx$ xx xxxx xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This expression if no children are changed or an expression with the updated children.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xx xxxxxxxx xxx xxxxxxx xx xx xxxxxxxxxx xxxx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

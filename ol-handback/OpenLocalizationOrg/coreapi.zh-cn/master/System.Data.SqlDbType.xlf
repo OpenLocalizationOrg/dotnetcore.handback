@@ -1,0 +1,43 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Date data ranging in value from January 1,1 AD through December 31, 9999 AD.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxxx xx xxxxx xxxx Xxxxxxx 0$0 XX xxxxxxx Xxxxxxxx 00$ 0000 XX.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Date and time data.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Date value range is from January 1,1 AD through December 31, 9999 AD.</source>
+          <target state="new">Xxxx xxxxx xxxxx xx xxxx Xxxxxxx 0$0 XX xxxxxxx Xxxxxxxx 00$ 0000 XX.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Time value range is 00:00:00 through 23:59:59.9999999 with an accuracy of 100 nanoseconds.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xx 00$00$00 xxxxxxx 00$00$00.0000000 xxxx xx xxxxxxxx xx 000 xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Date and time data with time zone awareness.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxxx xxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Date value range is from January 1,1 AD through December 31, 9999 AD.</source>
+          <target state="new">Xxxx xxxxx xxxxx xx xxxx Xxxxxxx 0$0 XX xxxxxxx Xxxxxxxx 00$ 0000 XX.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Time value range is 00:00:00 through 23:59:59.9999999 with an accuracy of 100 nanoseconds.</source>
+          <target state="new">Xxxx xxxxx xxxxx xx 00$00$00 xxxxxxx 00$00$00.0000000 xxxx xx xxxxxxxx xx 000 xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Time zone value range is -14:00 through +14:00.</source>
+          <target state="new">Xxxx xxxx xxxxx xxxxx xx $00$00 xxxxxxx $00$00.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A special data type for specifying structured data contained in table-valued parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxx xxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx xxxxxxxxx xx xxxxx$xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Time data based on a 24-hour clock.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxx xx x 00$xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Time value range is 00:00:00 through 23:59:59.9999999 with an accuracy of 100 nanoseconds.</source>
+          <target state="new">Xxxx xxxxx xxxxx xx 00$00$00 xxxxxxx 00$00$00.0000000 xxxx xx xxxxxxxx xx 000 xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>Corresponds to a SQL Server &lt;strong&gt;time&lt;/strong&gt; value.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxxxxx xx x XXX Xxxxxx $xxxxxx$xxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A SQL Server user-defined type (UDT).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X XXX Xxxxxx xxxx$xxxxxxx xxxx $XXX$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

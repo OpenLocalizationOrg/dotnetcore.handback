@@ -1,0 +1,682 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a way of reading a forward-only stream of rows from a SQL Server database.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxx xx xxxxxxx x xxxxxxx$xxxx xxxxxx xx xxxx xxxx x XXX Xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates the depth of nesting for the current row.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxx xxxxx xx xxxxxxx xxx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The depth of nesting for the current row.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxx xxx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the number of columns in the current row.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxx xx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When not positioned in a valid recordset, 0; otherwise the number of columns in the current row.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx x xxxxx xxxxxxxxx$ 0$ xxxxxxxxx xxx xxxxxx xx xxxxxxx xx xxx xxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The default is -1.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx $0.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is no current connection to an instance of SQL Server.</source>
+          <target state="new">$x$x$Xxxxx xx xx xxxxxxx xxxxxxxxxx xx xx xxxxxxxx xx XXX Xxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column in its native format given the column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxx xxxxxx xxxxx xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column in its native format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column in its native format given the column name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxx xxxxxx xxxxx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column name.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column in its native format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No column with the specified name was found.</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxx xxxxxxxxx xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the number of rows changed, inserted, or deleted by execution of the Transact-SQL statement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxx xxxxxxx$ xxxxxxxx$ xx xxxxxxx xx xxxxxxxxx xx xxx Xxxxxxxx$XXX xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of rows changed, inserted, or deleted; 0 if no rows were affected or the statement failed; and -1 for SELECT statements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xxxxxxx$ xxxxxxxx$ xx xxxxxxx$ 0 xx xx xxxx xxxx xxxxxxxx xx xxx xxxxxxxxx xxxxxx$ xxx $0 xxx XXXXXX xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of fields that are not hidden.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx xxxx xxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a Boolean.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a byte.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column as a byte.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads a stream of bytes from the specified column offset into the buffer an array starting at the given buffer offset.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxx xx xxxxx xxxx xxx xxxxxxxxx xxxxxx xxxxxx xxxx xxx xxxxxx xx xxxxx xxxxxxxx xx xxx xxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index within the field from which to begin the read operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xxx xxxxx xxxx xxxxx xx xxxxx xxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to read the stream of bytes.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx xx xxxx xxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index within the &lt;em&gt;buffer&lt;/em&gt; where the write operation is to start.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xxx $xx$xxxxxx$$xx$ xxxxx xxx xxxxx xxxxxxxxx xx xx xxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length to copy into the buffer.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The actual number of bytes read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a single character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads a stream of characters from the specified column offset into the buffer as an array starting at the given buffer offset.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxx xx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxx xxxxxx xxxx xxx xxxxxx xx xx xxxxx xxxxxxxx xx xxx xxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index within the field from which to begin the read operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xxx xxxxx xxxx xxxxx xx xxxxx xxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer into which to read the stream of bytes.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx xx xxxx xxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index within the &lt;em&gt;buffer&lt;/em&gt; where the write operation is to start.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xxx $xx$xxxxxx$$xx$ xxxxx xxx xxxxx xxxxxxxxx xx xx xxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length to copy into the buffer.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The actual number of characters read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a string representing the data type of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxxxxxxxxxx xxx xxxx xxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal position of the column to find.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xxxxxxxx xx xxx xxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representing the data type of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxx xxx xxxx xxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a double-precision floating point number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x xxxxxx$xxxxxxxxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column to be retrieved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the value to be returned.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>See the remarks section for more information.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxx xxxxxxx xxxxxxx xxx xxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The returned type object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Trying to read a column that does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx x xxxxxx xxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;T&lt;/em&gt; doesn’t match the type returned by SQL Server or cannot be cast.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$X$$xx$ xxxxx$x xxxxx xxx xxxx xxxxxxxx xx XXX Xxxxxx xx xxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column to be retrieved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the value to be returned.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>See the remarks section for more information.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxx xxxxxxx xxxxxxx xxx xxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The returned type object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Trying to read a column that does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx x xxxxxx xxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;T&lt;/em&gt; doesn’t match the type returned by SQL Server or cannot be cast.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$X$$xx$ xxxxx$x xxxxx xxx xxxx xxxxxxxx xx XXX Xxxxxx xx xxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a single-precision floating point number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x xxxxxx$xxxxxxxxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a globally unique identifier (GUID).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x xxxxxxxx xxxxxx xxxxxxxxxx $XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a 16-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x 00$xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a 32-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x 00$xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x 00$xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the column ordinal, given the name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxx$ xxxxx xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name specified is not a valid column name.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xx xxx x xxxxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an &lt;strong&gt;Object&lt;/strong&gt; that is a representation of the underlying provider-specific field type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx $xxxxxx$Xxxxxx$$xxxxxx$ xxxx xx x xxxxxxxxxxxxxx xx xxx xxxxxxxxxx xxxxxxxx$xxxxxxxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an &lt;strong&gt;Object&lt;/strong&gt; that is a representation of the underlying provider specific value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx $xxxxxx$Xxxxxx$$xxxxxx$ xxxx xx x xxxxxxxxxxxxxx xx xxx xxxxxxxxxx xxxxxxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an array of objects that are a representation of the underlying provider specific values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxx xx xxxxxxx xxxx xxx x xxxxxxxxxxxxxx xx xxx xxxxxxxxxx xxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of objects that are a representation of the underlying provider specific values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxx xxxx xxx x xxxxxxxxxxxxxx xx xxx xxxxxxxxxx xxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the data value in the specified column as a SQL Server type.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x XXX Xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer indicating the number of columns copied.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxxxxx xxx xxxxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;values&lt;/em&gt; is null.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx.</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as an XML value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xx XXX xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A stream object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Trying to read a column that does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx x xxxxxx xxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The returned type was not one of the types below:&lt;/p&gt;\n&lt;ul&gt;&lt;li&gt;\n&lt;p&gt;binary&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;image&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;varbinary&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;udt&lt;/p&gt;\n&lt;/li&gt;&lt;/ul&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxx xxx xxx xx xxx xxxxx xxxxx$$$x$$x$xx$$xx$$x$x$xxxxxx$$x$$x$$xx$$xx$$x$x$xxxxx$$x$$x$$xx$$xx$$x$x$xxxxxxxxx$$x$$x$$xx$$xx$$x$x$xxx$$x$$x$$xx$$$xx$$x</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column as a string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column to be retrieved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The returned object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Trying to read a column that does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx x xxxxxx xxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The returned type was not one of the types below:&lt;/p&gt;\n&lt;ul&gt;&lt;li&gt;\n&lt;p&gt;char&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;nchar&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;ntext&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;nvarchar&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;text&lt;/p&gt;\n&lt;/li&gt;&lt;li&gt;\n&lt;p&gt;varchar&lt;/p&gt;\n&lt;/li&gt;&lt;/ul&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxx xxx xxx xx xxx xxxxx xxxxx$$$x$$x$xx$$xx$$x$x$xxxx$$x$$x$$xx$$xx$$x$x$xxxxx$$x$$x$$xx$$xx$$x$x$xxxxx$$x$$x$$xx$$xx$$x$x$xxxxxxxx$$x$$x$$xx$$xx$$x$x$xxxx$$x$$x$$xx$$xx$$x$x$xxxxxxx$$x$$x$$xx$$$xx$$x</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified cast is not valid.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value of the specified column in its native format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Populates an array of objects with the column values of the current row.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxx xx xxxxxxx xxxx xxx xxxxxx xxxxxx xx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The returned object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Trying to read a column that does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx x xxxxxx xxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The returned type was not xml.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether the column contains non-existent or missing values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxx xxxxxxxx xxx$xxxxxxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column to be retrieved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the specified column value is equivalent to &lt;strong&gt;DBNull&lt;/strong&gt; otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxxxx xxxxx xx xxxxxxxxxx xx $xxxxxx$XXXxxx$$xxxxxx$ xxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Trying to read a column that does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx x xxxxxx xxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Advances the data reader to the next result, when reading the results of batch Transact-SQL statements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxx xxxxxx xx xxx xxxx xxxxxx$ xxxx xxxxxxx xxx xxxxxxx xx xxxxx Xxxxxxxx$XXX xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if there are more result sets; otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xxx xxxx xxxxxx xxxx$ xxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if there are more rows; otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xxx xxxx xxxx$ xxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

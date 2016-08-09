@@ -1,0 +1,37 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the property grid should refresh when the associated property value changes.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxxx xxxx xxxxxx xxxxxxx xxxx xxx xxxxxxxxxx xxxxxxxx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that all properties are queried again and refreshed if the property value is changed.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxxxxx xxx xxxxxxx xxxxx xxx xxxxxxxxx xx xxx xxxxxxxx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that no other properties are refreshed if the property value is changed.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that all properties are repainted if the property value is changed.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the refresh properties for the member.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxxxx xxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the specified object is the same; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxxxx xx xxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash code for the object that the attribute belongs to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxx xxxxxx xxxx xxx xxxxxxxxx xxxxxxx xx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,127 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a connection to a database.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxxxxx xx x xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the string used to open the connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxx xx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection string used to establish the initial connection.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xxxx xx xxxxxxxxx xxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The exact contents of the connection string depend on the specific data source for this connection.</source>
+          <target state="new">Xxx xxxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxx xx xxx xxxxxxxx xxxx xxxxxx xxx xxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The default value is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the time to wait while establishing a connection before terminating the attempt and generating an error.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxxx xxxxx xxxxxxxxxxxx x xxxxxxxxxx xxxxxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time (in seconds) to wait for a connection to open.</source>
+          <target state="new">$x$x$Xxx xxxx $xx xxxxxxx$ xx xxxx xxx x xxxxxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The default value is determined by the specific type of connection that you are using.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxxxxxxxxx xxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the current database after a connection is opened, or the database name specified in the connection string before the connection is opened.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxx xxxxxxxx xxxxx x xxxxxxxxxx xx xxxxxx$ xx xxx xxxxxxxx xxxx xxxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxx xxx xxxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the current database or the name of the database to be used after a connection is opened.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxx xx xxx xxxxxxxx xx xx xxxx xxxxx x xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>The default value is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the database server to which to connect.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxxx xxxxxx xx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the database server to which to connect.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xxxxxx xx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The default value is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a string that represents the version of the server to which the object is connected.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxx xxxxxxxxxx xxx xxxxxxx xx xxx xxxxxx xx xxxxx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The version of the database.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The format of the string returned depends on the specific type of connection you are using.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xx xxx xxxxxx xxxxxxxx xxxxxxx xx xxx xxxxxxxx xxxx xx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a string that describes the state of the connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxx xxxxxxxxx xxx xxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The state of the connection.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The format of the string returned depends on the specific type of connection you are using.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xx xxx xxxxxx xxxxxxxx xxxxxxx xx xxx xxxxxxxx xxxx xx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when the state of the event changes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xxxxx xx xxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts a database transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the isolation level for the transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxxx xxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts a database transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts a database transaction with the specified isolation level.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the isolation level for the transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxxx xxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Changes the current database for an open connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxx xxx xx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the name of the database for the connection to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xx xxx xxxxxxxx xxx xxx xxxxxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Closes the connection to the database.</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>This is the preferred method of closing any open connection.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx xxx xxxxxxxxx xxxxxx xx xxxxxxx xxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection-level error that occurred while opening the connection.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx$xxxxx xxxxx xxxx xxxxxxxx xxxxx xxxxxxx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Begins a database transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

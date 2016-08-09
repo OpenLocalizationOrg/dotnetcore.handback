@@ -1,0 +1,730 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a key-level node in the Windows registry.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxx$xxxxx xxxx xx xxx Xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class is a registry encapsulation.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx x xxxxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The handle to the registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The registry key is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Closed keys cannot be accessed.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxx xxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A system error occurred, such as deletion of the current key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxx xxxxxxxx$ xxxx xx xxxxxxxx xx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read the key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the name of the key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The absolute (qualified) name of the key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx $xxxxxxxxx$ xxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the count of subkeys of the current key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxxxx xx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of subkeys of the current key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have read permission for the key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxx xxxxxxxxxx xxx xxx xxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A system error occurred, for example the current key has been deleted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxx xxxxxxxx$ xxx xxxxxxx xxx xxxxxxx xxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the count of values in the key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of name/value pairs in the key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx$xxxxx xxxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have read permission for the key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxx xxxxxxxxxx xxx xxx xxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A system error occurred, for example the current key has been deleted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxx xxxxxxxx$ xxx xxxxxxx xxx xxxxxxx xxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the view that was used to create the registry key.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxx xxxx xx xxxxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new subkey or opens an existing subkey for write access.</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxx xx xxxxx xx xxxxxxxx xxxxxx xxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name or path of the subkey to create or open.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xx xxx xxxxxx xx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to create or open the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new subkey or opens an existing subkey with the specified access.</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxx xx xxxxx xx xxxxxxxx xxxxxx xxxx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;Available starting in .NET Framework 4.6&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$Xxxxxxxxx xxxxxxxx xx .XXX Xxxxxxxxx 0.0$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name or path of the subkey to create or open.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xx xxx xxxxxx xx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to indicate the new subkey is writable; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxx xxx xxxxxx xx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to create or open the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new subkey or opens an existing subkey with the specified access.</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxx xx xxxxx xx xxxxxxxx xxxxxx xxxx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;Available starting in .NET Framework 4.6&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$Xxxxxxxxx xxxxxxxx xx .XXX Xxxxxxxxx 0.0$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name or path of the subkey to create or open.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xx xxx xxxxxx xx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to indicate the new subkey is writable; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxx xxx xxxxxx xx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The registry option to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;options&lt;/em&gt; does not specify a valid Option&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xxxx xxx xxxxxxx x xxxxx Xxxxxx$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to create or open the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes the specified subkey.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the subkey to delete.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;subkey&lt;/em&gt; has child subkeys &lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxx xxxxx xxxxxxx $$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;subkey&lt;/em&gt; parameter does not specify a valid registry key &lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xxxx xxx xxxxxxx x xxxxx xxxxxxxx xxx $$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to delete the key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes the specified subkey, and specifies whether an exception is raised if the subkey is not found.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxxx$ xxx xxxxxxxxx xxxxxxx xx xxxxxxxxx xx xxxxxx xx xxx xxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the subkey to delete.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether an exception should be raised if the specified subkey cannot be found.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xx xxxxxxxxx xxxxxx xx xxxxxx xx xxx xxxxxxxxx xxxxxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>If this argument is &lt;strong&gt;true&lt;/strong&gt; and the specified subkey does not exist, an exception is raised.</source>
+          <target state="new">Xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxx xxxxxx xxxx xxx xxxxx$ xx xxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>If this argument is &lt;strong&gt;false&lt;/strong&gt; and the specified subkey does not exist, no action is taken.</source>
+          <target state="new">Xx xxxx xxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$ xxx xxx xxxxxxxxx xxxxxx xxxx xxx xxxxx$ xx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; has child subkeys.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; does not specify a valid registry key, and &lt;em&gt;throwOnMissingSubKey&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxxx xxx xxxxxxx x xxxxx xxxxxxxx xxx$ xxx $xx$xxxxxXxXxxxxxxXxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to delete the key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes a subkey and any child subkeys recursively.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxx xxx xxxxx xxxxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subkey to delete.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletion of a root hive is attempted.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; does not specify a valid registry subkey.</source>
+          <target state="new">$x$x$Xxxxxxxx xx x xxxx xxxx xx xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xxxx xxx xxxxxxx x xxxxx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error has occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to delete the key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes the specified subkey and any child subkeys recursively, and specifies whether an exception is raised if the subkey is not found.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxxx xxx xxx xxxxx xxxxxxx xxxxxxxxxxx$ xxx xxxxxxxxx xxxxxxx xx xxxxxxxxx xx xxxxxx xx xxx xxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the subkey to delete.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether an exception should be raised if the specified subkey cannot be found.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xx xxxxxxxxx xxxxxx xx xxxxxx xx xxx xxxxxxxxx xxxxxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>If this argument is &lt;strong&gt;true&lt;/strong&gt; and the specified subkey does not exist, an exception is raised.</source>
+          <target state="new">Xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxx xxxxxx xxxx xxx xxxxx$ xx xxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>If this argument is &lt;strong&gt;false&lt;/strong&gt; and the specified subkey does not exist, no action is taken.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$ xxx xxx xxxxxxxxx xxxxxx xxxx xxx xxxxx$ xx xxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to delete the root hive of the tree.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; does not specify a valid registry subkey, and &lt;em&gt;throwOnMissingSubKey&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxxx xxx xxxx xxxx xx xxx xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xxxx xxx xxxxxxx x xxxxx xxxxxxxx xxxxxx$ xxx $xx$xxxxxXxXxxxxxxXxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;subkey&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to delete the key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes the specified value from this key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxx xxxx xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value to delete.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is not a valid reference to a value.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxx x xxxxx xxxxxxxxx xx x xxxxx.</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to delete the value.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes the specified value from this key, and specifies whether an exception is raised if the value is not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxx xxxx xxxx xxx$ xxx xxxxxxxxx xxxxxxx xx xxxxxxxxx xx xxxxxx xx xxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value to delete.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether an exception should be raised if the specified value cannot be found.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xx xxxxxxxxx xxxxxx xx xxxxxx xx xxx xxxxxxxxx xxxxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>If this argument is &lt;strong&gt;true&lt;/strong&gt; and the specified value does not exist, an exception is raised.</source>
+          <target state="new">Xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxx xxxxx xxxx xxx xxxxx$ xx xxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>If this argument is &lt;strong&gt;false&lt;/strong&gt; and the specified value does not exist, no action is taken.</source>
+          <target state="new">Xx xxxx xxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$ xxx xxx xxxxxxxxx xxxxx xxxx xxx xxxxx$ xx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is not a valid reference to a value and &lt;em&gt;throwOnMissingValue&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxx x xxxxx xxxxxxxxx xx x xxxxx xxx $xx$xxxxxXxXxxxxxxXxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$ $$x$$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to delete the value.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes all the attributes of the specified open registry key into the registry.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xxxxxxxx xxx xxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a registry key from a specified handle.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxx xxx xxxx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The handle to the registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;handle&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to perform this action.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a registry key from a specified handle and registry view setting.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxx xxx xxxx x xxxxxxxxx xxxxxx xxx xxxxxxxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The handle to the registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The registry view to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;view&lt;/em&gt; is invalid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;handle&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to perform this action.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves an array of strings that contains all the subkey names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxx xx xxxxxxx xxxx xxxxxxxx xxx xxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of strings that contains the names of the subkeys for the current key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxx xxxx xxxxxxxx xxx xxxxx xx xxx xxxxxxx xxx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read from the key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A system error occurred, for example the current key has been deleted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxx xxxxxxxx$ xxx xxxxxxx xxx xxxxxxx xxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the value associated with the specified name.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>Returns &lt;strong&gt;null&lt;/strong&gt; if the name/value pair does not exist in the registry.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx$xxxxx xxxx xxxx xxx xxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value to retrieve.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value associated with &lt;em&gt;name&lt;/em&gt;, or &lt;strong&gt;null&lt;/strong&gt; if &lt;em&gt;name&lt;/em&gt; is not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xxxx $xx$xxxx$$xx$$ xx $xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read from the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the value associated with the specified name.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>If the name is not found, returns the default value that you provide.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxx xx xxx xxxxx$ xxxxxxx xxx xxxxxxx xxxxx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value to retrieve.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to return if &lt;em&gt;name&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value associated with &lt;em&gt;name&lt;/em&gt;, with any embedded environment variables left unexpanded, or &lt;em&gt;defaultValue&lt;/em&gt; if &lt;em&gt;name&lt;/em&gt; is not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xxxx $xx$xxxx$$xx$$ xxxx xxx xxxxxxxx xxxxxxxxxxx xxxxxxxxx xxxx xxxxxxxxxx$ xx $xx$xxxxxxxXxxxx$$xx$ xx $xx$xxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read from the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the value associated with the specified name and retrieval options.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>If the name is not found, returns the default value that you provide.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxx xx xxx xxxxx$ xxxxxxx xxx xxxxxxx xxxxx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value to retrieve.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to return if &lt;em&gt;name&lt;/em&gt; does not exist.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies optional processing of the retrieved value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxxx xxxxxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value associated with &lt;em&gt;name&lt;/em&gt;, processed according to the specified &lt;em&gt;options&lt;/em&gt;, or &lt;em&gt;defaultValue&lt;/em&gt; if &lt;em&gt;name&lt;/em&gt; is not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xxxx $xx$xxxx$$xx$$ xxxxxxxxx xxxxxxxxx xx xxx xxxxxxxxx $xx$xxxxxxx$$xx$$ xx $xx$xxxxxxxXxxxx$$xx$ xx $xx$xxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read from the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the registry data type of the value associated with the specified name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxx xxxx xxxx xx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value whose registry data type is to be retrieved.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxx xxxxxxxx xxxx xxxx xx xx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>This string is not case-sensitive.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The registry data type of the value associated with &lt;em&gt;name&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxx xx xxx xxxxx xxxxxxxxxx xxxx $xx$xxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read from the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subkey that contains the specified value does not exist.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The name/value pair specified by &lt;em&gt;name&lt;/em&gt; does not exist.&lt;/p&gt;\n&lt;p&gt;This exception is not thrown on Windows 95, Windows 98, or Windows Millennium Edition.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxxxxx xxx xxxxxxxxx xxxxx xxxx xxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxx$xxxxx xxxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.$$x$$x$x$Xxxx xxxxxxxxx xx xxx xxxxxx xx Xxxxxxx 00$ Xxxxxxx 00$ xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves an array of strings that contains all the value names associated with this key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxx xx xxxxxxx xxxx xxxxxxxx xxx xxx xxxxx xxxxx xxxxxxxxxx xxxx xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of strings that contains the value names for the current key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxx xxxx xxxxxxxx xxx xxxxx xxxxx xxx xxx xxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read from the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A system error occurred; for example, the current key has been deleted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxx xxxxxxxx$ xxx xxxxxxx$ xxx xxxxxxx xxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The HKEY to open.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The registry view to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The requested registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;hKey&lt;/em&gt; or &lt;em&gt;view&lt;/em&gt; is invalid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xXxx$$xx$ xx $xx$xxxx$$xx$ xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the necessary registry rights.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to perform this action.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves a subkey as read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name or path of the subkey to open as read-only.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xx xxx xxxxxx xx xxxx xx xxxx$xxxx.</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subkey requested, or &lt;strong&gt;null&lt;/strong&gt; if the operation failed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves a specified subkey, and specifies whether write access is to be applied to the key.</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxx xxxxxx$ xxx xxxxxxxxx xxxxxxx xxxxx xxxxxx xx xx xx xxxxxxx xx xxx xxx.</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Name or path of the subkey to open.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xx xxx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Set to &lt;strong&gt;true&lt;/strong&gt; if you need write access to the key.</source>
+          <target state="new">$x$x$Xxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxxxx xxxxxx xx xxx xxx.</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subkey requested, or &lt;strong&gt;null&lt;/strong&gt; if the operation failed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to access the registry key in the specified mode.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxxxxxxx xxx xx xxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves a subkey with the specified name and .&lt;/p&gt;\n&lt;p&gt;Available starting in .NET Framework 4.6&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxx xxxx xxx xxxxxxxxx xxxx xxx .$$x$$x$x$Xxxxxxxxx xxxxxxxx xx .XXX Xxxxxxxxx 0.0$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name or path of the subkey to create or open.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xx xxx xxxxxx xx xxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The rights for the registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxx xxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subkey requested, or &lt;strong&gt;null&lt;/strong&gt; if the operation failed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to access the registry key in the specified mode.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxx xxxxxxxx xxx xx xxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the specified name/value pair.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxx xxxx$xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value to store.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The data to be stored.</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is an unsupported data type.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xx xxxxxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to create or modify registry keys.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xx xxxxxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the value of a name/value pair in the registry key, using the specified registry data type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx x xxxx$xxxxx xxxx xx xxx xxxxxxxx xxx$ xxxxx xxx xxxxxxxxx xxxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the value to be stored.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The data to be stored.</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The registry data type to use when storing the data.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxx xx xxx xxxx xxxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="335" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="337" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of &lt;em&gt;value&lt;/em&gt; did not match the registry data type specified by &lt;em&gt;valueKind&lt;/em&gt;, therefore the data could not be converted properly.</source>
+          <target state="new">$x$x$Xxx xxxx xx $xx$xxxxx$$xx$ xxx xxx xxxxx xxx xxxxxxxx xxxx xxxx xxxxxxxxx xx $xx$xxxxxXxxx$$xx$$ xxxxxxxxx xxx xxxx xxxxx xxx xx xxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="339" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to create or modify registry keys.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xx xxxxxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="340" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="341" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves a string representation of this key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxx xxxxxxxxxxxxxx xx xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="342" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string representing the key.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="343" translate="yes" xml:space="preserve">
+          <source>If the specified key is invalid (cannot be found) then &lt;strong&gt;null&lt;/strong&gt; is returned.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xxx xx xxxxxxx $xxxxxx xx xxxxx$ xxxx $xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

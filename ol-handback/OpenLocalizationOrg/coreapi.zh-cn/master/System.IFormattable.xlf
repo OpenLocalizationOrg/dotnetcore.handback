@@ -1,0 +1,16 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides functionality to format the value of an object into a string representation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxxx xx xxxxxx xxx xxxxx xx xx xxxxxx xxxx x xxxxxx xxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Formats the value of the current instance using the specified format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx xx xxx xxxxxxx xxxxxxxx xxxxx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The provider to use to format the value.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;A null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic) to obtain the numeric format information from the current locale setting of the operating system.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx xxxxxx xxx xxxxx.$$x$$x$x$$xx$ $$x$$x$x$X xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xx xxxxxx xxx xxxxxxx xxxxxx xxxxxxxxxxx xxxx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the current instance in the specified format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

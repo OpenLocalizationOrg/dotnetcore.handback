@@ -1,0 +1,55 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the parent property is notified when the value of the property that this attribute is applied to is modified.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxxxx xx xxxxxxxx xxxx xxx xxxxx xx xxx xxxxxxxx xxxx xxxx xxxxxxxxx xx xxxxxxx xx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates the default attribute state, that the property should not notify the parent property of changes to its value.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xxxxxxxxx xxxxx$ xxxx xxx xxxxxxxx xxxxxx xxx xxxxxx xxx xxxxxx xxxxxxxx xx xxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the parent property is not be notified of changes to the value of the property.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxxxx xx xxx xx xxxxxxxx xx xxxxxxx xx xxx xxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the parent property is notified of changes to the value of the property.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxxxx xx xxxxxxxx xx xxxxxxx xx xxx xxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the parent should be notified of changes; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxx xx xxxxxxxx xx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value indicating whether the parent property should be notified of changes to the value of the property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxx xxxxxxxx xxxxxx xx xxxxxxxx xx xxxxxxx xx xxx xxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the parent property should be notified of changes; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxxxx xxxxxx xx xxxxxxxx xx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the specified object is the same as the current object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxxxx xx xxx xxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to test for equality.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the object is the same as this object; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xx xxx xxxx xx xxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the hash code for this object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash code for the object the attribute belongs to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxx xxxxxx xxx xxxxxxxxx xxxxxxx xx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

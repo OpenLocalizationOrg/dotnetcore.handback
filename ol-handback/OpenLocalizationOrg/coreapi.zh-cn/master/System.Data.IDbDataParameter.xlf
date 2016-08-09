@@ -1,0 +1,22 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates the precision of numeric parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxxx xx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of digits used to represent the Value property of a data provider Parameter object.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxx xx xxxxxxxxx xxx Xxxxx xxxxxxxx xx x xxxx xxxxxxxx Xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The default value is 0, which indicates that a data provider sets the precision for Value.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx 0$ xxxxx xxxxxxxxx xxxx x xxxx xxxxxxxx xxxx xxx xxxxxxxxx xxx Xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates the scale of numeric parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, of the data within the column.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxx xxxx xxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The default value is inferred from the the parameter value.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xxxxxxxx xxxx xxx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

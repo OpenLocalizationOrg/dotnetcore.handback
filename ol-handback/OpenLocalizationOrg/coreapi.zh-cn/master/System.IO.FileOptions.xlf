@@ -1,0 +1,34 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that a file can be used for asynchronous reading and writing.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx x xxxx xxx xx xxxx xxx xxxxxxxxxxxx xxxxxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that a file is automatically deleted when it is no longer in use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx x xxxx xx xxxxxxxxxxxxx xxxxxxx xxxx xx xx xx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that a file is encrypted and can be decrypted only by using the same user account used for encryption.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx x xxxx xx xxxxxxxxx xxx xxx xx xxxxxxxxx xxxx xx xxxxx xxx xxxx xxxx xxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the file is accessed randomly.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxx xx xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The system can use this as a hint to optimize file caching.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xxx xxxx xx x xxxx xx xxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the file is to be accessed sequentially from beginning to end.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxx xx xx xx xxxxxxxx xxxxxxxxxxxx xxxx xxxxxxxxx xx xxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The system can use this as a hint to optimize file caching.</source>
+          <target state="new">Xxx xxxxxx xxx xxx xxxx xx x xxxx xx xxxxxxxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>If an application moves the file pointer for random access, optimum caching may not occur; however, correct operation is still guaranteed.</source>
+          <target state="new">Xx xx xxxxxxxxxxx xxxxx xxx xxxx xxxxxxx xxx xxxxxx xxxxxx$ xxxxxxx xxxxxxx xxx xxx xxxxx$ xxxxxxx$ xxxxxxx xxxxxxxxx xx xxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the system should write through any intermediate cache and go directly to disk.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxx xxxxxx xxxxx xxxxxxx xxx xxxxxxxxxxxx xxxxx xxx xx xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

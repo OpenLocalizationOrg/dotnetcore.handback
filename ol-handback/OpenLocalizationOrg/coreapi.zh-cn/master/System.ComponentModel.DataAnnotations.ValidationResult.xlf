@@ -1,0 +1,37 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a container for the results of a validation request.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxxxx xxx xxx xxxxxxx xx x xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the success of the validation (&lt;strong&gt;true&lt;/strong&gt; if validation was successful; otherwise, &lt;strong&gt;false&lt;/strong&gt;).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxx xx xxx xxxxxxxxxx $$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$$.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The validation result object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The list of member names that have validation errors.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xxxxx xxxx xxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the error message for the validation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxx xxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message for the validation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the collection of member names that indicate which fields have validation errors.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx xxxxxx xxxxx xxxx xxxxxxxx xxxxx xxxxxx xxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection of member names that indicate which fields have validation errors.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxxxx xxxxx xxxx xxxxxxxx xxxxx xxxxxx xxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a string representation of the current validation result.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxxxxxxxxxxxx xx xxx xxxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current validation result.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

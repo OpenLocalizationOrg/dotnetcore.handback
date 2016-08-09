@@ -1,0 +1,37 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a custom validation method that is used to validate a property or class instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxx xxxxxxxxxx xxxxxx xxxx xx xxxx xx xxxxxxxx x xxxxxxxx xx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type that contains the method that performs custom validation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxxxxxxx xxx xxxxxx xxxx xxxxxxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method that performs custom validation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxxxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the validation method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the validation method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the type that performs custom validation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxxxxxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type that performs custom validation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxxxxxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Formats a validation error message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name to include in the formatted message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the formatted error message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The value to validate.</source>
+          <target state="new">Xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Whatever the &lt;xref href="System.ComponentModel.DataAnnotations.CustomValidationAttribute.Method" data-throw-if-not-resolved="false"&gt;&lt;/xref&gt; in &lt;xref href="System.ComponentModel.DataAnnotations.CustomValidationAttribute.ValidatorType" data-throw-if-not-resolved="false"&gt;&lt;/xref&gt; returns.</source>
+          <target state="new">Xxxxxxxx xxx $xxxx xxxx$$Xxxxxx.XxxxxxxxxXxxxx.XxxxXxxxxxxxxxx.XxxxxxXxxxxxxxxxXxxxxxxxx.Xxxxxx$ xxxx$xxxxx$xx$xxx$xxxxxxxx$$xxxxx$$$$xxxx$ xx $xxxx xxxx$$Xxxxxx.XxxxxxxxxXxxxx.XxxxXxxxxxxxxxx.XxxxxxXxxxxxxxxxXxxxxxxxx.XxxxxxxxxXxxx$ xxxx$xxxxx$xx$xxx$xxxxxxxx$$xxxxx$$$$xxxx$ xxxxxxx.</target>
+        </trans-unit></group></body></file></xliff>

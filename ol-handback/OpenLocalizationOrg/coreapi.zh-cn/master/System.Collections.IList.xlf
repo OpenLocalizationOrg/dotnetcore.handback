@@ -1,0 +1,34 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a non-generic collection of objects that can be individually accessed by index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxx$xxxxxxx xxxxxxxxxx xx xxxxxxx xxxx xxx xx xxxxxxxxxxxx xxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the element at the specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index of the element to get or set.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxx xxxxxxx xx xxx xx xxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element at the specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position into which the new element was inserted, or -1 to indicate that the item was not inserted into the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxxx xxx xxx xxxxxxx xxx xxxxxxxx$ xx $0 xx xxxxxxxx xxxx xxx xxxx xxx xxx xxxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of &lt;em&gt;value&lt;/em&gt; if found in the list; otherwise, -1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xx xxx xxxx$ xxxxxxxxx$ $0.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index at which &lt;em&gt;value&lt;/em&gt; should be inserted.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxxxx $xx$xxxxx$$xx$ xxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index of the item to remove.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxx xxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

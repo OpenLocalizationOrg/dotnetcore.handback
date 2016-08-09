@@ -1,0 +1,238 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This class provides helpers that the Visual Basic compiler uses for late binding calls; it is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxx xxxxxxxx xxxxxxx xxxx xxx Xxxxxx Xxxxx xxxxxxxx xxxx xxx xxxx xxxxxxx xxxxx$ xx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound method or function call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxx xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the property or method on the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xx xxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument types; used only for generic calls to pass argument types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx$ xxxx xxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of &lt;strong&gt;Boolean&lt;/strong&gt; values that the late binder uses to communicate back to the call site which arguments match &lt;strong&gt;ByRef&lt;/strong&gt; parameters.</source>
+          <target state="new">$x$x$Xx xxxxx xx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxxx xxxx xxx xxxx xxxxxx xxxx xx xxxxxxxxxxx xxxx xx xxx xxxx xxxx xxxxx xxxxxxxxx xxxxx $xxxxxx$XxXxx$$xxxxxx$ xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Each &lt;strong&gt;True&lt;/strong&gt; value indicates that the arguments matched and should be copied out after the call to &lt;strong&gt;LateCall&lt;/strong&gt; is complete.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx $xxxxxx$Xxxx$$xxxxxx$ xxxxx xxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxx xx xxxxxx xxx xxxxx xxx xxxx xx $xxxxxx$XxxxXxxx$$xxxxxx$ xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value indicating whether or not the return value can be ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxxxxxxxx xxxxxxx xx xxx xxx xxxxxx xxxxx xxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound property get or field access call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxxxx xxx xx xxxxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the property or method on the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xx xxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument types; used only for generic calls to pass argument types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx$ xxxx xxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of &lt;strong&gt;Boolean&lt;/strong&gt; values that the late binder uses to communicate back to the call site which arguments match &lt;strong&gt;ByRef&lt;/strong&gt; parameters.</source>
+          <target state="new">$x$x$Xx xxxxx xx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxxx xxxx xxx xxxx xxxxxx xxxx xx xxxxxxxxxxx xxxx xx xxx xxxx xxxx xxxxx xxxxxxxxx xxxxx $xxxxxx$XxXxx$$xxxxxx$ xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>Each &lt;strong&gt;True&lt;/strong&gt; value indicates that the arguments matched and should be copied out after the call to &lt;strong&gt;LateCall&lt;/strong&gt; is complete.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx $xxxxxx$Xxxx$$xxxxxx$ xxxxx xxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxx xx xxxxxx xxx xxxxx xxx xxxx xx $xxxxxx$XxxxXxxx$$xxxxxx$ xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound property get or field access call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxxxx xxx xx xxxxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound property set or field write call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxxxx xxx xx xxxxx xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound property set or field write call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxxxx xxx xx xxxxx xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value used to determine whether the set operation will work.</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xx xxxxxxxxx xxxxxxx xxx xxx xxxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>Set to &lt;strong&gt;True&lt;/strong&gt; when you believe that an intermediate value has been set in the property or field; otherwise &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xx $xxxxxx$Xxxx$$xxxxxx$ xxxx xxx xxxxxxx xxxx xx xxxxxxxxxxxx xxxxx xxx xxxx xxx xx xxx xxxxxxxx xx xxxxx$ xxxxxxxxx $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value that specifies when the base reference of the late reference is an &lt;strong&gt;RValue&lt;/strong&gt;.</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxx xxxx xxx xxxx xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xx $xxxxxx$XXxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>Set to &lt;strong&gt;True&lt;/strong&gt; when the base reference of the late reference is an &lt;strong&gt;RValue&lt;/strong&gt;; this allows you to generate a run-time exception for late assignments to fields of &lt;strong&gt;RValues&lt;/strong&gt; of value types.</source>
+          <target state="new">Xxx xx $xxxxxx$Xxxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xx $xxxxxx$XXxxxx$$xxxxxx$$ xxxx xxxxxx xxx xx xxxxxxxx x xxx$xxxx xxxxxxxxx xxx xxxx xxxxxxxxxxx xx xxxxxx xx $xxxxxx$XXxxxxx$$xxxxxx$ xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>Otherwise, set to &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxxx$ xxx xx $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound property set or field write call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxxxx xxx xx xxxxx xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the property or method on the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xx xxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument types; used only for generic calls to pass argument types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx$ xxxx xxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound property set or field write call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxxxx xxx xx xxxxx xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the property or method on the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xx xxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument types; used only for generic calls to pass argument types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx$ xxxx xxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value used to determine whether the set operation will work.</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xx xxxxxxxxx xxxxxxx xxx xxx xxxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>Set to &lt;strong&gt;True&lt;/strong&gt; when you believe that an intermediate value has been set in the property or field; otherwise &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xx $xxxxxx$Xxxx$$xxxxxx$ xxxx xxx xxxxxxx xxxx xx xxxxxxxxxxxx xxxxx xxx xxxx xxx xx xxx xxxxxxxx xx xxxxx$ xxxxxxxxx $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value that specifies when the base reference of the late reference is an &lt;strong&gt;RValue&lt;/strong&gt;.</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxx xxxx xxx xxxx xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xx $xxxxxx$XXxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>Set to &lt;strong&gt;True&lt;/strong&gt; when the base reference of the late reference is an &lt;strong&gt;RValue&lt;/strong&gt;; this allows you to generate a run-time exception for late assignments to fields of &lt;strong&gt;RValues&lt;/strong&gt; of value types.</source>
+          <target state="new">Xxx xx $xxxxxx$Xxxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xx $xxxxxx$XXxxxx$$xxxxxx$$ xxxx xxxxxx xxx xx xxxxxxxx x xxx$xxxx xxxxxxxxx xxx xxxx xxxxxxxxxxx xx xxxxxx xx $xxxxxx$XXxxxxx$$xxxxxx$ xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>Otherwise, set to &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxxx$ xxx xx $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a late-bound property set or field write call.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx$xxxxx xxxxxxxx xxx xx xxxxx xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>This helper method is not meant to be called directly from your code.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxxxx xx xxx xxxxx xx xx xxxxxx xxxxxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the call object exposing the property or method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxx xxxxxx xxxxxxxx xxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the property or method on the call object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xx xxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the arguments to be passed to the property or method being called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxx xx xxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of argument types; used only for generic calls to pass argument types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx$ xxxx xxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value used to determine whether the set operation will work.</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xx xxxxxxxxx xxxxxxx xxx xxx xxxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>Set to &lt;strong&gt;True&lt;/strong&gt; when you believe that an intermediate value has been set in the property or field; otherwise &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xx $xxxxxx$Xxxx$$xxxxxx$ xxxx xxx xxxxxxx xxxx xx xxxxxxxxxxxx xxxxx xxx xxxx xxx xx xxx xxxxxxxx xx xxxxx$ xxxxxxxxx $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value that specifies when the base reference of the late reference is an &lt;strong&gt;RValue&lt;/strong&gt;.</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxx xxxx xxx xxxx xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xx $xxxxxx$XXxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>Set to &lt;strong&gt;True&lt;/strong&gt; when the base reference of the late reference is an &lt;strong&gt;RValue&lt;/strong&gt;; this allows you to generate a run-time exception for late assignments to fields of &lt;strong&gt;RValues&lt;/strong&gt; of value types.</source>
+          <target state="new">Xxx xx $xxxxxx$Xxxx$$xxxxxx$ xxxx xxx xxxx xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xx $xxxxxx$XXxxxx$$xxxxxx$$ xxxx xxxxxx xxx xx xxxxxxxx x xxx$xxxx xxxxxxxxx xxx xxxx xxxxxxxxxxx xx xxxxxx xx $xxxxxx$XXxxxxx$$xxxxxx$ xx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>Otherwise, set to &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxxx$ xxx xx $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

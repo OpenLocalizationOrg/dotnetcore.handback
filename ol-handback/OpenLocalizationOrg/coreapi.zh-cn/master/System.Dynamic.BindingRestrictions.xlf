@@ -1,0 +1,55 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an empty set of binding restrictions.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxx xxx xx xxxxxxx xxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This field is read only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new set of binding restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxx xx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates the binding restriction that checks the expression for arbitrary immutable properties.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxxxxx xxxx xxxxxx xxx xxxxxxxxxx xxx xxxxxxxxx xxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expression representing the restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new binding restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates the binding restriction that checks the expression for object instance identity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxxxxx xxxx xxxxxx xxx xxxxxxxxxx xxx xxxxxx xxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exact object instance to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new binding restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates the binding restriction that check the expression for runtime type identity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxxxxx xxxx xxxxx xxx xxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exact type to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new binding restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Merges the set of binding restrictions with the current binding restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxx xx xxxxxxx xxxxxxxxxxxx xxxx xxx xxxxxxx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of restrictions with which to merge the current binding restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxxxxxxxxx xxxx xxxxx xx xxxxx xxx xxxxxxx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new set of binding restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxx xx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expression tree representing the restrictions.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

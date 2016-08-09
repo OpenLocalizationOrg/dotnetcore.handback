@@ -1,0 +1,46 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the debugging mode for the just-in-time (JIT) compiler.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxxx xxxx xxx xxx xxxx$xx$xxxx $XXX$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Instructs the just-in-time (JIT) compiler to use its default behavior, which includes enabling optimizations, disabling Edit and Continue support, and using symbol store sequence points if present.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx$xx$xxxx $XXX$ xxxxxxxx xx xxx xxx xxxxxxx xxxxxxxx$ xxxxx xxxxxxxx xxxxxxxx xxxxxxxxxxxxx$ xxxxxxxxx Xxxx xxx Xxxxxxxx xxxxxxx$ xxx xxxxx xxxxxx xxxxx xxxxxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Starting with the .NET Framework version 2.0, JIT tracking information, the Microsoft intermediate language (MSIL) offset to the native-code offset within a method, is always generated.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxx xxxx xxx .XXX Xxxxxxxxx xxxxxxx 0.0$ XXX xxxxxxxx xxxxxxxxxxx$ xxx Xxxxxxxxx xxxxxxxxxxxx xxxxxxxx $XXXX$ xxxxxx xx xxx xxxxxx$xxxx xxxxxx xxxxxx x xxxxxx$ xx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Disable optimizations performed by the compiler to make your output file smaller, faster, and more efficient.</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxxxxxxxx xxxxxxxxx xx xxx xxxxxxxx xx xxxx xxxx xxxxxx xxxx xxxxxxx$ xxxxxx$ xxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Optimizations result in code rearrangement in the output file, which can make debugging difficult.</source>
+          <target state="new">Xxxxxxxxxxxxx xxxxxx xx xxxx xxxxxxxxxxxxx xx xxx xxxxxx xxxx$ xxxxx xxx xxxx xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Typically optimization should be disabled while debugging.</source>
+          <target state="new">Xxxxxxxxx xxxxxxxxxxxx xxxxxx xx xxxxxxxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>In versions 2.0 or later, combine this value with Default (Default | DisableOptimizations) to enable JIT tracking and disable optimizations.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxxx 0.0 xx xxxxx$ xxxxxxx xxxx xxxxx xxxx Xxxxxxx $Xxxxxxx $ XxxxxxxXxxxxxxxxxxxx$ xx xxxxxx XXX xxxxxxxx xxx xxxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enable edit and continue.</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Edit and continue enables you to make changes to your source code while your program is in break mode.</source>
+          <target state="new">Xxxx xxx xxxxxxxx xxxxxxx xxx xx xxxx xxxxxxx xx xxxx xxxxxx xxxx xxxxx xxxx xxxxxxx xx xx xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>The ability to edit and continue is compiler dependent.</source>
+          <target state="new">Xxx xxxxxxx xx xxxx xxx xxxxxxxx xx xxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Use the implicit MSIL sequence points, not the program database (PDB) sequence points.</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxx XXXX xxxxxxxx xxxxxx$ xxx xxx xxxxxxx xxxxxxxx $XXX$ xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The symbolic information normally includes at least one Microsoft intermediate language (MSIL) offset for each source line.</source>
+          <target state="new">Xxx xxxxxxxx xxxxxxxxxxx xxxxxxxx xxxxxxxx xx xxxxx xxx Xxxxxxxxx xxxxxxxxxxxx xxxxxxxx $XXXX$ xxxxxx xxx xxxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>When the just-in-time (JIT) compiler is about to compile a method, it asks the profiling services for a list of MSIL offsets that should be preserved.</source>
+          <target state="new">Xxxx xxx xxxx$xx$xxxx $XXX$ xxxxxxxx xx xxxxx xx xxxxxxx x xxxxxx$ xx xxxx xxx xxxxxxxxx xxxxxxxx xxx x xxxx xx XXXX xxxxxxx xxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>These MSIL offsets are called sequence points.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxx XXXX xxxxxxx xxx xxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines constants for read, write, or read/write access to a file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxxxx xxx xxxx$ xxxxx$ xx xxxx$xxxxx xxxxxx xx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read access to the file.</source>
+          <target state="new">$x$x$Xxxx xxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Data can be read from the file.</source>
+          <target state="new">Xxxx xxx xx xxxx xxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Combine with &lt;strong&gt;Write&lt;/strong&gt; for read/write access.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx xxxx $xxxxxx$Xxxxx$$xxxxxx$ xxx xxxx$xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Read and write access to the file.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Data can be written to and read from the file.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xx xxxxxxx xx xxx xxxx xxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Write access to the file.</source>
+          <target state="new">$x$x$Xxxxx xxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Data can be written to the file.</source>
+          <target state="new">Xxxx xxx xx xxxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Combine with &lt;strong&gt;Read&lt;/strong&gt; for read/write access.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx xxxx $xxxxxx$Xxxx$$xxxxxx$ xxx xxxx$xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

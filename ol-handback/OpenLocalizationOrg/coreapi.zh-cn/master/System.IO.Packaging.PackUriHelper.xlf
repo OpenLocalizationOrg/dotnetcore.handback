@@ -1,0 +1,58 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides utility methods to compose and parse pack URI objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxxxxx xx xxxxxxx xxx xxxxx xxxx XXX xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value that indicates whether two package part URIs are equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxx XXXx$xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that indicates the relationship between &lt;em&gt;firstPartUri&lt;/em&gt; and &lt;em&gt;secondPartUri&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;Value&lt;/p&gt;\n&lt;p&gt;Meaning&lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than 0&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;firstPartUri&lt;/em&gt; is less than &lt;em&gt;secondPartUri&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;0&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;firstPartUri&lt;/em&gt; is equivalent to &lt;em&gt;secondPartUri&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than 0&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;firstPartUri&lt;/em&gt; is greater than &lt;em&gt;secondPartUri&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n&lt;p&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxxxxxxxx xxxxxxx $xx$xxxxxXxxxXxx$$xx$ xxx $xx$xxxxxxXxxxXxx$$xx$.$$x$$x$x$Xxxxx$$x$$x$x$Xxxxxxx$$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx 0$$x$$x$$xx$$xx$$x$x$$x$xx$xxxxxXxxxXxx$$xx$ xx xxxx xxxx $xx$xxxxxxXxxxXxx$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$0$$x$$x$$xx$$xx$$x$x$$x$xx$xxxxxXxxxXxx$$xx$ xx xxxxxxxxxx xx $xx$xxxxxxXxxxXxx$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx 0$$x$$x$$xx$$xx$$x$x$$x$xx$xxxxxXxxxXxx$$xx$ xx xxxxxxx xxxx $xx$xxxxxxXxxxXxx$$xx$.$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x$x$$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;firstPartUri&lt;/em&gt; or &lt;em&gt;secondPartUri&lt;/em&gt; is not a valid part URI syntax.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxXxxxXxx$$xx$ xx $xx$xxxxxxXxxxXxx$$xx$ xx xxx x xxxxx xxxx XXX xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The normalized form of the given &lt;em&gt;partUri&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxx xx xxx xxxxx $xx$xxxxXxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; syntax is not valid for a package part URI.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; is an absolute URI.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; references a relationship part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xxxxxx xx xxx xxxxx xxx x xxxxxxx xxxx XXX.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxXxx$$xx$ xx xx xxxxxxxx XXX.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxXxx$$xx$ xxxxxxxxxx x xxxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The URI of the source part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The URI of the target part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative URI from &lt;em&gt;sourcePartUri&lt;/em&gt; to &lt;em&gt;targetPartUri&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx XXX xxxx $xx$xxxxxxXxxxXxx$$xx$ xx $xx$xxxxxxXxxxXxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourcePartUri&lt;/em&gt; or &lt;em&gt;targetPartUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxx$$xx$ xx $xx$xxxxxxXxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;relationshipPartUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a part URI given a source part URI and a URI with a relative path to a target part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx XXX xxxxx x xxxxxx xxxx XXX xxx x XXX xxxx x xxxxxxxx xxxx xx x xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative URI to the target part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx XXX xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The URI of the target part resolved between the specified &lt;em&gt;SourcePartUri&lt;/em&gt; and the &lt;em&gt;targetUri&lt;/em&gt; parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xx xxx xxxxxx xxxx xxxxxxxx xxxxxxx xxx xxxxxxxxx $xx$XxxxxxXxxxXxx$$xx$ xxx xxx $xx$xxxxxxXxx$$xx$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourcePartUri&lt;/em&gt; or &lt;em&gt;targetUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxx$$xx$ xx $xx$xxxxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourcePartUri&lt;/em&gt; is not a valid part URI.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;targetUri&lt;/em&gt; is not a valid relative URI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxx$$xx$ xx xxx x xxxxx xxxx XXX.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxXxx$$xx$ xx xxx x xxxxx xxxxxxxx XXX.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

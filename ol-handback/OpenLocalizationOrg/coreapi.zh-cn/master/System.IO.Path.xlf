@@ -1,0 +1,238 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a platform-specific alternate character used to separate directory levels in a path string that reflects a hierarchical file system organization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxxx$xxxxxxxx xxxxxxxxx xxxxxxxxx xxxx xx xxxxxxxx xxxxxxxxx xxxxxx xx x xxxx xxxxxx xxxx xxxxxxxx x xxxxxxxxxxxx xxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a platform-specific character used to separate directory levels in a path string that reflects a hierarchical file system organization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxxx$xxxxxxxx xxxxxxxxx xxxx xx xxxxxxxx xxxxxxxxx xxxxxx xx x xxxx xxxxxx xxxx xxxxxxxx x xxxxxxxxxxxx xxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A platform-specific separator character used to separate path strings in environment variables.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx$xxxxxxxx xxxxxxxxx xxxxxxxxx xxxx xx xxxxxxxx xxxx xxxxxxx xx xxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a platform-specific volume separator character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxxx$xxxxxxxx xxxxxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Changes the extension of a path string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xx x xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new extension (with or without a leading period).</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxxx $xxxx xx xxxxxxx x xxxxxxx xxxxxx$.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Specify &lt;strong&gt;null&lt;/strong&gt; to remove an existing extension from &lt;em&gt;path&lt;/em&gt;.</source>
+          <target state="new">Xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xx xxxxxx xx xxxxxxxx xxxxxxxxx xxxx $xx$xxxx$$xx$.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Combines two strings into a path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first path to combine.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second path to combine.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The combined paths.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>If one of the specified paths is a zero-length string, this method returns the other path.</source>
+          <target state="new">Xx xxx xx xxx xxxxxxxxx xxxxx xx x xxxx$xxxxxx xxxxxx$ xxxx xxxxxx xxxxxxx xxx xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>If &lt;em&gt;path2&lt;/em&gt; contains an absolute path, this method returns &lt;em&gt;path2&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xx $xx$xxxx0$$xx$ xxxxxxxx xx xxxxxxxx xxxx$ xxxx xxxxxx xxxxxxx $xx$xxxx0$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path1&lt;/em&gt; or &lt;em&gt;path2&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx0$$xx$ xx $xx$xxxx0$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Combines three strings into a path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxx xxxxxxx xxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first path to combine.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second path to combine.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The third path to combine.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The combined paths.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path1&lt;/em&gt;, &lt;em&gt;path2&lt;/em&gt;, or &lt;em&gt;path3&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx0$$xx$$ $xx$xxxx0$$xx$$ xx $xx$xxxx0$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Combines an array of strings into a path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxxxx xx xxxxxxx xxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of parts of the path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The combined paths.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the strings in the array is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxx xx xxx xxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the directory information for the specified path string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxxxxxxxx xxx xxx xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of a file or directory.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;path&lt;/em&gt; parameter contains invalid characters, is empty, or contains only white spaces.</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xxxxxxxxx xxxxxxxx xxxxxxx xxxxxxxxxx$ xx xxxxx$ xx xxxxxxxx xxxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the extension of the specified path string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path string from which to get the extension.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xxxx xxxxx xx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the file name and extension of the specified path string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path string from which to obtain the file name and extension.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xxxx xxxxx xx xxxxxx xxx xxxx xxxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the file name of the specified path string without the extension.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xx xxx xxxxxxxxx xxxx xxxxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path of the file.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the absolute path for the specified path string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xxxx xxx xxx xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file or directory for which to obtain absolute path information.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxx xxx xxxxx xx xxxxxx xxxxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permissions.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an array containing the characters that are not allowed in file names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxx xxxxxxxxxx xxx xxxxxxxxxx xxxx xxx xxx xxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the characters that are not allowed in file names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxxx xxxx xxx xxx xxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an array containing the characters that are not allowed in path names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxx xxxxxxxxxx xxx xxxxxxxxxx xxxx xxx xxx xxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing the characters that are not allowed in path names.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxx xxxxxxxxxx xxxx xxx xxx xxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the root directory information of the specified path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxxx xxxxxxxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path from which to obtain root directory information.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxxxx xx xxxxxx xxxx xxxxxxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a random folder name or file name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxxxx xxxx xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A random folder name or file name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxx xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a uniquely named, zero-byte temporary file on disk and returns the full path of that file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxx xxxxx$ xxxx$xxxx xxxxxxxxx xxxx xx xxxx xxx xxxxxxx xxx xxxx xxxx xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The full path of the temporary file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs, such as no unique temporary file name is available.&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;This method was unable to create a temporary file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx$ xxxx xx xx xxxxxx xxxxxxxxx xxxx xxxx xx xxxxxxxxx.$$x$$x$x$$ xx $$$x$$x$x$Xxxx xxxxxx xxx xxxxxx xx xxxxxx x xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the path of the current user's temporary folder.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxxxx xxxx$x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the temporary folder, ending with a backslash.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xxxxxx$ xxxxxx xxxx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permissions.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether a path includes a file name extension.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx x xxxx xxxxxxxx x xxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to search for an extension.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the specified path string contains a root.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxx xxxxxx xxxxxxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to test.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;path&lt;/em&gt; contains a root; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxx$$xx$ xxxxxxxx x xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,679 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides information about the characteristics for a component, such as its attributes, properties, and events.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxx xxxxx xxx xxxxxxxxxxxxxxx xxx x xxxxxxxxx$ xxxx xx xxx xxxxxxxxxx$ xxxxxxxxxx$ xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a type that represents a type description provider for all interface types.</source>
+          <target state="new">$x$x$Xxxx x xxxx xxxx xxxxxxxxxx x xxxx xxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when the cache for a component is cleared.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xxxxx xxx x xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds class-level attributes to the target component instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxx$xxxxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the target component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds class-level attributes to the target component type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxx$xxxxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds an editor table for the given editor base type.</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xxxxx xxx xxx xxxxx xxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The editor base type to add the editor table for.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxx xx xxx xxx xxxxxx xxxxx xxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>If a table already exists for this type, this method will do nothing.</source>
+          <target state="new">Xx x xxxxx xxxxxxx xxxxxx xxx xxxx xxxx$ xxxx xxxxxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds a type description provider for a single instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxx xxxxxxxxxxx xxxxxxxx xxx x xxxxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the target component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds a type description provider for a component class.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxx xxxxxxxxxxx xxxxxxxx xxx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds a type description provider for a single instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxx xxxxxxxxxxx xxxxxxxx xxx x xxxxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the target component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds a type description provider for a component class.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxx xxxxxxxxxxx xxxxxxxx xxx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a primary-secondary association between two objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxx$xxxxxxxxx xxxxxxxxxxx xxxxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;primary&lt;/em&gt; is equal to &lt;em&gt;secondary&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx xxxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the component for which to create the new event.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xxx xxxxx xx xxxxxx xxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The existing event information.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new attributes.</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new event descriptor that is identical to an existing event descriptor by dynamically generating descriptor information from a specified event on a type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxx xxxxxxxxxx xxxx xx xxxxxxxxx xx xx xxxxxxxx xxxxx xxxxxxxxxx xx xxxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxx x xxxxxxxxx xxxxx xx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the component the event lives on.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xxx xxxxx xxxxx xx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the event.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the delegate that handles the event.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xxxx xxxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The attributes for this event.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an object that can substitute for another data type.</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxx xxxx xxx xxxxxxxxxx xxx xxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An optional array of parameter types to be passed to the object's constructor.</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxxx xx xxxxxxxxx xxxxx xx xx xxxxxx xx xxx xxxxxx$x xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>This parameter can be &lt;strong&gt;null&lt;/strong&gt; or an array of zero length.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxx xx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An optional array of parameter values to pass to the object's constructor.</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxxx xx xxxxxxxxx xxxxxx xx xxxx xx xxx xxxxxx$x xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>If not &lt;strong&gt;null&lt;/strong&gt;, the number of elements must be the same as &lt;em&gt;argTypes&lt;/em&gt;.</source>
+          <target state="new">Xx xxx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxx xx xxxxxxxx xxxx xx xxx xxxx xx $xx$xxxXxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;objectType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;, or &lt;em&gt;args&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; when &lt;em&gt;argTypes&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxxx $xx$xxxXxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;argTypes&lt;/em&gt; and &lt;em&gt;args&lt;/em&gt; have different number of elements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxx$$xx$ xxx $xx$xxxx$$xx$ xxxx xxxxxxxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The existing property descriptor.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new attributes for this property.</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxxxx xxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates and dynamically binds a property descriptor to a type, using the specified property name, type, and attribute array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxxx xxxxx x xxxxxxxx xxxxxxxxxx xx x xxxx$ xxxxx xxx xxxxxxxxx xxxxxxxx xxxx$ xxxx$ xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the property.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new attributes for this property.</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxxxx xxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an instance of the type associated with the specified primary object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxx xx xxx xxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The primary object of the association.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the secondary type that has been associated with the primary object if an association exists; otherwise, &lt;em&gt;primary&lt;/em&gt; if no specified association exists.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxxxxx xxxx xxxx xxx xxxx xxxxxxxxxx xxxx xxx xxxxxxx xxxxxx xx xx xxxxxxxxxxx xxxxxx$ xxxxxxxxx$ $xx$xxxxxxx$$xx$ xx xx xxxxxxxxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of attributes for the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component for which you want to get attributes.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxx xxxxx xxx xxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of attributes for the specified component and a Boolean indicating that a custom type descriptor has been created.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxxxx xxx xxx xxxxxxxxx xxxxxxxxx xxx x Xxxxxxx xxxxxxxxxx xxxx x xxxxxx xxxx xxxxxxxxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component for which you want to get attributes.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxx xxxxx xxx xxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of attributes for the specified type of component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxxxx xxx xxx xxxxxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of the class for the specified component using the default type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx xxxxx xxx xxxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of the class for the specified component using a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx xxxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of the class for the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxx xxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;componentType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of the specified component using the default type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxxxxxx xxxxxxxxx xxxxx xxx xxxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of the specified component using a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxxxxxx xxxxxxxxx xxxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the class for the specified component, or &lt;strong&gt;null&lt;/strong&gt; if there is no component name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxxxx xx xx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a type converter for the type of the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxxxxxxx xxx xxx xxxx xx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the converter for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a type converter for the type of the specified component with a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxxxxxxx xxx xxx xxxx xx xxx xxxxxxxxx xxxxxxxxx xxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the converter for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a type converter for the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxxxxxxx xxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default event for the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to get the event for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxx xxxxx xxx.</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default event for a component with a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxx xxx x xxxxxxxxx xxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to get the event for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxx xxxxx xxx.</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default event for the specified type of component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxx xxx xxx xxxxxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default property for the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to get the default property for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxx xxxxxxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default property for the specified component with a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxxxxx xxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to get the default property for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxx xxxxxxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default property for the specified type of component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an editor with the specified base type for the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xxxx xxx xxxxxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to get the editor for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the editor that can be cast to the specified editor type, or &lt;strong&gt;null&lt;/strong&gt; if no editor of the requested type can be found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxx xxx xx xxxx xx xxx xxxxxxxxx xxxxxx xxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxxx xx xxx xxxxxxxxx xxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; or &lt;em&gt;editorBaseType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xx$xxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an editor with the specified base type and with a custom type descriptor for the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxx xxxx xxx xxxxxxxxx xxxx xxxx xxx xxxx x xxxxxx xxxx xxxxxxxxxx xxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to get the editor for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A flag indicating whether custom type description information should be considered.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxx xxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx xxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the editor that can be cast to the specified editor type, or &lt;strong&gt;null&lt;/strong&gt; if no editor of the requested type can be found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxx xxx xx xxxx xx xxx xxxxxxxxx xxxxxx xxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxxx xx xxx xxxxxxxxx xxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; or &lt;em&gt;editorBaseType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xx$xxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an editor with the specified base type for the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxx xxxx xxx xxxxxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the editor object that can be cast to the given base type, or &lt;strong&gt;null&lt;/strong&gt; if no editor of the requested type can be found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxx xxxx xxx xx xxxx xx xxx xxxxx xxxx xxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxxx xx xxx xxxxxxxxx xxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; or &lt;em&gt;editorBaseType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of events for the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxx xxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the events for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of events for a specified component using a specified array of attributes as a filter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxx xxx x xxxxxxxxx xxxxxxxxx xxxxx x xxxxxxxxx xxxxx xx xxxxxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the events for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of events for a specified component using a specified array of attributes as a filter and using a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxx xxx x xxxxxxxxx xxxxxxxxx xxxxx x xxxxxxxxx xxxxx xx xxxxxxxxxx xx x xxxxxx xxx xxxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the events for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of events for a specified component with a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxx xxx x xxxxxxxxx xxxxxxxxx xxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the events for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of events for a specified type of component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxx xxx x xxxxxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of events for a specified type of component using a specified array of attributes as a filter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxx xxx x xxxxxxxxx xxxx xx xxxxxxxxx xxxxx x xxxxxxxxx xxxxx xx xxxxxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the fully qualified name of the component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx xxxxxxxxx xxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fully qualified name of the specified component, or &lt;strong&gt;null&lt;/strong&gt; if the component has no name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xxxx xx xxx xxxxxxxxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of properties for a specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx x xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the properties for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of properties for a specified component using a specified array of attributes as a filter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx x xxxxxxxxx xxxxxxxxx xxxxx x xxxxxxxxx xxxxx xx xxxxxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the properties for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of properties for a specified component using a specified array of attributes as a filter and using a custom type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx x xxxxxxxxx xxxxxxxxx xxxxx x xxxxxxxxx xxxxx xx xxxxxxxxxx xx x xxxxxx xxx xxxxx x xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the properties for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of properties for a specified component using the default type descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx x xxxxxxxxx xxxxxxxxx xxxxx xxx xxxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the properties for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to not consider custom type description information; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; is a cross-process remoted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx x xxxxx$xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of properties for a specified type of component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx x xxxxxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the collection of properties for a specified type of component using a specified array of attributes as a filter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx xxxxxxxxxx xxx x xxxxxxxxx xxxx xx xxxxxxxxx xxxxx x xxxxxxxxx xxxxx xx xxxxxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the type description provider for the specified component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the target component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the type description provider for the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the target component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears the properties and events for the specified component from the cache.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx xxxxxxxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component for which the properties or events have changed.</source>
+          <target state="new">$x$x$X xxxxxxxxx xxx xxxxx xxx xxxxxxxxxx xx xxxxxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears the properties and events for the specified assembly from the cache.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx xxxxxxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears the properties and events for the specified module from the cache.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx xxxxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears the properties and events for the specified type of component from the cache.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx xxxx xx xxxxxxxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes an association between two objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxxx xxxxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes all associations for a primary object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxxxx xxx x xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;primary&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes a previously added type description provider that is associated with the specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xxxxx xxxx xxxxxxxxxxx xxxxxxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the target component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes a previously added type description provider that is associated with the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xxxxx xxxx xxxxxxxxxxx xxxxxxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes a previously added type description provider that is associated with the specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xxxxx xxxx xxxxxxxxxxx xxxxxxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the target component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes a previously added type description provider that is associated with the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xxxxx xxxx xxxxxxxxxxx xxxxxxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or both of the parameters are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xx xxx xxxxxxxxxx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sorts descriptors using the name of the descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxxxxxxxxx xxxxx xxx xxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;infos&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

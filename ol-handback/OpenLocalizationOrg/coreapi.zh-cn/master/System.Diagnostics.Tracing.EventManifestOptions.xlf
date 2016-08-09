@@ -1,0 +1,16 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies how the ETW manifest for the event source is generated.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxx XXX xxxxxxxx xxx xxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Generates a resources node under the localization folder for every satellite assembly provided.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxx xxxx xxxxx xxx xxxxxxxxxxxx xxxxxx xxx xxxxx xxxxxxxxx xxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No options are specified.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A manifest is generated only the event source must be registered on the host computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxxxxxxxx xxxx xxx xxxxx xxxxxx xxxx xx xxxxxxxxxx xx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Causes an exception to be raised if any inconsistencies occur when writing the manifest file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxxxxx xx xx xxxxxx xx xxx xxxxxxxxxxxxxxx xxxxx xxxx xxxxxxx xxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

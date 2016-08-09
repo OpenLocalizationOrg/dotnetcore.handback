@@ -1,0 +1,178 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies an empty collection that you can use instead of creating a new one with no items.</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxx xxxxxxxxxx xxxx xxx xxx xxx xxxxxxx xx xxxxxxxx x xxx xxx xxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This &lt;strong&gt;static&lt;/strong&gt; field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx $xxxxxx$xxxxxx$$xxxxxx$ xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;strong&gt;true&lt;/strong&gt;, specifies that the collection cannot be modified.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the number of property descriptors in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxxx xxxxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of property descriptors in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx xxxxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether access to the collection is synchronized (thread safe).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxxxxx xx xxx xxxxxxxxxx xx xxxxxxxxxxxx $xxxxxx xxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if access to the collection is synchronized (thread safe); otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxx xx xxx xxxxxxxxxx xx xxxxxxxxxxxx $xxxxxx xxxx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an object that can be used to synchronize access to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xxxx xxx xx xxxx xx xxxxxxxxxxx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that can be used to synchronize access to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxx xx xxxx xx xxxxxxxxxxx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the element with the specified key.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxx xxx xxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to get or set.</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxx xx xxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element with the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to remove.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator for this class.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the collection has a fixed size.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxx x xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the collection has a fixed size; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxxx xxx x xxxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the collection is read-only; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxxx xx xxxx$xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to add to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position into which the new element was inserted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxxx xxx xxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes the first occurrence of a specified value from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx xxxxxxxxxx xx x xxxxxxxxx xxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to remove from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the collection contains a specific value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxx x xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to locate in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the item is found in the collection; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx xxxxx xx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines the index of a specified item in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxx xx x xxxxxxxxx xxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to locate in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of &lt;em&gt;value&lt;/em&gt; if found in the list, otherwise -1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xx xxx xxxx$ xxxxxxxxx $0.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Inserts an item into the collection at a specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxx xxxx xxx xxxxxxxxxx xx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index at which &lt;em&gt;value&lt;/em&gt; should be inserted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxxxx $xx$xxxxx$$xx$ xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to insert into the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets an item from the collection at a specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xx xxxx xxxx xxx xxxxxxxxxx xx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index of the item to get or set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxx xxxx xx xxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element at the specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies the entire collection to an array, starting at the specified index number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxx xxxxxxxxxx xx xx xxxxx$ xxxxxxxx xx xxx xxxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the &lt;em&gt;array&lt;/em&gt; parameter at which copying begins.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if you want to ignore the case of the property name; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx xxxxxx xxx xxxx xx xxx xxxxxxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator for this class.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index at which to add the &lt;em&gt;value&lt;/em&gt; parameter to the collection.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx xx xxx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sorts the members of this collection.</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxx xx xxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>The specified order is applied first, followed by the default sort for this collection, which is usually alphabetical.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxxxx xxxxx xx xxxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxx xxxx xxxxxxxxxx$ xxxxx xx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sorts the members of this collection, using the default sort for this collection, which is usually alphabetical.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxx xx xxxx xxxxxxxxxx$ xxxxx xxx xxxxxxx xxxx xxx xxxx xxxxxxxxxx$ xxxxx xx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sorts the members of this collection.</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxx xx xxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>The specified order is applied first, followed by the default sort for this collection, which is usually alphabetical.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxxxx xxxxx xx xxxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxx xxxx xxxxxxxxxx$ xxxxx xx xxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

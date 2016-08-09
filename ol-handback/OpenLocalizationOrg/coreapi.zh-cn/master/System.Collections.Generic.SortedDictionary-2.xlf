@@ -1,0 +1,121 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a collection of key/value pairs that are sorted on the key.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxxxxx xx xxx$xxxxx xxxxx xxxx xxx xxxxxx xx xxx xxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the keys in the dictionary.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the values in the dictionary.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;dictionary&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;dictionary&lt;/em&gt; contains one or more duplicate keys.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xxxxxxxx xxx xx xxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;dictionary&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;dictionary&lt;/em&gt; contains one or more duplicate keys.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xxxxxxxx xxx xx xxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the value associated with the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the value to get or set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxx xx xxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is retrieved and &lt;em&gt;key&lt;/em&gt; does not exist in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxxxxx xxx $xx$xxx$$xx$ xxxx xxx xxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the element with the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to get.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to add.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the element to add.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxx xx xxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The value can be &lt;strong&gt;null&lt;/strong&gt; for reference types.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xxx xx $xxxxxx$xxxx$$xxxxxx$ xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to remove.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to use as the key of the element to add.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xx xxx xxx xx xxx xxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to use as the value of the element to add.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xx xxx xxxxx xx xxx xxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to remove.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator that iterates through the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxxx xxxxxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value associated with the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the value to get.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, the value associated with the specified key, if the key is found; otherwise, the default value for the type of the &lt;em&gt;value&lt;/em&gt; parameter.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxx$ xx xxx xxx xx xxxxx$ xxxxxxxxx$ xxx xxxxxxx xxxxx xxx xxx xxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;key&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

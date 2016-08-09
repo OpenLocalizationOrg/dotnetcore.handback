@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates the priority that the system associates with a process.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxx xxxx xxx xxxxxx xxxxxxxxxx xxxx x xxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This value, together with the priority value of each thread of the process, determines each thread's base priority level.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx$ xxxxxxxx xxxx xxx xxxxxxxx xxxxx xx xxxx xxxxxx xx xxx xxxxxxx$ xxxxxxxxxx xxxx xxxxxx$x xxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies that the process has priority above &lt;strong&gt;Idle&lt;/strong&gt; but below &lt;strong&gt;Normal&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxx xxx xxxxxxxx xxxxx $xxxxxx$Xxxx$$xxxxxx$ xxx xxxxx $xxxxxx$Xxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies that the process performs time-critical tasks that must be executed immediately, such as the &lt;strong&gt;Task List&lt;/strong&gt; dialog, which must respond quickly when called by the user, regardless of the load on the operating system.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxx xxxxxxxx xxxx$xxxxxxxx xxxxx xxxx xxxx xx xxxxxxxx xxxxxxxxxxx$ xxxx xx xxx $xxxxxx$Xxxx Xxxx$$xxxxxx$ xxxxxx$ xxxxx xxxx xxxxxxx xxxxxxx xxxx xxxxxx xx xxx xxxx$ xxxxxxxxxx xx xxx xxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The threads of the process preempt the threads of normal or idle priority class processes.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx xxx xxxxxxx xxxxxxx xxx xxxxxxx xx xxxxxx xx xxxx xxxxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies that the threads of this process run only when the system is idle, such as a screen saver.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxx xx xxxx xxxxxxx xxx xxxx xxxx xxx xxxxxx xx xxxx$ xxxx xx x xxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The threads of the process are preempted by the threads of any process running in a higher priority class.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx xxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxx xx xxx xxxxxxx xxxxxxx xx x xxxxxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies that the process has no special scheduling needs.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxx xxx xx xxxxxxx xxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies that the process has the highest possible priority.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxx xxx xxx xxxxxxx xxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

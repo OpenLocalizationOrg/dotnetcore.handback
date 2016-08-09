@@ -1,0 +1,73 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves information about a Unicode character.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxxxxxx xxxxx x Xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the numeric value associated with the specified character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character for which to get the numeric value.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xxx xxxxx xx xxx xxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value associated with the specified character.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;-1, if the specified character is not a numeric character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$$0$ xx xxx xxxxxxxxx xxxxxxxxx xx xxx x xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the numeric value associated with the character at the specified index of the specified string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the Unicode character for which to get the numeric value.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx Xxxxxxx xxxxxxxxx xxx xxxxx xx xxx xxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value associated with the character at the specified index of the specified string.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;-1, if the character at the specified index of the specified string is not a numeric character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x$x$$xx$ $$x$$x$x$$0$ xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx x xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is outside the range of valid indexes in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxxx xxx xxxxx xx xxxxx xxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the Unicode category of the specified character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx Xxxxxxx xxxxxxxx xx xxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character for which to get the Unicode category.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xxx xxxxx xx xxx xxx Xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the Unicode category of the character at the specified index of the specified string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx Xxxxxxx xxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the Unicode character for which to get the Unicode category.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx Xxxxxxx xxxxxxxxx xxx xxxxx xx xxx xxx Xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is outside the range of valid indexes in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxxx xxx xxxxx xx xxxxx xxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

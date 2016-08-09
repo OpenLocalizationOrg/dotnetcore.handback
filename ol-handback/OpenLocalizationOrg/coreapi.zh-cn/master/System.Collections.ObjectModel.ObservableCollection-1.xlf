@@ -1,0 +1,79 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a dynamic data collection that provides notifications when items get added, removed, or when the whole list is refreshed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxx xxxx xxxxxxxxxx xxxx xxxxxxxx xxxxxxxxxxxxx xxxx xxxxx xxx xxxxx$ xxxxxxx$ xx xxxx xxx xxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of elements in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection from which the elements are copied.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxx xxxxx xxx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collection&lt;/em&gt; parameter cannot be &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxx$$xx$ xxxxxxxxx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when an item is added, removed, changed, moved, or the entire list is refreshed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xx xxxx xx xxxxx$ xxxxxxx$ xxxxxxx$ xxxxx$ xx xxx xxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when a property value changes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx x xxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when a property value changes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx x xxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Disallows reentrant attempts to change this collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxxxx xxxxxxxx xx xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for reentrant attempts to change this collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx xxxxxxxx xx xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes all items from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Inserts an item into the collection at the specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxx xxxx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index at which &lt;em&gt;item&lt;/em&gt; should be inserted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxxxx $xx$xxxx$$xx$ xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to insert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Moves the item at the specified index to a new location in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxx xx xxx xxxxxxxxx xxxxx xx x xxx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index specifying the location of the item to be moved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xxxxxxxxxx xxx xxxxxxxx xx xxx xxxx xx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index specifying the new location of the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xxxxxxxxxx xxx xxx xxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Moves the item at the specified index to a new location in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxx xx xxx xxxxxxxxx xxxxx xx x xxx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index specifying the location of the item to be moved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xxxxxxxxxx xxx xxxxxxxx xx xxx xxxx xx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index specifying the new location of the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xxxxxxxxxx xxx xxx xxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Arguments of the event being raised.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Arguments of the event being raised.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Removes the item at the specified index of the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index of the element to remove.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Replaces the element at the specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index of the element to replace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxx xxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value for the element at the specified index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxx xxx xxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

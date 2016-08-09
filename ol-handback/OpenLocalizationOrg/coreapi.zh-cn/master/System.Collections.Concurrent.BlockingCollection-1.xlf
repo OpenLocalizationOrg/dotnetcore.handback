@@ -1,0 +1,403 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of elements in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection to use as the underlying data store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxx xx xxx xxxxxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collection&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection to use as the underlying data store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxx xx xxx xxxxxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The bounded size of the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collection&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;boundedCapacity&lt;/em&gt; is not a positive value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxxxxxx$$xx$ xx xxx x xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The supplied &lt;em&gt;collection&lt;/em&gt; contains more values than is permitted by &lt;em&gt;boundedCapacity&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx $xx$xxxxxxxxxx$$xx$ xxxxxxxx xxxx xxxxxx xxxx xx xxxxxxxxx xx $xx$xxxxxxxXxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The bounded size of the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;boundedCapacity&lt;/em&gt; is not a positive value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxxxxxx$$xx$ xx xxx x xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The bounded capacity of this collection, or int.MaxValue if no bound was supplied.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xx xxxx xxxxxxxxxx$ xx xxx.XxxXxxxx xx xx xxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Whether this collection has been marked as complete for adding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Whether this collection has been marked as complete for adding and is empty.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;always returns false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;returns null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SyncRoot property is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XxxxXxxx xxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to the collection.</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The value can be a null reference.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xxx xx x xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to the collection.</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The value can be a null reference.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xxx xx x xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array to which the item was added.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xx xxxxx xxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element, or at least one of collections has been marked as complete for adding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx$ xx xx xxxxx xxx xx xxxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;At least one underlying collection didn't accept the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx$x xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array to which the item was added.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xx xxxxx xxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;At least one underlying collection didn't accept the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx$x xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element, or at least one of collections has been marked as complete for adding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx$ xx xx xxxxx xxx xx xxxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;array&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;index&lt;/em&gt; argument is less than zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;index&lt;/em&gt; argument is equal to or greater than the length of the &lt;em&gt;array&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;The destination array is too small to hold all of the BlockingCcollection elements.&lt;/p&gt;\n&lt;p&gt;The array rank doesn't match.&lt;/p&gt;\n&lt;p&gt;The array type is incompatible with the type of the BlockingCollection elements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxxx xx xx xxxxxxx xxxx xxx xxxxxx xx xxx $xx$xxxxx$$xx$.$$x$$x$x$Xxx xxxxxxxxxxx xxxxx xx xxx xxxxx xx xxxx xxx xx xxx XxxxxxxxXxxxxxxxxxx xxxxxxxx.$$x$$x$x$Xxx xxxxx xxxx xxxxx$x xxxxx.$$x$$x$x$Xxx xxxxx xxxx xx xxxxxxxxxxxx xxxx xxx xxxx xx xxx XxxxxxxxXxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Whether being disposed explicitly (true) or due to a finalizer (false).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxx xxxxxxxx xxxxxxxxxx $xxxx$ xx xxx xx x xxxxxxxxx $xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;array&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;index&lt;/em&gt; argument is less than zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;index&lt;/em&gt; argument is equal to or greater than the length of the &lt;em&gt;array&lt;/em&gt;, the array is multidimensional, or the type parameter for the collection cannot be cast automatically to the type of the destination array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxx$$xx$ xxxxxxxx xx xxxxx xx xx xxxxxxx xxxx xxx xxxxxx xx xxx $xx$xxxxx$$xx$$ xxx xxxxx xx xxxxxxxxxxxxxxxx$ xx xxx xxxx xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxx xx xxxx xxxxxxxxxxxxx xx xxx xxxx xx xxx xxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Object that can be used to cancel the take operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xx xxxx xx xxxxxx xxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array from which the item was removed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xxxx xxxxx xxx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array from which the item was removed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xxxx xxxxx xxx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing copies of the elements of the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxxxxx xx xxx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;true if the &lt;em&gt;item&lt;/em&gt; could be added to the collection within the specified time span; otherwise, false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxx xx xxx $xx$xxxx$$xx$ xxxxx xx xxxxx xx xxx xxxxxxxxxx xxxxxx xxx xxxxxxxxx xxxx xxxx$ xxxxxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array to which the item was added, or -1 if the item could not be added.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xx xxxxx xxx xxxx xxx xxxxx$ xx $0 xx xxx xxxx xxxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element, or at least one of collections has been marked as complete for adding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx$ xx xx xxxxx xxx xx xxxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;At least one underlying collection didn't accept the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx$x xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array to which the item was added, or -1 if the item could not be added.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xx xxxxx xxx xxxx xxx xxxxx$ xx $0 xx xxx xxxx xxxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element, or at least one of collections has been marked as complete for adding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx$ xx xx xxxxx xxx xx xxxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;At least one underlying collection didn't accept the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx$x xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array to which the item was added, or -1 if the item could not be added.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xx xxxxx xxx xxxx xxx xxxxx$ xx $0 xx xxx xxxx xxxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;At least one underlying collection didn't accept the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx$x xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element, or at least one of collections has been marked as complete for adding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx$ xx xx xxxxx xxx xx xxxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be added to one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxx xx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array to which the item was added, or -1 if the item could not be added.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xx xxxxx xxx xxxx xxx xxxxx$ xx $0 xx xxx xxxx xxxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element, or at least one of collections has been marked as complete for adding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx$ xx xx xxxxx xxx xx xxxxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;At least one underlying collection didn't accept the item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx$x xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be removed from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if an item could be removed; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xx xxxx xxxxx xx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be removed from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if an item could be removed from the collection within the specified  time; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xx xxxx xxxxx xx xxxxxxx xxxx xxx xxxxxxxxxx xxxxxx xxx xxxxxxxxx  xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be removed from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if an item could be removed from the collection within the specified  time; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xx xxxx xxxxx xx xxxxxxx xxxx xxx xxxxxxxxxx xxxxxx xxx xxxxxxxxx  xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item to be removed from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the number of milliseconds to wait, or an object that represents -1 milliseconds to wait indefinitely.</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxxxx xxx xxxxxx xx xxxxxxxxxxxx xx xxxx$ xx xx xxxxxx xxxx xxxxxxxxxx $0 xxxxxxxxxxxx xx xxxx xxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if an item could be removed from the collection within the specified  time; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xx xxxx xxxxx xx xxxxxxx xxxx xxx xxxxxxxxxx xxxxxx xxx xxxxxxxxx  xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array from which the item was removed, or -1 if an item could not be removed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xxxx xxxxx xxx xxxx xxx xxxxxxx$ xx $0 xx xx xxxx xxxxx xxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array from which the item was removed, or -1 if an item could not be removed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xxxx xxxxx xxx xxxx xxx xxxxxxx$ xx $0 xx xx xxxx xxxxx xxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A cancellation token to observe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array from which the item was removed, or -1 if an item could not be removed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xxxx xxxxx xxx xxxx xxx xxxxxxx$ xx $0 xx xx xxxx xxxxx xxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;millisecondsTimeout&lt;/em&gt; is a negative number other than -1, which represents an infinite time-out.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The count of &lt;em&gt;collections&lt;/em&gt; is greater than the maximum size of 62 for STA and 63 for MTA.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxxxxx$$xx$ xx x xxxxxxxx xxxxxx xxxxx xxxx $0$ xxxxx xxxxxxxxxx xx xxxxxxxx xxxx$xxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxx xx $xx$xxxxxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxx xx 00 xxx XXX xxx 00 xxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array of collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item removed from one of the collections.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the collection in the &lt;em&gt;collections&lt;/em&gt; array from which the item was removed, or -1 if an item could not be removed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxx xx xxx $xx$xxxxxxxxxxx$$xx$ xxxxx xxxx xxxxx xxx xxxx xxx xxxxxxx$ xx $0 xx xx xxxx xxxxx xxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collections&lt;/em&gt; argument is a 0-length array or contains a null element.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxx xx x 0$xxxxxx xxxxx xx xxxxxxxx x xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

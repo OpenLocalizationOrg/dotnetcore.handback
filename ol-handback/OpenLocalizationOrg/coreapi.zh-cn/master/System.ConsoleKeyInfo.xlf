@@ -1,0 +1,67 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Describes the console key that was pressed, including the character represented by the console key and the state of the SHIFT, ALT, and CTRL modifier keys.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xxx xxxx xxx xxxxxxx$ xxxxxxxxx xxx xxxxxxxxx xxxxxxxxxxx xx xxx xxxxxxx xxx xxx xxx xxxxx xx xxx XXXXX$ XXX$ xxx XXXX xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character that corresponds to the &lt;em&gt;key&lt;/em&gt; parameter.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xxxx xxxxxxxxxxx xx xxx $xx$xxx$$xx$ xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The console key that corresponds to the &lt;em&gt;keyChar&lt;/em&gt; parameter.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xxxx xxxxxxxxxxx xx xxx $xx$xxxXxxx$$xx$ xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to indicate that a SHIFT key was pressed; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxx x XXXXX xxx xxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to indicate that an ALT key was pressed; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxx xx XXX xxx xxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to indicate that a CTRL key was pressed; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxx x XXXX xxx xxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value of the &lt;em&gt;key&lt;/em&gt; parameter is less than 0 or greater than 255.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xx xxx $xx$xxx$$xx$ xxxxxxxxx xx xxxx xxxx 0 xx xxxxxxx xxxx 000.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that identifies the console key that was pressed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxxx xxx xxxxxxx xxx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of the enumeration values.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxx xxxxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>There is no default value.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxx xx xx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;a&lt;/em&gt; is equal to &lt;em&gt;b&lt;/em&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx xxxxx xx $xx$x$$xx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;a&lt;/em&gt; is not equal to &lt;em&gt;b&lt;/em&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx xxx xxxxx xx $xx$x$$xx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

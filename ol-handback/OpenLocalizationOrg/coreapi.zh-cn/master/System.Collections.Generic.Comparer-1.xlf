@@ -1,0 +1,40 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of objects to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a default sort order comparer for the type specified by the generic argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxx xxxx xxxxx xxxxxxxx xxx xxx xxxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, performs a comparison of two objects of the same type and returns a value indicating whether one object is less than, equal to, or greater than the other.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxxxx x xxxxxxxxxx xx xxx xxxxxxx xx xxx xxxx xxxx xxx xxxxxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxx xx xxxx xxxx$ xxxxx xx$ xx xxxxxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed integer that indicates the relative values of &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt;, as shown in the following table.&lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Meaning &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; is less than &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; equals &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; is greater than &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx $xx$x$$xx$ xxx $xx$x$$xx$$ xx xxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x$x$Xxxxx $$x$$x$x$Xxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xx xxxx xxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xxxxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xx xxxxxxx xxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a comparer by using the specified comparison.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxx xx xxxxx xxx xxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The comparison to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new comparer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Compares two objects and returns a value indicating whether one is less than, equal to, or greater than the other.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xxx xxxxxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xx xxxx xxxx$ xxxxx xx$ xx xxxxxxx xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed integer that indicates the relative values of &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt;, as shown in the following table.&lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Meaning &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; is less than &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; equals &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; is greater than &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx $xx$x$$xx$ xxx $xx$x$$xx$$ xx xxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x$x$Xxxxx $$x$$x$x$Xxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx$$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xx xxxx xxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx$$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xxxxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx$$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xx xxxxxxx xxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit></group></body></file></xliff>

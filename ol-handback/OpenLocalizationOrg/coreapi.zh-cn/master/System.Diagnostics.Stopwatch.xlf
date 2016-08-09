@@ -1,0 +1,49 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a set of methods and properties that you can use to accurately measure elapsed time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxx xx xxxxxxx xxx xxxxxxxxxx xxxx xxx xxx xxx xx xxxxxxxxxx xxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the frequency of the timer as the number of ticks per second.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxx xx xxx xxxxx xx xxx xxxxxx xx xxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the timer is based on a high-resolution performance counter.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxx xx xxxxx xx x xxxx$xxxxxxxxxx xxxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the total elapsed time measured by the current instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxx xxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the total elapsed time measured by the current instance, in milliseconds.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxx xxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxx$ xx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A read-only long integer representing the total number of milliseconds measured by the current instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx$xxxx xxxx xxxxxxx xxxxxxxxxxxx xxx xxxxx xxxxxx xx xxxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the total elapsed time measured by the current instance, in timer ticks.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxx xxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxx$ xx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A read-only long integer representing the total number of timer ticks measured by the current instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx$xxxx xxxx xxxxxxx xxxxxxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the current number of ticks in the timer mechanism.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxx xx xxxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A long integer representing the tick counter value of the underlying timer mechanism.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxx xxxxxxxxxxxx xxx xxxx xxxxxxx xxxxx xx xxx xxxxxxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Stops time interval measurement and resets the elapsed time to zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxx xxxxxxxx xxxxxxxxxxx xxx xxxxxx xxx xxxxxxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Stops time interval measurement, resets the elapsed time to zero, and starts measuring elapsed time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxx xxxxxxxx xxxxxxxxxxx$ xxxxxx xxx xxxxxxx xxxx xx xxxx$ xxx xxxxxx xxxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts, or resumes, measuring elapsed time for an interval.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx$ xx xxxxxxx$ xxxxxxxxx xxxxxxx xxxx xxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Stops measuring elapsed time for an interval.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxxxxxxx xxxxxxx xxxx xxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

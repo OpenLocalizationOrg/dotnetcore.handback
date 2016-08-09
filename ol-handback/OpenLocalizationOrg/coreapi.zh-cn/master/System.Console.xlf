@@ -1,0 +1,1435 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the standard input, output, and error streams for console applications.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxxx xxxxx$ xxxxxx$ xxx xxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the background color of the console.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxxxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that specifies the background color of the console; that is, the color that appears behind each character.</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxxxxxx xxxxx xx xxx xxxxxxx$ xxxx xx$ xxx xxxxx xxxx xxxxxxx xxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The default is black.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Plays the sound of a beep through the console speaker.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxx xx x xxxx xxxxxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This method was executed on a server, such as SQL Server, that does not permit access to a user interface.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxx xxx xxxxxxxx xx x xxxxxx$ xxxx xx XXX Xxxxxx$ xxxx xxxx xxx xxxxxx xxxxxx xx x xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Plays the sound of a beep of a specified frequency and duration through the console speaker.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxx xx x xxxx xx x xxxxxxxxx xxxxxxxxx xxx xxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The frequency of the beep, ranging from 37 to 32767 hertz.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxx$ xxxxxxx xxxx 00 xx 00000 xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The duration of the beep measured in milliseconds.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxx xxxxxxxx xx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;frequency&lt;/em&gt; is less than 37 or more than 32767 hertz.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;duration&lt;/em&gt; is less than or equal to zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx xxxx xxxx 00 xx xxxx xxxx 00000 xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxx xxxx xx xxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This method was executed on a server, such as SQL Server, that does not permit access to the console.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxx xxx xxxxxxxx xx x xxxxxx$ xxxx xx XXX Xxxxxx$ xxxx xxxx xxx xxxxxx xxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the height of the buffer area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current height, in rows, of the buffer area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx$ xx xxxx$ xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the width of the buffer area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current width, in columns, of the buffer area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx$ xx xxxxxxx$ xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the CAPS LOCK keyboard toggle is turned on or turned off.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx XXXX XXXX xxxxxxxx xxxxxx xx xxxxxx xx xx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if CAPS LOCK is turned on; &lt;strong&gt;false&lt;/strong&gt; if CAPS LOCK is turned off.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx XXXX XXXX xx xxxxxx xx$ $xxxxxx$xxxxx$$xxxxxx$ xx XXXX XXXX xx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears the console buffer and corresponding console window of display information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxx xxxxxx xxx xxxxxxxxxxxxx xxxxxxx xxxxxx xx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the column position of the cursor within the buffer area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxxxx xx xxx xxxxxx xxxxxx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current position, in columns, of the cursor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx$ xx xxxxxxx$ xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the height of the cursor within a character cell.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xx xxx xxxxxx xxxxxx x xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the cursor expressed as a percentage of the height of a character cell.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xxxxxxxxx xx x xxxxxxxxxx xx xxx xxxxxx xx x xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>The property value ranges from 1 to 100.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxxx xxxxx xxxxxx xxxx 0 xx 000.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value specified in a set operation is less than 1 or greater than 100.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xx x xxx xxxxxxxxx xx xxxx xxxx 0 xx xxxxxxx xxxx 000.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the row position of the cursor within the buffer area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxx xxxxxxxx xx xxx xxxxxx xxxxxx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current position, in rows, of the cursor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx$ xx xxxx$ xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value indicating whether the cursor is visible.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the cursor is visible; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the standard error output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the foreground color of the console.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxxxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the encoding the console uses to read input.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xxx xxxxxxx xxxx xx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding used to read console input.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property value in a set operation is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx x xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred during the execution of this operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxxxx xxx xxxxxxxxx xx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Your application does not have permission to perform this operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether the error output stream has been redirected from the standard error stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxx xxxxxx xxxxxx xxx xxxx xxxxxxxxxx xxxx xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if error output is redirected; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xxxxxx xx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether input has been redirected from the standard input stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxxxx xxx xxxx xxxxxxxxxx xxxx xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if input is redirected; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether output has been redirected from the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxxxxx xxx xxxx xxxxxxxxxx xxxx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if output is redirected; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxx xx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the standard input stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether a key press is available in the input stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx x xxx xxxxx xx xxxxxxxxx xx xxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if a key press is available; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx x xxx xxxxx xx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Standard input is redirected to a file instead of the keyboard.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxx xx xxxxxxxxxx xx x xxxx xxxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the largest possible number of console window columns, based on the current font and screen resolution.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxx xxxxxx xx xxxxxxx xxxxxx xxxxxxx$ xxxxx xx xxx xxxxxxx xxxx xxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The width of the largest possible console window measured in columns.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxx xxxxxxxx xxxxxxx xxxxxx xxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the largest possible number of console window rows, based on the current font and screen resolution.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxx xxxxxx xx xxxxxxx xxxxxx xxxx$ xxxxx xx xxx xxxxxxx xxxx xxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The height of the largest possible console window measured in rows.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxx xxxxxxxx xxxxxxx xxxxxx xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies a specified source area of the screen buffer to a specified destination area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxxx xxxxxx xxxx xx xxx xxxxxx xxxxxx xx x xxxxxxxxx xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The leftmost column of the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The topmost row of the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of columns in the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of rows in the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The leftmost column of the destination area.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xx xxx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The topmost row of the destination area.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xx xxx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies a specified source area of the screen buffer to a specified destination area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxxx xxxxxx xxxx xx xxx xxxxxx xxxxxx xx x xxxxxxxxx xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The leftmost column of the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The topmost row of the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of columns in the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of rows in the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The leftmost column of the destination area.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xx xxx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The topmost row of the destination area.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xx xxx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The character used to fill the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The foreground color used to fill the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxx xxxx xx xxxx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The background color used to fill the source area.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxx xxxx xx xxxx xxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the NUM LOCK keyboard toggle is turned on or turned off.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx XXX XXXX xxxxxxxx xxxxxx xx xxxxxx xx xx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if NUM LOCK is turned on; &lt;strong&gt;false&lt;/strong&gt; if NUM LOCK is turned off.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx XXX XXXX xx xxxxxx xx$ $xxxxxx$xxxxx$$xxxxxx$ xx XXX XXXX xx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Acquires the standard error stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The standard error stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Acquires the standard input stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The standard input stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Acquires the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the encoding the console uses to write output.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xxx xxxxxxx xxxx xx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding used to write console output.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property value in a set operation is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx x xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred during the execution of this operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxxxx xxx xxxxxxxxx xx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Your application does not have permission to perform this operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads the next character from the standard input stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxx xxxxxxxxx xxxx xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next character from the input stream, or negative one (-1) if there are currently no more characters to be read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xxxx xxx xxxxx xxxxxx$ xx xxxxxxxx xxx $$0$ xx xxxxx xxx xxxxxxxxx xx xxxx xxxxxxxxxx xx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Obtains the next character or function key pressed by the user.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxxxxxx xx xxxxxxxx xxx xxxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>The pressed key is displayed in the console window.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxx xx xxxxxxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Obtains the next character or function key pressed by the user.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxxxxxx xx xxxxxxxx xxx xxxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>The pressed key is optionally displayed in the console window.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxx xx xxxxxxxxxx xxxxxxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether to display the pressed key in the console window.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xx xxxxxxx xxx xxxxxxx xxx xx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;true&lt;/strong&gt; to not display the pressed key; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxx xxxxxxx xxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads the next line of characters from the standard input stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next line of characters from the input stream, or &lt;strong&gt;null&lt;/strong&gt; if no more lines are available.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxx xxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxx xxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is insufficient memory to allocate a buffer for the returned string.</source>
+          <target state="new">$x$x$Xxxxx xx xxxxxxxxxxxx xxxxxx xx xxxxxxxx x xxxxxx xxx xxx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the foreground and background console colors to their defaults.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xxx xxxxxxxxxx xxxxxxx xxxxxx xx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the height and width of the screen buffer area to the specified values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxx xxxxx xx xxx xxxxxx xxxxxx xxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The width of the buffer area measured in columns.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxx xxxx xxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The height of the buffer area measured in rows.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xxxx xxxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the position of the cursor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column position of the cursor.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>Columns are numbered from left to right starting at 0.</source>
+          <target state="new">Xxxxxxx xxx xxxxxxxx xxxx xxxx xx xxxxx xxxxxxxx xx 0.</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The row position of the cursor.</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>Rows are numbered from top to bottom starting at 0.</source>
+          <target state="new">Xxxx xxx xxxxxxxx xxxx xxx xx xxxxxx xxxxxxxx xx 0.</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A stream that is the new standard error output.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xx xxx xxx xxxxxxxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newError&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A stream that is the new standard input.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xx xxx xxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newIn&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxXx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A stream that is the new standard output.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xx xxx xxx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newOut&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the position of the console window relative to the screen buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xx xxx xxxxxxx xxxxxx xxxxxxxx xx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column position of the upper left  corner of the console window.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxx xx xxx xxxxx xxxx  xxxxxx xx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The row position of the upper left corner of the console window.</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxx xx xxx xxxxx xxxx xxxxxx xx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the height and width of the console window to the specified values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxx xxxxx xx xxx xxxxxxx xxxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The width of the console window measured in columns.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxx xxxxxx xxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The height of the console window measured in rows.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxx xxxxxx xxxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have permission to perform this action.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the title to display in the console title bar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xx xxxxxxx xx xxx xxxxxxx xxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string to be displayed in the title bar of the console.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx xxxxxxxxx xx xxx xxxxx xxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>The maximum length of the title string is 24500 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxxx xx xxx xxxxx xxxxxx xx 00000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a get operation, the retrieved title is longer than 24500 characters.</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxxxxxx xxxxx xx xxxxxx xxxx 00000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the specified title is longer than 24500 characters.</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxxxxxx xxxxx xx xxxxxx xxxx 00000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the specified title is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx xxxxxxxxx xxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if Ctrl+C is treated as ordinary input; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx Xxxx$X xx xxxxxxx xx xxxxxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Unable to get or set the input mode of the console input buffer.</source>
+          <target state="new">$x$x$Xxxxxx xx xxx xx xxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the height of the console window area.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xx xxx xxxxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The height of the console window measured in rows.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxx xxxxxx xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Error reading or writing information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxxxxx xx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the width of the console window.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The width of the console window measured in columns.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxx xxxxxx xxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Error reading or writing information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxxxxx xx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the leftmost position of the console window area relative to the screen buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxxxxx xxxx xxxxxxxx xx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The leftmost console window position measured in columns.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxx xxxxxx xxxxxxxx xxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="335" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Error reading or writing information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxxxxx xx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the top position of the console window area relative to the screen buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxx xxxxxxxx xx xxx xxxxxxx xxxxxx xxxx xxxxxxxx xx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="337" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uppermost console window position measured in rows.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxx xxxxxx xxxxxxxx xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Error reading or writing information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxxxxx xx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="339" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified Boolean value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx Xxxxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="340" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="341" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="342" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="343" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="344" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified Unicode character value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="345" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="346" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="347" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="348" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="349" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified array of Unicode characters to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx xxxxx xx Xxxxxxx xxxxxxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="350" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Unicode character array.</source>
+          <target state="new">$x$x$X Xxxxxxx xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="351" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="352" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="353" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="354" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified subarray of Unicode characters to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx xxxxxxxx xx Xxxxxxx xxxxxxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="355" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of Unicode characters.</source>
+          <target state="new">$x$x$Xx xxxxx xx Xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="356" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="357" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The starting position in &lt;em&gt;buffer&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="358" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="359" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of characters to write.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="360" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="361" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;buffer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="362" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="363" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is less than zero.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="364" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="365" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; plus &lt;em&gt;count&lt;/em&gt; specify a position that is not within &lt;em&gt;buffer&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xxxx $xx$xxxxx$$xx$ xxxxxxx x xxxxxxxx xxxx xx xxx xxxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="366" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="367" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="368" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="369" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="370" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="371" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="372" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="373" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified double-precision floating-point value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="374" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="375" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="376" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="377" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="378" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 32-bit signed integer value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxx xxxxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="379" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="380" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="381" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="382" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="383" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 64-bit signed integer value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxx xxxxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="384" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="385" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="386" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="387" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="388" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified object to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="389" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write, or &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="390" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="391" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="392" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="393" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified single-precision floating-point value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="394" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="395" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="396" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="397" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="398" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified string value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx xxxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="399" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="400" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="401" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified object to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="402" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.</target>
+        </trans-unit><trans-unit id="403" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="404" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="405" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="406" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="407" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="408" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="409" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="410" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="411" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="412" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified objects to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="413" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="414" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="415" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="416" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="417" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="418" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="419" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="420" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="421" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="422" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="423" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="424" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified objects to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="425" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="426" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="427" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="428" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="429" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="430" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The third object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="431" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="432" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="433" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="434" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="435" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="436" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="437" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="438" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified array of objects to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxx xx xxxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="439" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="440" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of objects to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="441" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="442" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="443" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="444" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; or &lt;em&gt;arg&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="445" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="446" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="447" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="448" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 32-bit unsigned integer value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxxxx xxxxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="449" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="450" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="451" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="452" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="453" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 64-bit unsigned integer value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxxxx xxxxxxx xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="454" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="455" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="456" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="457" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="458" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the current line terminator to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxx xxxx xxxxxxxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="459" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="460" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="461" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified Boolean value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx Xxxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="462" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="463" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="464" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="465" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="466" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified Unicode character, followed by the current line terminator, value to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xxxxx xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="467" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="468" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="469" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="470" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="471" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified array of Unicode characters, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx xxxxx xx Xxxxxxx xxxxxxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="472" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Unicode character array.</source>
+          <target state="new">$x$x$X Xxxxxxx xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="473" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="474" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="475" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="476" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified subarray of Unicode characters, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx xxxxxxxx xx Xxxxxxx xxxxxxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="477" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of Unicode characters.</source>
+          <target state="new">$x$x$Xx xxxxx xx Xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="478" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="479" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The starting position in &lt;em&gt;buffer&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="480" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="481" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of characters to write.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="482" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="483" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;buffer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="484" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="485" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is less than zero.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="486" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="487" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; plus &lt;em&gt;count&lt;/em&gt; specify a position that is not within &lt;em&gt;buffer&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xxxx $xx$xxxxx$$xx$ xxxxxxx x xxxxxxxx xxxx xx xxx xxxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="488" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="489" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="490" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="491" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="492" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="493" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="494" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="495" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified double-precision floating-point value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="496" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="497" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="498" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="499" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="500" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 32-bit signed integer value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxx xxxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="501" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="502" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="503" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="504" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="505" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 64-bit signed integer value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxx xxxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="506" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="507" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="508" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="509" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="510" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified object, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="511" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="512" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="513" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="514" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="515" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified single-precision floating-point value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="516" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="517" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="518" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="519" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="520" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the specified string value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxx xxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="521" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="522" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="523" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified object, followed by the current line terminator, to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="524" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="525" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="526" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="527" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="528" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="529" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="530" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="531" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="532" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="533" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified objects, followed by the current line terminator, to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="534" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="535" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="536" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="537" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="538" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="539" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="540" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="541" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="542" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="543" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="544" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="545" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified objects, followed by the current line terminator, to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="546" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="547" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="548" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="549" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="550" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="551" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The third object to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="552" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="553" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="554" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="555" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="556" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="557" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="558" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="559" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified array of objects, followed by the current line terminator, to the standard output stream using the specified format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxx xx xxxxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="560" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="561" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of objects to write using &lt;em&gt;format&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxx xx xxxxx xxxxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="562" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="563" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="564" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="565" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; or &lt;em&gt;arg&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="566" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="567" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format specification in &lt;em&gt;format&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="568" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="569" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 32-bit unsigned integer value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxxxx xxxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="570" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="571" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="572" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="573" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="574" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes the text representation of the specified 64-bit unsigned integer value, followed by the current line terminator, to the standard output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx 00$xxx xxxxxxxx xxxxxxx xxxxx$ xxxxxxxx xx xxx xxxxxxx xxxx xxxxxxxxxx$ xx xxx xxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="575" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="576" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="577" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="578" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

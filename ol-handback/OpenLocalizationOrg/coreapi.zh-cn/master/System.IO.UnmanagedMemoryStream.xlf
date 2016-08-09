@@ -1,0 +1,325 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides access to unmanaged blocks of memory from managed code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxx xx xxxxxxxxx xxxxxx xx xxxxxx xxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the required permission.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to an unmanaged memory location.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xx xx xxxxxxxxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the memory to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the required permission.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;pointer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxx$$xx$ xxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;length&lt;/em&gt; value is less than zero.&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;length&lt;/em&gt; is large enough to cause an overflow.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxx xx xxxx xxxx xxxx.$$x$$x$x$$ xx $$$x$$x$x$Xxx $xx$xxxxxx$$xx$ xx xxxxx xxxxxx xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to an unmanaged memory location.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xx xx xxxxxxxxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the memory to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The total amount of memory assigned to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the required permission.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;pointer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxx$$xx$ xxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;length&lt;/em&gt; value is less than zero.&lt;/p&gt;\n&lt;p&gt;- or - &lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;capacity&lt;/em&gt; value is less than zero.&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;length&lt;/em&gt; value is greater than the &lt;em&gt;capacity&lt;/em&gt; value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxx xx xxxx xxxx xxxx.$$x$$x$x$$ xx $ $$x$$x$x$Xxx $xx$xxxxxxxx$$xx$ xxxxx xx xxxx xxxx xxxx.$$x$$x$x$$ xx $$$x$$x$x$Xxx $xx$xxxxxx$$xx$ xxxxx xx xxxxxxx xxxx xxx $xx$xxxxxxxx$$xx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to contain the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte position in the buffer at which to start the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxx xxxxxx xx xxxxx xx xxxxx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to contain the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte position in the buffer at which to start the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxx xxxxxx xx xxxxx xx xxxxx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The mode of file access to the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xxxxxx xx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether a stream supports reading.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx x xxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;false&lt;/strong&gt; if the object was created by a constructor with an &lt;em&gt;access&lt;/em&gt; parameter that did not include reading the stream and if the stream is closed; otherwise, &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxx xxx xxxxxxx xx x xxxxxxxxxxx xxxx xx $xx$xxxxxx$$xx$ xxxxxxxxx xxxx xxx xxx xxxxxxx xxxxxxx xxx xxxxxx xxx xx xxx xxxxxx xx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether a stream supports seeking.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx x xxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;false&lt;/strong&gt; if the stream is closed; otherwise, &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxx xx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether a stream supports writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx x xxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;false&lt;/strong&gt; if the object was created by a constructor with an &lt;em&gt;access&lt;/em&gt; parameter value that supports writing or was created by a constructor that had no parameters, or if the stream is closed; otherwise, &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxx xxx xxxxxxx xx x xxxxxxxxxxx xxxx xx $xx$xxxxxx$$xx$ xxxxxxxxx xxxxx xxxx xxxxxxxx xxxxxxx xx xxx xxxxxxx xx x xxxxxxxxxxx xxxx xxx xx xxxxxxxxxx$ xx xx xxx xxxxxx xx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the stream length (size) or the total amount of memory assigned to a stream (capacity).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxx $xxxx$ xx xxx xxxxx xxxxxx xx xxxxxx xxxxxxxx xx x xxxxxx $xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size or capacity of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the length of the data in a stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxx xxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the data in the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the current position in a stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current position in the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a byte pointer to a stream based on the current position in the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxx xxxxxxx xx x xxxxxx xxxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A byte pointer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current position is larger than the capacity of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xx xxxxxx xxxx xxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position is being set is not a valid position in the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xx xxx x xxxxx xxxxxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer is being set to a lower value than the starting position of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx xxx xx x xxxxx xxxxx xxxx xxx xxxxxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous flush operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to an unmanaged memory location.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xx xx xxxxxxxxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the memory to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The total amount of memory assigned to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the required permission.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;pointer&lt;/em&gt; value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxx$$xx$ xxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;length&lt;/em&gt; value is less than zero.&lt;/p&gt;\n&lt;p&gt;- or - &lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;capacity&lt;/em&gt; value is less than zero.&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;length&lt;/em&gt; value is large enough to cause an overflow.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxx xx xxxx xxxx xxxx.$$x$$x$x$$ xx $ $$x$$x$x$Xxx $xx$xxxxxxxx$$xx$ xxxxx xx xxxx xxxx xxxx.$$x$$x$x$$ xx $$$x$$x$x$Xxx $xx$xxxxxx$$xx$ xxxxx xx xxxxx xxxxxx xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to contain the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte position in the buffer at which to start the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxx xxxxxx xx xxxxx xx xxxxx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The mode of file access to the unmanaged memory stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xxxxxx xx xxx xxxxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads the specified number of bytes into the specified array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxxxx xxxxxx xx xxxxx xxxx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the specified byte array with the values between &lt;em&gt;offset&lt;/em&gt; and (&lt;em&gt;offset&lt;/em&gt; + &lt;em&gt;count&lt;/em&gt; - 1) replaced by the bytes read from the current source.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xxxxxxxx xxx xxxxxxxxx xxxx xxxxx xxxx xxx xxxxxx xxxxxxx $xx$xxxxxx$$xx$ xxx $$xx$xxxxxx$$xx$ $ $xx$xxxxx$$xx$ $ 0$ xxxxxxxx xx xxx xxxxx xxxx xxxx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based byte offset in &lt;em&gt;buffer&lt;/em&gt; at which to begin storing the data read from the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xx xxxxx xx xxxxx xxxxxxx xxx xxxx xxxx xxxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to read from the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxx xxxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The total number of bytes read into the buffer.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>This can be less than the number of bytes requested if that many bytes are not currently available, or zero (0) if the end of the stream has been reached.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xx xxxx xxxx xxx xxxxxx xx xxxxx xxxxxxxxx xx xxxx xxxx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx$ xx xxxx $0$ xx xxx xxx xx xxx xxxxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; parameter is set to &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;offset&lt;/em&gt; parameter is less than zero.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;- or - &lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;count&lt;/em&gt; parameter is less than zero.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$ xx $ $$x$$x$x$Xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the buffer array minus the &lt;em&gt;offset&lt;/em&gt; parameter is less than the &lt;em&gt;count&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xxxxx xxxxx xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxxx xxxx xxx $xx$xxxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Asynchronously reads the specified number of bytes into the specified array.&lt;/p&gt;\n&lt;p&gt;Available starting in .NET Framework 4.6&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxx xx xxxxx xxxx xxx xxxxxxxxx xxxxx.$$x$$x$x$Xxxxxxxxx xxxxxxxx xx .XXX Xxxxxxxxx 0.0$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to write the data into.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte offset in &lt;em&gt;buffer&lt;/em&gt; at which to begin writing data from the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xx xxxxx xx xxxxx xxxxxxx xxxx xxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous read operation.</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>The value of the &lt;em&gt;TResult&lt;/em&gt; parameter contains the total number of bytes read into the buffer.</source>
+          <target state="new">Xxx xxxxx xx xxx $xx$XXxxxxx$$xx$ xxxxxxxxx xxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>The result value can be less than the number of bytes requested if the number of bytes currently available is less than the requested number, or it can be 0 (zero) if the end of the stream has been reached.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxxxx xxx xx xxxx xxxx xxx xxxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxx xx xxxxx xxxxxxxxx xxxxxxxxx xx xxxx xxxx xxx xxxxxxxxx xxxxxx$ xx xx xxx xx 0 $xxxx$ xx xxx xxx xx xxx xxxxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reads a byte from a stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xxxx x xxxxxx xxx xxxxxxxx xxx xxxxxxxx xxxxxx xxx xxxxxx xx xxx xxxx$ xx xxxxxxx $0 xx xx xxx xxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The underlying memory does not support reading.&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;The current position is at the end of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x$x$$ xx $$$x$$x$x$Xxx xxxxxxx xxxxxxxx xx xx xxx xxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the current position of the current stream to the given value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxx xx xxx xxxxxxx xxxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The point relative to &lt;em&gt;origin&lt;/em&gt; to begin seeking from.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxx xx $xx$xxxxxx$$xx$ xx xxxxx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new position in the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to seek before the beginning of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxx xxxxxx xxx xxxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;offset&lt;/em&gt; value is larger than the maximum size of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxx xx xxxxxx xxxx xxx xxxxxxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;loc&lt;/em&gt; is invalid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the length of a stream to a specified value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx x xxxxxx xx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error has occurred.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified &lt;em&gt;value&lt;/em&gt; exceeds the capacity of the stream.&lt;/p&gt;\n&lt;p&gt;- or -&lt;/p&gt;\n&lt;p&gt;The specified &lt;em&gt;value&lt;/em&gt; is negative.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx $xx$xxxxx$$xx$ xxxxxxx xxx xxxxxxxx xx xxx xxxxxx.$$x$$x$x$$ xx $$$x$$x$x$Xxx xxxxxxxxx $xx$xxxxx$$xx$ xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a block of bytes to the current stream using data from a buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxx xx xxxxx xx xxx xxxxxxx xxxxxx xxxxx xxxx xxxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte array from which to copy bytes to the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxx xxxx xxxxx xx xxxx xxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset in the buffer at which to begin copying bytes to the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx xxxxx xx xxxxx xxxxxxx xxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to write to the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the specified parameters is less than zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxx xxxxxxxxxx xx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;offset&lt;/em&gt; parameter minus the length of the &lt;em&gt;buffer&lt;/em&gt; parameter is less than the &lt;em&gt;count&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xxxxx xxx xxxxxx xx xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxxx xxxx xxx $xx$xxxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;buffer&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Asynchronously writes a sequence of bytes to the current stream, advances the current position within this stream by the number of bytes written, and monitors cancellation requests.&lt;/p&gt;\n&lt;p&gt;Available starting in .NET Framework 4.6&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxxxxx xxxxxx x xxxxxxxx xx xxxxx xx xxx xxxxxxx xxxxxx$ xxxxxxxx xxx xxxxxxx xxxxxxxx xxxxxx xxxx xxxxxx xx xxx xxxxxx xx xxxxx xxxxxxx$ xxx xxxxxxxx xxxxxxxxxxxx xxxxxxxx.$$x$$x$x$Xxxxxxxxx xxxxxxxx xx .XXX Xxxxxxxxx 0.0$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to write data from.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based byte offset in &lt;em&gt;buffer&lt;/em&gt; from which to begin copying bytes to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xxxx xxxxx xx xxxxx xxxxxxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to write.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous write operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a byte to the current position in the file stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A byte value written to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The supplied &lt;em&gt;value&lt;/em&gt; causes the stream exceed its maximum capacity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx $xx$xxxxx$$xx$ xxxxxx xxx xxxxxx xxxxxx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,166 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides information about, and means to manipulate, the current environment and platform.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxx xxxxx$ xxx xxxxx xx xxxxxxxxxx$ xxx xxxxxxx xxxxxxxxxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a unique identifier for the current managed thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxxxxxxxx xxx xxx xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer that represents a unique identifier for this managed thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx xxxxxxxxxx x xxxxxx xxxxxxxxxx xxx xxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether the current application domain is being unloaded or the common language runtime (CLR) is shutting down.</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxx xxxxxx xx xxxxx xxxxxxxx xx xxx xxxxxx xxxxxxxx xxxxxxx $XXX$ xx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current application domain is being unloaded or the CLR is shutting down; otherwise, &lt;strong&gt;false.&lt;/strong&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxxxxxxxx xxxxxx xx xxxxx xxxxxxxx xx xxx XXX xx xxxxxxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx.$$xxxxxx$$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the NetBIOS name of this local computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx XxxXXXX xxxx xx xxxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing the name of this computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx xxx xxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of this computer cannot be obtained.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xxxxxxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the newline string defined for this environment.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxx xxxxxxx xxx xxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the number of processors on the current machine.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxxxxx xx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 32-bit signed integer that specifies the number of processors on the current machine.</source>
+          <target state="new">$x$x$Xxx 00$xxx xxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxx xx xxxxxxxxxx xx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>There is no default.</source>
+          <target state="new">Xxxxx xx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>If the current machine contains multiple processor groups, this property returns the number of logical processors that are available for use by the common language runtime (CLR).&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxx xxxxxxx xxxxxxxx xxxxxxxx xxxxxxxxx xxxxxx$ xxxx xxxxxxxx xxxxxxx xxx xxxxxx xx xxxxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxx xxx xx xxx xxxxxx xxxxxxxx xxxxxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets current stack trace information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxx xxxxx xxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the number of milliseconds elapsed since the system started.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxxxxxxx xxxxxxx xxxxx xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer containing the amount of time in milliseconds that has passed since the last time the computer was started.</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xxx xxxxxx xx xxxx xx xxxxxxxxxxxx xxxx xxx xxxxxx xxxxx xxx xxxx xxxx xxx xxxxxxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Replaces the name of each environment variable embedded in the specified string with the string equivalent of the value of the variable, then returns the resulting string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxx xx xxxx xxxxxxxxxxx xxxxxxxx xxxxxxxx xx xxx xxxxxxxxx xxxxxx xxxx xxx xxxxxx xxxxxxxxxx xx xxx xxxxx xx xxx xxxxxxxx$ xxxx xxxxxxx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing the names of zero or more environment variables.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx xxx xxxxx xx xxxx xx xxxx xxxxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>Each environment variable is quoted with the percent sign character (%).&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xxxx xxx xxxxxxx xxxx xxxxxxxxx $$$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string with each environment variable replaced by its value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxx xxxxxxxxxxx xxxxxxxx xxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Terminates this process and returns an exit code to the operating system.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxx xxxxxxx xxx xxxxxxx xx xxxx xxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exit code to return to the operating system.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>Use 0 (zero) to indicate that the process completed successfully.&lt;/p&gt;\n</source>
+          <target state="new">Xxx 0 $xxxx$ xx xxxxxxxx xxxx xxx xxxxxxx xxxxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have sufficient security permission to perform this function.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxxxxxxxxx xxxxxxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Immediately terminates a process after writing a message to the Windows Application event log, and then includes the message in error reporting to Microsoft.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx xxxxxxxxxx x xxxxxxx xxxxx xxxxxxx x xxxxxxx xx xxx Xxxxxxx Xxxxxxxxxxx xxxxx xxx$ xxx xxxx xxxxxxxx xxx xxxxxxx xx xxxxx xxxxxxxxx xx Xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message that explains why the process was terminated, or &lt;strong&gt;null&lt;/strong&gt; if no explanation is provided.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxx xxxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Immediately terminates a process after writing a message to the Windows Application event log, and then includes the message and exception information in error reporting to Microsoft.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx xxxxxxxxxx x xxxxxxx xxxxx xxxxxxx x xxxxxxx xx xxx Xxxxxxx Xxxxxxxxxxx xxxxx xxx$ xxx xxxx xxxxxxxx xxx xxxxxxx xxx xxxxxxxxx xxxxxxxxxxx xx xxxxx xxxxxxxxx xx Xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message that explains why the process was terminated, or &lt;strong&gt;null&lt;/strong&gt; if no explanation is provided.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxx xxxxxxxx xxx xxx xxxxxxx xxx xxxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An exception that represents the error that caused the termination.</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxx xxxxxxxxxx xxx xxxxx xxxx xxxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>This is typically the exception in a &lt;strong&gt;catch&lt;/strong&gt; block.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx xxxxxxxxx xxx xxxxxxxxx xx x $xxxxxx$xxxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the value of an environment variable from the current process.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xx xxxxxxxxxxx xxxxxxxx xxxx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the environment variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the environment variable specified by &lt;em&gt;variable&lt;/em&gt;, or &lt;strong&gt;null&lt;/strong&gt; if the environment variable is not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxxxx xxxxxxxx xxxxxxxxx xx $xx$xxxxxxxx$$xx$$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxxxx xxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;variable&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission to perform this operation.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves all environment variable names and their values from the current process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxxxxx xxxxxxxx xxxxx xxx xxxxx xxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A dictionary that contains all environment variable names and their values; otherwise, an empty dictionary if no environment variables are found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxx xxxxxxxx xxx xxxxxxxxxxx xxxxxxxx xxxxx xxx xxxxx xxxxxx$ xxxxxxxxx$ xx xxxxx xxxxxxxxxx xx xx xxxxxxxxxxx xxxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission to perform this operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer is out of memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates, modifies, or deletes an environment variable stored in the current process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx$ xxxxxxxx$ xx xxxxxxx xx xxxxxxxxxxx xxxxxxxx xxxxxx xx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of an environment variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value to assign to &lt;em&gt;variable&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xx xxxxxx xx $xx$xxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;variable&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission to perform this operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx xx xxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a string array containing the command-line arguments for the current process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxxx xxxxxxxxxx xxx xxxxxxx$xxxx xxxxxxxxx xxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of string where each element contains a command-line argument.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxx xxxxx xxxx xxxxxxx xxxxxxxx x xxxxxxx$xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>The first element is the executable file name, and the following zero or more elements contain the remaining command-line arguments.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xxxxxxx xx xxx xxxxxxxxxx xxxx xxxx$ xxx xxx xxxxxxxxx xxxx xx xxxx xxxxxxxx xxxxxxx xxx xxxxxxxxx xxxxxxx$xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The system does not support command-line arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx$xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

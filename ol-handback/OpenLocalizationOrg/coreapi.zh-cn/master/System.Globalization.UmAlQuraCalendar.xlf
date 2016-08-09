@@ -1,0 +1,301 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the Saudi Hijri (Um Al Qura) calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx Xxxxx Xxxxx $Xx Xx Xxxx$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the latest date and time supported by this calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxx xxx xxxx xxxxxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the earliest date and time supported by this calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxx xxx xxxx xxxxxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the last year of a 100-year range that can be represented by a 2-digit year.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xxxx xx x 000$xxxx xxxxx xxxx xxx xx xxxxxxxxxxx xx x 0$xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The last year of a 100-year range that can be represented by a 2-digit year.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx x 000$xxxx xxxxx xxxx xxx xx xxxxxxxxxxx xx x 0$xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This calendar is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In a set operation, the Um Al Qura calendar year value is less than 1318 but not 99, or is greater than 1450.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx x xxx xxxxxxxxx$ xxx Xx Xx Xxxx xxxxxxxx xxxx xxxxx xx xxxx xxxx 0000 xxx xxx 00$ xx xx xxxxxxx xxxx 0000.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates a date that is a specified number of months away from a specified initial date.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxx xxxx xx x xxxxxxxxx xxxxxx xx xxxxxx xxxx xxxx x xxxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The positive or negative number of months to add.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxxxx xxxxxx xx xxxxxx xx xxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date yielded by adding the number of months specified by the &lt;em&gt;months&lt;/em&gt; parameter to the date specified by the &lt;em&gt;time&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xx xxxxxx xxx xxxxxx xx xxxxxx xxxxxxxxx xx xxx $xx$xxxxxx$$xx$ xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xxx $xx$xxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;months&lt;/em&gt; is less than -120,000 or greater than 120,000.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx xxxx $000$000 xx xxxxxxx xxxx 000$000.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates a date that is a specified number of years away from a specified initial date.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxx xxxx xx x xxxxxxxxx xxxxxx xx xxxxx xxxx xxxx x xxxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The positive or negative number of years to add.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxxxx xxxxxx xx xxxxx xx xxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date yielded by adding the number of years specified by the &lt;em&gt;years&lt;/em&gt; parameter to the date specified by the &lt;em&gt;time&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xx xxxxxx xxx xxxxxx xx xxxxx xxxxxxxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxx xxxx xxxxxxxxx xx xxx $xx$xxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;years&lt;/em&gt; is less than -10,000 or greater than 10,000.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx $00$000 xx xxxxxxx xxxx 00$000.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the day of the month on which a specified date occurs.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxx xx xxx xxxxx xx xxxxx x xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 30 that represents the day of the month specified by the &lt;em&gt;time&lt;/em&gt; parameter.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx xxx xxx xx xxx xxxxx xxxxxxxxx xx xxx $xx$xxxx$$xx$ xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the day of the week on which a specified date occurs.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxx xx xxx xxxx xx xxxxx x xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the day of the year on which a specified date occurs.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxx xx xxx xxxx xx xxxxx x xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 355 that represents the day of the year specified by the &lt;em&gt;time&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 000 xxxx xxxxxxxxxx xxx xxx xx xxx xxxx xxxxxxxxx xx xxx $xx$xxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the number of days in the specified month of the specified year and era.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxx xx xxxx xx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.</source>
+          <target state="new">$x$x$X xxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 12 that represents a month.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of days in the specified month in the specified year and era.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>The return value is 29 in a common year and 30 in a leap year.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxxxx xx 00 xx x xxxxxx xxxx xxx 00 xx x xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the number of days in the specified year of the specified era.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxx xx xxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.</source>
+          <target state="new">$x$x$X xxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of days in the specified year and era.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xx xxx xxxxxxxxx xxxx xxx xxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>The number of days is 354 in a common year or 355 in a leap year.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xx xxxx xx 000 xx x xxxxxx xxxx xx 000 xx x xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the era in which a specified date occurs.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxx xx xxxxx x xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date value to read.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the leap month for a specified year and era.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxx xxxxx xxx x xxxxxxxxx xxxx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the month in which a specified date occurs.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxx xx xxxxx x xxxxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 12 that represents the month in the date specified by the &lt;em&gt;time&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx xxx xxxxx xx xxx xxxx xxxxxxxxx xx xxx $xx$xxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the number of months in the specified year of the specified era.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxx xx xxxxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.</source>
+          <target state="new">$x$x$X xxxx.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Always 12.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx 00.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;year&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;era&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer that represents the year specified by the &lt;em&gt;time&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx xxxxxxxxxx xxx xxxx xxxxxxxxx xx xxx $xx$xxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;time&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the specified date is a leap day.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxx xx x xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.</source>
+          <target state="new">$x$x$X xxxx.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 12 that represents a month.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 30 that represents a day.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the specified month in the specified year and era is a leap month.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxxx xx xxx xxxxxxxxx xxxx xxx xxx xx x xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.</source>
+          <target state="new">$x$x$X xxxx.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 12 that represents a month.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxxxx.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the specified year in the specified era is a leap year.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxx xx xxx xxxxxxxxx xxx xx x xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.</source>
+          <target state="new">$x$x$X xxxx.</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the specified year is a leap year; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxx xx x xxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A year.</source>
+          <target state="new">$x$x$X xxxx.</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 12 that represents a month.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxxxx.</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 1 through 29 that represents a day.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxx.</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 0 through 23 that represents an hour.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 0 through 59 that represents a minute.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxxxxx.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 0 through 59 that represents a second.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 00 xxxx xxxxxxxxxx x xxxxxx.</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer from 0 through 999 that represents a millisecond.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx 0 xxxxxxx 000 xxxx xxxxxxxxxx x xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 2-digit year from 0 through 99, or a 4-digit Um Al Qura calendar year from 1318 through 1450.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 0$xxxxx xxxx xxxx 0 xxxxxxx 00$ xx x 0$xxxxx Xx Xx Xxxx xxxxxxxx xxxx xxxx 0000 xxxxxxx 0000.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If the &lt;em&gt;year&lt;/em&gt; parameter is a 2-digit year, the return value is the corresponding 4-digit year.</source>
+          <target state="new">$x$x$Xx xxx $xx$xxxx$$xx$ xxxxxxxxx xx x 0$xxxxx xxxx$ xxx xxxxxx xxxxx xx xxx xxxxxxxxxxxxx 0$xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>If the &lt;em&gt;year&lt;/em&gt; parameter is a 4-digit year, the return value is the unchanged &lt;em&gt;year&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx $xx$xxxx$$xx$ xxxxxxxxx xx x 0$xxxxx xxxx$ xxx xxxxxx xxxxx xx xxx xxxxxxxxx $xx$xxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;year&lt;/em&gt; is outside the range supported by this calendar.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxx xxxxx xxxxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,244 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a unified way of converting types of values to other types, as well as for accessing standard values and subproperties.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxx xxx xx xxxxxxxxxx xxxxx xx xxxxxx xx xxxxx xxxxx$ xx xxxx xx xxx xxxxxxxxx xxxxxxxx xxxxxx xxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this converter can convert an object of the given type to the type of this converter, using the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xx xxxxxx xx xxx xxxxx xxxx xx xxx xxxx xx xxxx xxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this converter can perform the conversion; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx xxxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this converter can convert an object of the given type to the type of this converter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xx xxxxxx xx xxx xxxxx xxxx xx xxx xxxx xx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this converter can perform the conversion; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx xxxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this converter can convert the object to the specified type, using the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xxx xxxxxx xx xxx xxxxxxxxx xxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this converter can perform the conversion; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx xxxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this converter can convert the object to the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xxx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if this converter can perform the conversion; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx xxxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given object to the type of this converter, using the specified context and culture information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxxx xx xxx xxxx xx xxxx xxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given value to the type of this converter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxx xx xxx xxxx xx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given string to the type of this converter, using the invariant culture and the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxxx xx xxx xxxx xx xxxx xxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx xxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given string to the type of this converter, using the invariant culture.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxxx xx xxx xxxx xx xxxx xxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given text to an object, using the specified context and culture information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxx xx xx xxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given text to an object, using the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxx xx xx xxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified text to an object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx xxxx xx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text representation of the object to convert.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxxxxxxx xx xxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string cannot be converted into the appropriate object.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given value object to the specified type, using the specified context and culture information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxx xxxxxx xx xxx xxxxxxxxx xxxx$ xxxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;destinationType&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxxXxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given value object to the specified type, using the arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxx xxxxxx xx xxx xxxxxxxxx xxxx$ xxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;destinationType&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxxXxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified value to a culture-invariant string representation, using the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx xxxxx xx x xxxxxxx$xxxxxxxxx xxxxxx xxxxxxxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified value to a culture-invariant string representation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx xxxxx xx x xxxxxxx$xxxxxxxxx xxxxxx xxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given value to a string representation, using the specified context and culture information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxx xx x xxxxxx xxxxxxxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the given value to a string representation, using the given context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xxxxx xx x xxxxxx xxxxxxxxxxxxxx$ xxxxx xxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified value to a string representation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx xxxxx xx x xxxxxx xxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conversion cannot be performed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an exception to throw when a conversion cannot be performed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxx xx xxxxx xxxx x xxxxxxxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Automatically thrown by this method.</source>
+          <target state="new">$x$x$Xxxxxxxxxxxxx xxxxxx xx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an exception to throw when a conversion cannot be performed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxx xx xxxxx xxxx x xxxxxxxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Automatically thrown by this method.</source>
+          <target state="new">$x$x$Xxxxxxxxxxxxx xxxxxx xx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of properties for the type of array specified by the value parameter, using the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxxxx xxx xxx xxxx xx xxxxx xxxxxxxxx xx xxx xxxxx xxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of properties for the type of array specified by the value parameter, using the specified context and attributes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxxxx xxx xxx xxxx xx xxxxx xxxxxxxxx xx xxx xxxxx xxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of properties for the type of array specified by the value parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxxxx xxx xxx xxxx xx xxxxx xxxxxxxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this object supports properties.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this object supports properties, using the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxx xxxxxxxx xxxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of standard values from the default context for the data type this type converter is designed for.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxx xxxxxx xxxx xxx xxxxxxx xxxxxxx xxx xxx xxxx xxxx xxxx xxxx xxxxxxxxx xx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of standard values for the data type this type converter is designed for when provided with a format context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxxxx xxxxxx xxx xxx xxxx xxxx xxxx xxxx xxxxxxxxx xx xxxxxxxx xxx xxxx xxxxxxxx xxxx x xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this object supports a standard set of values that can be picked from a list.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxx xxxxxxxx x xxxxxxxx xxx xx xxxxxx xxxx xxx xx xxxxxx xxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether this object supports a standard set of values that can be picked from a list, using the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxx xxxxxxxx x xxxxxxxx xxx xx xxxxxx xxxx xxx xx xxxxxx xxxx x xxxx$ xxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether the given value object is valid for this type and for the specified context.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxx xxxxx xxxxx xxxxxx xx xxxxx xxx xxxx xxxx xxx xxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the specified value is valid for this object; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxxx xx xxxxx xxx xxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether the given value object is valid for this type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxx xxxxx xxxxx xxxxxx xx xxxxx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to test for validity.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the specified value is valid for this object; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxxxx xx xxxxx xxx xxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sorts a collection of properties.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of names in the order you want the properties to appear in the collection.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxx xx xxx xxxxx xxx xxxx xxx xxxxxxxxxx xx xxxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

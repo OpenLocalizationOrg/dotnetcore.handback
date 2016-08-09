@@ -1,0 +1,109 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the number of elements in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of elements in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether the dictionary is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; in all cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that indicates whether access to the collection is synchronized (thread safe).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxxxxx xx xxx xxxxxxxxxx xx xxxxxxxxxxxx $xxxxxx xxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if access to the collection is synchronized (thread safe); otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxx xx xxx xxxxxxxxxx xx xxxxxxxxxxxx $xxxxxx xxxx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an object that can be used to synchronize access to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xxxx xxx xx xxxx xx xxxxxxxxxxx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that can be used to synchronize access to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxx xx xxxx xx xxxxxxxxxxx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies the elements of the collection to an array, starting at a specific array index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxx xx xxx xxxxxxxxxx xx xx xxxxx$ xxxxxxxx xx x xxxxxxxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The one-dimensional array that is the destination of the elements copied from the collection.</source>
+          <target state="new">$x$x$Xxx xxx$xxxxxxxxxxx xxxxx xxxx xx xxx xxxxxxxxxxx xx xxx xxxxxxxx xxxxxx xxxx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The array must have zero-based indexing.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xxxx xxxx xxxx$xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;arrayIndex&lt;/em&gt; is less than 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxXxxxx$$xx$ xx xxxx xxxx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is multidimensional.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The number of elements in the source collection is greater than the available space from &lt;em&gt;arrayIndex&lt;/em&gt; to the end of the destination &lt;em&gt;array&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Type &lt;em&gt;T&lt;/em&gt; cannot be cast automatically to the type of the destination &lt;em&gt;array&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxxxxxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xx xxxxxxxx xx xxx xxxxxx xxxxxxxxxx xx xxxxxxx xxxx xxx xxxxxxxxx xxxxx xxxx $xx$xxxxxXxxxx$$xx$ xx xxx xxx xx xxx xxxxxxxxxxx $xx$xxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxxx $xx$X$$xx$ xxxxxx xx xxxx xxxxxxxxxxxxx xx xxx xxxx xx xxx xxxxxxxxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator that iterates through the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxxx xxxxxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An enumerator that can be used to iterate through the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxx xxx xx xxxx xx xxxxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to add to the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In all cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In all cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the collection contains a specific value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxx x xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to locate in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;item&lt;/em&gt; is found in the collection; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxx$$xx$ xx xxxxx xx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to remove from the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;item&lt;/em&gt; was successfully removed from the collection; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxx$$xx$ xxx xxxxxxxxxxxx xxxxxxx xxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>This method also returns &lt;strong&gt;false&lt;/strong&gt; if &lt;em&gt;item&lt;/em&gt; is not found in the original collection.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxxx xxxxxxx $xxxxxx$xxxxx$$xxxxxx$ xx $xx$xxxx$$xx$ xx xxx xxxxx xx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In all cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies the elements of the collection to an array, starting at a specific array index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxx xx xxx xxxxxxxxxx xx xx xxxxx$ xxxxxxxx xx x xxxxxxxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The one-dimensional array that is the destination of the elements copied from the collection.</source>
+          <target state="new">$x$x$Xxx xxx$xxxxxxxxxxx xxxxx xxxx xx xxx xxxxxxxxxxx xx xxx xxxxxxxx xxxxxx xxxx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>The array must have zero-based indexing.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxx xxxx xxxx xxxx$xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is multidimensional.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The number of elements in the source collection is greater than the available space from &lt;em&gt;index&lt;/em&gt; to the end of the destination &lt;em&gt;array&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxxxxxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xx xxxxxxxx xx xxx xxxxxx xxxxxxxxxx xx xxxxxxx xxxx xxx xxxxxxxxx xxxxx xxxx $xx$xxxxx$$xx$ xx xxx xxx xx xxx xxxxxxxxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator that iterates through the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxxx xxxxxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An enumerator that can be used to iterate through the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxx xxx xx xxxx xx xxxxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the tracking of activity start and stop events.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxx xx xxxxxxxx xxxxx xxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Allow overlapping activities.</source>
+          <target state="new">$x$x$Xxxxx xxxxxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>By default, activity starts and stops must be property nested.</source>
+          <target state="new">Xx xxxxxxx$ xxxxxxxx xxxxxx xxx xxxxx xxxx xx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>That is, a sequence of Start A, Start B, Stop A, Stop B is not allowed will result in B stopping at the same time as A.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx$ x xxxxxxxx xx Xxxxx X$ Xxxxx X$ Xxxx X$ Xxxx X xx xxx xxxxxxx xxxx xxxxxx xx X xxxxxxxx xx xxx xxxx xxxx xx X.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Turn off start and stop tracking.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Use the default behavior for start and stop tracking.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxxxxxx xxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Allow recursive activity starts.</source>
+          <target state="new">$x$x$Xxxxx xxxxxxxxx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>By default, an activity cannot be recursive.</source>
+          <target state="new">Xx xxxxxxx$ xx xxxxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>That is, a sequence of Start A, Start A, Stop A, Stop A is not allowed.</source>
+          <target state="new">Xxxx xx$ x xxxxxxxx xx Xxxxx X$ Xxxxx X$ Xxxx X$ Xxxx X xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Unintentional recursive activities can occur if the app executes and for some the stop is not reached before another start is called.</source>
+          <target state="new">Xxxxxxxxxxxxx xxxxxxxxx xxxxxxxxxx xxx xxxxx xx xxx xxx xxxxxxxx xxx xxx xxxx xxx xxxx xx xxx xxxxxxx xxxxxx xxxxxxx xxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

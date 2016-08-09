@@ -1,0 +1,322 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a globally unique identifier (GUID).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxxx xxxxxx xxxxxxxxxx $XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 16-element byte array containing values with which to initialize the GUID.</source>
+          <target state="new">$x$x$X 00$xxxxxxx xxxx xxxxx xxxxxxxxxx xxxxxx xxxx xxxxx xx xxxxxxxxxx xxx XXXX.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;b&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;b&lt;/em&gt; is not 16 bytes long.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx xxx 00 xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first 4 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next 2 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next 2 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first 4 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next 2 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next 2 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The remaining 8 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;d&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;d&lt;/em&gt; is not 8 bytes long.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx xxx 0 xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;g&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format of &lt;em&gt;g&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx $xx$x$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The format of &lt;em&gt;g&lt;/em&gt; is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx $xx$x$$xx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first 4 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next 2 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next 2 bytes of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx 0 xxxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next byte of the GUID.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx XXXX.</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare to this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed number indicating the relative values of this instance and &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;Return value &lt;/p&gt;\n&lt;p&gt;Description &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;A negative integer &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is less than &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxxxxxxxx xxx xxxxxxxx xxxxxx xx xxxx xxxxxxxx xxx $xx$xxxxx$$xx$.$$x$$x$x$Xxxxxx xxxxx $$x$$x$x$Xxxxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$X xxxxxxxx xxxxxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is equal to &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;A positive integer &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is greater than &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$X xxxxxxxx xxxxxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare to this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;g&lt;/em&gt; is equal to this instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx xxxxx xx xxxx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value that indicates whether this instance is equal to a specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxxx xxxxxxxx xx xxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to compare with this instance.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new GUID object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx XXXX xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt; are equal; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xxx $xx$x$$xx$ xxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt; are not equal; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xxx $xx$x$$xx$ xxx xxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A structure that contains the value that was parsed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxx xxxxxxxx xxx xxxxx xxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is not in a recognized format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx xx x xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The GUID to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A structure that contains the value that was parsed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxx xxxxxxxx xxx xxxxx xxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; or &lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is not in the format specified by &lt;em&gt;format&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx xx xxx xxxxxx xxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a 16-element byte array that contains the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x 00$xxxxxxx xxxx xxxxx xxxx xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 16-element byte array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a string representation of the value of this instance in registry format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx xx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The GUID to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the parse operation was successful; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxx xxxxxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The GUID to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the parse operation was successful; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxx xxxxxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

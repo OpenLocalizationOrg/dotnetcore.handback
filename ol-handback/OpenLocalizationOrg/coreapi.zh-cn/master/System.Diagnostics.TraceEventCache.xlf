@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides trace event data specific to a thread and a process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxx xxxxx xxxx xxxxxxxx xx x xxxxxx xxx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the date and time at which the event trace occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxx xxxx xx xxxxx xxx xxxxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the unique identifier of the current process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxxxxx xx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The system-generated unique identifier of the current process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx$xxxxxxxxx xxxxxx xxxxxxxxxx xx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a unique identifier for the current managed thread.</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxxxxxxxx xxx xxx xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that represents a unique integer identifier for this managed thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxxxx x xxxxxx xxxxxxx xxxxxxxxxx xxx xxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the current number of ticks in the timer mechanism.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxx xx xxxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The tick counter value of the underlying timer mechanism.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxxx xx xxx xxxxxxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

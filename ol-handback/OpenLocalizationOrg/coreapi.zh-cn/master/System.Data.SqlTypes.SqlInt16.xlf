@@ -1,0 +1,79 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a 16-bit signed integer to be stored in or retrieved from a database.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x 00$xxx xxxxxx xxxxxxx xx xx xxxxxx xx xx xxxxxxxxx xxxx x xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A short integer.</source>
+          <target state="new">$x$x$X xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if null.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>Otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">Xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>For more information, see Handling Null Values.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx$ xxx Xxxxxxxx Xxxx Xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed number that indicates the relative values of the instance and the object.&lt;/p&gt;\n&lt;p&gt;Return value &lt;/p&gt;\n&lt;p&gt;Condition &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is less than the object.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx xxx xxxxxxxx xxx xxx xxxxxx.$$x$$x$x$Xxxxxx xxxxx $$x$$x$x$Xxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is the same as the object.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is greater than the object &lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The object is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic) &lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxxxx xxxx xxx xxxxxx $$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxx xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ $$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed number that indicates the relative values of the instance and the object.&lt;/p&gt;\n&lt;p&gt;Return value &lt;/p&gt;\n&lt;p&gt;Condition &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is less than the object.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx xxx xxxxxxxx xxx xxx xxxxxx.$$x$$x$x$Xxxxxx xxxxx $$x$$x$x$Xxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is the same as the object.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is greater than the object &lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;object is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic) &lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxxxx xxxx xxx xxxxxx $$x$$x$x$$xx$ $$x$$x$x$xxxxxx xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ $$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the two values are equal.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxx xxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">Xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>If either instance is null, then the &lt;strong&gt;SqlInt16&lt;/strong&gt; will be null.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxx xxxxxxxx xx xxxx$ xxxx xxx $xxxxxx$XxxXxx00$$xxxxxx$ xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to be compared.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The remainder left after division is performed on &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxx xxxxxxxx xx xxxxxxxxx xx $xx$x$$xx$ xxx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Performs a bitwise exclusive-OR operation on the supplied parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxx xxxxxxxxx$XX xxxxxxxxx xx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A short integer value.</source>
+          <target state="new">$x$x$X xxxxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;String&lt;/strong&gt; to be parsed.</source>
+          <target state="new">$x$x$Xxx $xxxxxx$Xxxxxx$$xxxxxx$ xx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Performs a bitwise exclusive-OR operation on the supplied parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxx xxxxxxxxx$XX xxxxxxxxx xx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

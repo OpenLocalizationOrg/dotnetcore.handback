@@ -1,0 +1,229 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a set of methods and properties that help debug your code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxx xx xxxxxxx xxx xxxxxxxxxx xxxx xxxx xxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for a condition; if the condition is &lt;strong&gt;false&lt;/strong&gt;, displays a message box that shows the call stack.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx x xxxxxxxxx$ xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$$ xxxxxxxx x xxxxxxx xxx xxxx xxxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, a failure message is not sent and the message box is not displayed.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ x xxxxxxx xxxxxxx xx xxx xxxx xxx xxx xxxxxxx xxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for a condition; if the condition is &lt;strong&gt;false&lt;/strong&gt;, outputs a specified message and displays a message box that shows the call stack.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx x xxxxxxxxx$ xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$$ xxxxxxx x xxxxxxxxx xxxxxxx xxx xxxxxxxx x xxxxxxx xxx xxxx xxxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the specified message is not sent and the message box is not displayed.</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxxx xxxxxxx xx xxx xxxx xxx xxx xxxxxxx xxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for a condition; if the condition is &lt;strong&gt;false&lt;/strong&gt;, outputs two specified messages and displays a message box that shows the call stack.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx x xxxxxxxxx$ xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$$ xxxxxxx xxx xxxxxxxxx xxxxxxxx xxx xxxxxxxx x xxxxxxx xxx xxxx xxxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the specified messages are not sent and the message box is not displayed.</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxxx xxxxxxxx xxx xxx xxxx xxx xxx xxxxxxx xxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for a condition; if the condition is &lt;strong&gt;false&lt;/strong&gt;, outputs two messages (simple and formatted) and displays a message box that shows the call stack.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx x xxxxxxxxx$ xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$$ xxxxxxx xxx xxxxxxxx $xxxxxx xxx xxxxxxxxx$ xxx xxxxxxxx x xxxxxxx xxx xxxx xxxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the specified messages are not sent and the message box is not displayed.</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxxx xxxxxxxx xxx xxx xxxx xxx xxx xxxxxxx xxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object array that contains zero or more objects to format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxx xxxx xxxxxxxx xxxx xx xxxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Emits the specified error message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to emit.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Emits an error message and a detailed error message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx xxxxx xxxxxxx xxx x xxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to emit.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A detailed message to emit.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the value is written to the trace listeners in the collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxx xx xxxxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the category name and value are written to the trace listeners in the collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxx xxxx xxx xxxxx xxx xxxxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the message is written to the trace listeners in the collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxx xx xxxxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the category name and message are written to the trace listeners in the collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxx xxxx xxx xxxxxxx xxx xxxxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks) that contains text intermixed with zero or more format items, which correspond to objects in the &lt;em&gt;args&lt;/em&gt; array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$ xxxx xxxxxxxx xxxx xxxxxxxxxx xxxx xxxx xx xxxx xxxxxx xxxxx$ xxxxx xxxxxxxxxx xx xxxxxxx xx xxx $xx$xxxx$$xx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object array that contains zero or more objects to format.</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxx xxxx xxxxxxxx xxxx xx xxxx xxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the value is written to the trace listeners in the collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxx xx xxxxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the category name and value are written to the trace listeners in the collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxx xxxx xxx xxxxx xxx xxxxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>If the condition is &lt;strong&gt;true&lt;/strong&gt;, the message is written to the trace listeners in the collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxx xx xxxxxxx xx xxx xxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to cause a message to be written; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx x xxxxxxx xx xx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to write.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A category name used to organize the output.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

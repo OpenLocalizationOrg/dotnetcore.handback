@@ -1,0 +1,166 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines a structure that holds the raw data for a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxx xxxx xxxxx xxx xxx xxxx xxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines an empty, uninitialized performance counter sample of type &lt;strong&gt;NumberOfItems32&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxx$ xxxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxxxxx xx xxxx $xxxxxx$XxxxxxXxXxxxx00$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value associated with the performance counter sample.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An optional, base raw value for the counter, to use only if the sample is based on multiple counters.</source>
+          <target state="new">$x$x$Xx xxxxxxxx$ xxxx xxx xxxxx xxx xxx xxxxxxx$ xx xxx xxxx xx xxx xxxxxx xx xxxxx xx xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The frequency with which the counter is read.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxx xxx xxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The frequency with which the system reads from the counter.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxx xxx xxxxxx xxxxx xxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The raw time stamp.</source>
+          <target state="new">$x$x$Xxx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The raw, high-fidelity time stamp.</source>
+          <target state="new">$x$x$Xxx xxx$ xxxx$xxxxxxxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value associated with the performance counter sample.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An optional, base raw value for the counter, to use only if the sample is based on multiple counters.</source>
+          <target state="new">$x$x$Xx xxxxxxxx$ xxxx xxx xxxxx xxx xxx xxxxxxx$ xx xxx xxxx xx xxx xxxxxx xx xxxxx xx xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The frequency with which the counter is read.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxx xxx xxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The frequency with which the system reads from the counter.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxx xxx xxxxxx xxxxx xxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The raw time stamp.</source>
+          <target state="new">$x$x$Xxx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The raw, high-fidelity time stamp.</source>
+          <target state="new">$x$x$Xxx xxx$ xxxx$xxxxxxxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time at which the sample was taken.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xxx xxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an optional, base raw value for the counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxxxx$ xxxx xxx xxxxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The base raw value, which is used only if the sample is based on multiple counters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxxx$ xxxxx xx xxxx xxxx xx xxx xxxxxx xx xxxxx xx xxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the raw counter frequency.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The frequency with which the counter is read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxx xxx xxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the counter's time stamp.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx$x xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time at which the sample was taken.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xxx xxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the performance counter type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the raw value of the counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value that is associated with the performance counter sample.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxx xx xxxxxxxxxx xxxx xxx xxxxxxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the raw system frequency.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The frequency with which the system reads from the counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxx xxx xxxxxx xxxxx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the raw time stamp.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The system time stamp.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the raw, high-fidelity time stamp.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxx$ xxxx$xxxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The system time stamp, represented within 0.1 millisecond.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx$ xxxxxxxxxxx xxxxxx 0.0 xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the performance data of the counter, using a single sample point.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxxxxxx xxxx xx xxx xxxxxxx$ xxxxx x xxxxxx xxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>This method is generally used for uncalculated performance counter types.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxxxxxx xxxxxxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The calculated performance value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Calculates the performance data of the counter, using two sample points.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxxxxxx xxxx xx xxx xxxxxxx$ xxxxx xxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>This method is generally used for calculated performance counter types, such as averages.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxxxxxxx xxxxxxx xxxxx$ xxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The calculated performance value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;sample&lt;/em&gt; is equal to the current instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxxx$$xx$ xx xxxxx xx xxx xxxxxxx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a hash code for the current counter sample.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A hash code for the current counter sample.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt; are equal; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xxx $xx$x$$xx$ xxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt; are not equal; otherwise, &lt;strong&gt;false&lt;/strong&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xxx $xx$x$$xx$ xxx xxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

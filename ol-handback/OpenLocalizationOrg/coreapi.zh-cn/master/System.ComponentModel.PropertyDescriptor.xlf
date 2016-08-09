@@ -1,0 +1,205 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides an abstraction of a property on a class.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxxxxxxxxxx xx x xxxxxxxx xx x xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the property.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, gets the type of the component this property is bound to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxx xxx xxxx xx xxx xxxxxxxxx xxxx xxxxxxxx xx xxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the type converter for this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, gets a value indicating whether this property is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxx x xxxxx xxxxxxxxxx xxxxxxx xxxx xxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the property is read-only; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxx xx xxxx$xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, gets the type of the property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxx xxx xxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether value change notifications for this property may originate from outside the property descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxxxxxxx xxx xxxx xxxxxxxx xxx xxxxxxxxx xxxx xxxxxxx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if value change notifications may originate from outside the property descriptor; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xxxxxx xxxxxxxxxxxxx xxx xxxxxxxxx xxxx xxxxxxx xxx xxxxxxxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enables other objects to be notified when this property changes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxx xxxxxxx xx xx xxxxxxxx xxxx xxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to add the handler for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxx xxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delegate to add as a listener.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx x xxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; or &lt;em&gt;handler&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, returns whether resetting an object changes its value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxxx xxxxxxx xxxxxxxxx xx xxxxxx xxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to test for reset capability.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxx xxx xxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if resetting the component changes its value; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxxx xxx xxxxxxxxx xxxxxxx xxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an instance of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new instance of the type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Compares this to another object to see if they are equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxx xx xxxxxxx xxxxxx xx xxx xx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the values are equivalent; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A collection of property descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the properties for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A component to get the properties for.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxx xxxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an editor of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The base type of editor, which is used to differentiate between multiple editors that a property supports.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxxx$ xxxxx xx xxxx xx xxxxxxxxxxxxx xxxxxxx xxxxxxxx xxxxxxx xxxx x xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An instance of the requested editor type, or &lt;strong&gt;null&lt;/strong&gt; if an editor cannot be found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxx xxxxxxxxx xxxxxx xxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxxx xxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hash code for this object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This method returns the object that should be used during invocation of members.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxx xxxxxxx xxx xxxxxx xxxx xxxxxx xx xxxx xxxxxx xxxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The potential invocation target.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a type using its name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The assembly-qualified name of the type to retrieve.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx$xxxxxxxxx xxxx xx xxx xxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, gets the current value of the property on a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxx xxx xxxxxxx xxxxx xx xxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component with the property for which to retrieve the value.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxx xxxxxxxx xxx xxxxx xx xxxxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of a property for a given component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx x xxxxxxxx xxx x xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the current set of &lt;code&gt;ValueChanged&lt;/code&gt; event handlers for a specific component&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xxx xx $xxxx$XxxxxXxxxxxx$$xxxx$ xxxxx xxxxxxxx xxx x xxxxxxxx xxxxxxxxx$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component for which to retrieve event handlers.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxx xxxxx xx xxxxxxxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A combined multicast event handler, or &lt;strong&gt;null&lt;/strong&gt; if no event handlers are currently assigned to &lt;em&gt;component&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxxxxxx xxxxx xxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxxx xxxxxxxx xxx xxxxxxxxx xxxxxxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Raises the &lt;code&gt;ValueChanged&lt;/code&gt; event that you implemented.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx $xxxx$XxxxxXxxxxxx$$xxxx$ xxxxx xxxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object that raises the event.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enables other objects to be notified when this property changes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxx xxxxxxx xx xx xxxxxxxx xxxx xxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component to remove the handler for.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxxx xxx xxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delegate to remove as a listener.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxx xx x xxxxxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;component&lt;/em&gt; or &lt;em&gt;handler&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, resets the value for this property of the component to the default value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxx xxx xxxxx xxx xxxx xxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component with the property value that is to be reset to the default value.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxx xxxxxxxx xxxxx xxxx xx xx xx xxxxx xx xxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, sets the value of the component to a different value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxx xxx xxxxx xx xxx xxxxxxxxx xx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component with the property value that is to be set.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxx xxxxxxxx xxxxx xxxx xx xx xx xxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value.</source>
+          <target state="new">$x$x$Xxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, determines a value indicating whether the value of this property needs to be persisted.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxxxxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxx xx xxxx xxxxxxxx xxxxx xx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The component with the property to be examined for persistence.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxx xxxxxxxx xx xx xxxxxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the property should be persisted; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxx xxxxxx xx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

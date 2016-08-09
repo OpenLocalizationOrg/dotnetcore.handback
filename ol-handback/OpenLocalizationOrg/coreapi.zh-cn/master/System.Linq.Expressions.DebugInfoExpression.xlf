@@ -1,0 +1,25 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Emits or clears a sequence point for debug information.</source>
+          <target state="new">$x$x$Xxxxx xx xxxxxx x xxxxxxxx xxxxx xxx xxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This allows the debugger to highlight the correct source code when debugging.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxx xxxxxxxx xx xxxxxxxxx xxx xxxxxxx xxxxxx xxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of the end column of the code that was used to generate the wrapped expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxx xxxxxx xx xxx xxxx xxxx xxx xxxx xx xxxxxxxx xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of the end line of the code that was used to generate the wrapped expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxx xxxx xx xxx xxxx xxxx xxx xxxx xx xxxxxxxx xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of the start column of the code that was used to generate the wrapped expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxx xxxxxx xx xxx xxxx xxxx xxx xxxx xx xxxxxxxx xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of the start line of the code that was used to generate the wrapped expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxx xxxx xx xxx xxxx xxxx xxx xxxx xx xxxxxxxx xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The visitor to visit this node with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of visiting this node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,70 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a general-purpose attribute that lets you specify localizable strings for types and members of entity partial classes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxx$xxxxxxx xxxxxxxxx xxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxx xxx xxxxx xxx xxxxxxx xx xxxxxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that indicates whether UI should be generated automatically in order to display this field.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx XX xxxxxx xx xxxxxxxxx xxxxxxxxxxxxx xx xxxxx xx xxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if UI should be generated automatically to display this field; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx XX xxxxxx xx xxxxxxxxx xxxxxxxxxxxxx xx xxxxxxx xxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to get the property value before it was set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxx xxx xxxxxxxx xxxxx xxxxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that indicates whether filtering UI is automatically displayed for this field.</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxxxxxxxx XX xx xxxxxxxxxxxxx xxxxxxxxx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if UI should be generated automatically to display filtering for this field; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx XX xxxxxx xx xxxxxxxxx xxxxxxxxxxxxx xx xxxxxxx xxxxxxxxx xxx xxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to get the property value before it was set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxx xxx xxxxxxxx xxxxx xxxxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that is used to display a description in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xx xxxx xx xxxxxxx x xxxxxxxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that is used to display a description in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xx xxxx xx xxxxxxx x xxxxxxxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that is used to group fields in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xx xxxx xx xxxxx xxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that is used to group fields in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xx xxxx xx xxxxx xxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that is used for display in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xx xxxx xxx xxxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that is used for display in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xx xxxx xxx xxxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the order weight of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The order weight of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that will be used to set the watermark for prompts in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxx xx xxxx xx xxx xxx xxxxxxxxx xxx xxxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that will be used to display a watermark in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxx xx xxxx xx xxxxxxx x xxxxxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that is used for the grid column label.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xx xxxx xxx xxx xxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that is for the grid column label.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xx xxx xxx xxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value that indicates whether UI should be generated automatically in order to display filtering for this field.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxx xxxxxxxxx xxxxxxx XX xxxxxx xx xxxxxxxxx xxxxxxxxxxxxx xx xxxxx xx xxxxxxx xxxxxxxxx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value that is used for field display in the UI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxx xx xxxx xxx xxxxx xxxxxxx xx xxx XX.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

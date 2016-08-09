@@ -1,0 +1,547 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a point in time, typically expressed as a date and time of day, relative to Coordinated Universal Time (UTC).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxx xx xxxx$ xxxxxxxxx xxxxxxxxx xx x xxxx xxx xxxx xx xxx$ xxxxxxxx xx Xxxxxxxxxxx Xxxxxxxxx Xxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A date and time.</source>
+          <target state="new">$x$x$X xxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A date and time.</source>
+          <target state="new">$x$x$X xxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time's offset from Coordinated Universal Time (UTC).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$x xxxxxx xxxx Xxxxxxxxxxx Xxxxxxxxx Xxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The year (1 through 9999).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx $0 xxxxxxx 0000$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The month (1 through 12).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx $0 xxxxxxx 00$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The day (1 through the number of days in &lt;em&gt;month&lt;/em&gt;).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx $0 xxxxxxx xxx xxxxxx xx xxxx xx $xx$xxxxx$$xx$$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hours (0 through 23).</source>
+          <target state="new">$x$x$Xxx xxxxx $0 xxxxxxx 00$.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The minutes (0 through 59).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $0 xxxxxxx 00$.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The seconds (0 through 59).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $0 xxxxxxx 00$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The milliseconds (0 through 999).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx $0 xxxxxxx 000$.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time's offset from Coordinated Universal Time (UTC).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$x xxxxxx xxxx Xxxxxxxxxxx Xxxxxxxxx Xxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; does not represent whole minutes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxxx xxx xxxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The year (1 through 9999).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx $0 xxxxxxx 0000$.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The month (1 through 12).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx $0 xxxxxxx 00$.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The day (1 through the number of days in &lt;em&gt;month&lt;/em&gt;).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx $0 xxxxxxx xxx xxxxxx xx xxxx xx $xx$xxxxx$$xx$$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The hours (0 through 23).</source>
+          <target state="new">$x$x$Xxx xxxxx $0 xxxxxxx 00$.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The minutes (0 through 59).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $0 xxxxxxx 00$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The seconds (0 through 59).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $0 xxxxxxx 00$.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time's offset from Coordinated Universal Time (UTC).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$x xxxxxx xxxx Xxxxxxxxxxx Xxxxxxxxx Xxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; does not represent whole minutes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxxx xxx xxxxxxxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A date and time expressed as the number of 100-nanosecond intervals that have elapsed since 12:00:00 midnight on January 1, 0001.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxx xxxx xxxxxxxxx xx xxx xxxxxx xx 000$xxxxxxxxxx xxxxxxxxx xxxx xxxx xxxxxxx xxxxx 00$00$00 xxxxxxxx xx Xxxxxxx 0$ 0000.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time's offset from Coordinated Universal Time (UTC).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$x xxxxxx xxxx Xxxxxxxxxxx Xxxxxxxxx Xxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; is not specified in whole minutes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx xxxxxxxxx xx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the time's offset from Coordinated Universal Time (UTC).</source>
+          <target state="new">$x$x$Xxxx xxx xxxx$x xxxxxx xxxx Xxxxxxxxxxx Xxxxxxxxx Xxxx $XXX$.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time interval of the current date that has elapsed since midnight.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxx xxxxxxx xxxx xxxx xxx xxxxxxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of whole and fractional days.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx xxx xxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of whole and fractional hours.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx xxx xxxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of whole and fractional milliseconds.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx xxx xxxxxxxxxx xxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of whole and fractional minutes.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx xxx xxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of whole months.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of whole and fractional seconds.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx xxx xxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of 100-nanosecond ticks.</source>
+          <target state="new">$x$x$X xxxxxx xx 000$xxxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A number of years.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>The number can be negative or positive.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed integer that indicates whether the value of the &lt;em&gt;first&lt;/em&gt; parameter is earlier than, later than, or the same time as the value of the &lt;em&gt;second&lt;/em&gt; parameter, as the following table shows.&lt;/p&gt;\n&lt;p&gt;Return value&lt;/p&gt;\n&lt;p&gt;Meaning&lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;first&lt;/em&gt; is earlier than &lt;em&gt;second&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;first&lt;/em&gt; is equal to &lt;em&gt;second&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;first&lt;/em&gt; is later than &lt;em&gt;second&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxxxxx xxxx$ xxxxx xxxx$ xx xxx xxxx xxxx xx xxx xxxxx xx xxx $xx$xxxxxx$$xx$ xxxxxxxxx$ xx xxx xxxxxxxxx xxxxx xxxxx.$$x$$x$x$Xxxxxx xxxxx$$x$$x$x$Xxxxxxx$$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx$$x$$x$$xx$$xx$$x$x$$x$xx$xxxxx$$xx$ xx xxxxxxx xxxx $xx$xxxxxx$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx$$x$$x$$xx$$xx$$x$x$$x$xx$xxxxx$$xx$ xx xxxxx xx $xx$xxxxxx$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx$$x$$x$$xx$$xx$$x$x$$x$xx$xxxxx$$xx$ xx xxxxx xxxx $xx$xxxxxx$$xx$.$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified Windows file time to an equivalent local time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx Xxxxxxx xxxx xxxx xx xx xxxxxxxxxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Windows file time, expressed in ticks.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X Xxxxxxx xxxx xxxx$ xxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the date and time of &lt;em&gt;fileTime&lt;/em&gt; with the offset set to the local time offset.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxxxx xxx xxxx xxx xxxx xx $xx$xxxxXxxx$$xx$ xxxx xxx xxxxxx xxx xx xxx xxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;filetime&lt;/em&gt; is less than zero.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;filetime&lt;/em&gt; is greater than &lt;strong&gt;DateTimeOffset.MaxValue.Ticks&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxx xxxx xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxxxxx xxxx $xxxxxx$XxxxXxxxXxxxxx.XxxXxxxx.Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Unix time, expressed as the number of milliseconds that have elapsed since 1970-01-01T00:00:00Z (January 1, 1970, at 12:00 AM UTC).</source>
+          <target state="new">$x$x$X Xxxx xxxx$ xxxxxxxxx xx xxx xxxxxx xx xxxxxxxxxxxx xxxx xxxx xxxxxxx xxxxx 0000$00$00X00$00$00X $Xxxxxxx 0$ 0000$ xx 00$00 XX XXX$.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>For Unix times before this date, its value is negative.</source>
+          <target state="new">Xxx Xxxx xxxxx xxxxxx xxxx xxxx$ xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A date and time value that represents the same moment in time as the Unix time.</source>
+          <target state="new">$x$x$X xxxx xxx xxxx xxxxx xxxx xxxxxxxxxx xxx xxxx xxxxxx xx xxxx xx xxx Xxxx xxxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;milliseconds&lt;/em&gt; is less than  -62,135,596,800,000.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxx$$xx$ xx xxxx xxxx  $00$000$000$000$000.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;milliseconds&lt;/em&gt; is greater than 253,402,300,799,999.</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxxxx$$xx$ xx xxxxxxx xxxx 000$000$000$000$000.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Unix time, expressed as the number of seconds that have elapsed since 1970-01-01T00:00:00Z (January 1, 1970, at 12:00 AM UTC).</source>
+          <target state="new">$x$x$X Xxxx xxxx$ xxxxxxxxx xx xxx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxx xxxxx 0000$00$00X00$00$00X $Xxxxxxx 0$ 0000$ xx 00$00 XX XXX$.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>For Unix times before this date, its value is negative.</source>
+          <target state="new">Xxx Xxxx xxxxx xxxxxx xxxx xxxx$ xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A date and time value that represents the same moment in time as the Unix time.</source>
+          <target state="new">$x$x$X xxxx xxx xxxx xxxxx xxxx xxxxxxxxxx xxx xxxx xxxxxx xx xxxx xx xxx Xxxx xxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;seconds&lt;/em&gt; is less than  -62,135,596,800.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx xxxx xxxx  $00$000$000$000.</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;seconds&lt;/em&gt; is greater than 253,402,300,799.</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxx$$xx$ xx xxxxxxx xxxx 000$000$000$000.</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to add the time interval to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxx xxxx xxxxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time interval to add.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object whose value is the sum of the values of &lt;em&gt;dateTimeTz&lt;/em&gt; and &lt;em&gt;timeSpan&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxx xxxxx xx xxx xxx xx xxx xxxxxx xx $xx$xxxxXxxxXx$$xx$ xxx $xx$xxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to convert.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The converted object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The minuend.</source>
+          <target state="new">$x$x$Xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subtrahend.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the difference between &lt;em&gt;left&lt;/em&gt; and &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxxx xxxxxxx $xx$xxxx$$xx$ xxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Subtracts a specified time interval from a specified date and time, and yields a new date and time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxx xxxx xxxxxxxx xxxx x xxxxxxxxx xxxx xxx xxxx$ xxx xxxxxx x xxx xxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date and time object to subtract from.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxxxx xx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time interval to subtract.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is equal to the value of &lt;em&gt;dateTimeOffset&lt;/em&gt; minus &lt;em&gt;timeSpan&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xx xxxxx xx xxx xxxxx xx $xx$xxxxXxxxXxxxxx$$xx$ xxxxx $xx$xxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is equivalent to the date and time that is contained in &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xx xxxxxxxxxx xx xxx xxxx xxx xxxx xxxx xx xxxxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset is greater than 14 hours or less than -14 hours.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx 00 xxxxx xx xxxx xxxx $00 xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; does not contain a valid string representation of a date and time.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; contains the string representation of an offset value without a date or time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xxxx xxx xxxxxxx x xxxxx xxxxxx xxxxxxxxxxxxxx xx x xxxx xxx xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxx$$xx$ xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx xx xxxxxx xxxxx xxxxxxx x xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that provides culture-specific format information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is equivalent to the date and time that is contained in &lt;em&gt;input&lt;/em&gt;, as specified by &lt;em&gt;formatProvider&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xx xxxxxxxxxx xx xxx xxxx xxx xxxx xxxx xx xxxxxxxxx xx $xx$xxxxx$$xx$$ xx xxxxxxxxx xx $xx$xxxxxxXxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset is greater than 14 hours or less than -14 hours.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx 00 xxxxx xx xxxx xxxx $00 xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; does not contain a valid string representation of a date and time.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; contains the string representation of an offset value without a date or time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xxxx xxx xxxxxxx x xxxxx xxxxxx xxxxxxxxxxxxxx xx x xxxx xxx xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxx$$xx$ xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx xx xxxxxx xxxxx xxxxxxx x xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that provides culture-specific format information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is equivalent to the date and time that is contained in &lt;em&gt;input&lt;/em&gt; as specified by &lt;em&gt;formatProvider&lt;/em&gt; and &lt;em&gt;styles&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xx xxxxxxxxxx xx xxx xxxx xxx xxxx xxxx xx xxxxxxxxx xx $xx$xxxxx$$xx$ xx xxxxxxxxx xx $xx$xxxxxxXxxxxxxx$$xx$ xxx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; does not contain a valid string representation of a date and time.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; contains the string representation of an offset value without a date or time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xxxx xxx xxxxxxx x xxxxx xxxxxx xxxxxxxxxxxxxx xx x xxxx xxx xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxx$$xx$ xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx xx xxxxxx xxxxx xxxxxxx x xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A format specifier that defines the expected format of &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxx xxxx xxxxxxx xxx xxxxxxxx xxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is equivalent to the date and time that is contained in &lt;em&gt;input&lt;/em&gt; as specified by &lt;em&gt;format&lt;/em&gt; and &lt;em&gt;formatProvider&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xx xxxxxxxxxx xx xxx xxxx xxx xxxx xxxx xx xxxxxxxxx xx $xx$xxxxx$$xx$ xx xxxxxxxxx xx $xx$xxxxxx$$xx$ xxx $xx$xxxxxxXxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset is greater than 14 hours or less than -14 hours.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx 00 xxxxx xx xxxx xxxx $00 xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A format specifier that defines the expected format of &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxx xxxx xxxxxxx xxx xxxxxxxx xxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of enumeration values that indicates the permitted format of &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxxx xxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is equivalent to the date and time that is contained in the &lt;em&gt;input&lt;/em&gt; parameter, as specified by the &lt;em&gt;format&lt;/em&gt;, &lt;em&gt;formatProvider&lt;/em&gt;, and &lt;em&gt;styles&lt;/em&gt; parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xx xxxxxxxxxx xx xxx xxxx xxx xxxx xxxx xx xxxxxxxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx$ xx xxxxxxxxx xx xxx $xx$xxxxxx$$xx$$ $xx$xxxxxxXxxxxxxx$$xx$$ xxx $xx$xxxxxx$$xx$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of format specifiers that define the expected formats of &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxx xxxxxxxxxx xxxx xxxxxx xxx xxxxxxxx xxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of enumeration values that indicates the permitted format of &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxxx xxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that is equivalent to the date and time that is contained in the &lt;em&gt;input&lt;/em&gt; parameter, as specified by the &lt;em&gt;formats&lt;/em&gt;, &lt;em&gt;formatProvider&lt;/em&gt;, and &lt;em&gt;styles&lt;/em&gt; parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xx xxxxxxxxxx xx xxx xxxx xxx xxxx xxxx xx xxxxxxxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx$ xx xxxxxxxxx xx xxx $xx$xxxxxxx$$xx$$ $xx$xxxxxxXxxxxxxx$$xx$$ xxx $xx$xxxxxx$$xx$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;input&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that represents the value to subtract.</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxxxx xxx xxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time interval to subtract.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The resulting file time would represent a date and time before midnight on January 1, 1601 C.E.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxx xxxxx xxxxxxxxx x xxxx xxx xxxx xxxxxx xxxxxxxx xx Xxxxxxx 0$ 0000 X.X.</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>Coordinated Universal Time (UTC).&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxxxxx Xxxxxxxxx Xxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; is less than -14 hours.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; is greater than 14 hours.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx xxxx $00 xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx xxxx 00 xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date and time is outside the range of dates supported by the calendar used by the current culture.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xx xxxxxxx xxx xxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date and time is outside the range of dates supported by the calendar used by &lt;em&gt;formatProvider&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xx xxxxxxx xxx xxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxxxx xxxx xx $xx$xxxxxxXxxxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A format string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date and time is outside the range of dates supported by the calendar used by the current culture.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xx xxxxxxx xxx xxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A format string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date and time is outside the range of dates supported by the calendar used by &lt;em&gt;formatProvider&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xx xxxxxxx xxx xxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxxxx xxxx xx $xx$xxxxxxXxxxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the number of milliseconds that have elapsed since 1970-01-01T00:00:00.000Z.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xx xxxxxxxxxxxx xxxx xxxx xxxxxxx xxxxx 0000$00$00X00$00$00.000X.</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of milliseconds that have elapsed since 1970-01-01T00:00:00.000Z.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxxxxx xxxx xxxx xxxxxxx xxxxx 0000$00$00X00$00$00.000X.</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the number of seconds that have elapsed since 1970-01-01T00:00:00Z.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxx xxxxx 0000$00$00X00$00$00X.</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of seconds that have elapsed since 1970-01-01T00:00:00Z.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxx xxxxx 0000$00$00X00$00$00X.</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;input&lt;/em&gt; parameter is successfully converted; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxxxxxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that provides culture-specific formatting information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of enumeration values that indicates the permitted format of &lt;em&gt;input&lt;/em&gt;.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxxx xxxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;input&lt;/em&gt; parameter is successfully converted; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxxxxxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A format specifier that defines the required format of &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxx xxxx xxxxxxx xxx xxxxxxxx xxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of enumeration values that indicates the permitted format of input.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>A typical value to specify is &lt;strong&gt;None&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxx xxxxx xx xxxxxxx xx $xxxxxx$Xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;input&lt;/em&gt; parameter is successfully converted; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxxxxxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a date and time to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxx xxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array that defines the expected formats of &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxx xxxxxxx xxx xxxxxxxx xxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about &lt;em&gt;input&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of enumeration values that indicates the permitted format of input.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>A typical value to specify is &lt;strong&gt;None&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxx xxxxx xx xxxxxxx xx $xxxxxx$Xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;input&lt;/em&gt; parameter is successfully converted; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xx$xxxxx$$xx$ xxxxxxxxx xx xxxxxxxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

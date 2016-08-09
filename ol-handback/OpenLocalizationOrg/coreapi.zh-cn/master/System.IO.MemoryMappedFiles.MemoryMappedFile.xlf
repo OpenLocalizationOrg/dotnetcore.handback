@@ -1,0 +1,496 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a memory-mapped file.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the file handle of a memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxx xx x xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The handle to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file from an existing file with the specified access mode, name, inheritability, and capacity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xx xxxxxxxx xxxx xxxx xxx xxxxxxxxx xxxxxx xxxx$ xxxx$ xxxxxxxxxxxxxx$ xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file stream of the existing file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>Specify 0 to set the capacity to the size of &lt;em&gt;filestream&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx 0 xx xxx xxx xxxxxxxx xx xxx xxxx xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;fileStream&lt;/em&gt;  is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxxx$$xx$  xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file from a file on disk.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx x xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to file to map.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; exceeds the maximum length defined by the operating system.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>In Windows, paths must contain fewer than 248 characters, and file names must contain fewer than 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xx Xxxxxxx$ xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permissions for the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxxx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file that has the specified access mode from a file on disk.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxx xxxx xxxx x xxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to file to map.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified access mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; exceeds the maximum length defined by the operating system.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>In Windows, paths must contain fewer than 248 characters, and file names must contain fewer than 260 characters.</source>
+          <target state="new">Xx Xxxxxxx$ xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permissions for the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxxx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file that has the specified access mode and name from a file on disk.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxx xxxx xxx xxxx xxxx x xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the file to map.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified name and access mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; or &lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; exceeds the maximum length defined by the operating system.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>In Windows, paths must contain fewer than 248 characters, and file names must contain fewer than 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xx Xxxxxxx$ xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permissions for the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxxx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file that has the specified access mode, name, and capacity from a file on disk.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxx xxxx$ xxxx$ xxx xxxxxxxx xxxx x xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the file to map.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>Specify 0 to set the capacity to the size of the file on disk.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx 0 xx xxx xxx xxxxxxxx xx xxx xxxx xx xxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; or &lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;capacity&lt;/em&gt; is greater than the size of the logical address space.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;capacity&lt;/em&gt; is less than zero.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;capacity&lt;/em&gt; is less than the file size (but not zero).&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;capacity&lt;/em&gt; is zero, and the size of the file on disk is also zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxx xx xxx xxxxxxx xxxxxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxx xxxx xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxx xxxx xxx xxxx xxxx $xxx xxx xxxx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxx$ xxx xxx xxxx xx xxx xxxx xx xxxx xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; exceeds the maximum length defined by the operating system.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>In Windows, paths must contain fewer than 248 characters, and file names must contain fewer than 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xx Xxxxxxx$ xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permissions for the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxxx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file that has the specified access mode, name, capacity, and access type from a file on disk.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxx xxxx$ xxxx$ xxxxxxxx$ xxx xxxxxx xxxx xxxx x xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the file to map.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>Specify 0 to set the capacity to the size of the file on disk.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx 0 xx xxx xxx xxxxxxxx xx xxx xxxx xx xxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the type of access allowed to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxx xx xxxxxx xxxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; or &lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$xx$$$x$$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; exceeds the maximum length defined by the operating system.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xxxxxxx xxx xxxxxxx xxxxxx xxxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>In Windows, paths must contain fewer than 248 characters, and file names must contain fewer than 260 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xx Xxxxxxx$ xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xxxxxxx xxxxx xxxx 000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permissions for the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxxx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file that has the specified capacity in system memory.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxx xx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified name and capacity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is an empty string.</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx xx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;capacity&lt;/em&gt; is less than or equal to zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxx xxxx xx xxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file that has the specified capacity and access type in system memory.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxx xxx xxxxxx xxxx xx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a memory-mapped file that has the specified name, capacity, access type, memory allocation options and inheritability.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx$ xxxxxxxx$ xxxxxx xxxx$ xxxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of enumeration values that specifies memory allocation options for the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxx xxxxxxxxxx xxxxxxx xxx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates or opens a memory-mapped file that has the specified capacity in system memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified name and size.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;capacity&lt;/em&gt; is greater than the size of the logical address space.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;capacity&lt;/em&gt; is less than or equal to zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxxxxx xxxx xxx xxxx xx xxx xxxxxxx xxxxxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx xxxx xxxx xx xxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates or opens a memory-mapped file that has the specified capacity and access type in system memory.</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxx x xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxx xxx xxxxxx xxxx xx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new empty memory mapped file or opens an existing memory mapped file if one exists with the same name.</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxx xxxxxx xxxxxx xxxx xx xxxxx xx xxxxxxxx xxxxxx xxxxxx xxxx xx xxx xxxxxx xxxx xxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>If opening an existing file, the capacity, options, and memory arguments will be ignored.</source>
+          <target state="new">Xx xxxxxxx xx xxxxxxxx xxxx$ xxx xxxxxxxx$ xxxxxxx$ xxx xxxxxx xxxxxxxxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name to assign to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xx xxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, to allocate to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxxxxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of values that indicate the memory allocation options to apply to the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxxxxx xxxx xxxxxxxx xxx xxxxxx xxxxxxxxxx xxxxxxx xx xxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A randomly accessible block of memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Access to the memory-mapped file is unauthorized.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx xxxxxx$xxxxxx xxxx xx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte at which to start the view.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the view.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>Specify 0 (zero) to create a view that starts at &lt;em&gt;offset&lt;/em&gt; and ends approximately at the end of the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx 0 $xxxx$ xx xxxxxx x xxxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xxx xxxx xxxxxxxxxxxxx xx xxx xxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A randomly accessible block of memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; or &lt;em&gt;size&lt;/em&gt; is a negative value.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;size&lt;/em&gt; is greater than the logical address space.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxx$$xx$ xx x xxxxxxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Access to the memory-mapped file is unauthorized.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx xxxxxx$xxxxxx xxxx xx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte at which to start the view.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the view.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>Specify 0 (zero) to create a view that starts at &lt;em&gt;offset&lt;/em&gt; and ends approximately at the end of the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx 0 $xxxx$ xx xxxxxx x xxxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xxx xxxx xxxxxxxxxxxxx xx xxx xxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A randomly accessible block of memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; or &lt;em&gt;size&lt;/em&gt; is a negative value.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;size&lt;/em&gt; is greater than the logical address space.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxx$$xx$ xx x xxxxxxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;access&lt;/em&gt; is invalid for the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx xxx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a stream that maps to a view of the memory-mapped file.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxx xxxx xx x xxxx xx xxx xxxxxx$xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A stream of memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Access to the memory-mapped file is unauthorized.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx xxxxxx$xxxxxx xxxx xx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a stream that maps to a view of the memory-mapped file, and that has the specified offset and size.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxx xxxx xx x xxxx xx xxx xxxxxx$xxxxxx xxxx$ xxx xxxx xxx xxx xxxxxxxxx xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte at which to start the view.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the view.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>Specify 0 (zero) to create a view that starts at &lt;em&gt;offset&lt;/em&gt; and ends approximately at the end of the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx 0 $xxxx$ xx xxxxxx x xxxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xxx xxxx xxxxxxxxxxxxx xx xxx xxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A stream of memory that has the specified offset and size.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxxx xxxx xxx xxx xxxxxxxxx xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;offset&lt;/em&gt; or &lt;em&gt;size&lt;/em&gt; is a negative value.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;size&lt;/em&gt; is greater than the logical address space.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxx$$xx$ xx x xxxxxxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxxx xxx xxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Access to the memory-mapped file is unauthorized.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx xxxxxx$xxxxxx xxxx xx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;size&lt;/em&gt; is greater than the total virtual memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxxx xxx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a stream that maps to a view of the memory-mapped file, and that has the specified offset, size, and access type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxx xxxx xx x xxxx xx xxx xxxxxx$xxxxxx xxxx$ xxx xxxx xxx xxx xxxxxxxxx xxxxxx$ xxxx$ xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte at which to start the view.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the view.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>Specify 0 (zero) to create a view that starts at &lt;em&gt;offset&lt;/em&gt; and ends approximately at the end of the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx 0 $xxxx$ xx xxxxxx x xxxx xxxx xxxxxx xx $xx$xxxxxx$$xx$ xxx xxxx xxxxxxxxxxxxx xx xxx xxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A stream of memory that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;access&lt;/em&gt; is invalid for the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx xxx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;size&lt;/em&gt; is greater than the total virtual memory.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;access&lt;/em&gt; is invalid for the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxx xxxx xxx xxxxx xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx xxx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens an existing memory-mapped file that has the specified name in system memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx xxxxxxxx xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the memory-mapped file to open.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx$xxxxxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified name.</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file specified for &lt;em&gt;mapName&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xxx $xx$xxxXxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens an existing memory-mapped file that has the specified name and access rights in system memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx xxxxxxxx xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx xxx xxxxxx xxxxxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the memory-mapped file to open.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx$xxxxxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the access rights to apply to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxx xxxxxx xx xxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file specified for &lt;em&gt;mapName&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xxx $xx$xxxXxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens an existing memory-mapped file that has the specified name, access rights, and inheritability in system memory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx xxxxxxxx xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxx$ xxxxxx xxxxxx$ xxx xxxxxxxxxxxxxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the memory-mapped file to open.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx$xxxxxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the access rights to apply to the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxx xxxxxx xx xxxxx xx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A memory-mapped file that has the specified characteristics.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxx xxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mapName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The requested access is invalid for the memory-mapped file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xx xxxxxxx xxx xxx xxxxxx$xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file specified for &lt;em&gt;mapName&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xxx $xx$xxxXxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

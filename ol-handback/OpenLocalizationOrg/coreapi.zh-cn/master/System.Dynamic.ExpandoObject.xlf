@@ -1,0 +1,19 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an object whose members can be dynamically added and removed at run time.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxx xxxxx xxxxxxx xxx xx xxxxxxxxxxx xxxxx xxx xxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Initializes a new &lt;strong&gt;ExpandoObject&lt;/strong&gt; that does not have members.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx x xxx $xxxxxx$XxxxxxxXxxxxx$$xxxxxx$ xxxx xxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator that iterates through the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxxx xxxxxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The provided MetaObject will dispatch to the dynamic virtual methods.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx XxxxXxxxxx xxxx xxxxxxxx xx xxx xxxxxxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The object can be encapsulated inside another MetaObject to provide custom behavior for individual actions.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxx xx xxxxxxxxxxxx xxxxxx xxxxxxx XxxxXxxxxx xx xxxxxxx xxxxxx xxxxxxxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expression that represents the MetaObject to dispatch to the Dynamic virtual methods.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxx xxxxxxxxxx xxx XxxxXxxxxx xx xxxxxxxx xx xxx Xxxxxxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

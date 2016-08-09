@@ -1,0 +1,190 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the direction of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to indicate that the handle was opened asynchronously; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxx xxx xxxxxx xxx xxxxxx xxxxxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to indicate that the pipe is connected; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxx xxxx xxx xxxx xx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;safePipeHandle&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;safePipeHandle&lt;/em&gt; is an invalid handle.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxxxx$$xx$ xx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;safePipeHandle&lt;/em&gt; is not a valid pipe handle.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The maximum number of server instances has been exceeded.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxxxx$$xx$ xx xxx x xxxxx xxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is a zero-length string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx x xxxx$xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system is Windows Millennium Edition, Windows 98, or Windows 95, which are not supported.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xx Xxxxxxx Xxxxxxxxxx Xxxxxxx$ Xxxxxxx 00$ xx Xxxxxxx 00$ xxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of server instances has been exceeded.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the direction of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is a zero-length string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx x xxxx$xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system is Windows Millennium Edition, Windows 98, or Windows 95, which are not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xx Xxxxxxx Xxxxxxxxxx Xxxxxxx$ Xxxxxxx 00$ xx Xxxxxxx 00$ xxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of server instances has been exceeded.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the direction of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is a zero-length string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx x xxxx$xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system is Windows Millennium Edition, Windows 98, or Windows 95, which are not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xx Xxxxxxx Xxxxxxxxxx Xxxxxxx$ Xxxxxxx 00$ xx Xxxxxxx 00$ xxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of server instances has been exceeded.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the direction of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the transmission mode of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is a zero-length string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx x xxxx$xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system is Windows Millennium Edition, Windows 98, or Windows 95, which are not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xx Xxxxxxx Xxxxxxxxxx Xxxxxxx$ Xxxxxxx 00$ xx Xxxxxxx 00$ xxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of server instances has been exceeded.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the direction of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the transmission mode of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines how to open or create the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is a zero-length string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx x xxxx$xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system is Windows Millennium Edition, Windows 98, or Windows 95, which are not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xx Xxxxxxx Xxxxxxxxxx Xxxxxxx$ Xxxxxxx 00$ xx Xxxxxxx 00$ xxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of server instances has been exceeded.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the direction of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines the transmission mode of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that determines how to open or create the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A positive value greater than 0 that indicates the input buffer size.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxx xxxxxxx xxxx 0 xxxx xxxxxxxxx xxx xxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A positive value greater than 0 that indicates the output buffer size.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxx xxxxxxx xxxx 0 xxxx xxxxxxxxx xxx xxxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;pipeName&lt;/em&gt; is a zero-length string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx x xxxx$xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system is Windows Millennium Edition, Windows 98, or Windows 95, which are not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xx Xxxxxxx Xxxxxxxxxx Xxxxxxx$ Xxxxxxx 00$ xx Xxxxxxx 00$ xxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of server instances has been exceeded.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Disconnects the current connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No pipe connections have been made yet.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The connected pipe has already disconnected.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The pipe handle has not been set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxx xxxxxxxxxxx xxxx xxxx xxxx xxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxxxx xxxx xxx xxxxxxx xxxxxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxx xxxxxx xxx xxx xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pipe is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the user name of the client on the other end of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xx xxx xxxxxx xx xxx xxxxx xxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user name of the client on the other end of the pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx xxxxxx xx xxx xxxxx xxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No pipe connections have been made yet.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The connected pipe has already disconnected.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The pipe handle has not been set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxx xxxxxxxxxxx xxxx xxxx xxxx xxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxxxx xxxx xxx xxxxxxx xxxxxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxx xxxxxx xxx xxx xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pipe is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pipe connection has been broken.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The user name of the client is longer than 19 characters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxxx xxx xxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxx xxxx xx xxx xxxxxx xx xxxxxx xxxx 00 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pipe connection has already been established.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The pipe handle has not been set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxx xxxxxx xxx xxx xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pipe is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pipe connection has been broken.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous wait operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The token to monitor for cancellation requests.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxx xxx xxxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task that represents the asynchronous wait operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

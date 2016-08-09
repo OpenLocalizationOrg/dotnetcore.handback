@@ -1,0 +1,175 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides version information for a physical file on disk.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxxxxxxxxx xxx x xxxxxxxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the comments associated with the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxxxxxxxx xxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The comments associated with the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxxxx xxxx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the company that produced the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxx xxxx xxxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the company that produced the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxx xxxxxxxx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the build number of the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the build number of the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxxx xxxxxx xx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the description of the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The description of the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the major part of the version number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the major part of the version number or 0 (zero) if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxx xx 0 $xxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the minor part of the version number of the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the minor part of the version number of the file or 0 (zero) if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxx xx xxx xxxx xx 0 $xxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the file private part number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the file private part number or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxx xxxxxxx xxxx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the file version number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The version number of the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the internal name of the file, if one exists.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxx xx xxx xxxx$ xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The internal name of the file.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>If none exists, this property will contain the original name of the file without the extension.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xxxxxx$ xxxx xxxxxxxx xxxx xxxxxxx xxx xxxxxxxx xxxx xx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that specifies whether the file contains debugging information or is compiled with debugging features enabled.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxx xxxxxxxx xxxxxxxxx xxxxxxxxxxx xx xx xxxxxxxx xxxx xxxxxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the file contains debugging information or is compiled with debugging features enabled; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxxxxxxx xxxxxxxxx xxxxxxxxxxx xx xx xxxxxxxx xxxx xxxxxxxxx xxxxxxxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that specifies whether the file has been modified and is not identical to the original shipping file of the same version number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxx xxx xxxx xxxxxxxx xxx xx xxx xxxxxxxxx xx xxx xxxxxxxx xxxxxxxx xxxx xx xxx xxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the file is patched; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that specifies whether the file is a development version, rather than a commercially released product.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxx xx x xxxxxxxxxxx xxxxxxx$ xxxxxx xxxx x xxxxxxxxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the file is prerelease; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that specifies whether the file was built using standard release procedures.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxx xxx xxxxx xxxxx xxxxxxxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the file is a private build; &lt;strong&gt;false&lt;/strong&gt; if the file was built using standard release procedures or if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx x xxxxxxx xxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxx xxx xxxxx xxxxx xxxxxxxx xxxxxxx xxxxxxxxxx xx xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that specifies whether the file is a special build.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxx xx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the file is a special build; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx x xxxxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the default language string for the version info block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxx xxxxxx xxx xxx xxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The description string for the Microsoft Language Identifier in the version resource or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxx xxx xxx Xxxxxxxxx Xxxxxxxx Xxxxxxxxxx xx xxx xxxxxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets all copyright notices that apply to the specified file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxx xxxxxxx xxxx xxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The copyright notices that apply to the specified file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxx xxxx xxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the trademarks and registered trademarks that apply to the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx xxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The trademarks and registered trademarks that apply to the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxx xxxxx xx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name the file was created with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxx xxxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name the file was created with or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxx xxxxxxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets information about a private version of the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxxx xxxxx x xxxxxxx xxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Information about a private version of the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx xxxxx x xxxxxxx xxxxxxx xx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the build number of the product this file is associated with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the build number of the product this file is associated with or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxxx xxxxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the major part of the version number for the product this file is associated with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxx xxx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the major part of the product version number or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxxx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the minor part of the version number for the product the file is associated with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxx xxx xxx xxxxxxx xxx xxxx xx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the minor part of the product version number or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxxx xxxx xx xxx xxxxxxx xxxxxxx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the product this file is distributed with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the product this file is distributed with or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the private part number of the product this file is associated with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx xxxxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value representing the private part number of the product this file is associated with or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxxxx xxx xxxxxxx xxxx xxxxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the version of the product this file is distributed with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The version of the product this file is distributed with or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxxxx xxxx xxxx xx xxxxxxxxxxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the special build information for the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxx xxxxxxxxxxx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The special build information for the file or &lt;strong&gt;null&lt;/strong&gt; if the file did not contain version information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxxxxxxxxx xxx xxx xxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxx xxx xxxxxxx xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fully qualified path and name of the file to retrieve the version information for.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xxxx xxx xxxx xx xxx xxxx xx xxxxxxxx xxx xxxxxxx xxxxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file specified cannot be found.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,115 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides common partitioning strategies for arrays, lists, and enumerables.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxx xxxxxxxxxxxx xxxxxxxxxx xxx xxxxxx$ xxxxx$ xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a partitioner that chunks the user-specified range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxxx xxxx xxxxxx xxx xxxx$xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The lower, inclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The upper, exclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A partitioner.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;toExclusive&lt;/em&gt; argument is less than or equal to the &lt;em&gt;fromInclusive&lt;/em&gt; argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxXxxxxxxxx$$xx$ xxxxxxxx xx xxxx xxxx xx xxxxx xx xxx $xx$xxxxXxxxxxxxx$$xx$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a partitioner that chunks the user-specified range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxxx xxxx xxxxxx xxx xxxx$xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The lower, inclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The upper, exclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of each subrange.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A partitioner.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;toExclusive&lt;/em&gt; argument is less than or equal to the &lt;em&gt;fromInclusive&lt;/em&gt; argument.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;rangeSize&lt;/em&gt; argument is less than or equal to 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxXxxxxxxxx$$xx$ xxxxxxxx xx xxxx xxxx xx xxxxx xx xxx $xx$xxxxXxxxxxxxx$$xx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx $xx$xxxxxXxxx$$xx$ xxxxxxxx xx xxxx xxxx xx xxxxx xx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a partitioner that chunks the user-specified range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxxx xxxx xxxxxx xxx xxxx$xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The lower, inclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The upper, exclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A partitioner.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;toExclusive&lt;/em&gt; argument is less than or equal to the &lt;em&gt;fromInclusive&lt;/em&gt; argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxXxxxxxxxx$$xx$ xxxxxxxx xx xxxx xxxx xx xxxxx xx xxx $xx$xxxxXxxxxxxxx$$xx$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a partitioner that chunks the user-specified range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxxx xxxx xxxxxx xxx xxxx$xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The lower, inclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The upper, exclusive bound of the range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$ xxxxxxxxx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of each subrange.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A partitioner.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;toExclusive&lt;/em&gt; argument is less than or equal to the &lt;em&gt;fromInclusive&lt;/em&gt; argument.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;rangeSize&lt;/em&gt; argument is less than or equal to 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxXxxxxxxxx$$xx$ xxxxxxxx xx xxxx xxxx xx xxxxx xx xxx $xx$xxxxXxxxxxxxx$$xx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx $xx$xxxxxXxxx$$xx$ xxxxxxxx xx xxxx xxxx xx xxxxx xx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array to be partitioned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Boolean value that indicates whether the created partitioner should dynamically load balance between partitions rather than statically partition.&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X Xxxxxxx xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxx xxxxxx xxxxxxxxxxx xxxx xxxxxxx xxxxxxx xxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxxxxxxxx.$$x$$x$x$$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Type of the elements in source array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxx xxxxxxxx xx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An orderable partitioner based on the input array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxxxxx xxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The enumerable to be partitioned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Type of the elements in source enumerable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxx xxxxxxxx xx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An orderable partitioner based on the input array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxxxxx xxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The enumerable to be partitioned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Options to control the buffering behavior of the partitioner.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxx xxx xxxxxxxxx xxxxxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Type of the elements in source enumerable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxx xxxxxxxx xx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An orderable partitioner based on the input array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxxxxx xxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The list to be partitioned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Boolean value that indicates whether the created partitioner should dynamically load balance between partitions rather than statically partition.&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X Xxxxxxx xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxxx xxxxxx xxxxxxxxxxx xxxx xxxxxxx xxxxxxx xxxxxxxxxx xxxxxx xxxx xxxxxxxxxx xxxxxxxxx.$$x$$x$x$$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Type of the elements in source list.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxx xxxxxxxx xx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An orderable partitioner based on the input list.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxxxxx xxxxx xx xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

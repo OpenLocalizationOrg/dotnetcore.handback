@@ -1,0 +1,76 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines methods that convert the value of the implementing reference or value type to a common language runtime type that has an equivalent value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxxx xxx xxxxx xx xxx xxxxxxxxxxxx xxxxxxxxx xx xxxxx xxxx xx x xxxxxx xxxxxxxx xxxxxxx xxxx xxxx xxx xx xxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent Boolean value using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx Xxxxxxx xxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Boolean value equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X Xxxxxxx xxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 8-bit unsigned integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 0$xxx xxxxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 8-bit unsigned integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 0$xxx xxxxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent Unicode character using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx Xxxxxxx xxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Unicode character equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X Xxxxxxx xxxxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent double-precision floating-point number using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A double-precision floating-point number equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 16-bit signed integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 00$xxx xxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 16-bit signed integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 32-bit signed integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 00$xxx xxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 32-bit signed integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 64-bit signed integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 00$xxx xxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 64-bit signed integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 8-bit signed integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 0$xxx xxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 8-bit signed integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 0$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent single-precision floating-point number using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A single-precision floating-point number equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx$xxxxxxxxx xxxxxxxx$xxxxx xxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 16-bit unsigned integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 00$xxx xxxxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 16-bit unsigned integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 00$xxx xxxxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 32-bit unsigned integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 00$xxx xxxxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 32-bit unsigned integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 00$xxx xxxxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to an equivalent 64-bit unsigned integer using the specified culture-specific formatting information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xx xxxxxxxxxx 00$xxx xxxxxxxx xxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 64-bit unsigned integer equivalent to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 00$xxx xxxxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

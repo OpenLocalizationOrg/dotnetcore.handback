@@ -1,0 +1,94 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is thrown when an attempt to access a file that does not exist on disk fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxx xxxx xx xxxxxxx xx xxxxxx x xxxx xxxx xxxx xxx xxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A description of the error.</source>
+          <target state="new">$x$x$X xxxxxxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The content of &lt;em&gt;message&lt;/em&gt; is intended to be understood by humans.</source>
+          <target state="new">Xxx xxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxxxxxx xx xx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The caller of this constructor is required to ensure that this string has been localized for the current system culture.</source>
+          <target state="new">Xxx xxxxxx xx xxxx xxxxxxxxxxx xx xxxxxxxx xx xxxxxx xxxx xxxx xxxxxx xxx xxxx xxxxxxxxx xxx xxx xxxxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A description of the error.</source>
+          <target state="new">$x$x$X xxxxxxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The content of &lt;em&gt;message&lt;/em&gt; is intended to be understood by humans.</source>
+          <target state="new">Xxx xxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxxxxxx xx xx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The caller of this constructor is required to ensure that this string has been localized for the current system culture.</source>
+          <target state="new">Xxx xxxxxx xx xxxx xxxxxxxxxxx xx xxxxxxxx xx xxxxxx xxxx xxxx xxxxxx xxx xxxx xxxxxxxxx xxx xxx xxxxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is the cause of the current exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx xx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If the &lt;em&gt;innerException&lt;/em&gt; parameter is not &lt;strong&gt;null&lt;/strong&gt;, the current exception is raised in a &lt;strong&gt;catch&lt;/strong&gt; block that handles the inner exception.</source>
+          <target state="new">Xx xxx $xx$xxxxxXxxxxxxxx$$xx$ xxxxxxxxx xx xxx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxx xxxxxxxxx xx xxxxxx xx x $xxxxxx$xxxxx$$xxxxxx$ xxxxx xxxx xxxxxxx xxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A description of the error.</source>
+          <target state="new">$x$x$X xxxxxxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The content of &lt;em&gt;message&lt;/em&gt; is intended to be understood by humans.</source>
+          <target state="new">Xxx xxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxxxxxx xx xx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>The caller of this constructor is required to ensure that this string has been localized for the current system culture.</source>
+          <target state="new">Xxx xxxxxx xx xxxx xxxxxxxxxxx xx xxxxxxxx xx xxxxxx xxxx xxxx xxxxxx xxx xxxx xxxxxxxxx xxx xxx xxxxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The full name of the file with the invalid image.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx xxxx xxxx xxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The full name of the file with the invalid image.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxx xxxx xxxx xxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is the cause of the current exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx xx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>If the &lt;em&gt;innerException&lt;/em&gt; parameter is not &lt;strong&gt;null&lt;/strong&gt;, the current exception is raised in a &lt;strong&gt;catch&lt;/strong&gt; block that handles the inner exception.</source>
+          <target state="new">Xx xxx $xx$xxxxxXxxxxxxxx$$xx$ xxxxxxxxx xx xxx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxx xxxxxxxxx xx xxxxxx xx x $xxxxxx$xxxxx$$xxxxxx$ xxxxx xxxx xxxxxxx xxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the file that cannot be found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxx xxxx xxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the file, or &lt;strong&gt;null&lt;/strong&gt; if no file name was passed to the constructor for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xx xxxx xxxx xxx xxxxxx xx xxx xxxxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the error message that explains the reason for the exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the fully qualified name of this exception and possibly the error message, the name of the inner exception, and the stack trace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx xxxxxxxxx xxxx xx xxxx xxxxxxxxx xxx xxxxxxxx xxx xxxxx xxxxxxx$ xxx xxxx xx xxx xxxxx xxxxxxxxx$ xxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fully qualified name of this exception and possibly the error message, the name of the inner exception, and the stack trace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xxxx xx xxxx xxxxxxxxx xxx xxxxxxxx xxx xxxxx xxxxxxx$ xxx xxxx xx xxx xxxxx xxxxxxxxx$ xxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

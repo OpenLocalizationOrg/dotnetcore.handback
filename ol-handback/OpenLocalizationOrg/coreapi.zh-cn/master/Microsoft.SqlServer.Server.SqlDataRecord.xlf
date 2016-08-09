@@ -1,0 +1,658 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a single row of data and its metadata.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxx xxx xx xxxx xxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;metaData&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the number of columns in the data row.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxx xx xxx xxxx xxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This property is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of columns in the data row as an integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xx xxx xxxx xxx xx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the common language runtime (CLR) type value for the column specified by the column &lt;em&gt;ordinal&lt;/em&gt; argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxxx xxxxxxx $XXX$ xxxx xxxxx xxx xxx xxxxxx xxxxxxxxx xx xxx xxxxxx $xx$xxxxxxx$$xx$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The CLR type value of the column specified by the &lt;em&gt;ordinal&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xxxx xxxxx xx xxx xxxxxx xxxxxxxxx xx xxx $xx$xxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the common language runtime (CLR) type value for the column specified by the column &lt;em&gt;name&lt;/em&gt; argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxxx xxxxxxx $XXX$ xxxx xxxxx xxx xxx xxxxxx xxxxxxxxx xx xxx xxxxxx $xx$xxxx$$xx$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The CLR type value of the column specified by the &lt;em&gt;name&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xxxx xxxxx xx xxx xxxxxx xxxxxxxxx xx xxx $xx$xxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the field value to start retrieving bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxx xxxxx xx xxxxx xxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target buffer to which to copy bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer to which to start copying bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxx xx xxxxx xx xxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to copy to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes copied.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the field value to start retrieving characters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxx xxxxx xx xxxxx xxxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target buffer to copy chars to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxx xxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer to start copying chars to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxx xx xxxxx xxxxxxx xxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of chars to copy to the buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of characters copied.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of the data type for the column specified by the ordinal argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxx xxxx xxx xxx xxxxxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column is of a user-defined type that is not available to the calling application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx x xxxx$xxxxxxx xxxx xxxx xx xxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column is of a user-defined type that is not available to the calling application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx x xxxx$xxxxxxx xxxx xxxx xx xxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value for the column specified by the ordinal as a &lt;strong&gt;float&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxx xxx xxxxxx xxxxxxxxx xx xxx xxxxxxx xx x $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column value as a &lt;strong&gt;float&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxx xx x $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column specified by &lt;em&gt;ordinal&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxx xx $xx$xxxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of the column specified by the ordinal argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxx xxxxxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the column ordinal specified by the column name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxxxxxx xxxxxxxxx xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column to look up.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xx xxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column as an integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx xx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column name could not be found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx xxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column is of a user-defined type that is not available to the calling application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx x xxxx$xxxxxxx xxxx xxxx xx xxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The column is of a user-defined type that is not available to the calling application domain.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx x xxxx$xxxxxxx xxxx xxxx xx xxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the data value stored in the column, expressed as a SQL Server type, specified by the column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxx xxxxxx xx xxx xxxxxx$ xxxxxxxxx xx x XXX Xxxxxx xxxx$ xxxxxxxxx xx xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the values for all the columns in the record, expressed as SQL Server types, in an array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxx xxx xxx xxxxxxx xx xxx xxxxxx$ xxxxxxxxx xx XXX Xxxxxx xxxxx$ xx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array into which to copy the values column values.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;values&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the common language runtime (CLR) type value for the column specified by the ordinal argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxxxxxxx xxxxxxx $XXX$ xxxx xxxxx xxx xxx xxxxxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The CLR type value of the column specified by the ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xxxx xxxxx xx xxx xxxxxx xxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the values for all the columns in the record, expressed as common language runtime (CLR) types, in an array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxx xxx xxx xxxxxxx xx xxx xxxxxx$ xxxxxxxxx xx xxxxxx xxxxxxxx xxxxxxx $XXX$ xxxxx$ xx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The array into which to copy the values column values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxxx xx xxxx xxx xxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;values&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is a type mismatch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx x xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns true if the column specified by the column ordinal parameter is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xx xxx xxxxxx xxxxxxxxx xx xxx xxxxxx xxxxxxx xxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the column is null; &lt;strong&gt;false&lt;/strong&gt; otherwise.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xx xxxx$ $xxxxxx$xxxxx$$xxxxxx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the field value to start copying bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxx xxxxx xx xxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target buffer from which to copy bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxx xxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer from which to start copying bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxx xxxx xxxxx xx xxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to copy from the buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxx xxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the field value to start copying characters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxx xxxxx xx xxxxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target buffer from which to copy chars.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxx xxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset into the buffer from which to start copying chars.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxx xxxx xxxxx xx xxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of chars to copy from the buffer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxx xxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the data stored in the column to the specified &lt;strong&gt;float&lt;/strong&gt; value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxx xx xxx xxxxxx xx xxx xxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;ordinal&lt;/em&gt; passed in is a negative number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxx$$xx$ xxxxxx xx xx x xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets a new value, expressed as a common language runtime (CLR) type, for the column specified by the column ordinal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxx xxxxx$ xxxxxxxxx xx x xxxxxx xxxxxxxx xxxxxxx $XXX$ xxxx$ xxx xxx xxxxxx xxxxxxxxx xx xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based ordinal of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new value for the specified column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of column values set as an integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx xxxxxx xxx xx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;values&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

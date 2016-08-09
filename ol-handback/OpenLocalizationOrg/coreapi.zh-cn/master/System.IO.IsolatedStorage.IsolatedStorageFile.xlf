@@ -1,0 +1,559 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an isolated storage area containing files and directories.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxxxx xxxxxxx xxxx xxxxxxxxxx xxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies an existing file to a new file.</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxxxx xxxx xx x xxx xxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the file to copy.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the destination file.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This cannot be a directory or an existing file.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx x xxxxxxxxx xx xx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;or&lt;em&gt; destinationFileName &lt;/em&gt;is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xx$xx$ xxxxxxxxxxxXxxxXxxx $$xx$xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;was not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;was not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;destinationFileName&lt;/em&gt; exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An I/O error has occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxxxXxxxXxxx$$xx$ xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xx X$X xxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies an existing file to a new file, and optionally overwrites an existing file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxxxx xxxx xx x xxx xxxx$ xxx xxxxxxxxxx xxxxxxxxxx xx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the file to copy.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the destination file.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>This cannot be a directory.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the destination file can be overwritten; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxxxx xxxx xxx xx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;or&lt;em&gt; destinationFileName &lt;/em&gt;is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xx$xx$ xxxxxxxxxxxXxxxXxxx $$xx$xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;was not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;was not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An I/O error has occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xx X$X xxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a directory in the isolated storage scope.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxx xx xxx xxxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the directory to create within the isolated storage scope.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx xxxxxx xxx xxxxxxxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current code has insufficient permissions to create isolated storage directory.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xxx xxxxxxxxxxxx xxxxxxxxxxx xx xxxxxx xxxxxxxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory path is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a file in the isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file to create.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new isolated storage file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is malformed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory in &lt;em&gt;path&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes a directory in the isolated storage scope.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxx xx xxx xxxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the directory to delete within the isolated storage scope.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx xxxxxx xxx xxxxxxxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory could not be deleted.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxx xxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory path was &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes a file in the isolated storage scope.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xx xxx xxxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file to delete within the isolated storage scope.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xx xxxxxx xxxxxx xxx xxxxxxxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target file is open or the path is incorrect.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxxx xx xxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file path is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the specified path refers to an existing directory in the isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxx xxxxxx xx xx xxxxxxxx xxxxxxxxx xx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;path&lt;/em&gt; refers to an existing directory in the isolated store and is not &lt;strong&gt;null&lt;/strong&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxx$$xx$ xxxxxx xx xx xxxxxxxx xxxxxxxxx xx xxx xxxxxxxx xxxxx xxx xx xxx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the specified path refers to an existing file in the isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxx xxxxxx xx xx xxxxxxxx xxxx xx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path and file name to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;path&lt;/em&gt; refers to an existing file in the isolated store and is not &lt;strong&gt;null&lt;/strong&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxx$$xx$ xxxxxx xx xx xxxxxxxx xxxx xx xxx xxxxxxxx xxxxx xxx xx xxx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the creation date and time of a specified file or directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xxxx xxx xxxx xx x xxxxxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the file or directory for which to obtain creation date and time information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxxxxxxxx xxx xxxxx xx xxxxxx xxxxxxxx xxxx xxx xxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The creation date and time for the specified file or directory.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxx xxxx xxx xxx xxxxxxxxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>This value is expressed in local time.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxx xx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path &lt;/em&gt;is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx $$xx$xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enumerates the directories at the root of an isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxxxxxx xx xxx xxxx xx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of relative paths of directories at the root of the isolated store.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx xx xxxxxxxxxxx xx xxx xxxx xx xxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>A zero-length array specifies that there are no directories at the root.&lt;/p&gt;\n</source>
+          <target state="new">X xxxx$xxxxxx xxxxx xxxxxxxxx xxxx xxxxx xxx xx xxxxxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Caller does not have permission to enumerate directories.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One or more directories are not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxxx xxxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enumerates the directories in an isolated storage scope that match a given search pattern.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxxxxxx xx xx xxxxxxxx xxxxxxx xxxxx xxxx xxxxx x xxxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of the relative paths of directories in the isolated storage scope that match &lt;em&gt;searchPattern&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxx xxxxxxxx xxxxx xx xxxxxxxxxxx xx xxx xxxxxxxx xxxxxxx xxxxx xxxx xxxxx $xx$xxxxxxXxxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>A zero-length array specifies that there are no directories that match.&lt;/p&gt;\n</source>
+          <target state="new">X xxxx$xxxxxx xxxxx xxxxxxxxx xxxx xxxxx xxx xx xxxxxxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;searchPattern&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Caller does not have permission to enumerate directories resolved from &lt;em&gt;searchPattern&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xxxx xxxxxxxxxx xx xxxxxxxxx xxxxxxxxxxx xxxxxxxx xxxx $xx$xxxxxxXxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory or directories specified by &lt;em&gt;searchPattern&lt;/em&gt; are not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxxxxxxxx xxxxxxxxx xx $xx$xxxxxxXxxxxxx$$xx$ xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enumerates the file names at the root of an isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxx xxxxx xx xxx xxxx xx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of relative paths of files at the root of the isolated store.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx xx xxxxx xx xxx xxxx xx xxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>A zero-length array specifies that there are no files at the root.&lt;/p&gt;\n</source>
+          <target state="new">X xxxx$xxxxxx xxxxx xxxxxxxxx xxxx xxxxx xxx xx xxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;File paths from the isolated store root cannot be determined.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxx xxxx xxx xxxxxxxx xxxxx xxxx xxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the file names that match a search pattern.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxx xxxx xxxxx x xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of relative paths of files in the isolated storage scope that match &lt;em&gt;searchPattern&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx xxxxx xx xxxxx xx xxx xxxxxxxx xxxxxxx xxxxx xxxx xxxxx $xx$xxxxxxXxxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>A zero-length array specifies that there are no files that match.&lt;/p&gt;\n</source>
+          <target state="new">X xxxx$xxxxxx xxxxx xxxxxxxxx xxxx xxxxx xxx xx xxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;searchPattern&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file path specified by &lt;em&gt;searchPattern&lt;/em&gt; cannot be found.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxxxxxxxx xx $xx$xxxxxxXxxxxxx$$xx$ xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the date and time a specified file or directory was last accessed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxx xxxx x xxxxxxxxx xxxx xx xxxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the file or directory for which to obtain last access date and time information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxxxxxxxx xxx xxxxx xx xxxxxx xxxx xxxxxx xxxx xxx xxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date and time that the specified file or directory was last accessed.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxx xxx xxxxxxxxx xxxx xx xxxxxxxxx xxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>This value is expressed in local time.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxx xx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path &lt;/em&gt;is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx $$xx$xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the date and time a specified file or directory was last written to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxx xxxx x xxxxxxxxx xxxx xx xxxxxxxxx xxx xxxx xxxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the file or directory for which to obtain last write date and time information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxxxxxxxx xxx xxxxx xx xxxxxx xxxx xxxxx xxxx xxx xxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The date and time that the specified file or directory was last written to.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxx xxx xxxxxxxxx xxxx xx xxxxxxxxx xxx xxxx xxxxxxx xx.</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>This value is expressed in local time.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxx xx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path &lt;/em&gt;is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx $$xx$xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Obtains user-scoped isolated storage corresponding to the calling code's application identity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxx$xxxxxx xxxxxxxx xxxxxxx xxxxxxxxxxxxx xx xxx xxxxxxx xxxx$x xxxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object corresponding to the isolated storage scope based on the calling code's assembly identity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxxx xx xxx xxxxxxxx xxxxxxx xxxxx xxxxx xx xxx xxxxxxx xxxx$x xxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sufficient isolated storage permissions have not been granted.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxxx xxxxxxx xxxxxxxxxxx xxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Moves a specified directory and its contents to a new location.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxxxx xxxxxxxxx xxx xxx xxxxxxxx xx x xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the directory to move.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the new location for &lt;em&gt;sourceDirectoryName&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxxxxx xxx $xx$xxxxxxXxxxxxxxxXxxx$$xx$.</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>This cannot be the path to an existing directory.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxx xxxx xx xx xxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;or&lt;em&gt; destinationFileName &lt;/em&gt;is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xx$xx$ xxxxxxxxxxxXxxxXxxx $$xx$xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;destinationDirectoryName&lt;/em&gt; already exists.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;sourceDirectoryName&lt;/em&gt; and &lt;em&gt;destinationDirectoryName&lt;/em&gt; refer to the same directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxXxxxxxxxxXxxx$$xx$ xxx $xx$xxxxxxxxxxxXxxxxxxxxXxxx$$xx$ xxxxx xx xxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Moves a specified file to a new location, and optionally lets you specify a new file name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxxxx xxxx xx x xxx xxxxxxxx$ xxx xxxxxxxxxx xxxx xxx xxxxxxx x xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the file to move.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to the new location for the file.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxxxxx xxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>If a file name is included, the moved file will have that name.&lt;/p&gt;\n</source>
+          <target state="new">Xx x xxxx xxxx xx xxxxxxxx$ xxx xxxxx xxxx xxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName &lt;/em&gt;or&lt;em&gt; destinationFileName &lt;/em&gt;is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx $$xx$xx$xx$ xxxxxxxxxxxXxxxXxxx $$xx$xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceFileName&lt;/em&gt; was not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxx$$xx$ xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a file in the specified mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file within the isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xxxxxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies how to open the file.</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xx xxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A file that is opened in the specified mode, with read/write access, and is unshared.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xx xxxxxx xx xxx xxxxxxxxx xxxx$ xxxx xxxx$xxxxx xxxxxx$ xxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is malformed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory in &lt;em&gt;path&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a file in the specified mode with the specified read/write access.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xx xxx xxxxxxxxx xxxx xxxx xxx xxxxxxxxx xxxx$xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file within the isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xxxxxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies how to open the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xx xxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies whether the file will be opened with read, write, or read/write access.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxx xxxx xx xxxxxx xxxx xxxx$ xxxxx$ xx xxxx$xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A file that is opened in the specified mode and access, and is unshared.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xx xxxxxx xx xxx xxxxxxxxx xxxx xxx xxxxxx$ xxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is malformed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory in &lt;em&gt;path&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a file in the specified mode, with the specified read/write access and sharing permission.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xx xxx xxxxxxxxx xxxx$ xxxx xxx xxxxxxxxx xxxx$xxxxx xxxxxx xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file within the isolated store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xxxxxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies how to open or create the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xx xxxx xx xxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies whether the file will be opened with read, write, or read/write access&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxx xxxx xx xxxxxx xxxx xxxx$ xxxxx$ xx xxxx$xxxxx xxxxxx$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A file that is opened in the specified mode and access, and with the specified sharing options.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xx xxxxxx xx xxx xxxxxxxxx xxxx xxx xxxxxx$ xxx xxxx xxx xxxxxxxxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been removed.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;Isolated storage is disabled.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxxxxxxx xxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is malformed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory in &lt;em&gt;path&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx $xx$xxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

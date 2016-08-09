@@ -1,0 +1,514 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fully qualified name of the new file, or the relative file name.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xxxx xx xxx xxx xxxx$ xx xxx xxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Do not end the path with the directory separator character.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxx xxx xxxx xxxx xxx xxxxxxxxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;fileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file name is empty, contains only white spaces, or contains invalid characters.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxx$ xxxxxxxx xxxx xxxxx xxxxxx$ xx xxxxxxxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Access to &lt;em&gt;fileName&lt;/em&gt; is denied.</source>
+          <target state="new">$x$x$Xxxxxx xx $xx$xxxxXxxx$$xx$ xx xxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;fileName&lt;/em&gt; contains a colon (:) in the middle of the string.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xxxxxxxx x xxxxx $$$ xx xxx xxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets an instance of the parent directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxxxx xx xxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a string representing the directory's full path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxxxxxxxxxx xxx xxxxxxxxx$x xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string representing the directory's full path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxxxx xxx xxxxxxxxx$x xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;null&lt;/strong&gt; was passed in for the directory name.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xxx xxxxxx xx xxx xxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fully qualified path is 260 or more characters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xxxx xx 000 xx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether a file exists.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx x xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the file exists; &lt;strong&gt;false&lt;/strong&gt; if the file does not exist or if the file is a directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxx xxxx xxx xxxxx xx xx xxx xxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that determines if the current file is read only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxxx xx xxx xxxxxxx xxxx xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the current file is read only; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxx xx xxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurred while opening the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxxxx xxxxx xxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This operation is not supported on the current platform.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The caller does not have the required permission.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxx xxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have write permission, but attempted to set this property to &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxx xxxxxxxxxx$ xxx xxxxxxxxx xx xxx xxxx xxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the size, in bytes, of the current file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx$ xx xxxxx$ xx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the current file in bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file does not exist.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The &lt;strong&gt;Length&lt;/strong&gt; property is called for a directory.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx $xxxxxx$Xxxxxx$$xxxxxx$ xxxxxxxx xx xxxxxx xxx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new &lt;strong&gt;StreamWriter&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx $xxxxxx$XxxxxxXxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies an existing file to a new file, disallowing the overwriting of an existing file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxxxx xxxx xx x xxx xxxx$ xxxxxxxxxxx xxx xxxxxxxxxxx xx xx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the new file to copy to.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxx xx xxxx xx.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new file with a fully qualified path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxx xxxx x xxxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; is empty, contains only white spaces, or contains invalid characters.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xx xxxxx$ xxxxxxxx xxxx xxxxx xxxxxx$ xx xxxxxxxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurs, or the destination file already exists.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxx$ xx xxx xxxxxxxxxxx xxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A directory path is passed in, or the file is being moved to a different drive.</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxx xx xxxxxx xx$ xx xxx xxxx xx xxxxx xxxxx xx x xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory specified in &lt;em&gt;destFileName&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxx xx $xx$xxxxXxxxXxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; contains a colon (:) within the string but does not specify the volume.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xxxxxxxx x xxxxx $$$ xxxxxx xxx xxxxxx xxx xxxx xxx xxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies an existing file to a new file, allowing the overwriting of an existing file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxxxx xxxx xx x xxx xxxx$ xxxxxxxx xxx xxxxxxxxxxx xx xx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the new file to copy to.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxx xx xxxx xx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to allow an existing file to be overwritten; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xx xxxxxxxx xxxx xx xx xxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; is empty, contains only white spaces, or contains invalid characters.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xx xxxxx$ xxxxxxxx xxxx xxxxx xxxxxx$ xx xxxxxxxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurs, or the destination file already exists and &lt;em&gt;overwrite&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxx$ xx xxx xxxxxxxxxxx xxxx xxxxxxx xxxxxx xxx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The directory specified in &lt;em&gt;destFileName&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxx xx $xx$xxxxXxxxXxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A directory path is passed in, or the file is being moved to a different drive.</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxx xx xxxxxx xx$ xx xxx xxxx xx xxxxx xxxxx xx x xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; contains a colon (:) in the middle of the string.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xxxxxxxx x xxxxx $$$ xx xxx xxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new &lt;strong&gt;StreamWriter&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx $xxxxxx$XxxxxxXxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file name is a directory.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The disk is read-only.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx$xxxx.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Permanently deletes a file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx xxxxxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target file is open or memory-mapped on a computer running Microsoft Windows NT.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;There is an open handle on the file, and the operating system is Windows XP or earlier.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxxx xx xxxxxx$xxxxxx xx x xxxxxxxx xxxxxxx Xxxxxxxxx Xxxxxxx XX.$$x$$x$x$$xx$$$x$$x$x$Xxxxx xx xx xxxx xxxxxx xx xxx xxxx$ xxx xxx xxxxxxxxx xxxxxx xx Xxxxxxx XX xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>This open handle can result from enumerating directories and files.</source>
+          <target state="new">Xxxx xxxx xxxxxx xxx xxxxxx xxxx xxxxxxxxxxx xxxxxxxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>For more information, see How to: Enumerate Directories and Files.</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx$ xxx Xxx xx$ Xxxxxxxxx Xxxxxxxxxxx xxx Xxxxx.</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path is a directory.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Moves a specified file to a new location, providing the option to specify a new file name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxxxx xxxx xx x xxx xxxxxxxx$ xxxxxxxxx xxx xxxxxx xx xxxxxxx x xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path to move the file to, which can specify a different file name.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx xxx xxxx xx$ xxxxx xxx xxxxxxx x xxxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs, such as the destination file already exists or the destination device is not ready.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx$ xxxx xx xxx xxxxxxxxxxx xxxx xxxxxxx xxxxxx xx xxx xxxxxxxxxxx xxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; is empty, contains only white spaces, or contains invalid characters.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xx xxxxx$ xxxxxxxx xxxx xxxxx xxxxxx$ xx xxxxxxxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; is read-only or is a directory.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xx xxxx$xxxx xx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is not found.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path, file name, or both exceed the system-defined maximum length.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xxxx xxxx$ xx xxxx xxxxxx xxx xxxxxx$xxxxxxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>For example, on Windows-based platforms, paths must be less than 248 characters, and file names must be less than 260 characters.</source>
+          <target state="new">Xxx xxxxxxx$ xx Xxxxxxx$xxxxx xxxxxxxxx$ xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx$ xxx xxxx xxxxx xxxx xx xxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;destFileName&lt;/em&gt; contains a colon (:) in the middle of the string.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxXxxx$$xx$ xxxxxxxx x xxxxx $$$ xx xxx xxxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a file in the specified mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A file opened in the specified mode, with read/write access and unshared.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxx xx xxx xxxxxxxxx xxxx$ xxxx xxxx$xxxxx xxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is not found.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is read-only or is a directory.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx$xxxx xx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is already open.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a file in the specified mode with read, write, or read/write access.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xx xxx xxxxxxxxx xxxx xxxx xxxx$ xxxxx$ xx xxxx$xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is not found.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is read-only or is a directory.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxx$xxxx xx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is already open.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a file in the specified mode with read, write, or read/write access and the specified sharing option.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxx xx xxx xxxxxxxxx xxxx xxxx xxxx$ xxxxx$ xx xxxx$xxxxx xxxxxx xxx xxx xxxxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is not found.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is read-only or is a directory.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxx$xxxx xx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is already open.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is read-only or is a directory.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxx$xxxx xx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is already open.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new &lt;strong&gt;StreamReader&lt;/strong&gt; with UTF8 encoding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx $xxxxxx$XxxxxxXxxxxx$$xxxxxx$ xxxx XXX0 xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have the required permission.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is not found.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is read-only or is a directory.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxxx$xxxx xx xx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified path is invalid, such as being on an unmapped drive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxxx$ xxxx xx xxxxx xx xx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the path as a string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string representing the path.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

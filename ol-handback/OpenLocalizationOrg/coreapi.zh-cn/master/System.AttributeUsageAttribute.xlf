@@ -1,0 +1,31 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the usage of another attribute class.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxxxx xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of values combined using a bitwise OR operation to indicate which program elements are valid.</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxxx xxxxxxxx xxxxx x xxxxxxx XX xxxxxxxxx xx xxxxxxxx xxxxx xxxxxxx xxxxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a Boolean value indicating whether more than one instance of the indicated attribute can be specified for a single program element.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x Xxxxxxx xxxxx xxxxxxxxxx xxxxxxx xxxx xxxx xxx xxxxxxxx xx xxx xxxxxxxxx xxxxxxxxx xxx xx xxxxxxxxx xxx x xxxxxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if more than one instance is allowed to be specified; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx xxxx xxx xxxxxxxx xx xxxxxxx xx xx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the attribute can be inherited by derived classes and overriding members; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxx xx xxxxxxxxx xx xxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a set of values identifying which program elements that the indicated attribute can be applied to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxx xx xxxxxx xxxxxxxxxxx xxxxx xxxxxxx xxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx xxx xx xxxxxxx xx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines the formatting options that customize string parsing for some date and time parsing methods.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xxxxxxx xxxx xxxxxxxxx xxxxxx xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If no time zone is specified in the parsed string, the string is assumed to denote a local time.</source>
+          <target state="new">$x$x$Xx xx xxxx xxxx xx xxxxxxxxx xx xxx xxxxxx xxxxxx$ xxx xxxxxx xx xxxxxxx xx xxxxxx x xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If no time zone is specified in the parsed string, the string is assumed to denote a UTC.</source>
+          <target state="new">$x$x$Xx xx xxxx xxxx xx xxxxxxxxx xx xxx xxxxxx xxxxxx$ xxx xxxxxx xx xxxxxxx xx xxxxxx x XXX.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If the parsed string contains only the time and not the date, the parsing methods assume the Gregorian date with year = 1, month = 1, and day = 1.</source>
+          <target state="new">$x$x$Xx xxx xxxxxx xxxxxx xxxxxxxx xxxx xxx xxxx xxx xxx xxx xxxx$ xxx xxxxxxx xxxxxxx xxxxxx xxx Xxxxxxxxx xxxx xxxx xxxx $ 0$ xxxxx $ 0$ xxx xxx $ 0.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>If this value is not used, the current date is assumed.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xxxxx xx xxx xxxx$ xxx xxxxxxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

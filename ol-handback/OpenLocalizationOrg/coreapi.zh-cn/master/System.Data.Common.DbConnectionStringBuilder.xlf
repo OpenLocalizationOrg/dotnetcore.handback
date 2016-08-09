@@ -1,0 +1,67 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a base class for strongly typed connection string builders.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxx xxxxx xxx xxxxxxxx xxxxx xxxxxxxxxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An invalid connection string argument has been supplied.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxxxxx xxxxxx xxxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the value associated with the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the item to get or set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxx xx xxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the element with the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to get or set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The element with the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value for the specified key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx xxx xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key to be added.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value for the supplied key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx xxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the key existed within the connection string and was removed; &lt;strong&gt;false&lt;/strong&gt; if the key did not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxx xxxxxxx xxxxxx xxx xxxxxxxxxx xxxxxx xxx xxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; is null (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic)&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx xxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the element to remove.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator that iterates through a collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxxx xxxxxxxx xxxxxxx x xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the item to retrieve.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value corresponding to the &lt;em&gt;key&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxxxxx xx xxx $xx$xxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;keyword&lt;/em&gt; was found within the connection string, &lt;strong&gt;false&lt;/strong&gt; otherwise.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxxxx$$xx$ xxx xxxxx xxxxxx xxx xxxxxxxxxx xxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; contains a null value (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xxxxxxxx x xxxx xxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

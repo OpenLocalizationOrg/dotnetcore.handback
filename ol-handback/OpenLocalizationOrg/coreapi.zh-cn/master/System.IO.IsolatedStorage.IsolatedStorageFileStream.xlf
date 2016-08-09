@@ -1,0 +1,157 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Exposes a file within isolated storage.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxxxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file within isolated storage.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xxxxxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;path&lt;/em&gt; is badly formed.</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;isf&lt;/em&gt; does not have a quota.</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xxxx xxx xxxx x xxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file within isolated storage.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xxxxxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;path&lt;/em&gt; is badly formed.</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolated store is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;isf&lt;/em&gt; does not have a quota.</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xxxx xxx xxxx x xxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relative path of the file within isolated storage.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxx xxxxxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;path&lt;/em&gt; is badly formed.</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;isf&lt;/em&gt; does not have a quota.</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xxxx xxx xxxx x xxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a Boolean value indicating whether the file can be read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x Xxxxxxx xxxxx xxxxxxxxxx xxxxxxx xxx xxxx xxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a Boolean value indicating whether seek operations are supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x Xxxxxxx xxxxx xxxxxxxxxx xxxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a Boolean value indicating whether you can write to the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x Xxxxxxx xxxxx xxxxxxxxxx xxxxxxx xxx xxx xxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position cannot be set to a negative number.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xx xxx xx x xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources &lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx $$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears buffers for this stream and causes any buffered data to be written to the file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxxxx xxx xxxx xxxxxx xxx xxxxxx xxx xxxxxxxx xxxx xx xx xxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to read.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset in the buffer at which to begin writing.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx xxxxx xx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to read.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The total number of bytes read into the &lt;em&gt;buffer&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxx xxxx xxxx xxx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>This can be less than the number of bytes requested if that many bytes are not currently available, or zero if the end of the stream is reached.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xx xxxx xxxx xxx xxxxxx xx xxxxx xxxxxxxxx xx xxxx xxxx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx$ xx xxxx xx xxx xxx xx xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 8-bit unsigned integer value read from the isolated storage file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0$xxx xxxxxxxx xxxxxxx xxxxx xxxx xxxx xxx xxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is a negative number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx x xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer to write.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte offset in buffer from which to begin.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxxx xxxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of bytes to write.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The byte value to write to the isolated storage file.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxx xx xxxxx xx xxx xxxxxxxx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

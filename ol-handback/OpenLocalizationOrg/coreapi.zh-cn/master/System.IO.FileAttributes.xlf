@@ -1,0 +1,91 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides attributes for files and directories.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxx xxx xxxxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is a candidate for backup or removal.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxxx xxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is compressed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reserved for future use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is a directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file or directory is encrypted.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>For a file, this means that all data in the file is encrypted.</source>
+          <target state="new">Xxx x xxxx$ xxxx xxxxx xxxx xxx xxxx xx xxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>For a directory, this means that encryption is the default for newly created files and directories.&lt;/p&gt;\n</source>
+          <target state="new">Xxx x xxxxxxxxx$ xxxx xxxxx xxxx xxxxxxxxxx xx xxx xxxxxxx xxx xxxxx xxxxxxx xxxxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is hidden, and thus is not included in an ordinary directory listing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx$ xxx xxxx xx xxx xxxxxxxx xx xx xxxxxxxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file or directory includes data integrity support.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxx xxxxxxxx xxxx xxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>When this value is applied to a file, all data streams in the file have integrity support.</source>
+          <target state="new">Xxxx xxxx xxxxx xx xxxxxxx xx x xxxx$ xxx xxxx xxxxxxx xx xxx xxxx xxxx xxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>When this value is applied to a directory, all new files and subdirectories within that directory, by default, include integrity support.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxxxx xx xxxxxxx xx x xxxxxxxxx$ xxx xxx xxxxx xxx xxxxxxxxxxxxxx xxxxxx xxxx xxxxxxxxx$ xx xxxxxxx$ xxxxxxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is a standard file that has no special attributes.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxx xxxx xxxx xxx xx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>This attribute is valid only if it is used alone.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxxxx xxxx xx xx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file or directory is excluded from the data integrity scan.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxx xx xxxxxxxx xxxx xxx xxxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>When this value is applied to a directory, by default, all new files and subdirectories within that directory are excluded from data integrity.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxxxx xx xxxxxxx xx x xxxxxxxxx$ xx xxxxxxx$ xxx xxx xxxxx xxx xxxxxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file will not be indexed by the operating system's content indexing service.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xx xxxxxxx xx xxx xxxxxxxxx xxxxxx$x xxxxxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is offline.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>The data of the file is not immediately available.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xx xxx xxxx xx xxx xxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file contains a reparse point, which is a block of user-defined data associated with a file or a directory.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx x xxxxxxx xxxxx$ xxxxx xx x xxxxx xx xxxx$xxxxxxx xxxx xxxxxxxxxx xxxx x xxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is a sparse file.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>Sparse files are typically large files whose data consists of mostly zeros.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxx xxxxx xxx xxxxxxxxx xxxxx xxxxx xxxxx xxxx xxxxxxxx xx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is a system file.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>That is, the file is part of the operating system or is used exclusively by the operating system.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx$ xxx xxxx xx xxxx xx xxx xxxxxxxxx xxxxxx xx xx xxxx xxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file is temporary.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>A temporary file contains data that is needed while an application is executing but is not needed after the application is finished.</source>
+          <target state="new">X xxxxxxxxx xxxx xxxxxxxx xxxx xxxx xx xxxxxx xxxxx xx xxxxxxxxxxx xx xxxxxxxxx xxx xx xxx xxxxxx xxxxx xxx xxxxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>File systems try to keep all the data in memory for quicker access rather than flushing the data back to mass storage.</source>
+          <target state="new">Xxxx xxxxxxx xxx xx xxxx xxx xxx xxxx xx xxxxxx xxx xxxxxxx xxxxxx xxxxxx xxxx xxxxxxxx xxx xxxx xxxx xx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>A temporary file should be deleted by the application as soon as it is no longer needed.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxxxxx xxxx xxxxxx xx xxxxxxx xx xxx xxxxxxxxxxx xx xxxx xx xx xx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

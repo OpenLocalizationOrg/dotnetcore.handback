@@ -1,0 +1,52 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies constants that define foreground and background colors for the console.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxxxx xxxx xxxxxx xxxxxxxxxx xxx xxxxxxxxxx xxxxxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color black.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color blue.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color cyan (blue-green).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx $xxxx$xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color dark blue.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color dark cyan (dark blue-green).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx $xxxx xxxx$xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color dark gray.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color dark green.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color dark magenta (dark purplish-red).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxxxxx $xxxx xxxxxxxx$xxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color dark red.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color dark yellow (ochre).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxxxx $xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color gray.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color green.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color magenta (purplish-red).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx $xxxxxxxx$xxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color red.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color white.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The color yellow.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,109 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Stores a set of four integers that represent the location and size of a rectangle&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxx xx xxxx xxxxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxx xxxx xx x xxxxxxxxx$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The x-coordinate of the upper-left corner of the rectangle.</source>
+          <target state="new">$x$x$Xxx x$xxxxxxxxxx xx xxx xxxxx$xxxx xxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The y-coordinate of the upper-left corner of the rectangle.</source>
+          <target state="new">$x$x$Xxx x$xxxxxxxxxx xx xxx xxxxx$xxxx xxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The width of the rectangle.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The height of the rectangle.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The x-coordinate of the point to test.</source>
+          <target state="new">$x$x$Xxx x$xxxxxxxxxx xx xxx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The y-coordinate of the point to test.</source>
+          <target state="new">$x$x$Xxx x$xxxxxxxxxx xx xxx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer that represents the hash code for this rectangle.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx xxxxxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount to inflate this rectangle.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A rectangle to intersect.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A rectangle to intersect.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines if this rectangle intersects with &lt;em&gt;rect&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxx xxxxxxxxx xxxxxxxxxx xxxx $xx$xxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The rectangle to test.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This method returns &lt;strong&gt;true&lt;/strong&gt; if there is any intersection, otherwise &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xx xxxxx xx xxx xxxxxxxxxxxx$ xxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adjusts the location of this rectangle by the specified amount.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xx xxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Amount to offset the location.</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adjusts the location of this rectangle by the specified amount.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xx xxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The horizontal offset.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The vertical offset.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A rectangle to union.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A rectangle to union.</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

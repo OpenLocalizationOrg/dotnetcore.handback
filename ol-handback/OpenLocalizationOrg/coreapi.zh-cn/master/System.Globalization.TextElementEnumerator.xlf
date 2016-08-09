@@ -1,0 +1,52 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enumerates the text elements of a string.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxx xxxxxxxx xx x xxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the current text element in the string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object containing the current text element in the string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxx xxx xxxxxxx xxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The enumerator is positioned before the first text element of the string or after the last text element.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxxxxxxxx xxxxxx xxx xxxxx xxxx xxxxxxx xx xxx xxxxxx xx xxxxx xxx xxxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the index of the text element that the enumerator is currently positioned over.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxx xxxxxxx xxxx xxx xxxxxxxxxx xx xxxxxxxxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the text element that the enumerator is currently positioned over.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxx xxxxxxx xxxx xxx xxxxxxxxxx xx xxxxxxxxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The enumerator is positioned before the first text element of the string or after the last text element.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxxxxxxxx xxxxxx xxx xxxxx xxxx xxxxxxx xx xxx xxxxxx xx xxxxx xxx xxxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the current text element in the string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new string containing the current text element in the string being read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxxxx xxxxxxxxxx xxx xxxxxxx xxxx xxxxxxx xx xxx xxxxxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The enumerator is positioned before the first text element of the string or after the last text element.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxxxxxxxx xxxxxx xxx xxxxx xxxx xxxxxxx xx xxx xxxxxx xx xxxxx xxx xxxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Advances the enumerator to the next text element of the string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxxx xx xxx xxxx xxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the enumerator was successfully advanced to the next text element; &lt;strong&gt;false&lt;/strong&gt; if the enumerator has passed the end of the string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxx xx xxx xxxx xxxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxxxxxx xxx xxxxxx xxx xxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the enumerator to its initial position, which is before the first text element in the string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx xxx xxxxxxx xxxxxxxx$ xxxxx xx xxxxxx xxx xxxxx xxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

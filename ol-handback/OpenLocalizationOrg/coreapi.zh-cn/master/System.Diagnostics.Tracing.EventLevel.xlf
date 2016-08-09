@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Identifies the level of an event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxx xx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This level corresponds to a critical error, which is a serious error that has caused a major failure.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxx xxxxxxxxxxx xx x xxxxxxxx xxxxx$ xxxxx xx x xxxxxxx xxxxx xxxx xxx xxxxxx x xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This level adds standard errors that signify a problem.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxx xxxx xxxxxxxx xxxxxx xxxx xxxxxxx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This level adds informational events or messages that are not errors.</source>
+          <target state="new">$x$x$Xxxx xxxxx xxxx xxxxxxxxxxxxx xxxxxx xx xxxxxxxx xxxx xxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>These events can help trace the progress or state of an application.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxx xxxxxx xxx xxxx xxxxx xxx xxxxxxxx xx xxxxx xx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No level filtering is done on the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxx xx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This level adds lengthy events or messages.</source>
+          <target state="new">$x$x$Xxxx xxxxx xxxx xxxxxxx xxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>It causes all events to be logged.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxx xxx xxxxxx xx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This level adds warning events (for example, events that are published because a disk is nearing full capacity).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxx xxxx xxxxxxx xxxxxx $xxx xxxxxxx$ xxxxxx xxxx xxx xxxxxxxxx xxxxxxx x xxxx xx xxxxxxx xxxx xxxxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

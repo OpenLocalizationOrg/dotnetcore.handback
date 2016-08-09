@@ -1,0 +1,67 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides methods for enabling and disabling events from event sources.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxx xxxxxxxx xxx xxxxxxxxx xxxxxx xxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Disables all events for the specified event source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event source to disable events for.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enables events for the specified event source that has the specified verbosity level or lower.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxx xxx xxx xxxxxxxxx xxxxx xxxxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxx xxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event source to enable events for.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The level of events to enable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enables events for the specified event source that has the specified verbosity level or lower, and matching keyword flags.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxx xxx xxx xxxxxxxxx xxxxx xxxxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxx xxxxx xx xxxxx$ xxx xxxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event source to enable events for.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The level of events to enable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The keyword flags necessary to enable the events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxxxxxxx xx xxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Enables events for the specified event source that has the specified verbosity level or lower, matching event keyword flag, and matching arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxx xxx xxx xxxxxxxxx xxxxx xxxxxx xxxx xxx xxx xxxxxxxxx xxxxxxxxx xxxxx xx xxxxx$ xxxxxxxx xxxxx xxxxxxx xxxx$ xxx xxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event source to enable events for.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The level of events to enable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The keyword flags necessary to enable the events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxxxxxxxx xx xxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The arguments to be matched to enable the events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xx xxxxxxx xx xxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a small non-negative number that represents the specified event source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxx$xxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event source to find the index for.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxx xxx xxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A small non-negative number that represents the specified event source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxx$xxxxxxxx xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Called for all existing event sources when the event listener is created and when a new event source is attached to the listener.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxx xxxxxxxx xxxxx xxxxxxx xxxx xxx xxxxx xxxxxxxx xx xxxxxxx xxx xxxx x xxx xxxxx xxxxxx xx xxxxxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Called whenever an event has been written by an event source for which the event listener has enabled events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxxxxx xx xxxxx xxx xxxx xxxxxxx xx xx xxxxx xxxxxx xxx xxxxx xxx xxxxx xxxxxxxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event arguments that describe the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xxxx xxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

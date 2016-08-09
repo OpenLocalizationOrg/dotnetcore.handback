@@ -1,0 +1,601 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides access to local and remote processes and enables you to start and stop local system processes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxx xx xxxxx xxx xxxxxx xxxxxxxxx xxx xxxxxxx xxx xx xxxxx xxx xxxx xxxxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the base priority of the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process has exited.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The process has not started, so there is no process ID.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxx xxx xxx xxxxxxx$ xx xxxxx xx xx xxxxxxx XX.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the value that the associated process specified when it terminated.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxx xxx xxxxxxxxxx xxxxxxx xxxxxxxxx xxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The code that the associated process specified when it terminated.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxxxxxxxx xxxxxxx xxxxxxxxx xxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the time that the associated process exited.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxx xxxxxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value indicating whether the associated process has been terminated.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxx xxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is no process associated with the object.</source>
+          <target state="new">$x$x$Xxxxx xx xx xxxxxxx xxxxxxxxxx xxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exit code for the process could not be retrieved.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxx xxxxxxx xxxxx xxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the unique identifier for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the computer the associated process is running on.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxxx xxx xxxxxxxxxx xxxxxxx xx xxxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the computer that the associated process is running on.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xxxx xxx xxxxxxxxxx xxxxxxx xx xxxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the main module for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit process is trying to access the modules of a 64-bit process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxxx xx xxxxxx xx xxxxxx xxx xxxxxxx xx x 00$xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the maximum allowable working set size, in bytes, for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxxxxx xxxxxxx xxx xxxx$ xx xxxxx$ xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum working set size that is allowed in memory for the process, in bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxx xxx xxxx xxxx xx xxxxxxx xx xxxxxx xxx xxx xxxxxxx$ xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum working set size is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxx xxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>It must be greater than or equal to the minimum working set size.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xx xxxxxxx xxxx xx xxxxx xx xxx xxxxxxx xxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Working set information cannot be retrieved from the associated process resource.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The process identifier or process handle is zero because the process has not been started.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxxx xxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxx xxxxxxxxxx xx xxxxxxx xxxxxx xx xxxx xxxxxxx xxx xxxxxxx xxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the minimum allowable working set size, in bytes, for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxxxxx xxxxxxx xxx xxxx$ xx xxxxx$ xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The minimum working set size that is required in memory for the process, in bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxx xxx xxxx xxxx xx xxxxxxxx xx xxxxxx xxx xxx xxxxxxx$ xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The minimum working set size is invalid.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxx xxx xxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>It must be less than or equal to the maximum working set size.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xx xxxx xxxx xx xxxxx xx xxx xxxxxxx xxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Working set information cannot be retrieved from the associated process resource.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The process identifier or process handle is zero because the process has not been started.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxxx xxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxx xxxxxxxxxx xx xxxxxxx xxxxxx xx xxxx xxxxxxx xxx xxxxxxx xxx xxx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the modules that have been loaded by the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx xxxx xxxx xxxxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of nonpaged system memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxxx xxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount of system memory, in bytes, allocated for the associated process that cannot be written to the virtual memory paging file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx xxxx xxxxxx xx xxxxxxx xx xxx xxxxxxx xxxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of paged memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount of memory, in bytes, allocated in the virtual memory paging file for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx$ xx xxxxx$ xxxxxxxxx xx xxx xxxxxxx xxxxxx xxxxxx xxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of pageable system memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxxx xxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount of system memory, in bytes, allocated for the associated process that can be written to the virtual memory paging file.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx xxxx xxx xx xxxxxxx xx xxx xxxxxxx xxxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the maximum amount of memory in the virtual memory paging file, in bytes, used by the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxx xx xxxxxx xx xxx xxxxxxx xxxxxx xxxxxx xxxx$ xx xxxxx$ xxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum amount of memory, in bytes, allocated in the virtual memory paging file for the associated process since it was started.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx$ xx xxxxx$ xxxxxxxxx xx xxx xxxxxxx xxxxxx xxxxxx xxxx xxx xxx xxxxxxxxxx xxxxxxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the maximum amount of virtual memory, in bytes, used by the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxx xx xxxxxxx xxxxxx$ xx xxxxx$ xxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum amount of virtual memory, in bytes, allocated for the associated process since it was started.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the maximum amount of physical memory, in bytes, used by the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxx xx xxxxxxxx xxxxxx$ xx xxxxx$ xxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum amount of physical memory, in bytes, allocated for the associated process since it was started.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value indicating whether the associated process priority should temporarily be boosted by the operating system when the main window has the focus.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxx xxxxxxxx xxxxxx xxxxxxxxxxx xx xxxxxxx xx xxx xxxxxxxxx xxxxxx xxxx xxx xxxx xxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if dynamic boosting of the process priority should take place for a process when it is taken out of the wait state; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxx xxxxxx xxxx xxxxx xxx x xxxxxxx xxxx xx xx xxxxx xxx xx xxx xxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Priority boost information could not be retrieved from the associated process resource.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxx xxxxxxxxxxx xxxxx xxx xx xxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The process identifier or process handle is zero.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxx xxxxxxxxxx xx xxxxxxx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>(The process has not been started.) &lt;/p&gt;\n</source>
+          <target state="new">$Xxx xxxxxxx xxx xxx xxxx xxxxxxx.$ $$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the overall priority category for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxxxx xxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Process priority information could not be set or retrieved from the associated process resource.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The process identifier or process handle is zero.</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxxx xxxxxxxxxxx xxxxx xxx xx xxx xx xxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxxx xxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxx xxxxxxxxxx xx xxxxxxx xxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>(The process has not been started.) &lt;/p&gt;\n</source>
+          <target state="new">$Xxx xxxxxxx xxx xxx xxxx xxxxxxx.$ $$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of private memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount of memory, in bytes, allocated for the associated process that cannot be shared with other processes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx xxxx xxxxxx xx xxxxxx xxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the privileged processor time for this process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xxxxxxxxx xxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name that the system uses to identify the process to the user.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxxxx xxxx xx xxxxxxxx xxx xxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is not on this computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the processors on which the threads in this process can be scheduled to run.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxxxx xx xxxxx xxx xxxxxxx xx xxxx xxxxxxx xxx xx xxxxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitmask representing the processors that the threads in the associated process can run on.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxxx xxx xxxxxxxxxx xxxx xxx xxxxxxx xx xxx xxxxxxxxxx xxxxxxx xxx xxx xx.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>The default depends on the number of processors on the computer.</source>
+          <target state="new">Xxx xxxxxxx xxxxxxx xx xxx xxxxxx xx xxxxxxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>The default value is 2 n -1, where n is the number of processors.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx 0 x $0$ xxxxx x xx xxx xxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the native handle to this process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxx xx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The native handle to this process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the Terminal Services session identifier for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx Xxxxxxxx Xxxxxxxx xxxxxxx xxxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Terminal Services session identifier for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxxxx Xxxxxxxx xxxxxxx xxxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is no session associated with this process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx xx xxxxxxx xxxxxxxxxx xxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There is no process associated with this session identifier.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The associated process is not on this machine.</source>
+          <target state="new">$x$x$Xxxxx xx xx xxxxxxx xxxxxxxxxx xxxx xxxx xxxxxxx xxxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxxxxx xxxxxxx xx xxx xx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a stream used to read the error output of the application.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxx xx xxxx xxx xxxxx xxxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a stream used to write the input of the application.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxx xx xxxxx xxx xxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a stream used to read the textual output of the application.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxx xx xxxx xxx xxxxxxx xxxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the time that the associated process was started.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxx xxxxxxxxxx xxxxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object  that indicates when the process started.</source>
+          <target state="new">$x$x$Xx xxxxxx  xxxx xxxxxxxxx xxxx xxx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>An exception is thrown if the process is not running.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxxxx xx xxxxxx xx xxx xxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process has exited.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The process has not been started.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxx xxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred in the call to the Windows function.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xx xxx xxxx xx xxx Xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the set of threads that are running in the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxx xx xxxxxxx xxxx xxx xxxxxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the total processor time for this process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxxxx xxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the user processor time for this process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxxx xxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of the virtual memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxx xxxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount of virtual memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of physical memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount of physical memory, in bytes, allocated for the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx xxxxxx$ xx xxxxx$ xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Windows Me), which does not support this property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xxxxxxx Xx$$ xxxxx xxxx xxx xxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when a process exits.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The system-unique identifier of a process resource.</source>
+          <target state="new">$x$x$Xxx xxxxxx$xxxxxx xxxxxxxxxx xx x xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process specified by the &lt;em&gt;processId&lt;/em&gt; parameter is not running.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxx xx xxx $xx$xxxxxxxXx$$xx$ xxxxxxxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>The identifier might be expired.</source>
+          <target state="new">Xxx xxxxxxxxxx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process was not started by this object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xxx xxxxxxx xx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The system-unique identifier of a process resource.</source>
+          <target state="new">$x$x$Xxx xxxxxx$xxxxxx xxxxxxxxxx xx x xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of a computer on the network.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process specified by the &lt;em&gt;processId&lt;/em&gt; parameter is not running.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxx xx xxx $xx$xxxxxxxXx$$xx$ xxxxxxxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>The identifier might be expired.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The &lt;em&gt;machineName&lt;/em&gt; parameter syntax is invalid.</source>
+          <target state="new">Xxx xxxxxxxxxx xxxxx xx xxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx $xx$xxxxxxxXxxx$$xx$ xxxxxxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>The name might have length zero (0).</source>
+          <target state="new">Xxx xxxx xxxxx xxxx xxxxxx xxxx $0$.</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;machineName&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process was not started by this object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxx xxx xxxxxxx xx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The computer from which to read the list of processes.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxxx xx xxxx xxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;machineName&lt;/em&gt; parameter syntax is invalid.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxx$$xx$ xxxxxxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>It might have length zero (0).</source>
+          <target state="new">Xx xxxxx xxxx xxxxxx xxxx $0$.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;machineName&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system platform does not support this operation on remote computers.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xxxxxxxx xxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There are problems accessing the performance counter API's used to get process information.</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxxx xxxxxxxxx xxx xxxxxxxxxxx xxxxxxx XXX$x xxxx xx xxx xxxxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>This exception is specific to Windows NT, Windows 2000, and Windows XP.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxxxxxxx xx Xxxxxxx XX$ Xxxxxxx 0000$ xxx Xxxxxxx XX.</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A problem occurred accessing an underlying system API.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxx xxxxxxxxx xx xxxxxxxxxx xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The friendly name of the process.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There are problems accessing the performance counter API's used to get process information.</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxxx xxxxxxxxx xxx xxxxxxxxxxx xxxxxxx XXX$x xxxx xx xxx xxxxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>This exception is specific to Windows NT, Windows 2000, and Windows XP.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxxxxxxx xx Xxxxxxx XX$ Xxxxxxx 0000$ xxx Xxxxxxx XX.</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The friendly name of the process.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of a computer on the network.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;machineName&lt;/em&gt; parameter syntax is invalid.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxx$$xx$ xxxxxxxxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>It might have length zero (0).</source>
+          <target state="new">Xx xxxxx xxxx xxxxxx xxxx $0$.</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;machineName&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operating system platform does not support this operation on remote computers.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxx xxxxxxxx xxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There are problems accessing the performance counter API's used to get process information.</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxxx xxxxxxxxx xxx xxxxxxxxxxx xxxxxxx XXX$x xxxx xx xxx xxxxxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>This exception is specific to Windows NT, Windows 2000, and Windows XP.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxxxxxxx xx Xxxxxxx XX$ Xxxxxxx 0000$ xxx Xxxxxxx XX.</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A problem occurred accessing an underlying system API.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxx xxxxxxxxx xx xxxxxxxxxx xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Immediately stops the associated process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx xxxxx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The associated process could not be terminated.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxxx xxxxx xxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The process is terminating.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The associated process is a Win16 executable.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxx xx xxxxxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxxxxx xxxxxxx xx x Xxx00 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Discards any information about the associated process that has been cached inside the process component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxxxx xxxxx xxx xxxxxxxxxx xxxxxxx xxxx xxx xxxx xxxxxx xxxxxx xxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if a process resource is started; &lt;strong&gt;false&lt;/strong&gt; if no new process resource is started (for example, if an existing process is reused).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx x xxxxxxx xxxxxxxx xx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xx xxx xxxxxxx xxxxxxxx xx xxxxxxx $xxx xxxxxxx$ xx xx xxxxxxxx xxxxxxx xx xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There was an error in opening the associated file.</source>
+          <target state="new">$x$x$Xxxxx xxx xx xxxxx xx xxxxxxx xxx xxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process object has already been disposed.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;startInfo&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxXxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process object has already been disposed.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of a document or application file to run in the process.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxx xx xxxxxxxxxxx xxxx xx xxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when opening the associated file.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxx xxx xxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process object has already been disposed.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The PATH environment variable has a string containing quotes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xxxxxxxxxxx xxxxxxxx xxx x xxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of an application file to run in the process.</source>
+          <target state="new">$x$x$Xxx xxxx xx xx xxxxxxxxxxx xxxx xx xxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Command-line arguments to pass when starting the process.</source>
+          <target state="new">$x$x$Xxxxxxx$xxxx xxxxxxxxx xx xxxx xxxx xxxxxxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;fileName&lt;/em&gt; or &lt;em&gt;arguments&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxXxxx$$xx$ xx $xx$xxxxxxxxx$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process object has already been disposed.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xxx xxxxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The PATH environment variable has a string containing quotes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xxxxxxxxxxx xxxxxxxx xxx x xxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The wait setting could not be accessed.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxxx xxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The amount of time, in milliseconds, to wait for the associated process to exit.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx$ xx xxxxxxxxxxxx$ xx xxxx xxx xxx xxxxxxxxxx xxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>The maximum is the largest possible value of a 32-bit integer, which represents infinity to the operating system.</source>
+          <target state="new">Xxx xxxxxxx xx xxx xxxxxxx xxxxxxxx xxxxx xx x 00$xxx xxxxxxx$ xxxxx xxxxxxxxxx xxxxxxxx xx xxx xxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the associated process has exited; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxxx xxxxxxx xxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The wait setting could not be accessed.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxxx xxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Release all resources used by this process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxx xx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

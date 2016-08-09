@@ -1,0 +1,151 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a package of compressed files in the zip archive format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxx xx xxxxxxxxxx xxxxx xx xxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream that contains the archive to be read.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxxxxx xxx xxxxxxx xx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is already closed or does not support reading.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxxxx xx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The contents of the stream are not in the zip archive format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxx xxx xxx xx xxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The input or output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether the zip archive is used to read, create, or update entries.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xx xxxx xx xxxx$ xxxxxx$ xx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is already closed, or the capabilities of the stream do not match the mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxxxx$ xx xxx xxxxxxxxxxxx xx xxx xxxxxx xx xxx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; is an invalid value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The input or output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether the zip archive is used to read, create, or update entries.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xx xxxx xx xxxx$ xxxxxx$ xx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is already closed, or the capabilities of the stream do not match the mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxxxx$ xx xxx xxxxxxxxxxxx xx xxx xxxxxx xx xxx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; is an invalid value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The input or output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether the zip archive is used to read, create, or update entries.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxx xxxxxxx xx xxxx xx xxxx$ xxxxxx$ xx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The encoding to use when reading or writing entry names in this archive.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxx xxxxxxx xx xxxxxxx xxxxx xxxxx xx xxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>Specify a value for this parameter only when an encoding is required for interoperability with zip archive tools and libraries that do not support UTF-8 encoding for entry names.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx x xxxxx xxx xxxx xxxxxxxxx xxxx xxxx xx xxxxxxxx xx xxxxxxxx xxx xxxxxxxxxxxxxxxx xxxx xxx xxxxxxx xxxxx xxx xxxxxxxxx xxxx xx xxx xxxxxxx XXX$0 xxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is already closed, or the capabilities of the stream do not match the mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxxxx$ xx xxx xxxxxxxxxxxx xx xxx xxxxxx xx xxx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;mode&lt;/em&gt; is an invalid value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the collection of entries that are currently in the zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx xxxxxxx xxxx xxx xxxxxxxxx xx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection of entries that are currently in the zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxxxxx xxxx xxx xxxxxxxxx xx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive does not support reading.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive is corrupt, and its entries cannot be retrieved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xx xxxxxxx$ xxx xxx xxxxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a value that describes the type of action the zip archive can perform on entries.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxx xxxx xxxxxxxxx xxx xxxx xx xxxxxx xxx xxx xxxxxxx xxx xxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that describes the type of action (read, create, or update) the zip archive can perform on entries.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxx xx xxxxxx $xxxx$ xxxxxx$ xx xxxxxx$ xxx xxx xxxxxxx xxx xxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an empty entry that has the specified path and entry name in the zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxx xxxxx xxxx xxx xxx xxxxxxxxx xxxx xxx xxxxx xxxx xx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A path, relative to the root of the archive, that specifies the name of the entry to be created.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx$ xxxxxxxx xx xxx xxxx xx xxx xxxxxxx$ xxxx xxxxxxxxx xxx xxxx xx xxx xxxxx xx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An empty entry in the zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxx xx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;entryName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an empty entry that has the specified entry name and compression level in the zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxx xxxxx xxxx xxx xxx xxxxxxxxx xxxxx xxxx xxx xxxxxxxxxxx xxxxx xx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A path, relative to the root of the archive, that specifies the name of the entry to be created.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx$ xxxxxxxx xx xxx xxxx xx xxx xxxxxxx$ xxxx xxxxxxxxx xxx xxxx xx xxx xxxxx xx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that indicates whether to emphasize speed or compression effectiveness when creating the entry.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxxxxxx xx xxxxxxxxx xxxxx xx xxxxxxxxxxx xxxxxxxxxxxxx xxxx xxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An empty entry in the zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxx xx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;entryName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive does not support writing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to finish writing the archive and release unmanaged and managed resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxx xxxxxxx xxx xxxxxxx xxx xxxxxxx xxxxxxxxx xxx xxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves a wrapper for the specified entry in the zip archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxx xxx xxx xxxxxxxxx xxxxx xx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A path, relative to the root of the archive, that identifies the entry to retrieve.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx$ xxxxxxxx xx xxx xxxx xx xxx xxxxxxx$ xxxx xxxxxxxxxx xxx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A wrapper for the specified entry in the archive; &lt;strong&gt;null&lt;/strong&gt; if the entry does not exist in the archive.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxx xxx xxxxxxxxx xxxxx xx xxx xxxxxxx$ $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxx xxxx xxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;entryName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive does not support reading.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxx xxx xxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive has been disposed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zip archive is corrupt, and its entries cannot be retrieved.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xx xxxxxxx$ xxx xxx xxxxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

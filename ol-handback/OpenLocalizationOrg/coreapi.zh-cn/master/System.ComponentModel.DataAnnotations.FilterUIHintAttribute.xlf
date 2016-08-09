@@ -1,0 +1,55 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an attribute that is used to specify the filtering behavior for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxxxxx xxxx xx xxxx xx xxxxxxx xxx xxxxxxxxx xxxxxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the control to use for filtering.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the control to use for filtering.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the presentation layer that supports this control.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxxx xxxxx xxxx xxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the control to use for filtering.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the presentation layer that supports this control.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxxx xxxxx xxxx xxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The list of parameters for the control.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name/value pairs that are used as parameters in the control's constructor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx$xxxxx xxxxx xxxx xxx xxxx xx xxxxxxxxxx xx xxx xxxxxxx$x xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name/value pairs that are used as parameters in the control's constructor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xxxx xxx xxxx xx xxxxxxxxxx xx xxx xxxxxxx$x xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the control to use for filtering.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxx xx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the control to use for filtering.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the presentation layer that supports this control.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxxxxxxx xxxxx xxxx xxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the presentation layer that supports this control.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxxx xxxxx xxxx xxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value that indicates whether this attribute instance is equal to a specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxxx xxxxxxxxx xxxxxxxx xx xxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to compare with this attribute instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;\n&lt;strong&gt;True&lt;/strong&gt; if the passed object is equal to this attribute instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$$x$$x$x$$x$xxxxxx$Xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxx xx xxxxx xx xxxx xxxxxxxxx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x$x$$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this attribute instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;&lt;/p&gt;\n&lt;p&gt;This attribute insatnce hash code.&lt;/p&gt;\n&lt;p&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$$x$$x$x$Xxxx xxxxxxxxx xxxxxxxx xxxx xxxx.$$x$$x$x$$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

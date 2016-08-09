@@ -1,0 +1,217 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a Transact-SQL statement or stored procedure to execute against a SQL Server database.</source>
+          <target state="new">$x$x$Xxxxxxxxxx x Xxxxxxxx$XXX xxxxxxxxx xx xxxxxx xxxxxxxxx xx xxxxxxx xxxxxxx x XXX Xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text of the query.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text of the query.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The text of the query.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the Transact-SQL statement, table name or stored procedure to execute at the data source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx Xxxxxxxx$XXX xxxxxxxxx$ xxxxx xxxx xx xxxxxx xxxxxxxxx xx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Transact-SQL statement or stored procedure to execute.</source>
+          <target state="new">$x$x$Xxx Xxxxxxxx$XXX xxxxxxxxx xx xxxxxx xxxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The default is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the wait time before terminating the attempt to execute a command and generating an error.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xxxx xxxxxx xxxxxxxxxxx xxx xxxxxxx xx xxxxxxx x xxxxxxx xxx xxxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time in seconds to wait for the command to execute.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxx xx xxxx xxx xxx xxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>The default is 30 seconds.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx 00 xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection to a data source.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx x xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>The default value is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value indicating whether the command object should be visible in a Windows Form Designer control.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxx xxxxxx xx xxxxxxx xx x Xxxxxxx Xxxx Xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value indicating whether the command object should be visible in a control.</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxx xxxxxx xx xxxxxxx xx x xxxxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameters of the Transact-SQL statement or stored procedure.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxx Xxxxxxxx$XXX xxxxxxxxx xx xxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The default is an empty collection.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx xx xxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when the execution of a Transact-SQL statement completes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx xxx xxxxxxxxx xx x Xxxxxxxx$XXX xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes a Transact-SQL statement against the connection and returns the number of rows affected.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x Xxxxxxxx$XXX xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxx xxxxxxx xxx xxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of rows affected.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An exception occurred while executing the command against a locked row.</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxxxxx x xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>This exception is not generated when you are using Microsoft .NET Framework version 1.0.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxx xxxxxxxxx xxxx xxx xxx xxxxx Xxxxxxxxx .XXX Xxxxxxxxx xxxxxxx 0.0.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An exception occurred while executing the command against a locked row.</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxxxxx x xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>This exception is not generated when you are using Microsoft .NET Framework version 1.0.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxx xxxxxxxxx xxxx xxx xxx xxxxx Xxxxxxxxx .XXX Xxxxxxxxx xxxxxxx 0.0.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Executes the query, and returns the first column of the first row in the result set returned by the query.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx$ xxx xxxxxxx xxx xxxxx xxxxxx xx xxx xxxxx xxx xx xxx xxxxxx xxx xxxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>Additional columns or rows are ignored.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxxxx xxxxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first column of the first row in the result set, or a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic) if the result set is empty.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxx xxxxx xxx xx xxx xxxxxx xxx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xx xxx xxxxxx xxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>Returns a maximum of 2033 characters.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx x xxxxxxx xx 0000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An exception occurred while executing the command against a locked row.</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxxxxx x xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>This exception is not generated when you are using Microsoft .NET Framework version 1.0.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxx xxxxxxxxx xxxx xxx xxx xxxxx Xxxxxxxxx .XXX Xxxxxxxxx xxxxxxx 0.0.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An exception occurred while executing the command against a locked row.</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxxxxx x xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>This exception is not generated when you are using Microsoft .NET Framework version 1.0.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxx xxxxxxxxx xxxx xxx xxx xxxxx Xxxxxxxxx .XXX Xxxxxxxxx xxxxxxx 0.0.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;SQL Server returned an error while executing the command text.&lt;/p&gt;\n&lt;p&gt;A timeout occurred during a streaming operation.</source>
+          <target state="new">$x$x$XXX Xxxxxx xxxxxxxx xx xxxxx xxxxx xxxxxxxxx xxx xxxxxxx xxxx.$$x$$x$x$X xxxxxxx xxxxxxxx xxxxxx x xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>For more information about streaming, see SqlClient Streaming Support.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx xxxxxxxxx$ xxx XxxXxxxxx Xxxxxxxxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a prepared version of the command on an instance of SQL Server.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxx xxxxxxx xx xxx xxxxxxx xx xx xxxxxxxx xx XXX Xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

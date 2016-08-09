@@ -1,0 +1,397 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a Windows NT performance counter component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x Xxxxxxx XX xxxxxxxxxxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the size, in bytes, of the global memory shared by performance counters.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx$ xx xxxxx$ xx xxx xxxxxx xxxxxx xxxxxx xx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The default size is 524,288 bytes.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxx xx 000$000 xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter category (performance object) with which this performance counter is associated.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx $xxxxxxxxxxx xxxxxx$ xxxx xxxxx xxxx xxxxxxxxxxx xxxxxxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;categoryName&lt;/em&gt; or &lt;em&gt;counterName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter category (performance object) with which this performance counter is associated.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx $xxxxxxxxxxx xxxxxx$ xxxx xxxxx xxxx xxxxxxxxxxx xxxxxxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to access the counter in read-only mode (although the counter itself could be read/write); &lt;strong&gt;false&lt;/strong&gt; to access the counter in read/write mode.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxx xxx xxxxxxx xx xxxx$xxxx xxxx $xxxxxxxx xxx xxxxxxx xxxxxx xxxxx xx xxxx$xxxxx$$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxx xxx xxxxxxx xx xxxx$xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;categoryName&lt;/em&gt; or &lt;em&gt;counterName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter category (performance object) with which this performance counter is associated.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx $xxxxxxxxxxx xxxxxx$ xxxx xxxxx xxxx xxxxxxxxxxx xxxxxxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;categoryName&lt;/em&gt; or &lt;em&gt;counterName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter category (performance object) with which this performance counter is associated.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx $xxxxxxxxxxx xxxxxx$ xxxx xxxxx xxxx xxxxxxxxxxx xxxxxxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to access a counter in read-only mode; &lt;strong&gt;false&lt;/strong&gt; to access a counter in read/write mode.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxx x xxxxxxx xx xxxx$xxxx xxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxx x xxxxxxx xx xxxx$xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;categoryName&lt;/em&gt; or &lt;em&gt;counterName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter category (performance object) with which this performance counter is associated.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx $xxxxxxxxxxx xxxxxx$ xxxx xxxxx xxxx xxxxxxxxxxx xxxxxxx xx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The computer on which the performance counter and its associated category exist.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxx xxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;machineName&lt;/em&gt; parameter is not valid.</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxXxxx$$xx$ xxxxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;categoryName&lt;/em&gt; or &lt;em&gt;counterName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxx$$xx$ xx $xx$xxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the name of the performance counter category for this performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx xxx xxxx xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the performance counter category (performance object) with which this performance counter is associated.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx $xxxxxxxxxxx xxxxxx$ xxxx xxxxx xxxx xxxxxxxxxxx xxxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the description for this performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxxx xxx xxxx xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A description of the item or quantity that this performance counter measures.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxx xx xxx xxxx xx xxxxxxxx xxxx xxxx xxxxxxxxxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the counter, which generally describes the quantity being counted.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx$ xxxxx xxxxxxxxx xxxxxxxxx xxx xxxxxxxx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>This name is displayed in the list of counters of the Performance Counter Manager MMC snap in's Add Counters dialog box.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xx xxxxxxxxx xx xxx xxxx xx xxxxxxxx xx xxx Xxxxxxxxxxx Xxxxxxx Xxxxxxx XXX xxxx xx$x Xxx Xxxxxxxx xxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the counter type of the associated performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxx xx xxx xxxxxxxxxx xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the lifetime of a process.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets an instance name for this performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xx xxxxxxxx xxxx xxx xxxx xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the computer name for this performance counter &lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xxxx xxx xxxx xxxxxxxxxxx xxxxxxx $$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The server on which the performance counter and its associated category reside.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the raw, or uncalculated, value of this counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxx$ xx xxxxxxxxxxxx$ xxxxx xx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The raw value of the counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Closes the performance counter and frees all the resources allocated by this performance counter instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxxxx xxxxxxx xxx xxxxx xxx xxx xxxxxxxxx xxxxxxxxx xx xxxx xxxxxxxxxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Increments the associated performance counter by one through an efficient atomic operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxxxxx xxxxxxxxxxx xxxxxxx xx xxx xxxxxxx xx xxxxxxxxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The incremented counter value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Increments or decrements the value of the associated performance counter by a specified amount through an efficient atomic operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxxxxxx xxx xxxxx xx xxx xxxxxxxxxx xxxxxxxxxxx xxxxxxx xx x xxxxxxxxx xxxxxx xxxxxxx xx xxxxxxxxx xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to increment by.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxx xx.</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>(A negative value decrements the counter.) &lt;/p&gt;\n</source>
+          <target state="new">$X xxxxxxxx xxxxx xxxxxxxxxx xxx xxxxxxx.$ $$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new counter value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Obtains a counter sample, and returns the raw, or uncalculated, value for it.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxx xxxxxx$ xxx xxxxxxx xxx xxx$ xx xxxxxxxxxxxx$ xxxxx xxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Obtains a counter sample and returns the calculated value for it.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxx xxxxxx xxx xxxxxxx xxx xxxxxxxxxx xxxxx xxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The next calculated value that the system obtains for this counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxxx xxxxx xxxx xxx xxxxxx xxxxxxx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The instance is not correctly associated with a performance counter.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xxxxxxxxxx xxxx x xxxxxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Code that is executing without administrative privileges attempted to read a performance counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxxxxx xxxxxxxxxx xxxxxxxxx xx xxxx x xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred when accessing a system API.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxx xxxxxxxxx x xxxxxx XXX.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition (Me), which does not support performance counters.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx $Xx$$ xxxxx xxxx xxx xxxxxxx xxxxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

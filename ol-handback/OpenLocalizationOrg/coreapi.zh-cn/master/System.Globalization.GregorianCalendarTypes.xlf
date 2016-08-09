@@ -1,0 +1,19 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines the different language versions of the Gregorian calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxxxxx xxxxxxxx xx xxx Xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Refers to the Arabic version of the Gregorian calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx Xxxxxx xxxxxxx xx xxx Xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Refers to the Middle East French version of the Gregorian calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx Xxxxxx Xxxx Xxxxxx xxxxxxx xx xxx Xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Refers to the transliterated English version of the Gregorian calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx xxxxxxxxxxxxxx Xxxxxxx xxxxxxx xx xxx Xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Refers to the transliterated French version of the Gregorian calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx xxxxxxxxxxxxxx Xxxxxx xxxxxxx xx xxx Xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Refers to the U.S. English version of the Gregorian calendar.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxx X.X. Xxxxxxx xxxxxxx xx xxx Xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

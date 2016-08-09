@@ -1,0 +1,10 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Denotes that the class is a complex type.</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxx xxxxx xx x xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>Complex types are non-scalar properties of entity types that enable scalar properties to be organized within entities.</source>
+          <target state="new">Xxxxxxx xxxxx xxx xxx$xxxxxx xxxxxxxxxx xx xxxxxx xxxxx xxxx xxxxxx xxxxxx xxxxxxxxxx xx xx xxxxxxxxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>Complex types do not have keys and cannot be managed by the Entity Framework apart from the parent object.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx xxxxx xx xxx xxxx xxxx xxx xxxxxx xx xxxxxxx xx xxx Xxxxxx Xxxxxxxxx xxxxx xxxx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

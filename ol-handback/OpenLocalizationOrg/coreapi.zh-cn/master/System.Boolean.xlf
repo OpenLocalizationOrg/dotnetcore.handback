@@ -1,0 +1,178 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a Boolean (&lt;strong&gt;true&lt;/strong&gt; or &lt;strong&gt;false&lt;/strong&gt;) value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x Xxxxxxx $$xxxxxx$xxxx$$xxxxxx$ xx $xxxxxx$xxxxx$$xxxxxx$$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the Boolean value &lt;strong&gt;false&lt;/strong&gt; as a string.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx Xxxxxxx xxxxx $xxxxxx$xxxxx$$xxxxxx$ xx x xxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the Boolean value &lt;strong&gt;true&lt;/strong&gt; as a string.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx Xxxxxxx xxxxx $xxxxxx$xxxx$$xxxxxx$ xx x xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This field is read-only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed integer that indicates the relative values of this instance and &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;Return Value &lt;/p&gt;\n&lt;p&gt;Condition &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is &lt;strong&gt;false&lt;/strong&gt; and &lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;true&lt;/strong&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx xxxx xxxxxxxx xxx $xx$xxxxx$$xx$.$$x$$x$x$Xxxxxx Xxxxx $$x$$x$x$Xxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$ xxx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance and &lt;em&gt;value&lt;/em&gt; are equal (either both are &lt;strong&gt;true&lt;/strong&gt; or both are &lt;strong&gt;false&lt;/strong&gt;).</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xxx $xx$xxxxx$$xx$ xxx xxxxx $xxxxxx xxxx xxx $xxxxxx$xxxx$$xxxxxx$ xx xxxx xxx $xxxxxx$xxxxx$$xxxxxx$$.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is &lt;strong&gt;true&lt;/strong&gt; and &lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxxx$$xx$ xx $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;obj&lt;/em&gt; has the same value as this instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxx$$xx$ xxx xxx xxxx xxxxx xx xxxx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value indicating whether this instance is equal to a specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxxxxxxxx xxxxxxx xxxx xxxxxxxx xx xxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare to this instance.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing the value to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx xxx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; or &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if the value of this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.</source>
+          <target state="new">$x$x$0 xx xxx xxxxx xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The desired type.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object of the specified type, with a value that is equivalent to the value of this &lt;strong&gt;Boolean&lt;/strong&gt; object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxx xxxxxxxxx xxxx$ xxxx x xxxxx xxxx xx xxxxxxxxxx xx xxx xxxxx xx xxxx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The requested type conversion is not supported.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xxxxxxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;1 if this instance is &lt;strong&gt;true&lt;/strong&gt;; otherwise, 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$0 xx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxxxx$ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing the value to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx xxx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;value&lt;/em&gt; was converted successfully; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxx$$xx$ xxx xxxxxxxxx xxxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

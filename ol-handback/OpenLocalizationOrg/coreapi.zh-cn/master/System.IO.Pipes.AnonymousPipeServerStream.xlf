@@ -1,0 +1,31 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Exposes a stream around an anonymous pipe, which supports both synchronous and asynchronous read and write operations.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxx xxxxxx xx xxxxxxxxx xxxx$ xxxxx xxxxxxxx xxxx xxxxxxxxxxx xxx xxxxxxxxxxxx xxxx xxx xxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;serverSafePipeHandle&lt;/em&gt; or &lt;em&gt;clientSafePipeHandle&lt;/em&gt; is an invalid handle.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxxXxxxxx$$xx$ xx $xx$xxxxxxXxxxXxxxXxxxxx$$xx$ xx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;serverSafePipeHandle&lt;/em&gt; or &lt;em&gt;clientSafePipeHandle&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxXxxxXxxxxx$$xx$ xx $xx$xxxxxxXxxxXxxxXxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error, such as a disk error, has occurred.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The stream has been closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx X$X xxxxx$ xxxx xx x xxxx xxxxx$ xxx xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of the buffer.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This value must be greater than or equal to 0.</source>
+          <target state="new">Xxxx xxxxx xxxx xx xxxxxxx xxxx xx xxxxx xx 0.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection is broken or another I/O error occurs.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxxxxx xx xxxxxxx X$X xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pipe is closed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the pipe transmission mode that is supported by the current pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxxxxxx xxxx xxxx xx xxxxxxxxx xx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,97 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Directs tracing or debugging output to a text writer, such as a stream writer, or to a stream, such as a file stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xx xxxxxxxxx xxxxxx xx x xxxx xxxxxx$ xxxx xx x xxxxxx xxxxxx$ xx xx x xxxxxx$ xxxx xx x xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the new instance of the trace listener.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxxxxx xx xxx xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;writer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the new instance of the trace listener.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxxxxx xx xxx xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;writer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the delimiter for the delimited list.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxxx xxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delimiter for the delimited list.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes trace information, a data object, and event information to the output file or stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxx xxxxxxxxxxx$ x xxxx xxxxxx$ xxx xxxxx xxxxxxxxxxx xx xxx xxxxxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name used to identify the output, typically the name of the application that generated the trace event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xx xxxxxxxx xxx xxxxxx$ xxxxxxxxx xxx xxxx xx xxx xxxxxxxxxxx xxxx xxxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A data object to write to the output file or stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxx xx xxxxx xx xxx xxxxxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes trace information, an array of data objects, and event information to the output file or stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxx xxxxxxxxxxx$ xx xxxxx xx xxxx xxxxxxx$ xxx xxxxx xxxxxxxxxxx xx xxx xxxxxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name used to identify the output, typically the name of the application that generated the trace event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xx xxxxxxxx xxx xxxxxx$ xxxxxxxxx xxx xxxx xx xxx xxxxxxxxxxx xxxx xxxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of data objects to write to the output file or stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxx xxxxxxx xx xxxxx xx xxx xxxxxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes trace information, a message, and event information to the output file or stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxx xxxxxxxxxxx$ x xxxxxxx$ xxx xxxxx xxxxxxxxxxx xx xxx xxxxxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name used to identify the output, typically the name of the application that generated the trace event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xx xxxxxxxx xxx xxxxxx$ xxxxxxxxx xxx xxxx xx xxx xxxxxxxxxxx xxxx xxxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The trace message to write to the output file or stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xx xxxxx xx xxx xxxxxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes trace information, a formatted array of objects, and event information to the output file or stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxx xxxxxxxxxxx$ x xxxxxxxxx xxxxx xx xxxxxxx$ xxx xxxxx xxxxxxxxxxx xx xxx xxxxxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A name used to identify the output, typically the name of the application that generated the trace event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xx xxxxxxxx xxx xxxxxx$ xxxxxxxxx xxx xxxx xx xxx xxxxxxxxxxx xxxx xxxxxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A format string that contains zero or more format items that correspond to objects in the &lt;em&gt;args&lt;/em&gt; array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxx xxxxxxxx xxxx xx xxxx xxxxxx xxxxx xxxx xxxxxxxxxx xx xxxxxxx xx xxx $xx$xxxx$$xx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing zero or more objects to format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxxx xx xxxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

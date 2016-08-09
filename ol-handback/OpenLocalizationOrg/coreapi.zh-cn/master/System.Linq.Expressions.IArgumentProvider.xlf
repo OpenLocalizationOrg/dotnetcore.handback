@@ -1,0 +1,76 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides an internal interface for accessing the arguments of multiple tree nodes (DynamicExpression, ElementInit, MethodCallExpression, InvocationExpression, NewExpression, and InexExpression).</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxxxxxxx xxxxxxxxx xxx xxxxxxxxx xxx xxxxxxxxx xx xxxxxxxx xxxx xxxxx $XxxxxxxXxxxxxxxxx$ XxxxxxxXxxx$ XxxxxxXxxxXxxxxxxxxx$ XxxxxxxxxxXxxxxxxxxx$ XxxXxxxxxxxxx$ xxx XxxxXxxxxxxxxx$.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>You should not use this API.</source>
+          <target state="new">Xxx xxxxxx xxx xxx xxxx XXX.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>It is only public due to DLL refactoring and exists only for internal performance optimizations.&lt;/p&gt;\n&lt;p&gt;This enables two optimizations which reduce the size of expression trees.</source>
+          <target state="new">Xx xx xxxx xxxxxx xxx xx XXX xxxxxxxxxxx xxx xxxxxx xxxx xxx xxxxxxxx xxxxxxxxxxx xxxxxxxxxxxxx.$$x$$x$x$Xxxx xxxxxxx xxx xxxxxxxxxxxxx xxxxx xxxxxx xxx xxxx xx xxxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The first enables the tree nodes to hold onto an IList&lt;T&gt; instead of a ReadOnlyCollection.</source>
+          <target state="new">Xxx xxxxx xxxxxxx xxx xxxx xxxxx xx xxxx xxxx xx XXxxx$X$ xxxxxxx xx x XxxxXxxxXxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>IList&lt;T&gt; saves the cost of allocating the ReadOnlyCollection for each node.</source>
+          <target state="new">XXxxx$X$ xxxxx xxx xxxx xx xxxxxxxxxx xxx XxxxXxxxXxxxxxxxxx xxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The second enables creating specialized subclasses that hold onto a specific number of arguments (for example, Block2, Block3, Block4).</source>
+          <target state="new">Xxx xxxxxx xxxxxxx xxxxxxxx xxxxxxxxxxx xxxxxxxxxx xxxx xxxx xxxx x xxxxxxxx xxxxxx xx xxxxxxxxx $xxx xxxxxxx$ Xxxxx0$ Xxxxx0$ Xxxxx0$.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Therefore, these nodes avoid allocating both a ReadOnlyCollection and an array for storing their elements, saving 32 bytes per node.&lt;/p&gt;\n&lt;p&gt;The expression tree nodes continue to expose the original LINQ properties of ReadOnlyCollections.</source>
+          <target state="new">Xxxxxxxxx$ xxxxx xxxxx xxxxx xxxxxxxxxx xxxx x XxxxXxxxXxxxxxxxxx xxx xx xxxxx xxx xxxxxxx xxxxx xxxxxxxx$ xxxxxx 00 xxxxx xxx xxxx.$$x$$x$x$Xxx xxxxxxxxxx xxxx xxxxx xxxxxxxx xx xxxxxx xxx xxxxxxxx XXXX xxxxxxxxxx xx XxxxXxxxXxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The nodes do this by re-using a field for storing both the array or an element that would normally be stored in the array.&lt;/p&gt;\n&lt;p&gt;For the array case, the collection is typed to IList&lt;T&gt; instead of ReadOnlyCollection&lt;T&gt;.</source>
+          <target state="new">Xxx xxxxx xx xxxx xx xx$xxxxx x xxxxx xxx xxxxxxx xxxx xxx xxxxx xx xx xxxxxxx xxxx xxxxx xxxxxxxx xx xxxxxx xx xxx xxxxx.$$x$$x$x$Xxx xxx xxxxx xxxx$ xxx xxxxxxxxxx xx xxxxx xx XXxxx$X$ xxxxxxx xx XxxxXxxxXxxxxxxxxx$X$.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>When the node is initially constructed it is an array.</source>
+          <target state="new">Xxxx xxx xxxx xx xxxxxxxxx xxxxxxxxxxx xx xx xx xxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>When the compiler accesses the members it uses this interface.</source>
+          <target state="new">Xxxx xxx xxxxxxxx xxxxxxxx xxx xxxxxxx xx xxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Accessing array elements promotes the array to a ReadOnlyCollection.&lt;/p&gt;\n&lt;p&gt;For the object case we store the first argument in a field typed to object.</source>
+          <target state="new">Xxxxxxxxx xxxxx xxxxxxxx xxxxxxxx xxx xxxxx xx x XxxxXxxxXxxxxxxxxx.$$x$$x$x$Xxx xxx xxxxxx xxxx xx xxxxx xxx xxxxx xxxxxxxx xx x xxxxx xxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>When the node is initially constructed, the field holds the Expression.</source>
+          <target state="new">Xxxx xxx xxxx xx xxxxxxxxx xxxxxxxxxxx$ xxx xxxxx xxxxx xxx Xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The compiler accesses arguments through this interface, and the accessor for the first argument uses Expression.ReturnObject to return the object that handles the Expression or ReadOnlyCollection case.</source>
+          <target state="new">Xxx xxxxxxxx xxxxxxxx xxxxxxxxx xxxxxxx xxxx xxxxxxxxx$ xxx xxx xxxxxxxx xxx xxx xxxxx xxxxxxxx xxxx Xxxxxxxxxx.XxxxxxXxxxxx xx xxxxxx xxx xxxxxx xxxx xxxxxxx xxx Xxxxxxxxxx xx XxxxXxxxXxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>When the user accesses the ReadOnlyCollection, then the object field is updated to hold directly onto the ReadOnlyCollection.&lt;/p&gt;\n&lt;p&gt;It is important that the Expressions consistently return the same ReadOnlyCollection.</source>
+          <target state="new">Xxxx xxx xxxx xxxxxxxx xxx XxxxXxxxXxxxxxxxxx$ xxxx xxx xxxxxx xxxxx xx xxxxxxx xx xxxx xxxxxxxx xxxx xxx XxxxXxxxXxxxxxxxxx.$$x$$x$x$Xx xx xxxxxxxxx xxxx xxx Xxxxxxxxxxx xxxxxxxxxxxx xxxxxx xxx xxxx XxxxXxxxXxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Otherwise, the re-writer tree walker will break.</source>
+          <target state="new">Xxxxxxxxx$ xxx xx$xxxxxx xxxx xxxxxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>It is a breaking change from LINQ v1 to return different ReadOnlyCollections form the same Expression node.</source>
+          <target state="new">Xx xx x xxxxxxxx xxxxxx xxxx XXXX x0 xx xxxxxx xxxxxxxxx XxxxXxxxXxxxxxxxxxx xxxx xxx xxxx Xxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Currently users can rely on object identity to tell if the node has changed.</source>
+          <target state="new">Xxxxxxxxx xxxxx xxx xxxx xx xxxxxx xxxxxxxx xx xxxx xx xxx xxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>Storing the ReadOnlyCollection in an overloaded field both reduces memory usage and maintains compatibility for the public API.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxx xxx XxxxXxxxXxxxxxxxxx xx xx xxxxxxxxxx xxxxx xxxx xxxxxxx xxxxxx xxxxx xxx xxxxxxxxx xxxxxxxxxxxxx xxx xxx xxxxxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the number of arguments to the expression tree node.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xx xxxxxxxxx xx xxx xxxxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>You should not use this type.</source>
+          <target state="new">Xxx xxxxxx xxx xxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>It is only public due to assembly refactoring, and it is used internally for performance optimizations.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxxx xxxxxx xxx xx xxxxxxxx xxxxxxxxxxx$ xxx xx xx xxxx xxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the argument at index, throwing if index is out of bounds.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xx xxxxx$ xxxxxxxx xx xxxxx xx xxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>You should not use this type.</source>
+          <target state="new">Xxx xxxxxx xxx xxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>It is only public due to assembly refactoring, and it is used internally for performance optimizations.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxxx xxxxxx xxx xx xxxxxxxx xxxxxxxxxxx$ xxx xx xx xxxx xxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the method that compares two objects of the same type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxx xxxx xxxxxxxx xxx xxxxxxx xx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second object to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the objects to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed integer that indicates the relative values of &lt;em&gt;x&lt;/em&gt; and &lt;em&gt;y&lt;/em&gt;, as shown in the following table.&lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Meaning &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than 0 &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; is less than &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;0 &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; equals &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than 0 &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;\n&lt;em&gt;x&lt;/em&gt; is greater than &lt;em&gt;y&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx $xx$x$$xx$ xxx $xx$x$$xx$$ xx xxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x$x$Xxxxx $$x$$x$x$Xxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx 0 $$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xx xxxx xxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$0 $$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xxxxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx 0 $$x$$x$$xx$$xx$$x$x$$x$xx$x$$xx$ xx xxxxxxx xxxx $xx$x$$xx$.$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit></group></body></file></xliff>

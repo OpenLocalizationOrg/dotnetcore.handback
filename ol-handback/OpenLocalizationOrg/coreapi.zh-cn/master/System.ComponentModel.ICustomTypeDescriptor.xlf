@@ -1,0 +1,46 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides an interface that supplies dynamic custom type information for an object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxxxxxxxx xxxx xxxxxxxx xxxxxxx xxxxxx xxxx xxxxxxxxxxx xxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of custom attributes for this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxxxxx xxxxxxxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the class name of this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx xxxx xx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The class name of the object, or &lt;strong&gt;null&lt;/strong&gt; if the class does not have a name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xx xxx xxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxx xxxx xxx xxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the name of this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the object, or &lt;strong&gt;null&lt;/strong&gt; if the object does not have a name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxx xxx xxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a type converter for this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxxxxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default event for this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the default property for this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xxxxxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an editor of the specified type for this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxx xx xxx xxxxxxxxx xxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the events for this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the events for this instance of a component using the specified attribute array as a filter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxxxxx xxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the properties for this instance of a component.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the properties for this instance of a component using the attribute array as a filter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xxx xxxx xxxxxxxx xx x xxxxxxxxx xxxxx xxx xxxxxxxxx xxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an object that contains the property described by the specified property descriptor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxx xxxx xxxxxxxx xxx xxxxxxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

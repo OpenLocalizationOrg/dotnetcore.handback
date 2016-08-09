@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates the type of procedure being invoked when calling the &lt;strong&gt;CallByName&lt;/strong&gt; function.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xx xxxxxxxxx xxxxx xxxxxxx xxxx xxxxxxx xxx $xxxxxx$XxxxXxXxxx$$xxxxxx$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A property value is being retrieved.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxx xx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This member is equivalent to the Visual Basic constant &lt;strong&gt;vbGet&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxxxxxxxxx xx xxx Xxxxxx Xxxxx xxxxxxxx $xxxxxx$xxXxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An Object property value is being determined.</source>
+          <target state="new">$x$x$Xx Xxxxxx xxxxxxxx xxxxx xx xxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This member is equivalent to the Visual Basic constant &lt;strong&gt;vbLet&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxxxxxxxxx xx xxx Xxxxxx Xxxxx xxxxxxxx $xxxxxx$xxXxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A method is being invoked.</source>
+          <target state="new">$x$x$X xxxxxx xx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This member is equivalent to the Visual Basic constant &lt;strong&gt;vbMethod&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxxxxxxxxx xx xxx Xxxxxx Xxxxx xxxxxxxx $xxxxxx$xxXxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A property value is being determined.</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxx xx xxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This member is equivalent to the Visual Basic constant &lt;strong&gt;vbSet&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xx xxxxxxxxxx xx xxx Xxxxxx Xxxxx xxxxxxxx $xxxxxx$xxXxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

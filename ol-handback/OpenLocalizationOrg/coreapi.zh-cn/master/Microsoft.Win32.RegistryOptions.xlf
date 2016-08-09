@@ -1,0 +1,16 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies options to use when creating a registry key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xx xxx xxxx xxxxxxxx x xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A non-volatile key.</source>
+          <target state="new">$x$x$X xxx$xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This is the default.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A volatile key.</source>
+          <target state="new">$x$x$X xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The information is stored in memory and is not preserved when the corresponding registry hive is unloaded.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxxxxxx xx xxxxxx xx xxxxxx xxx xx xxx xxxxxxxxx xxxx xxx xxxxxxxxxxxxx xxxxxxxx xxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

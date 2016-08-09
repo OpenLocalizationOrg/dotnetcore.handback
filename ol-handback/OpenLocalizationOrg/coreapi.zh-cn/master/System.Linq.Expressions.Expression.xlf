@@ -1,0 +1,1309 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides the base class from which the classes that represent expression tree nodes are derived.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxx xxxxx xxxx xxxxx xxx xxxxxxx xxxx xxxxxxxxx xxxxxxxxxx xxxx xxxxx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>It also contains &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic) factory methods to create the various node types.</source>
+          <target state="new">Xx xxxx xxxxxxxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xxxxxxx xxxxxxx xx xxxxxx xxx xxxxxxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This is an &lt;strong&gt;abstract&lt;/strong&gt; class.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx xx $xxxxxx$xxxxxxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the node can be reduced to a simpler node.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxx xxx xx xxxxxxx xx x xxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If this returns true, Reduce() can be called to produce the reduced form.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xxxxxxx xxxx$ Xxxxxx$$ xxx xx xxxxxx xx xxxxxxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;True if the node can be reduced, otherwise false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxx xxxx xxx xx xxxxxxx$ xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The visitor to visit this node with.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of visiting this node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The addition operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the addition operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The addition operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the addition operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The bitwise &lt;strong&gt;AND&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $xxxxxx$XXX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the bitwise &lt;strong&gt;AND&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxx $xxxxxx$XXX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The bitwise &lt;strong&gt;AND&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type are not the same Boolean type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $xxxxxx$XXX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx xxx xxx xxx xxxx Xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the bitwise &lt;strong&gt;AND&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type are not the same Boolean type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxx $xxxxxx$XXX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx xxx xxx xxx xxxx Xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An expression that represents the multidimensional array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxx xxxxxxxxxx xxx xxxxxxxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An expression representing the array to index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxxxxxxxxxx xxx xxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array that contains expressions used to index the array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxx xxxxxxxx xxxxxxxxxxx xxxx xx xxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; or &lt;em&gt;indexes&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; or &lt;em&gt;index&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; or &lt;em&gt;indexes&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt;.Type does not represent an array type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$.Xxxx xxxx xxx xxxxxxxxx xx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; or &lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; does not represent a field or property.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The property represented by &lt;em&gt;member&lt;/em&gt; does not have a &lt;strong&gt;set&lt;/strong&gt; accessor.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type is not assignable to the type of the field or property that &lt;em&gt;member&lt;/em&gt; represents.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxxx xxx xxxxxxxxx x xxxxx xx xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$ xxxx xxx xxxx x $xxxxxx$xxx$$xxxxxx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxx xx xxx xxxxx xx xxxxxxxx xxxx $xx$xxxxxx$$xx$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;propertyAccessor&lt;/em&gt; or &lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxxxxxx$$xx$ xx $xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;propertyAccessor&lt;/em&gt; does not represent a property accessor method.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The property accessed by &lt;em&gt;propertyAccessor&lt;/em&gt; does not have a &lt;strong&gt;set&lt;/strong&gt; accessor.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type is not assignable to the type of the field or property that &lt;em&gt;member&lt;/em&gt; represents.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxxxxxx$$xx$ xxxx xxx xxxxxxxxx x xxxxxxxx xxxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxxx xxxxxxxx xx $xx$xxxxxxxxXxxxxxxx$$xx$ xxxx xxx xxxx x $xxxxxx$xxx$$xxxxxx$ xxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxx xx xxx xxxxx xx xxxxxxxx xxxx $xx$xxxxxx$$xx$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The variables in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The variables in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The third expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The third expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fourth expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The third expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fourth expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The fifth expression in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result type of the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result type of the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The variables in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result type of the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The variables in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result type of the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expressions in the block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that will be passed to the associated label upon jumping.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxxx xxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that will be passed to the associated label upon jumping.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxxx xxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and &lt;em&gt;method&lt;/em&gt; represents an instance method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxxxx$$xx$ xxxxxxxxxx xx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt;.Type is not assignable to the declaring type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and &lt;em&gt;method&lt;/em&gt; represents an instance method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxxxx$$xx$ xxxxxxxxxx xx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt;.Type is not assignable to the declaring type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The number of elements in &lt;em&gt;arguments&lt;/em&gt; does not equal the number of parameters for the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more of the elements of &lt;em&gt;arguments&lt;/em&gt; is not assignable to the corresponding parameter for the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xx xxxxxxxx xx $xx$xxxxxxxxx$$xx$ xxxx xxx xxxxx xxx xxxxxx xx xxxxxxxxxx xxx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xx xxx xxxxxxxx xx $xx$xxxxxxxxx$$xx$ xx xxx xxxxxxxxxx xx xxx xxxxxxxxxxxxx xxxxxxxxx xxx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and &lt;em&gt;method&lt;/em&gt; represents an instance method.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;arguments&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and one or more of its elements is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxxxx$$xx$ xxxxxxxxxx xx xxxxxxxx xxxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xx xxxx xx xxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt;.Type is not assignable to the declaring type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The number of elements in &lt;em&gt;arguments&lt;/em&gt; does not equal the number of parameters for the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more of the elements of &lt;em&gt;arguments&lt;/em&gt; is not assignable to the corresponding parameter for the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xx xxxxxxxx xx $xx$xxxxxxxxx$$xx$ xxxx xxx xxxxx xxx xxxxxx xx xxxxxxxxxx xxx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xx xxx xxxxxxxx xx $xx$xxxxxxxxx$$xx$ xx xxx xxxxxxxxxx xx xxx xxxxxxxxxxxxx xxxxxxxxx xxx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;instance&lt;/em&gt; or &lt;em&gt;methodName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx $xx$xxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No method whose name is &lt;em&gt;methodName&lt;/em&gt;, whose type parameters match &lt;em&gt;typeArguments&lt;/em&gt;, and whose parameter types match &lt;em&gt;arguments&lt;/em&gt; is found in &lt;em&gt;instance&lt;/em&gt;.Type or its base types.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;More than one method whose name is &lt;em&gt;methodName&lt;/em&gt;, whose type parameters match &lt;em&gt;typeArguments&lt;/em&gt;, and whose parameter types match &lt;em&gt;arguments&lt;/em&gt; is found in &lt;em&gt;instance&lt;/em&gt;.Type or its base types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxx xxxx xx $xx$xxxxxxXxxx$$xx$$ xxxxx xxxx xxxxxxxxxx xxxxx $xx$xxxxXxxxxxxxx$$xx$$ xxx xxxxx xxxxxxxxx xxxxx xxxxx $xx$xxxxxxxxx$$xx$ xx xxxxx xx $xx$xxxxxxxx$$xx$.Xxxx xx xxx xxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxx xxxx xxx xxxxxx xxxxx xxxx xx $xx$xxxxxxXxxx$$xx$$ xxxxx xxxx xxxxxxxxxx xxxxx $xx$xxxxXxxxxxxxx$$xx$$ xxx xxxxx xxxxxxxxx xxxxx xxxxx $xx$xxxxxxxxx$$xx$ xx xxxxx xx $xx$xxxxxxxx$$xx$.Xxxx xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of elements in &lt;em&gt;arguments&lt;/em&gt; does not equal the number of parameters for the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more of the elements of &lt;em&gt;arguments&lt;/em&gt; is not assignable to the corresponding parameter for the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx xx $xx$xxxxxxxxx$$xx$ xxxx xxx xxxxx xxx xxxxxx xx xxxxxxxxxx xxx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xx xxx xxxxxxxx xx $xx$xxxxxxxxx$$xx$ xx xxx xxxxxxxxxx xx xxx xxxxxxxxxxxxx xxxxxxxxx xxx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; or &lt;em&gt;methodName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No method whose name is &lt;em&gt;methodName&lt;/em&gt;, whose type parameters match &lt;em&gt;typeArguments&lt;/em&gt;, and whose parameter types match &lt;em&gt;arguments&lt;/em&gt; is found in &lt;em&gt;type&lt;/em&gt; or its base types.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;More than one method whose name is &lt;em&gt;methodName&lt;/em&gt;, whose type parameters match &lt;em&gt;typeArguments&lt;/em&gt;, and whose parameter types match &lt;em&gt;arguments&lt;/em&gt; is found in &lt;em&gt;type&lt;/em&gt; or its base types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxx xxxx xx $xx$xxxxxxXxxx$$xx$$ xxxxx xxxx xxxxxxxxxx xxxxx $xx$xxxxXxxxxxxxx$$xx$$ xxx xxxxx xxxxxxxxx xxxxx xxxxx $xx$xxxxxxxxx$$xx$ xx xxxxx xx $xx$xxxx$$xx$ xx xxx xxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxxx xxxx xxx xxxxxx xxxxx xxxx xx $xx$xxxxxxXxxx$$xx$$ xxxxx xxxx xxxxxxxxxx xxxxx $xx$xxxxXxxxxxxxx$$xx$$ xxx xxxxx xxxxxxxxx xxxxx xxxxx $xx$xxxxxxxxx$$xx$ xx xxxxx xx $xx$xxxx$$xx$ xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the catch statement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the catch statement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the catch statement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the catch statement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type are not convertible to each other.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx xxx xxx xxxxxxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type are not convertible to each other.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;conversion&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and &lt;em&gt;conversion&lt;/em&gt;.Type is a delegate type that does not take exactly one argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx xxx xxx xxxxxxxxxxx xx xxxx xxxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxxxxxxxx$$xx$.Xxxx xx x xxxxxxxx xxxx xxxx xxxx xxx xxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;test&lt;/em&gt; or &lt;em&gt;ifTrue&lt;/em&gt; or &lt;em&gt;ifFalse&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxXxxx$$xx$ xx $xx$xxXxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and &lt;em&gt;type&lt;/em&gt; is not assignable from the dynamic type of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxx$$xx$ xx xxx xxxxxxxxxx xxxx xxx xxxxxxx xxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No conversion operator is defined between &lt;em&gt;expression&lt;/em&gt;.Type and &lt;em&gt;type&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxxxxxx xx xxxxxxx xxxxxxx $xx$xxxxxxxxxx$$xx$.Xxxx xxx $xx$xxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly one argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No conversion operator is defined between &lt;em&gt;expression&lt;/em&gt;.Type and &lt;em&gt;type&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type is not assignable to the argument type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The return type of the method represented by &lt;em&gt;method&lt;/em&gt; is not assignable to &lt;em&gt;type&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type or &lt;em&gt;type&lt;/em&gt; is a nullable value type and the corresponding non-nullable value type does not equal the argument type or the return type, respectively, of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxxxxxx xx xxxxxxx xxxxxxx $xx$xxxxxxxxxx$$xx$.Xxxx xxx $xx$xxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxx xxxxxxxxxx xx $xx$xxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx $xx$xxxx$$xx$ xx x xxxxxxxx xxxxx xxxx xxx xxx xxxxxxxxxxxxx xxx$xxxxxxxx xxxxx xxxx xxxx xxx xxxxx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxx$ xxxxxxxxxxxx$ xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;More than one method that matches the &lt;em&gt;method&lt;/em&gt; description was found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xxx xxxxxx xxxx xxxxxxx xxx $xx$xxxxxx$$xx$ xxxxxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No conversion operator is defined between &lt;em&gt;expression&lt;/em&gt;.Type and &lt;em&gt;type&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxxxxxx xx xxxxxxx xxxxxxx $xx$xxxxxxxxxx$$xx$.Xxxx xxx $xx$xxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly one argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No conversion operator is defined between &lt;em&gt;expression&lt;/em&gt;.Type and &lt;em&gt;type&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type is not assignable to the argument type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The return type of the method represented by &lt;em&gt;method&lt;/em&gt; is not assignable to &lt;em&gt;type&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type or &lt;em&gt;type&lt;/em&gt; is a nullable value type and the corresponding non-nullable value type does not equal the argument type or the return type, respectively, of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxxxxxx xx xxxxxxx xxxxxxx $xx$xxxxxxxxxx$$xx$.Xxxx xxx $xx$xxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$ xx xxx xxxxxxxxxx xx $xx$xxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx $xx$xxxx$$xx$ xx x xxxxxxxx xxxxx xxxx xxx xxx xxxxxxxxxxxxx xxx$xxxxxxxx xxxxx xxxx xxxx xxx xxxxx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxx$ xxxxxxxxxxxx$ xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;More than one method that matches the &lt;em&gt;method&lt;/em&gt; description was found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxx xxx xxxxxx xxxx xxxxxxx xxx $xx$xxxxxx$$xx$ xxxxxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The division operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the division operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;addMethod&lt;/em&gt; or &lt;em&gt;arguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxx$$xx$ xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;addMethod&lt;/em&gt; or &lt;em&gt;arguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxx$$xx$ xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The equality operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the equality operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;XOR&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xxxxxx$XXX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the &lt;strong&gt;XOR&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx $xxxxxx$XXX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;field&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The field represented by &lt;em&gt;field&lt;/em&gt; is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic) and &lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxx xxxxxxxxxxx xx $xx$xxxxx$$xx$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xxx $xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type is not assignable to the declaring type of the field represented by &lt;em&gt;field&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxx xxxxxxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of a field to be accessed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxx xx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;fieldName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No field named &lt;em&gt;fieldName&lt;/em&gt; is defined in &lt;em&gt;expression&lt;/em&gt;.Type or its base types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxx $xx$xxxxxXxxx$$xx$ xx xxxxxxx xx $xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The containing object of the field.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>This can be null for static fields.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xx xxxx xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The field to be accessed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of a System.Action delegate that has the specified type arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx x Xxxxxx.Xxxxxx xxxxxxxx xxxx xxx xxx xxxxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeArgs&lt;/em&gt; contains more than sixteen elements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xxxxxxxx xxxx xxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeArgs&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type arguments of the delegate.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of a System.Func delegate that has the specified type arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx x Xxxxxx.Xxxx xxxxxxxx xxxx xxx xxx xxxxxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeArgs&lt;/em&gt; contains fewer than one or more than seventeen elements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xxxxxxxx xxxxx xxxx xxx xx xxxx xxxx xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;typeArgs&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that will be passed to the associated label upon jumping.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxxx xxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that will be passed to the associated label upon jumping.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxxx xxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;arguments&lt;/em&gt; does not contain the same number of elements as the list of parameters for the delegate represented by &lt;em&gt;expression&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xxxx xxx xxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xx xxx xxxx xx xxxxxxxxxx xxx xxx xxxxxxxx xxxxxxxxxxx xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;arguments&lt;/em&gt; does not contain the same number of elements as the list of parameters for the delegate represented by &lt;em&gt;expression&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xxxx xxx xxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xx xxx xxxx xx xxxxxxxxxx xxx xxx xxxxxxxx xxxxxxxxxxx xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether the expression evaluates to false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether the expression evaluates to false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether the expression evaluates to true.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns whether the expression evaluates to true.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the label.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of value that is passed when jumping to the label.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xxxx xx xxxxxx xxxx xxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of value that is passed when jumping to the label.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx xxxx xx xxxxxx xxxx xxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the label.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;body&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;parameters&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;parameters&lt;/em&gt; contains more than sixteen elements.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xxxxxxxx xxxx xxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name for the lambda.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>Used for emitting debug information.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxx xxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name for the lambda.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>Used for emitting debug information.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxx xxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;delegateType&lt;/em&gt; or &lt;em&gt;body&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements in &lt;em&gt;parameters&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;delegateType&lt;/em&gt; or &lt;em&gt;body&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements in &lt;em&gt;parameters&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name for the lambda.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>Used for emitting debug information.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxx xxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a LambdaExpression by first constructing a delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x XxxxxxXxxxxxxxxx xx xxxxx xxxxxxxxxxxx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name for the lambda.</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>Used for emitting debug information.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxx xxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delegate type.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delegate type.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;body&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements in &lt;em&gt;parameters&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;body&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements in &lt;em&gt;parameters&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the lambda.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>Used for generating debugging info.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delegate type.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the lambda.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>Used for generating debugging information.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxxxx xxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The delegate type.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The left-shift operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the left-shift operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxx$xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;propertyAccessor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;propertyAccessor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;One or more elements of &lt;em&gt;initializers&lt;/em&gt; are &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xx xxxx xxxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the loop.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the loop.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The break target used by the loop body.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xxxx xx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the loop.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The break target used by the loop body.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxx xxxx xx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="335" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The continue target used by the loop body.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxx xxxx xx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;binaryType&lt;/em&gt; does not correspond to a binary expression node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxx$$xx$ xxxx xxx xxxxxxxxxx xx x xxxxxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="337" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;binaryType&lt;/em&gt; does not correspond to a binary expression node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxx$$xx$ xxxx xxx xxxxxxxxxx xx x xxxxxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="339" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="340" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;binaryType&lt;/em&gt; does not correspond to a binary expression node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxx$$xx$ xxxx xxx xxxxxxxxxx xx x xxxxxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="341" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="342" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the catch statement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="343" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that will be passed to the associated label upon jumping.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxxx xxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="344" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to which the property belongs.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="345" translate="yes" xml:space="preserve">
+          <source>It should be null if the property is &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;shared&lt;/strong&gt; in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxx xx xxxx xx xxx xxxxxxxx xx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="346" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An &lt;code&gt;IEnumerable&lt;Expression&gt;&lt;/code&gt; (&lt;code&gt;IEnumerable (Of Expression)&lt;/code&gt; in Visual Basic) that contains the arguments that will be used to index the property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xxxx$XXxxxxxxxxx$Xxxxxxxxxx$$$xxxx$ $$xxxx$XXxxxxxxxxx $Xx Xxxxxxxxxx$$$xxxx$ xx Xxxxxx Xxxxx$ xxxx xxxxxxxx xxx xxxxxxxxx xxxx xxxx xx xxxx xx xxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="347" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="348" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; does not represent a field or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xxxx xxx xxxxxxxxx x xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="349" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result type of the try expression.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="350" translate="yes" xml:space="preserve">
+          <source>If null, bodh and all handlers must have identical type.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx$ xxxx xxx xxx xxxxxxxx xxxx xxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="351" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the try block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="352" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the finally block.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="353" translate="yes" xml:space="preserve">
+          <source>Pass null if the try block has no finally block associated with it.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xx xxx xxx xxxxx xxx xx xxxxxxx xxxxx xxxxxxxxxx xxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="354" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the fault block.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="355" translate="yes" xml:space="preserve">
+          <source>Pass null if the try block has no fault block associated with it.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xx xxx xxx xxxxx xxx xx xxxxx xxxxx xxxxxxxxxx xxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="356" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;operand&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="357" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;unaryType&lt;/em&gt; does not correspond to a unary expression node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxXxxx$$xx$ xxxx xxx xxxxxxxxxx xx x xxxxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="358" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;operand&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="359" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;unaryType&lt;/em&gt; does not correspond to a unary expression node.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxXxxx$$xx$ xxxx xxx xxxxxxxxxx xx x xxxxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="360" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; or &lt;em&gt;bindings&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="361" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;member&lt;/em&gt; or &lt;em&gt;bindings&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="362" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;propertyAccessor&lt;/em&gt; or &lt;em&gt;bindings&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="363" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;propertyAccessor&lt;/em&gt; or &lt;em&gt;bindings&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="364" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an expression that creates a new object and initializes a property of the object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxxxxxx xxxx xxxxxxx x xxx xxxxxx xxx xxxxxxxxxxx x xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="365" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;bindings&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="366" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;newExpression&lt;/em&gt; or &lt;em&gt;bindings&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="367" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="368" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The modulus operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="369" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="370" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="371" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the modulus operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="372" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="373" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The multiplication operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="374" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="375" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="376" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the multiplication operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="377" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="378" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The multiplication operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="379" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="380" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="381" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the multiplication operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="382" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="383" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The unary minus operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="384" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="385" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly one argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="386" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the unary minus operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type (or its corresponding non-nullable type if it is a nullable value type) is not assignable to the argument type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxx xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx $xx xxx xxxxxxxxxxxxx xxx$xxxxxxxx xxxx xx xx xx x xxxxxxxx xxxxx xxxx$ xx xxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="387" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="388" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The unary minus operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="389" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="390" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly one argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="391" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the unary minus operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type (or its corresponding non-nullable type if it is a nullable value type) is not assignable to the argument type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxx xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx $xx xxx xxxxxxxxxxxxx xxx$xxxxxxxx xxxx xx xx xx x xxxxxxxx xxxxx xxxx$ xx xxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="392" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;constructor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="393" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The constructor that &lt;em&gt;constructor&lt;/em&gt; represents has at least one parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxx $xx$xxxxxxxxxxx$$xx$ xxxxxxxxxx xxx xx xxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="394" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;constructor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;arguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="395" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;constructor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;arguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;members&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="396" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;constructor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;arguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;members&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="397" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;constructor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;arguments&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="398" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="399" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type that &lt;em&gt;type&lt;/em&gt; represents does not have a constructor without parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx $xx$xxxx$$xx$ xxxxxxxxxx xxxx xxx xxxx x xxxxxxxxxxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="400" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; or &lt;em&gt;bounds&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;bounds&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="401" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; or &lt;em&gt;bounds&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;bounds&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="402" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="403" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; or &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;An element of &lt;em&gt;initializers&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xx xxxxxxx xx $xx$xxxxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="404" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="405" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The unary not operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="406" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="407" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly one argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="408" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the unary not operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type (or its corresponding non-nullable type if it is a nullable value type) is not assignable to the argument type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxx xxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx $xx xxx xxxxxxxxxxxxx xxx$xxxxxxxx xxxx xx xx xx x xxxxxxxx xxxxx xxxx$ xx xxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="409" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="410" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The inequality operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="411" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="412" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="413" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the inequality operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="414" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the expression representing the ones complement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xxxxxxxxxxxx xxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="415" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the expression representing the ones complement.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xxxxxxxxxxxx xxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="416" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="417" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The bitwise &lt;strong&gt;OR&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $xxxxxx$XX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="418" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="419" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="420" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the bitwise &lt;strong&gt;OR&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxx $xxxxxx$XX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="421" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="422" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The bitwise &lt;strong&gt;OR&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type are not the same Boolean type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx $xxxxxx$XX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx xxx xxx xxx xxxx Xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="423" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="424" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="425" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the bitwise &lt;strong&gt;OR&lt;/strong&gt; operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type are not the same Boolean type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxx $xxxxxx$XX$$xxxxxx$ xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx xxx xxx xxx xxxx Xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="426" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the parameter or variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="427" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the parameter or variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="428" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter or variable, used for debugging or printing purpose only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxxxx$ xxxx xxx xxxxxxxxx xx xxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="429" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="430" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="431" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="432" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="433" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;propertyAccessor&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The method that &lt;em&gt;propertyAccessor&lt;/em&gt; represents is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic) and &lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxXxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx $xx$xxxxxxxxXxxxxxxx$$xx$ xxxxxxxxxx xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xxx $xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="434" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type is not assignable to the declaring type of the method represented by &lt;em&gt;propertyAccessor&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The method that &lt;em&gt;propertyAccessor&lt;/em&gt; represents is not a property accessor method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxxxxXxxxxxxx$$xx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxx $xx$xxxxxxxxXxxxxxxx$$xx$ xxxxxxxxxx xx xxx x xxxxxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="435" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;property&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The property that &lt;em&gt;property&lt;/em&gt; represents is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic) and &lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxxx xxxx $xx$xxxxxxxx$$xx$ xxxxxxxxxx xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xxx $xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="436" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type is not assignable to the declaring type of the property that &lt;em&gt;property&lt;/em&gt; represents.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxxx xxxx xx xxx xxxxxxxx xxxx $xx$xxxxxxxx$$xx$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="437" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to which the property belongs.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="438" translate="yes" xml:space="preserve">
+          <source>If the property is static/shared, it must be null.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxx xx xxxxxx$xxxxxx$ xx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="439" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to which the property belongs.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="440" translate="yes" xml:space="preserve">
+          <source>If the property is static/shared, it must be null.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxx xx xxxxxx$xxxxxx$ xx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="441" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of a property to be accessed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxx xx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="442" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;propertyName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="443" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No property named &lt;em&gt;propertyName&lt;/em&gt; is defined in &lt;em&gt;expression&lt;/em&gt;.Type or its base types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxxx $xx$xxxxxxxxXxxx$$xx$ xx xxxxxxx xx $xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="444" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to which the property belongs.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="445" translate="yes" xml:space="preserve">
+          <source>If the property is static/shared, it must be null.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxx xx xxxxxx$xxxxxx$ xx xxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="446" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the indexer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="447" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The containing object of the property.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="448" translate="yes" xml:space="preserve">
+          <source>This can be null for static properties.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xx xxxx xxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="449" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property to be accessed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="450" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of a property or field to be accessed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxxx xx xxxxx xx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="451" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;propertyOrFieldName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxxxxxxXxXxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="452" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No property or field named &lt;em&gt;propertyOrFieldName&lt;/em&gt; is defined in &lt;em&gt;expression&lt;/em&gt;.Type or its base types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xx xxxxx xxxxx $xx$xxxxxxxxXxXxxxxXxxx$$xx$ xx xxxxxxx xx $xx$xxxxxxxxxx$$xx$.Xxxx xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="453" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="454" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reduces this node to a simpler expression.</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxxx xx x xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="455" translate="yes" xml:space="preserve">
+          <source>If CanReduce returns true, this should return a valid expression.</source>
+          <target state="new">Xx XxxXxxxxx xxxxxxx xxxx$ xxxx xxxxxx xxxxxx x xxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="456" translate="yes" xml:space="preserve">
+          <source>This method can return another node which itself must be reduced.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxx xxxxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="457" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The reduced expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="458" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reduces this node to a simpler expression.</source>
+          <target state="new">$x$x$Xxxxxxx xxxx xxxx xx x xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="459" translate="yes" xml:space="preserve">
+          <source>If CanReduce returns true, this should return a valid expression.</source>
+          <target state="new">Xx XxxXxxxxx xxxxxxx xxxx$ xxxx xxxxxx xxxxxx x xxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="460" translate="yes" xml:space="preserve">
+          <source>This method can return another node which itself must be reduced.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxx xxx xxxxxx xxxxxxx xxxx xxxxx xxxxxx xxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="461" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The reduced expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="462" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reduces the expression to a known node type (that is not an Extension node) or just returns the expression if it is already a known type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xx x xxxxx xxxx xxxx $xxxx xx xxx xx Xxxxxxxxx xxxx$ xx xxxx xxxxxxx xxx xxxxxxxxxx xx xx xx xxxxxxx x xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="463" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The reduced expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="464" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that will be passed to the associated label upon jumping.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxxx xxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="465" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value that will be passed to the associated label upon jumping.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxx xx xxxxxx xx xxx xxxxxxxxxx xxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="466" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="467" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The right-shift operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx$xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="468" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="469" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="470" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the right-shift operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxx$xxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="471" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="472" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subtraction operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="473" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="474" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="475" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the subtraction operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="476" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="477" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The subtraction operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="478" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;left&lt;/em&gt; or &lt;em&gt;right&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="479" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly two arguments.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="480" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the subtraction operator is not defined for &lt;em&gt;left&lt;/em&gt;.Type and &lt;em&gt;right&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxxxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxx$$xx$.Xxxx xxx $xx$xxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="481" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be tested against each case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="482" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the switch if &lt;em&gt;switchValue&lt;/em&gt; does not match any of the cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx $xx$xxxxxxXxxxx$$xx$ xxxx xxx xxxxx xxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="483" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of cases for this switch expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxx xxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="484" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be tested against each case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="485" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the switch if &lt;em&gt;switchValue&lt;/em&gt; does not match any of the cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx $xx$xxxxxxXxxxx$$xx$ xxxx xxx xxxxx xxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="486" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The equality comparison method to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxxxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="487" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of cases for this switch expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxx xxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="488" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be tested against each case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="489" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the switch if &lt;em&gt;switchValue&lt;/em&gt; does not match any of the cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx $xx$xxxxxxXxxxx$$xx$ xxxx xxx xxxxx xxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="490" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The equality comparison method to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxxxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="491" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of cases for this switch expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxx xxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="492" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be tested against each case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="493" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of cases for this switch expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxx xxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="494" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result type of the switch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="495" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be tested against each case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="496" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the switch if &lt;em&gt;switchValue&lt;/em&gt; does not match any of the cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx $xx$xxxxxxXxxxx$$xx$ xxxx xxx xxxxx xxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="497" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The equality comparison method to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxxxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="498" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of cases for this switch expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxx xxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="499" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result type of the switch.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="500" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be tested against each case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="501" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the switch if &lt;em&gt;switchValue&lt;/em&gt; does not match any of the cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxx xx $xx$xxxxxxXxxxx$$xx$ xxxx xxx xxxxx xxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="502" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The equality comparison method to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxxxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="503" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The set of cases for this switch expression.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxxxx xxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="504" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="505" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The test values of the case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="506" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="507" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The test values of the case.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="508" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the try block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="509" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the try block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="510" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the finally block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="511" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the try block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="512" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the fault block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="513" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the try block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="514" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The body of the finally block.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="515" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of Type objects that specify the type arguments for the System.Action delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx Xxxx xxxxxxx xxxx xxxxxxx xxx xxxx xxxxxxxxx xxx xxx Xxxxxx.Xxxxxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="516" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the generic System.Action delegate type that has specific type arguments.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xxxxxxxx xxx xxxxxxx Xxxxxx.Xxxxxx xxxxxxxx xxxx xxxx xxx xxxxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="517" translate="yes" xml:space="preserve">
+          <source>Contains null if there is no generic System.Action delegate that matches the &lt;em&gt;typeArgs&lt;/em&gt;.This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxx xxxx xx xxxxx xx xx xxxxxxx Xxxxxx.Xxxxxx xxxxxxxx xxxx xxxxxxx xxx $xx$xxxxXxxx$$xx$.Xxxx xxxxxxxxx xx xxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="518" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;true if generic System.Action delegate type was created for specific &lt;em&gt;typeArgs&lt;/em&gt;; false otherwise.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxx xx xxxxxxx Xxxxxx.Xxxxxx xxxxxxxx xxxx xxx xxxxxxx xxx xxxxxxxx $xx$xxxxXxxx$$xx$$ xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="519" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of Type objects that specify the type arguments for the System.Func delegate type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx Xxxx xxxxxxx xxxx xxxxxxx xxx xxxx xxxxxxxxx xxx xxx Xxxxxx.Xxxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="520" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains the generic System.Func delegate type that has specific type arguments.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xxxxxxxx xxx xxxxxxx Xxxxxx.Xxxx xxxxxxxx xxxx xxxx xxx xxxxxxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="521" translate="yes" xml:space="preserve">
+          <source>Contains null if there is no generic System.Func delegate that matches the &lt;em&gt;typeArgs&lt;/em&gt;.This parameter is passed uninitialized.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxx xxxx xx xxxxx xx xx xxxxxxx Xxxxxx.Xxxx xxxxxxxx xxxx xxxxxxx xxx $xx$xxxxXxxx$$xx$.Xxxx xxxxxxxxx xx xxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="522" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;true if generic System.Func delegate type was created for specific &lt;em&gt;typeArgs&lt;/em&gt;; false otherwise.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxx xx xxxxxxx Xxxxxx.Xxxx xxxxxxxx xxxx xxx xxxxxxx xxx xxxxxxxx $xx$xxxxXxxx$$xx$$ xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="523" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="524" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; or &lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="525" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="526" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The unary plus operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="527" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="528" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is not &lt;strong&gt;null&lt;/strong&gt; and the method it represents returns &lt;strong&gt;void&lt;/strong&gt;, is not &lt;strong&gt;static&lt;/strong&gt; (&lt;strong&gt;Shared&lt;/strong&gt; in Visual Basic), or does not take exactly one argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxx xx xxxxxxxxxx xxxxxxx $xxxxxx$xxxx$$xxxxxx$$ xx xxx $xxxxxx$xxxxxx$$xxxxxx$ $$xxxxxx$Xxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$ xx xxxx xxx xxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="529" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;method&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; and the unary plus operator is not defined for &lt;em&gt;expression&lt;/em&gt;.Type.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;expression&lt;/em&gt;.Type (or its corresponding non-nullable type if it is a nullable value type) is not assignable to the argument type of the method represented by &lt;em&gt;method&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxx xxxx xxxxxxxx xx xxx xxxxxxx xxx $xx$xxxxxxxxxx$$xx$.Xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxxxxxxxx$$xx$.Xxxx $xx xxx xxxxxxxxxxxxx xxx$xxxxxxxx xxxx xx xx xx x xxxxxxxx xxxxx xxxx$ xx xxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="530" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the parameter or variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="531" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the parameter or variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="532" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter or variable.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="533" translate="yes" xml:space="preserve">
+          <source>This name is used for debugging or printing purpose only.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xx xxxx xxx xxxxxxxxx xx xxxxxxxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="534" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reduces the node and then calls the visitor delegate on the reduced expression.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxx xxxx xxxxx xxx xxxxxxx xxxxxxxx xx xxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="535" translate="yes" xml:space="preserve">
+          <source>The method throws an exception if the node is not reducible.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xxxxxx xx xxxxxxxxx xx xxx xxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="536" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The expression being visited, or an expression which should replace it in the tree.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxx xxxxxxx$ xx xx xxxxxxxxxx xxxxx xxxxxx xxxxxxx xx xx xxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

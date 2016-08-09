@@ -1,0 +1,115 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides services to the Visual Basic compiler for compiling &lt;strong&gt;For...Next&lt;/strong&gt; loops.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxx xx xxx Xxxxxx Xxxxx xxxxxxxx xxx xxxxxxxxx $xxxxxx$Xxx...Xxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Initializes a &lt;strong&gt;For...Next&lt;/strong&gt; loop.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx x $xxxxxx$Xxx...Xxxx$$xxxxxx$ xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The loop counter variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The initial value of the loop counter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xx xxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the &lt;strong&gt;To&lt;/strong&gt; option.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx $xxxxxx$Xx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the &lt;strong&gt;Step&lt;/strong&gt; option.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx $xxxxxx$Xxxx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains verified values for loop values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The counter value for the next loop iteration.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxx xxx xxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;False&lt;/strong&gt; if the loop has terminated; otherwise, &lt;strong&gt;True&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$Xxxxx$$xxxxxx$ xx xxx xxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$Xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for valid values for the loop counter, &lt;strong&gt;Step&lt;/strong&gt;, and &lt;strong&gt;To&lt;/strong&gt; values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxx xxxxxx xxx xxx xxxx xxxxxxx$ $xxxxxx$Xxxx$$xxxxxx$$ xxx $xxxxxx$Xx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Decimal&lt;/strong&gt; value that represents the initial value passed for the loop counter variable.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxxxx xxxxx xxxxxx xxx xxx xxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Decimal&lt;/strong&gt; value that represents the value passed by using the &lt;strong&gt;To&lt;/strong&gt; keyword.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxx $xxxxxx$Xx$$xxxxxx$ xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Decimal&lt;/strong&gt; value that represents the value passed by using the &lt;strong&gt;Step&lt;/strong&gt; keyword.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxx $xxxxxx$Xxxx$$xxxxxx$ xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;True&lt;/strong&gt; if &lt;em&gt;StepValue&lt;/em&gt; is greater than zero and &lt;em&gt;count&lt;/em&gt; is less than or equal to &lt;em&gt;limit&lt;/em&gt; or &lt;em&gt;StepValue&lt;/em&gt; is less than or equal to zero and &lt;em&gt;count&lt;/em&gt; is greater than or equal to &lt;em&gt;limit&lt;/em&gt;; otherwise, &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$Xxxx$$xxxxxx$ xx $xx$XxxxXxxxx$$xx$ xx xxxxxxx xxxx xxxx xxx $xx$xxxxx$$xx$ xx xxxx xxxx xx xxxxx xx $xx$xxxxx$$xx$ xx $xx$XxxxXxxxx$$xx$ xx xxxx xxxx xx xxxxx xx xxxx xxx $xx$xxxxx$$xx$ xx xxxxxxx xxxx xx xxxxx xx $xx$xxxxx$$xx$$ xxxxxxxxx$ $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Increments a &lt;strong&gt;For...Next&lt;/strong&gt; loop.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x $xxxxxx$Xxx...Xxxx$$xxxxxx$ xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The loop counter variable.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that contains verified values for loop values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxxx xxxxxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The counter value for the next loop iteration.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xxx xxx xxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;False&lt;/strong&gt; if the loop has terminated; otherwise, &lt;strong&gt;True&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$Xxxxx$$xxxxxx$ xx xxx xxxx xxx xxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$Xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for valid values for the loop counter, &lt;strong&gt;Step&lt;/strong&gt;, and &lt;strong&gt;To&lt;/strong&gt; values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxx xxxxxx xxx xxx xxxx xxxxxxx$ $xxxxxx$Xxxx$$xxxxxx$$ xxx $xxxxxx$Xx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Single&lt;/strong&gt; value that represents the initial value passed for the loop counter variable.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxxxx xxxxx xxxxxx xxx xxx xxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Single&lt;/strong&gt; value that represents the value passed by using the &lt;strong&gt;To&lt;/strong&gt; keyword.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxx $xxxxxx$Xx$$xxxxxx$ xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Single&lt;/strong&gt; value that represents the value passed by using the &lt;strong&gt;Step&lt;/strong&gt; keyword.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxx $xxxxxx$Xxxx$$xxxxxx$ xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;True&lt;/strong&gt; if &lt;em&gt;StepValue&lt;/em&gt; is greater than zero and &lt;em&gt;count&lt;/em&gt; is less than or equal to &lt;em&gt;limit&lt;/em&gt;, or if &lt;em&gt;StepValue&lt;/em&gt; is less than or equal to zero and &lt;em&gt;count&lt;/em&gt; is greater than or equal to &lt;em&gt;limit&lt;/em&gt;; otherwise, &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$Xxxx$$xxxxxx$ xx $xx$XxxxXxxxx$$xx$ xx xxxxxxx xxxx xxxx xxx $xx$xxxxx$$xx$ xx xxxx xxxx xx xxxxx xx $xx$xxxxx$$xx$$ xx xx $xx$XxxxXxxxx$$xx$ xx xxxx xxxx xx xxxxx xx xxxx xxx $xx$xxxxx$$xx$ xx xxxxxxx xxxx xx xxxxx xx $xx$xxxxx$$xx$$ xxxxxxxxx$ $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for valid values for the loop counter, &lt;strong&gt;Step&lt;/strong&gt;, and &lt;strong&gt;To&lt;/strong&gt; values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxx xxxxxx xxx xxx xxxx xxxxxxx$ $xxxxxx$Xxxx$$xxxxxx$$ xxx $xxxxxx$Xx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Double&lt;/strong&gt; value that represents the initial value passed for the loop counter variable.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxxxx xxxxx xxxxxx xxx xxx xxxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Double&lt;/strong&gt; value that represents the value passed by using the &lt;strong&gt;To&lt;/strong&gt; keyword.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxx $xxxxxx$Xx$$xxxxxx$ xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>A &lt;strong&gt;Double&lt;/strong&gt; value that represents the value passed by using the &lt;strong&gt;Step&lt;/strong&gt; keyword.&lt;/p&gt;\n</source>
+          <target state="new">X $xxxxxx$Xxxxxx$$xxxxxx$ xxxxx xxxx xxxxxxxxxx xxx xxxxx xxxxxx xx xxxxx xxx $xxxxxx$Xxxx$$xxxxxx$ xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;True&lt;/strong&gt; if &lt;em&gt;StepValue&lt;/em&gt; is greater than zero and &lt;em&gt;count&lt;/em&gt; is less than or equal to &lt;em&gt;limit&lt;/em&gt;, or if &lt;em&gt;StepValue&lt;/em&gt; is less than or equal to zero and &lt;em&gt;count&lt;/em&gt; is greater than or equal to &lt;em&gt;limit&lt;/em&gt;; otherwise, &lt;strong&gt;False&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$Xxxx$$xxxxxx$ xx $xx$XxxxXxxxx$$xx$ xx xxxxxxx xxxx xxxx xxx $xx$xxxxx$$xx$ xx xxxx xxxx xx xxxxx xx $xx$xxxxx$$xx$$ xx xx $xx$XxxxXxxxx$$xx$ xx xxxx xxxx xx xxxxx xx xxxx xxx $xx$xxxxx$$xx$ xx xxxxxxx xxxx xx xxxxx xx $xx$xxxxx$$xx$$ xxxxxxxxx$ $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides helpers for the Visual Basic &lt;strong&gt;Err&lt;/strong&gt; object.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxx xxx Xxxxxx Xxxxx $xxxxxx$Xxx$$xxxxxx$ xxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Performs the work for the &lt;strong&gt;Clear&lt;/strong&gt; method of the &lt;strong&gt;Err&lt;/strong&gt; object.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxx xxx xxx $xxxxxx$Xxxxx$$xxxxxx$ xxxxxx xx xxx $xxxxxx$Xxx$$xxxxxx$ xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>A helper method.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Visual Basic compiler uses this helper method to capture exceptions in the &lt;strong&gt;Err&lt;/strong&gt; object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxx Xxxxx xxxxxxxx xxxx xxxx xxxxxx xxxxxx xx xxxxxxx xxxxxxxxxx xx xxx $xxxxxx$Xxx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Visual Basic compiler uses this helper method to capture exceptions in the &lt;strong&gt;Err&lt;/strong&gt; object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxx Xxxxx xxxxxxxx xxxx xxxx xxxxxx xxxxxx xx xxxxxxx xxxxxxxxxx xx xxx $xxxxxx$Xxx$$xxxxxx$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The line number of the exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

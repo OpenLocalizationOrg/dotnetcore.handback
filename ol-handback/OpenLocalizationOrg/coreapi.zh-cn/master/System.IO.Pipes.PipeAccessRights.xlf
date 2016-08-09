@@ -1,0 +1,70 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines the access rights to use when you create access and audit rules.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xxxxxx xx xxx xxxx xxx xxxxxx xxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to make changes to the system access control list (SACL).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxx xxxxxxx xx xxx xxxxxx xxxxxx xxxxxxx xxxx $XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to change the security and audit rules that are associated with a pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxxx xxx xxxxxxxx xxx xxxxx xxxxx xxxx xxx xxxxxxxxxx xxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to delete a pipe.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxxx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to exert full control over a pipe, and to modify access control and audit rules.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxx xxxx xxxxxxx xxxx x xxxx$ xxx xx xxxxxx xxxxxx xxxxxxx xxx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This value represents the combination of all rights in this enumeration.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxxxxxx xxx xxxxxxxxxxx xx xxx xxxxxx xx xxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to read file system attributes from a pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxx xxxx xxxxxx xxxxxxxxxx xxxx x xxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This does not include the right to read data, extended file system attributes, or access and audit rules.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxx xxxxxxx xxx xxxxx xx xxxx xxxx$ xxxxxxxx xxxx xxxxxx xxxxxxxxxx$ xx xxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to read data from the pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxx xxxx xxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This does not include the right to read file system attributes, extended file system attributes, or access and audit rules.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxx xxxxxxx xxx xxxxx xx xxxx xxxx xxxxxx xxxxxxxxxx$ xxxxxxxx xxxx xxxxxx xxxxxxxxxx$ xx xxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to read extended file system attributes from a pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xxxx xxxxxx xxxxxxxxxx xxxx x xxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This does not include the right to read data, file system attributes, or access and audit rules.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxx xxxxxxx xxx xxxxx xx xxxx xxxx$ xxxx xxxxxx xxxxxxxxxx$ xx xxxxxx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to read access and audit rules from the pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxx xxxxxx xxx xxxxx xxxxx xxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This does not include the right to read data, file system attributes, or extended file system attributes.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxx xxxxxxx xxx xxxxx xx xxxx xxxx$ xxxx xxxxxx xxxxxxxxxx$ xx xxxxxxxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies whether the application can wait for a pipe handle to synchronize with the completion of an I/O operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxxxx xxx xxxx xxx x xxxx xxxxxx xx xxxxxxxxxxx xxxx xxx xxxxxxxxxx xx xx X$X xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to change the owner of a pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxxx xxx xxxxx xx x xxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>Note that owners of a pipe have full access to that resource.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxxxxx xx x xxxx xxxx xxxx xxxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to write file system attributes to a pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxx xxxx xxxxxx xxxxxxxxxx xx x xxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>This does not include the right to write data or extended file system attributes.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxx xxxxxxx xxx xxxxx xx xxxxx xxxx xx xxxxxxxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to write data to a pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxx xxxx xx x xxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>This does not include the right to write file system attributes or extended file system attributes.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxx xxxxxxx xxx xxxxx xx xxxxx xxxx xxxxxx xxxxxxxxxx xx xxxxxxxx xxxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the right to write extended file system attributes to a pipe.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xx xxxxx xxxxxxxx xxxx xxxxxx xxxxxxxxxx xx x xxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>This does not include the right to write file attributes or data.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxx xxx xxxxxxx xxx xxxxx xx xxxxx xxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

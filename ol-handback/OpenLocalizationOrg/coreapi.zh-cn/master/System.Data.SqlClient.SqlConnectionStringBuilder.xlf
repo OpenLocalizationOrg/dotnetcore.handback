@@ -1,0 +1,154 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Invalid key name within the connection string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxxx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Invalid value within the connection string (specifically, when a Boolean or numeric value was expected but not supplied).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxx xxxxxx xxx xxxxxxxxxx xxxxxx $xxxxxxxxxxxx$ xxxx x Xxxxxxx xx xxxxxxx xxxxx xxx xxxxxxxx xxx xxx xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The supplied &lt;em&gt;connectionString&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx $xx$xxxxxxxxxxXxxxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the name of the application associated with the connection string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxx xxxxxxxxxxx xxxxxxxxxx xxxx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a string that contains the name of the primary data file.</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxxx xxxx xxxxxxxx xxx xxxx xx xxx xxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This includes the full path name of an attachable database.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxx xxx xxxx xxxx xxxx xx xx xxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the &lt;strong&gt;AttachDBFilename&lt;/strong&gt; property, or &lt;strong&gt;String.Empty&lt;/strong&gt; if no value has been supplied.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx $xxxxxx$XxxxxxXXXxxxxxxx$$xxxxxx$ xxxxxxxx$ xx $xxxxxx$Xxxxxx.Xxxxx$$xxxxxx$ xx xx xxxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of reconnections attempted after identifying that there was an idle connection failure.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxxxxxx xxxxxxxxx xxxxx xxxxxxxxxxx xxxx xxxxx xxx xx xxxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Amount of time (in seconds) between each reconnection attempt after identifying that there was an idle connection failure.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx $xx xxxxxxx$ xxxxxxx xxxx xxxxxxxxxxxx xxxxxxx xxxxx xxxxxxxxxxx xxxx xxxxx xxx xx xxxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the length of time (in seconds) to wait for a connection to the server before terminating the attempt and generating an error.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xx xxxx $xx xxxxxxx$ xx xxxx xxx x xxxxxxxxxx xx xxx xxxxxx xxxxxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the SQL Server Language record name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx XXX Xxxxxx Xxxxxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the name or network address of the instance of SQL Server to connect to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxxxxxx xxxxxxx xx xxx xxxxxxxx xx XXX Xxxxxx xx xxxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a Boolean value that indicates whether SQL Server uses SSL encryption for all data sent between the client and server if the server has a certificate installed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x Xxxxxxx xxxxx xxxx xxxxxxxxx xxxxxxx XXX Xxxxxx xxxx XXX xxxxxxxxxx xxx xxx xxxx xxxx xxxxxxx xxx xxxxxx xxx xxxxxx xx xxx xxxxxx xxx x xxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the name or address of the partner server to connect to if the primary server is down.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxxxxxx xx xxx xxxxxxx xxxxxx xx xxxxxxx xx xx xxx xxxxxxx xxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the name of the database associated with the connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxx xxxxxxxx xxxxxxxxxx xxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a Boolean value that indicates whether User ID and Password are specified in the connection (when &lt;strong&gt;false&lt;/strong&gt;) or whether the current Windows account credentials are used for authentication (when &lt;strong&gt;true&lt;/strong&gt;).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x Xxxxxxx xxxxx xxxx xxxxxxxxx xxxxxxx Xxxx XX xxx Xxxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxxx $xxxx $xxxxxx$xxxxx$$xxxxxx$$ xx xxxxxxx xxx xxxxxxx Xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxx xxx xxxxxxxxxxxxxx $xxxx $xxxxxx$xxxx$$xxxxxx$$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the value associated with the specified key.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>In C#, this property is the indexer.&lt;/p&gt;\n</source>
+          <target state="new">Xx X$$ xxxx xxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the item to get or set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxx xx xxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value associated with the specified key.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Tried to add a key that does not exist within the available keys.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx xxx x xxx xxxx xxxx xxx xxxxx xxxxxx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Invalid value within the connection string (specifically, a Boolean or numeric value was expected but not supplied).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxx xxxxxx xxx xxxxxxxxxx xxxxxx $xxxxxxxxxxxx$ x Xxxxxxx xx xxxxxxx xxxxx xxx xxxxxxxx xxx xxx xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the minimum time, in seconds, for the connection to live in the connection pool before being destroyed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxx$ xx xxxxxxx$ xxx xxx xxxxxxxxxx xx xxxx xx xxx xxxxxxxxxx xxxx xxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the maximum number of connections allowed in the connection pool for this specific connection string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxx xx xxxxxxxxxxx xxxxxxx xx xxx xxxxxxxxxx xxxx xxx xxxx xxxxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the minimum number of connections allowed in the connection pool for this specific connection string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxxxx xx xxxxxxxxxxx xxxxxxx xx xxx xxxxxxxxxx xxxx xxx xxxx xxxxxxxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If your application is connecting to an AlwaysOn availability group (AG) on different subnets, setting MultiSubnetFailover=true provides faster detection of and connection to the (currently) active server.</source>
+          <target state="new">$x$x$Xx xxxx xxxxxxxxxxx xx xxxxxxxxxx xx xx XxxxxxXx xxxxxxxxxxxx xxxxx $XX$ xx xxxxxxxxx xxxxxxx$ xxxxxxx XxxxxXxxxxxXxxxxxxx$xxxx xxxxxxxx xxxxxx xxxxxxxxx xx xxx xxxxxxxxxx xx xxx $xxxxxxxxx$ xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>For more information about SqlClient support for Always On Availability Groups, see SqlClient Support for High Availability, Disaster Recovery.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxxxxxx xxxxx XxxXxxxxx xxxxxxx xxx Xxxxxx Xx Xxxxxxxxxxxx Xxxxxx$ xxx XxxXxxxxx Xxxxxxx xxx Xxxx Xxxxxxxxxxxx$ Xxxxxxxx Xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the size in bytes of the network packets used to communicate with an instance of SQL Server.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxxxx xx xxx xxxxxxx xxxxxxx xxxx xx xxxxxxxxxxx xxxx xx xxxxxxxx xx XXX Xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the password for the SQL Server account.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xxx xxx XXX Xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The password was incorrectly set to null.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxx xxxxxxxxxxx xxx xx xxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>See code sample below.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a Boolean value that indicates if security-sensitive information, such as the password, is not returned as part of the connection if the connection is open or has ever been in an open state.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x Xxxxxxx xxxxx xxxx xxxxxxxxx xx xxxxxxxx$xxxxxxxxx xxxxxxxxxxx$ xxxx xx xxx xxxxxxxx$ xx xxx xxxxxxxx xx xxxx xx xxx xxxxxxxxxx xx xxx xxxxxxxxxx xx xxxx xx xxx xxxx xxxx xx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a Boolean value that indicates whether the connection will be pooled or explicitly opened every time that the connection is requested.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x Xxxxxxx xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxx xx xxxxxx xx xxxxxxxxxx xxxxxx xxxxx xxxx xxxx xxx xxxxxxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a Boolean value that indicates whether replication is supported using the connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x Xxxxxxx xxxxx xxxx xxxxxxxxx xxxxxxx xxxxxxxxxxx xx xxxxxxxxx xxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that indicates whether the channel will be encrypted while bypassing walking the certificate chain to validate trust.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxx xx xxxxxxxxx xxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxxx xxxxx xx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt;.</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>Recognized values are &lt;strong&gt;true&lt;/strong&gt;, &lt;strong&gt;false&lt;/strong&gt;, &lt;strong&gt;yes&lt;/strong&gt;, and &lt;strong&gt;no&lt;/strong&gt;.</source>
+          <target state="new">Xxxxxxxxxx xxxxxx xxx $xxxxxx$xxxx$$xxxxxx$$ $xxxxxx$xxxxx$$xxxxxx$$ $xxxxxx$xxx$$xxxxxx$$ xxx $xxxxxx$xx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a string value that indicates the type system the application expects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxxx xxxxx xxxx xxxxxxxxx xxx xxxx xxxxxx xxx xxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the user ID to be used when connecting to SQL Server.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx XX xx xx xxxx xxxx xxxxxxxxxx xx XXX Xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that indicates whether to redirect the connection from the default SQL Server Express instance to a runtime-initiated instance running under the account of the caller.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xx xxxxxxxx xxx xxxxxxxxxx xxxx xxx xxxxxxx XXX Xxxxxx Xxxxxxx xxxxxxxx xx x xxxxxxx$xxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the name of the workstation connecting to SQL Server.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxx xxxxxxxxxxx xxxxxxxxxx xx XXX Xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; is null (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic)&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx xxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the key existed within the connection string and was removed; &lt;strong&gt;false&lt;/strong&gt; if the key did not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxx xxxxxxx xxxxxx xxx xxxxxxxxxx xxxxxx xxx xxx xxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxx xxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; is null (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic)&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xx xxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The key of the item to retrieve.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value corresponding to &lt;em&gt;keyword.&lt;/em&gt;&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxxxxxx xx $xx$xxxxxxx.$$xx$$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;keyword&lt;/em&gt; was found within the connection string; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxxxx$$xx$ xxx xxxxx xxxxxx xxx xxxxxxxxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyword&lt;/em&gt; contains a null value (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxx$$xx$ xxxxxxxx x xxxx xxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

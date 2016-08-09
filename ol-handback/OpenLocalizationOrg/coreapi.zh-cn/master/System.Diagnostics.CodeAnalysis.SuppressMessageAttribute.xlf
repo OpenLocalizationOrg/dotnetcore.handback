@@ -1,0 +1,46 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Suppresses reporting of a specific static analysis tool rule violation, allowing multiple suppressions on a single code artifact.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxxxx xx x xxxxxxxx xxxxxx xxxxxxxx xxxx xxxx xxxxxxxxx$ xxxxxxxx xxxxxxxx xxxxxxxxxxxx xx x xxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The category for the attribute.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The identifier of the analysis tool rule the attribute applies to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xxxx xxx xxxxxxxxx xxxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the category identifying the classification of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxxxxxxxxx xxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The category identifying the attribute.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the identifier of the static analysis tool rule to be suppressed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxx xxxx xxxx xx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The identifier of the static analysis tool rule to be suppressed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxx xxxx xxxx xx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the justification for suppressing the code analysis message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxxxxxxx xxx xxxxxxxxxxx xxx xxxx xxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The justification for suppressing the message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxxx xxx xxxxxxxxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets an optional argument expanding on exclusion criteria.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xx xxxxxxxx xxxxxxxx xxxxxxxxx xx xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing the expanded exclusion criteria.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx xxx xxxxxxxx xxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the scope of the code that is relevant for the attribute.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xx xxx xxxx xxxx xx xxxxxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The scope of the code that is relevant for the attribute.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxx xxxx xx xxxxxxxx xxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a fully qualified path that represents the target of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxxxxxxx xxxx xxxx xxxxxxxxxx xxx xxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A fully qualified path that represents the target of the attribute.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxx xxxx xxxx xxxxxxxxxx xxx xxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

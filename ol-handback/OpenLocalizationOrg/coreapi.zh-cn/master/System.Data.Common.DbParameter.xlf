@@ -1,0 +1,40 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that indicates whether the parameter is input-only, output-only, bidirectional, or a stored procedure return value parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxxxx$xxxx$ xxxxxx$xxxx$ xxxxxxxxxxxxx$ xx x xxxxxx xxxxxxxxx xxxxxx xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value that indicates whether the parameter accepts null values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if null values are accepted; otherwise &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxx xxxxxx xxx xxxxxxxx$ xxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the maximum size, in bytes, of the data within the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxx xxxx$ xx xxxxx$ xx xxx xxxx xxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum size, in bytes, of the data within the column.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx$ xx xxxxx$ xx xxx xxxx xxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>The default value is inferred from the parameter value.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xxxxxxxx xxxx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the source column is nullable; &lt;strong&gt;false&lt;/strong&gt; if it is not.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxx xx xxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates the precision of numeric parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxxx xx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum number of digits used to represent the &lt;strong&gt;Value&lt;/strong&gt; property of a data provider &lt;strong&gt;Parameter&lt;/strong&gt; object.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxxxxx xxxx xx xxxxxxxxx xxx $xxxxxx$Xxxxx$$xxxxxx$ xxxxxxxx xx x xxxx xxxxxxxx $xxxxxx$Xxxxxxxxx$$xxxxxx$ xxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The default value is 0, which indicates that a data provider sets the precision for &lt;strong&gt;Value&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx 0$ xxxxx xxxxxxxxx xxxx x xxxx xxxxxxxx xxxx xxx xxxxxxxxx xxx $xxxxxx$Xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the value of the parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Resets the &lt;strong&gt;DbType&lt;/strong&gt; property to its original settings.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx $xxxxxx$XxXxxx$$xxxxxx$ xxxxxxxx xx xxx xxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

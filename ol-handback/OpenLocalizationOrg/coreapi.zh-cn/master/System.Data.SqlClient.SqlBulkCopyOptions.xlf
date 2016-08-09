@@ -1,0 +1,31 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Check constraints while data is being inserted.</source>
+          <target state="new">$x$x$Xxxxx xxxxxxxxxxx xxxxx xxxx xx xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>By default, constraints are not checked.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxx$ xxxxxxxxxxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Use the default values for all options.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxxxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When specified, cause the server to fire the insert triggers for the rows being inserted into the database.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx$ xxxxx xxx xxxxxx xx xxxx xxx xxxxxx xxxxxxxx xxx xxx xxxx xxxxx xxxxxxxx xxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Preserve source identity values.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>When not specified, identity values are assigned by the destination.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxxx$ xxxxxxxx xxxxxx xxx xxxxxxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Preserve null values in the destination table regardless of the settings for default values.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxx xxxxxx xx xxx xxxxxxxxxxx xxxxx xxxxxxxxxx xx xxx xxxxxxxx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>When not specified, null values are replaced by default values where applicable.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxxx$ xxxx xxxxxx xxx xxxxxxxx xx xxxxxxx xxxxxx xxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Obtain a bulk update lock for the duration of the bulk copy operation.</source>
+          <target state="new">$x$x$Xxxxxx x xxxx xxxxxx xxxx xxx xxx xxxxxxxx xx xxx xxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>When not specified, row locks are used.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxxxxx$ xxx xxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

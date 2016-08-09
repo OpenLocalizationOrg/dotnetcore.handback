@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines the standard operation codes that the event source attaches to events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xxxxxxxxx xxxxx xxxx xxx xxxxx xxxxxx xxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A trace collection start event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A trace collection stop event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxxxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An extension event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An informational event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An event that is published when one activity in an application receives data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxx xx xxxxxxxxx xxxx xxx xxxxxxxx xx xx xxxxxxxxxxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An event that is published after an activity in an application replies to an event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxx xx xxxxxxxxx xxxxx xx xxxxxxxx xx xx xxxxxxxxxxx xxxxxxx xx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An event that is published when one activity in an application transfers data or system resources to another activity.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxx xx xxxxxxxxx xxxx xxx xxxxxxxx xx xx xxxxxxxxxxx xxxxxxxxx xxxx xx xxxxxx xxxxxxxxx xx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An event that is published when an activity in an application is suspended.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxx xx xxxxxxxxx xxxx xx xxxxxxxx xx xx xxxxxxxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

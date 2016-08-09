@@ -1,0 +1,247 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an open connection to a SQL Server database.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxx xxxxxxxxxx xx x XXX Xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection used to open the SQL Server database.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxx xx xxxx xxx XXX Xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection ID of the most recent connection attempt, regardless of whether the attempt succeeded or failed.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx XX xx xxx xxxx xxxxxx xxxxxxxxxx xxxxxxx$ xxxxxxxxxx xx xxxxxxx xxx xxxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection ID of the most recent connection attempt.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx XX xx xxx xxxx xxxxxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the string used to open a SQL Server database.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxx xx xxxx x XXX Xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection string that includes the source database name, and other parameters needed to establish the initial connection.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xxxx xxxxxxxx xxx xxxxxx xxxxxxxx xxxx$ xxx xxxxx xxxxxxxxxx xxxxxx xx xxxxxxxxx xxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>The default value is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An invalid connection string argument has been supplied, or a required connection string argument has not been supplied.</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxxxxxxxx xxxxxx xxxxxxxx xxx xxxx xxxxxxxx$ xx x xxxxxxxx xxxxxxxxxx xxxxxx xxxxxxxx xxx xxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the time to wait while trying to establish a connection before terminating the attempt and generating an error.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxxx xxxxx xxxxxx xx xxxxxxxxx x xxxxxxxxxx xxxxxx xxxxxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The time (in seconds) to wait for a connection to open.</source>
+          <target state="new">$x$x$Xxx xxxx $xx xxxxxxx$ xx xxxx xxx x xxxxxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>The default value is 15 seconds.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx 00 xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value set is less than 0.</source>
+          <target state="new">$x$x$Xxx xxxxx xxx xx xxxx xxxx 0.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the current database or the database to be used after a connection is opened.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxxxxxx xx xx xxxx xxxxx x xxxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the current database or the name of the database to be used after a connection is opened.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxx xx xxx xxxxxxxx xx xx xxxx xxxxx x xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The default value is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the instance of SQL Server to which to connect.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxxx xx XXX Xxxxxx xx xxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the instance of SQL Server to which to connect.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xx XXX Xxxxxx xx xxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>The default value is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the size (in bytes) of network packets used to communicate with an instance of SQL Server.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx $xx xxxxx$ xx xxxxxxx xxxxxxx xxxx xx xxxxxxxxxxx xxxx xx xxxxxxxx xx XXX Xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size (in bytes) of network packets.</source>
+          <target state="new">$x$x$Xxx xxxx $xx xxxxx$ xx xxxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>The default value is 8000.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xxxxx xx 0000.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a string that contains the version of the instance of SQL Server to which the client is connected.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxx xxxxxxxx xxx xxxxxxx xx xxx xxxxxxxx xx XXX Xxxxxx xx xxxxx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The version of the instance of SQL Server.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxxxxx xx XXX Xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When set to &lt;strong&gt;true&lt;/strong&gt;, enables statistics gathering for the current connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxxxxx xxxxxxxxxx xxxxxxxxx xxx xxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns &lt;strong&gt;true&lt;/strong&gt; if statistics gathering is enabled; otherwise &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xx xxxxxxxxxx xxxxxxxxx xx xxxxxxx$ xxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;false&lt;/strong&gt; is the default.&lt;/p&gt;\n</source>
+          <target state="new">$xxxxxx$xxxxx$$xxxxxx$ xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a string that identifies the database client.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that identifies the database client.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxxxx xxx xxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>If not specified, the name of the client computer.</source>
+          <target state="new">Xx xxx xxxxxxxxx$ xxx xxxx xx xxx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>If neither is specified, the value is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxx xx xxxxxxxxx$ xxx xxxxx xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when SQL Server returns a warning or informational message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx XXX Xxxxxx xxxxxxx x xxxxxxx xx xxxxxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts a database transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not allowed when using Multiple Active Result Sets (MARS).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxx xxxx xxxxx Xxxxxxxx Xxxxxx Xxxxxx Xxxx $XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not supported.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts a database transaction with the specified isolation level.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolation level under which the transaction should run.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxx xxxxx xxxxx xxx xxxxxxxxxxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not allowed when using Multiple Active Result Sets (MARS).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxx xxxx xxxxx Xxxxxxxx Xxxxxx Xxxxxx Xxxx $XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not supported.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts a database transaction with the specified isolation level and transaction name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx xxxxx xxx xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The isolation level under which the transaction should run.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxx xxxxx xxxxx xxx xxxxxxxxxxx xxxxxx xxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the transaction.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not allowed when using Multiple Active Result Sets (MARS).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxx xxxx xxxxx Xxxxxxxx Xxxxxx Xxxxxx Xxxx $XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not supported.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Starts a database transaction with the specified transaction name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the transaction.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object representing the new transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not allowed when using Multiple Active Result Sets (MARS).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxx xxxx xxxxx Xxxxxxxx Xxxxxx Xxxxxx Xxxx $XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Parallel transactions are not supported.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the database to use instead of the current database.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xx xxx xxxxxxx xx xxx xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The database name is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection is not open.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cannot change the database.</source>
+          <target state="new">$x$x$Xxxxxx xxxxxx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Empties the connection pool.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Empties the connection pool associated with the specified connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxxx xxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Closes the connection to the database.</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxxxxx xx xxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>This is the preferred method of closing any open connection.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xx xxx xxxxxxxxx xxxxxx xx xxxxxxx xxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The connection-level error that occurred while opening the connection.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx$xxxxx xxxxx xxxx xxxxxxxx xxxxx xxxxxxx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cannot open a connection without specifying a data source or server.&lt;/p&gt;\n&lt;p&gt;or&lt;/p&gt;\n&lt;p&gt;The connection is already open.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx x xxxxxxxxxx xxxxxxx xxxxxxxxxx x xxxx xxxxxx xx xxxxxx.$$x$$x$x$xx$$x$$x$x$Xxx xxxxxxxxxx xx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;There are two entries with the same name in the &lt;strong&gt;&lt;localdbinstances&gt;&lt;/strong&gt; section.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxx xxxxxxx xxxx xxx xxxx xxxx xx xxx $xxxxxx$$xxxxxxxxxxxxxxxx$$$xxxxxx$ xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The cancellation instruction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Any error returned by SQL Server that occurred while opening the connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxx xx XXX Xxxxxx xxxx xxxxxxxx xxxxx xxxxxxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If statistics gathering is enabled, all values are reset to zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxxxxxxx xx xxxxxxx$ xxx xxxxxx xxx xxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a name value pair collection of statistics at the point in time the method is called.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxxx xxxx xxxxxxxxxx xx xxxxxxxxxx xx xxx xxxxx xx xxxx xxx xxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

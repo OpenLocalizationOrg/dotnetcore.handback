@@ -1,0 +1,19 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Supports the structural comparison of collection objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxxx xxxxxxxxxx xx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether the current collection object precedes, occurs in the same position as, or follows another object in the sort order.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxxxx xxxxxx xxxxxxxx$ xxxxxx xx xxx xxxx xxxxxxxx xx$ xx xxxxxxx xxxxxxx xxxxxx xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to compare with the current instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxx xxxx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that compares members of the current collection object with the corresponding members of &lt;em&gt;other&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx xx xxx xxxxxxx xxxxxxxxxx xxxxxx xxxx xxx xxxxxxxxxxxxx xxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer that indicates the relationship of the current collection object to &lt;em&gt;other&lt;/em&gt;, as shown in the following table.&lt;/p&gt;\n&lt;p&gt;Return value&lt;/p&gt;\n&lt;p&gt;Description&lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;-1&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;The current instance precedes &lt;em&gt;other&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;0&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;The current instance and &lt;em&gt;other&lt;/em&gt; are equal.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;1&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;The current instance follows &lt;em&gt;other&lt;/em&gt;.&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxxx xxxxxxxxx xxx xxxxxxxxxxxx xx xxx xxxxxxx xxxxxxxxxx xxxxxx xx $xx$xxxxx$$xx$$ xx xxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x$x$Xxxxxx xxxxx$$x$$x$x$Xxxxxxxxxxx$$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$$0$$x$$x$$xx$$xx$$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxxx $xx$xxxxx$$xx$.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$0$$x$$x$$xx$$xx$$x$x$Xxx xxxxxxx xxxxxxxx xxx $xx$xxxxx$$xx$ xxx xxxxx.$$x$$x$$xx$$$xx$$xx$$xx$$x$x$0$$x$$x$$xx$$xx$$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxx $xx$xxxxx$$xx$.$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This instance and &lt;em&gt;other&lt;/em&gt; are not the same type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxx xxx $xx$xxxxx$$xx$ xxx xxx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

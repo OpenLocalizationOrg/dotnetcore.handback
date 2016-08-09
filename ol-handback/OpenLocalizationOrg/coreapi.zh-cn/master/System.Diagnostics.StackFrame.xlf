@@ -1,0 +1,43 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the column number in the file that contains the code that is executing.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxx xx xxx xxxx xxxx xxxxxxxx xxx xxxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This information is typically extracted from the debugging symbols for the executable.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxxxx xx xxxxxxxxx xxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file column number, or 0 (zero) if the file column number cannot be determined.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xxxxxx$ xx 0 $xxxx$ xx xxx xxxx xxxxxx xxxxxx xxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the line number in the file that contains the code that is executing.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxx xx xxx xxxx xxxx xxxxxxxx xxx xxxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This information is typically extracted from the debugging symbols for the executable.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxxxx xx xxxxxxxxx xxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file line number, or 0 (zero) if the file line number cannot be determined.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxxxxx$ xx 0 $xxxx$ xx xxx xxxx xxxx xxxxxx xxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the file name that contains the code that is executing.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxxx xxxxxxxx xxx xxxx xxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This information is typically extracted from the debugging symbols for the executable.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxxxxxxxx xx xxxxxxxxx xxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxx xxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file name, or &lt;strong&gt;null&lt;/strong&gt; if the file name cannot be determined.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xxxx xxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset from the start of the MSIL code for the method that is executing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxx xx xxx XXXX xxxx xxx xxx xxxxxx xxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the method in which the frame is executing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxxx xxx xxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The method in which the frame is executing.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxx xxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Builds a readable representation of the stack trace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A readable representation of the stack trace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

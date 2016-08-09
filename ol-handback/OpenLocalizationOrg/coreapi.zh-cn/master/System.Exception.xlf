@@ -1,0 +1,58 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents errors that occur during application execution.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxx xxxx xxxxx xxxxxx xxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message that describes the error.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xxxxxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is the cause of the current exception, or a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic) if no inner exception is specified.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx xx xxx xxxxxxx xxxxxxxxx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xx xx xxxxx xxxxxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a collection of key/value pairs that provide additional user-defined information about the exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxxxxxx xx xxx$xxxxx xxxxx xxxx xxxxxxx xxxxxxxxxx xxxx$xxxxxxx xxxxxxxxxxx xxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a link to the help file associated with this exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxx xx xxx xxxx xxxx xxxxxxxxxx xxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Uniform Resource Name (URN) or Uniform Resource Locator (URL).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxxx Xxxxxxxx Xxxx $XXX$ xx Xxxxxxx Xxxxxxxx Xxxxxxx $XXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx XXXXXXX$ x xxxxx xxxxxxxxx xxxxx xxxx xx xxxxxxxx xx x xxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The HRESULT value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXXXX xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a message that describes the current exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxxx xxxx xxxxxxxxx xxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the name of the application or the object that causes the error.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxx xx xxx xxxxxxxxxxx xx xxx xxxxxx xxxx xxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the application or the object that causes the error.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxxx xx xxx xxxxxx xxxx xxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a string representation of the immediate frames on the call stack.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxx xxxxxxxxxxxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that describes the immediate frames of the call stack.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxxx xxx xxxxxxxxx xxxxxx xx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates and returns a string representation of the current exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx x xxxxxx xxxxxxxxxxxxxx xx xxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string representation of the current exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxxxxxx xx xxx xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

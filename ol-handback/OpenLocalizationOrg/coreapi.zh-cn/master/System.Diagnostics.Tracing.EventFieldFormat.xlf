@@ -1,0 +1,25 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies how to format the value of a user-defined type and can be used to override the default formatting for a field.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xx xxxxxx xxx xxxxx xx x xxxx$xxxxxxx xxxx xxx xxx xx xxxx xx xxxxxxxx xxx xxxxxxx xxxxxxxxxx xxx x xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Boolean&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Default.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Hexadecimal.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;HResult.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$XXxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;JSON.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$XXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;String.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;XML.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$XXX.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The activity options defined for this event source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxx xxxxxxx xxx xxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the keywords applied to the event.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>If this property is not set, the event’s keywords will be &lt;strong&gt;None&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxx xxxxxxxx xx xxx xxx$ xxx xxxxx$x xxxxxxxx xxxx xx $xxxxxx$Xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The keywords applied to the event, or &lt;strong&gt;None&lt;/strong&gt; if no keywords are set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxx xx xxx xxxxx$ xx $xxxxxx$Xxxx$$xxxxxx$ xx xx xxxxxxxx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the event level applied to the event.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxx xxxxx xxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event level for the event.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx xxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>If not set, the default is Verbose (5).&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxx$ xxx xxxxxxx xx Xxxxxxx $0$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the operation code to use for the specified event.</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxxx xxxx xx xxx xxx xxx xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The operation code to use for the specified event.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxx xxx xxxxxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>If not set, the default is &lt;strong&gt;Info&lt;/strong&gt; (0).&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxx$ xxx xxxxxxx xx $xxxxxx$Xxxx$$xxxxxx$ $0$.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The event tags defined for this event source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxxxxxx xxx xxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

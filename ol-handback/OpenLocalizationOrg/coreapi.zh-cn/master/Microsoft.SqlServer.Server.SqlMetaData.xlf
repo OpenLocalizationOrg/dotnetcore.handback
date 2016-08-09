@@ -1,0 +1,361 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$Xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;SqlDbType&lt;/strong&gt; that is not allowed was passed to the constructor as &lt;em&gt;dbType&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X $xxxxxx$XxxXxXxxx$$xxxxxx$ xxxx xx xxx xxxxxxx xxx xxxxxx xx xxx xxxxxxxxxxx xx $xx$xxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifes whether this column should use the default server value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxx xxxxxx xxxxxx xxx xxx xxxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies if the column in the table-valued parameter is unique.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxxx xx xxx xxxxx$xxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the sort order for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The precision of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The scale of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$Xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;SqlDbType&lt;/strong&gt; that is not allowed was passed to the constructor as &lt;em&gt;dbType&lt;/em&gt;, or &lt;em&gt;scale&lt;/em&gt; was greater than &lt;em&gt;precision&lt;/em&gt;.</source>
+          <target state="new">$x$x$X $xxxxxx$XxxXxXxxx$$xxxxxx$ xxxx xx xxx xxxxxxx xxx xxxxxx xx xxx xxxxxxxxxxx xx $xx$xxXxxx$$xx$$ xx $xx$xxxxx$$xx$ xxx xxxxxxx xxxx $xx$xxxxxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The precision of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The scale of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifes whether this column should use the default server value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxx xxxxxx xxxxxx xxx xxx xxxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies if the column in the table-valued parameter is unique.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxxx xx xxx xxxxx$xxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the sort order for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$Xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A SqlDbType that is not allowed was passed to the constructor as &lt;em&gt;dbType&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X XxxXxXxxx xxxx xx xxx xxxxxxx xxx xxxxxx xx xxx xxxxxxxxxxx xx $xx$xxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifes whether this column should use the default server value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxx xxxxxx xxxxxx xxx xxx xxxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies if the column in the table-valued parameter is unique.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxxx xx xxx xxxxx$xxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the sort order for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The precision of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The scale of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The locale ID of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx XX xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The comparison rules of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$Xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The precision of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The scale of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The locale ID of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx XX xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The comparison rules of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifes whether this column should use the default server value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxx xxxxxx xxxxxx xxx xxx xxxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies if the column in the table-valued parameter is unique.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxxx xx xxx xxxxx$xxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the sort order for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length of the specified type.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The locale ID of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx XX xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The comparison rules of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx $xx$Xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A SqlDbType that is not allowed was passed to the constructor as &lt;em&gt;dbType&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X XxxXxXxxx xxxx xx xxx xxxxxxx xxx xxxxxx xx xxx xxxxxxxxxxx xx $xx$xxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The maximum length of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The locale ID of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx XX xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The comparison rules of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifes whether this column should use the default server value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxx xxxxxx xxxxxx xxx xxx xxxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies if the column in the table-valued parameter is unique.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxxx xx xxx xxxxx$xxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the sort order for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The database name of the XML schema collection of a typed XML instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx XXX xxxxxx xxxxxxxxxx xx x xxxxx XXX xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relational schema name of the XML schema collection of a typed XML instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xxxx xx xxx XXX xxxxxx xxxxxxxxxx xx x xxxxx XXX xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the XML schema collection of a typed XML instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx XXX xxxxxx xxxxxxxxxx xx x xxxxx XXX xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;, or &lt;em&gt;objectName&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt; when &lt;em&gt;database&lt;/em&gt; and &lt;em&gt;owningSchema&lt;/em&gt; are non-&lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$Xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$$ xx $xx$xxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$ xxxx $xx$xxxxxxxx$$xx$ xxx $xx$xxxxxxXxxxxx$$xx$ xxx xxx$$xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A SqlDbType that is not allowed was passed to the constructor as &lt;em&gt;dbType&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X XxxXxXxxx xxxx xx xxx xxxxxxx xxx xxxxxx xx xxx xxxxxxxxxxx xx $xx$xxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SQL Server type of the parameter or column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxxx xx xxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The database name of the XML schema collection of a typed XML instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxx XXX xxxxxx xxxxxxxxxx xx x xxxxx XXX xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The relational schema name of the XML schema collection of a typed XML instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xxxx xx xxx XXX xxxxxx xxxxxxxxxx xx x xxxxx XXX xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the XML schema collection of a typed XML instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx XXX xxxxxx xxxxxxxxxx xx x xxxxx XXX xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifes whether this column should use the default server value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxxx xxxxxx xxxxxx xxx xxx xxxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies if the column in the table-valued parameter is unique.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxxx xx xxx xxxxx$xxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the sort order for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the comparison rules used for the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xxxxx xxxx xxx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates if the column in the table-valued parameter is unique.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxx xxxxxx xx xxx xxxxx$xxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the locale ID of the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx XX xx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the length of &lt;strong&gt;text&lt;/strong&gt;, &lt;strong&gt;ntext&lt;/strong&gt;, and &lt;strong&gt;image&lt;/strong&gt; data types.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ $xxxxxx$xxxxx$$xxxxxx$$ xxx $xxxxxx$xxxxx$$xxxxxx$ xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of &lt;strong&gt;text&lt;/strong&gt;, &lt;strong&gt;ntext&lt;/strong&gt;, and &lt;strong&gt;image&lt;/strong&gt; data types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ $xxxxxx$xxxxx$$xxxxxx$$ xxx $xxxxxx$xxxxx$$xxxxxx$ xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the maximum length of the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxx xx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;Name&lt;/em&gt; specified in the constructor is longer than 128 characters.</source>
+          <target state="new">$x$x$Xxx $xx$Xxxx$$xx$ xxxxxxxxx xx xxx xxxxxxxxxxx xx xxxxxx xxxx 000 xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the precision of the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxx xx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the scale of the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The scale of the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the sort order for a column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxxx xxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The ordinal of the sort column.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the data type of the column or parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xx xxx xxxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the three-part name of the user-defined type (UDT) or the SQL Server type represented by the instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx$xxxx xxxx xx xxx xxxx$xxxxxxx xxxx $XXX$ xx xxx XXX Xxxxxx xxxx xxxxxxxxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reports whether this column should use the default server value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxx xxxx xxxxxx xxxxxx xxx xxx xxxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A &lt;strong&gt;Boolean&lt;/strong&gt; value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the database where the schema collection for this XML instance is located.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxxx xxxxx xxx xxxxxx xxxxxxxxxx xxx xxxx XXX xxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the schema collection for this XML instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxx xxxxxxxxxx xxx xxxx XXX xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the owning relational schema where the schema collection for this XML instance is located.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxxxxx xxxxxx xxxxx xxx xxxxxx xxxxxxxxxx xxx xxxx XXX xxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object used from which the metadata is inferred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxx xxxxx xxx xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The v&lt;em&gt;alue&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxx x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

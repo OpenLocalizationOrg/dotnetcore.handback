@@ -1,0 +1,40 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a transaction to be performed at a data source, and is implemented by .NET Framework data providers that access relational databases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxxxxxx xx xx xxxxxxxxx xx x xxxx xxxxxx$ xxx xx xxxxxxxxxxx xx .XXX Xxxxxxxxx xxxx xxxxxxxxx xxxx xxxxxx xxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the Connection object to associate with the transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx Xxxxxxxxxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Connection object to associate with the transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxxxxxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Commits the database transaction.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred while trying to commit the transaction.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxxx xxxxxx xx xxxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The transaction has already been committed or rolled back.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The connection is broken.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Rolls back a transaction from a pending state.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxxx x xxxxxxxxxxx xxxx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An error occurred while trying to commit the transaction.</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxx xxxxx xxxxxx xx xxxxxx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The transaction has already been committed or rolled back.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The connection is broken.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxx xxxxxxx xxxx xxxxxxxxx xx xxxxxx xxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

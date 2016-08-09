@@ -1,0 +1,958 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a character as a UTF-16 code unit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxxxx xx x XXX$00 xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed number indicating the position of this instance in the sort order in relation to the &lt;em&gt;value&lt;/em&gt; parameter.&lt;/p&gt;\n&lt;p&gt;Return Value &lt;/p&gt;\n&lt;p&gt;Description &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance precedes &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxxxxxxxx xxx xxxxxxxx xx xxxx xxxxxxxx xx xxx xxxx xxxxx xx xxxxxxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx.$$x$$x$x$Xxxxxx Xxxxx $$x$$x$x$Xxxxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xxxxxxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance has the same position in the sort order as &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xxx xxx xxxx xxxxxxxx xx xxx xxxx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance follows &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xxxxxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified Unicode code point into a UTF-16 encoded string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx Xxxxxxx xxxx xxxxx xxxx x XXX$00 xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 21-bit Unicode code point.</source>
+          <target state="new">$x$x$X 00$xxx Xxxxxxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;utf32&lt;/em&gt; is not a valid 21-bit Unicode code point ranging from U+0 through U+10FFFF, excluding the surrogate pair range from U+D800 through U+DFFF.</source>
+          <target state="new">$x$x$$x$xx$xxx00$$xx$ xx xxx x xxxxx 00$xxx Xxxxxxx xxxx xxxxx xxxxxxx xxxx X$0 xxxxxxx X$00XXXX$ xxxxxxxxx xxx xxxxxxxxx xxxx xxxxx xxxx X$X000 xxxxxxx X$XXXX.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of a UTF-16 encoded surrogate pair into a Unicode code point.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx x XXX$00 xxxxxxx xxxxxxxxx xxxx xxxx x Xxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A high surrogate code unit (that is, a code unit ranging from U+D800 through U+DBFF).</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxx xxxx xxxx $xxxx xx$ x xxxx xxxx xxxxxxx xxxx X$X000 xxxxxxx X$XXXX$.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A low surrogate code unit (that is, a code unit ranging from U+DC00 through U+DFFF).</source>
+          <target state="new">$x$x$X xxx xxxxxxxxx xxxx xxxx $xxxx xx$ x xxxx xxxx xxxxxxx xxxx X$XX00 xxxxxxx X$XXXX$.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 21-bit Unicode code point represented by the &lt;em&gt;highSurrogate&lt;/em&gt; and &lt;em&gt;lowSurrogate&lt;/em&gt; parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 00$xxx Xxxxxxx xxxx xxxxx xxxxxxxxxxx xx xxx $xx$xxxxXxxxxxxxx$$xx$ xxx $xx$xxxXxxxxxxxx$$xx$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;highSurrogate&lt;/em&gt; is not in the range U+D800 through U+DBFF, or &lt;em&gt;lowSurrogate&lt;/em&gt; is not in the range U+DC00 through U+DFFF.</source>
+          <target state="new">$x$x$$x$xx$xxxxXxxxxxxxx$$xx$ xx xxx xx xxx xxxxx X$X000 xxxxxxx X$XXXX$ xx $xx$xxxXxxxxxxxx$$xx$ xx xxx xx xxx xxxxx X$XX00 xxxxxxx X$XXXX.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of a UTF-16 encoded character or surrogate pair at a specified position in a string into a Unicode code point.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx x XXX$00 xxxxxxx xxxxxxxxx xx xxxxxxxxx xxxx xx x xxxxxxxxx xxxxxxxx xx x xxxxxx xxxx x Xxxxxxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a character or surrogate pair.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxxxxxxx xx xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index position of the character or surrogate pair in &lt;em&gt;s&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxxx xxxx xx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 21-bit Unicode code point represented by the character or surrogate pair at the position in the &lt;em&gt;s&lt;/em&gt; parameter specified by the &lt;em&gt;index&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 00$xxx Xxxxxxx xxxx xxxxx xxxxxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxxx xxxx xx xxx xxxxxxxx xx xxx $xx$x$$xx$ xxxxxxxxx xxxxxxxxx xx xxx $xx$xxxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is not a position within &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx x xxxxxxxx xxxxxx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The specified index position contains a surrogate pair, and either the first character in the pair is not a valid high surrogate or the second character in the pair is not a valid low surrogate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxx xxxxxxxx xxxxxxxx x xxxxxxxxx xxxx$ xxx xxxxxx xxx xxxxx xxxxxxxxx xx xxx xxxx xx xxx x xxxxx xxxx xxxxxxxxx xx xxx xxxxxx xxxxxxxxx xx xxx xxxx xx xxx x xxxxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare to this instance.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;obj&lt;/em&gt; parameter equals the value of this instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xx$xxx$$xx$ xxxxxxxxx xxxxxx xxx xxxxx xx xxxx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value that indicates whether this instance is equal to a specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxx xxxxxxxxx xxxxxxx xxxx xxxxxxxx xx xxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare with this instance or &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified numeric Unicode character to a double-precision floating point number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx xxxxxxx Xxxxxxx xxxxxxxxx xx x xxxxxx$xxxxxxxxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to convert.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value of &lt;em&gt;c&lt;/em&gt; if that character represents a number; otherwise, -1.0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xx $xx$x$$xx$ xx xxxx xxxxxxxxx xxxxxxxxxx x xxxxxx$ xxxxxxxxx$ $0.0.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the numeric Unicode character at the specified position in a specified string to a double-precision floating point number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx Xxxxxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx x xxxxxx$xxxxxxxxx xxxxxxxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The character position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The numeric value of the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; if that character represents a number; otherwise, -1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx xxxx xxxxxxxxx xxxxxxxxxx x xxxxxx$ xxxxxxxxx$ $0.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a control character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a control character; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a control character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a control character; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a decimal digit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a decimal digit; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a decimal digit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a decimal digit; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the numeric value of the &lt;em&gt;c&lt;/em&gt; parameter ranges from U+D800 through U+DBFF; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxx xx xxx $xx$x$$xx$ xxxxxxxxx xxxxxx xxxx X$X000 xxxxxxx X$XXXX$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the numeric value of the specified character in the &lt;em&gt;s&lt;/em&gt; parameter ranges from U+D800 through U+DBFF; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxx xx xxx xxxxxxxxx xxxxxxxxx xx xxx $xx$x$$xx$ xxxxxxxxx xxxxxx xxxx X$X000 xxxxxxx X$XXXX$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is not a position within &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx x xxxxxxxx xxxxxx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a Unicode letter.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x Xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a letter; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a Unicode letter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x Xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a letter; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a letter or a decimal digit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxx xx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a letter or a decimal digit; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxx xx x xxxxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a letter or a decimal digit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxx xx x xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a letter or a decimal digit; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxx xx x xxxxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a lowercase letter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a lowercase letter; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxxxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a lowercase letter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a lowercase letter; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxxxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The character to evaluate.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the numeric value of the &lt;em&gt;c&lt;/em&gt; parameter ranges from U+DC00 through U+DFFF; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxx xx xxx $xx$x$$xx$ xxxxxxxxx xxxxxx xxxx X$XX00 xxxxxxx X$XXXX$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the numeric value of the specified character in the &lt;em&gt;s&lt;/em&gt; parameter ranges from U+DC00 through U+DFFF; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxx xx xxx xxxxxxxxx xxxxxxxxx xx xxx $xx$x$$xx$ xxxxxxxxx xxxxxx xxxx X$XX00 xxxxxxx X$XXXX$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is not a position within &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx x xxxxxxxx xxxxxx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a number; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a number.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a number; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a punctuation mark.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a punctuation mark; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxxxxxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a punctuation mark.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a punctuation mark; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxxxxxxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a separator character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a separator character; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a separator character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a separator character; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified character has a surrogate code unit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx xxx x xxxxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is either a high surrogate or a low surrogate; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx xxxxxx x xxxx xxxxxxxxx xx x xxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string has a surrogate code unit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xxx x xxxxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="294" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="295" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="296" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a either a high surrogate or a low surrogate; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxx x xxxx xxxxxxxxx xx x xxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="297" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="298" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="299" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="300" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="301" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The character to evaluate as the high surrogate of a surrogate pair.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxxxxx xx xxx xxxx xxxxxxxxx xx x xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="302" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="303" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The character to evaluate as the low surrogate of a surrogate pair.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxxxxx xx xxx xxx xxxxxxxxx xx x xxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="304" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="305" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the numeric value of the &lt;em&gt;highSurrogate&lt;/em&gt; parameter ranges from U+D800 through U+DBFF, and the numeric value of the &lt;em&gt;lowSurrogate&lt;/em&gt; parameter ranges from U+DC00 through U+DFFF; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxx xxxxx xx xxx $xx$xxxxXxxxxxxxx$$xx$ xxxxxxxxx xxxxxx xxxx X$X000 xxxxxxx X$XXXX$ xxx xxx xxxxxxx xxxxx xx xxx $xx$xxxXxxxxxxxx$$xx$ xxxxxxxxx xxxxxx xxxx X$XX00 xxxxxxx X$XXXX$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="306" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="307" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="308" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The starting position of the pair of characters to evaluate within &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxxxxx xx xxx xxxx xx xxxxxxxxxx xx xxxxxxxx xxxxxx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="309" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="310" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;s&lt;/em&gt; parameter includes adjacent characters at positions &lt;em&gt;index&lt;/em&gt; and &lt;em&gt;index&lt;/em&gt; + 1, and the numeric value of the character at position &lt;em&gt;index&lt;/em&gt; ranges from U+D800 through U+DBFF, and the numeric value of the character at position &lt;em&gt;index&lt;/em&gt;+1 ranges from U+DC00 through U+DFFF; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xx$x$$xx$ xxxxxxxxx xxxxxxxx xxxxxxxx xxxxxxxxxx xx xxxxxxxxx $xx$xxxxx$$xx$ xxx $xx$xxxxx$$xx$ $ 0$ xxx xxx xxxxxxx xxxxx xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xxxxxx xxxx X$X000 xxxxxxx X$XXXX$ xxx xxx xxxxxxx xxxxx xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$$0 xxxxxx xxxx X$XX00 xxxxxxx X$XXXX$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="311" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="312" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="313" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is not a position within &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx x xxxxxxxx xxxxxx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="314" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="315" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as a symbol character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx x xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="316" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="317" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="318" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is a symbol character; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx x xxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="319" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as a symbol character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx x xxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="320" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="321" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="322" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="323" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="324" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is a symbol character; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx x xxxxxx xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="325" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="326" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="327" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="328" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="329" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as an uppercase letter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx xx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="330" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="331" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="332" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is an uppercase letter; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx xx xxxxxxxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="333" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as an uppercase letter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx xx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="334" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="335" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="336" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="337" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="338" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is an uppercase letter; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx xx xxxxxxxxx xxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="339" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="340" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="341" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="342" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="343" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the specified Unicode character is categorized as white space.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxxxxxxxxxx xx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="344" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to evaluate.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="345" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="346" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;c&lt;/em&gt; is white space; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xx xxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="347" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether the character at the specified position in a specified string is categorized as white space.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx xxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxxx xx xxxxxxxxxxx xx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="348" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string.</source>
+          <target state="new">$x$x$X xxxxxx.</target>
+        </trans-unit><trans-unit id="349" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="350" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position of the character to evaluate in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xxxxxxxxx xx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="351" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="352" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the character at position &lt;em&gt;index&lt;/em&gt; in &lt;em&gt;s&lt;/em&gt; is white space; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xx xxxxxxxx $xx$xxxxx$$xx$ xx $xx$x$$xx$ xx xxxxx xxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="353" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="354" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="355" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero or greater than the last position in &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx xx xxxxxxx xxxx xxx xxxx xxxxxxxx xx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="356" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="357" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of the specified string to its equivalent Unicode character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxxxxxx Xxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="358" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a single character, or &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxxxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="359" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="360" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A Unicode character equivalent to the sole character in &lt;em&gt;s&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X Xxxxxxx xxxxxxxxx xxxxxxxxxx xx xxx xxxx xxxxxxxxx xx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="361" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="362" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="363" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The length of &lt;em&gt;s&lt;/em&gt; is not 1.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx $xx$x$$xx$ xx xxx 0.</target>
+        </trans-unit><trans-unit id="364" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="365" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="366" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="367" translate="yes" xml:space="preserve">
+          <source>No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="368" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="369" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="370" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="371" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="372" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="373" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="374" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="375" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="376" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="377" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="378" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="379" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="380" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="381" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="382" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="383" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="384" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="385" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="386" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="387" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object of the specified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="388" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="389" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of a Unicode character to its lowercase equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx x Xxxxxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="390" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to convert.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="391" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="392" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The lowercase equivalent of &lt;em&gt;c&lt;/em&gt;, or the unchanged value of &lt;em&gt;c&lt;/em&gt;, if &lt;em&gt;c&lt;/em&gt; is already lowercase or not alphabetic.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxxx xx $xx$x$$xx$$ xx xxx xxxxxxxxx xxxxx xx $xx$x$$xx$$ xx $xx$x$$xx$ xx xxxxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="393" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of a Unicode character to its lowercase equivalent using the casing rules of the invariant culture.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx x Xxxxxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxxxx xxxxx xxx xxxxxx xxxxx xx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="394" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to convert.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="395" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="396" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The lowercase equivalent of the &lt;em&gt;c&lt;/em&gt; parameter, or the unchanged value of &lt;em&gt;c&lt;/em&gt;, if &lt;em&gt;c&lt;/em&gt; is already lowercase or not alphabetic.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxxx xx xxx $xx$x$$xx$ xxxxxxxxx$ xx xxx xxxxxxxxx xxxxx xx $xx$x$$xx$$ xx $xx$x$$xx$ xx xxxxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="397" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to its equivalent string representation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="398" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="399" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the specified Unicode character to its equivalent string representation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxx Xxxxxxx xxxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="400" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to convert.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="401" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="402" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the value of &lt;em&gt;c&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="403" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of a Unicode character to its uppercase equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx x Xxxxxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="404" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to convert.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="405" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="406" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uppercase equivalent of &lt;em&gt;c&lt;/em&gt;, or the unchanged value of &lt;em&gt;c&lt;/em&gt; if &lt;em&gt;c&lt;/em&gt; is already uppercase, has no uppercase equivalent, or is not alphabetic.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxxx xx $xx$x$$xx$$ xx xxx xxxxxxxxx xxxxx xx $xx$x$$xx$ xx $xx$x$$xx$ xx xxxxxxx xxxxxxxxx$ xxx xx xxxxxxxxx xxxxxxxxxx$ xx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="407" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of a Unicode character to its uppercase equivalent using the casing rules of the invariant culture.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx x Xxxxxxx xxxxxxxxx xx xxx xxxxxxxxx xxxxxxxxxx xxxxx xxx xxxxxx xxxxx xx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="408" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Unicode character to convert.</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxxxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="409" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="410" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uppercase equivalent of the &lt;em&gt;c&lt;/em&gt; parameter, or the unchanged value of &lt;em&gt;c&lt;/em&gt;, if &lt;em&gt;c&lt;/em&gt; is already uppercase or not alphabetic.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxxx xx xxx $xx$x$$xx$ xxxxxxxxx$ xx xxx xxxxxxxxx xxxxx xx $xx$x$$xx$$ xx $xx$x$$xx$ xx xxxxxxx xxxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="411" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of the specified string to its equivalent Unicode character.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxx xxxxxxxxxx Xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="412" translate="yes" xml:space="preserve">
+          <source>A return code indicates whether the conversion succeeded or failed.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="413" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string that contains a single character, or &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxx x xxxxxx xxxxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="414" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="415" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, contains a Unicode character equivalent to the sole character in &lt;em&gt;s&lt;/em&gt;, if the conversion succeeded, or an undefined value if the conversion failed.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xxxxxxxx x Xxxxxxx xxxxxxxxx xxxxxxxxxx xx xxx xxxx xxxxxxxxx xx $xx$x$$xx$$ xx xxx xxxxxxxxxx xxxxxxxxx$ xx xx xxxxxxxxx xxxxx xx xxx xxxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="416" translate="yes" xml:space="preserve">
+          <source>The conversion fails if the &lt;em&gt;s&lt;/em&gt; parameter is &lt;strong&gt;null&lt;/strong&gt; or the length of &lt;em&gt;s&lt;/em&gt; is not 1.</source>
+          <target state="new">Xxx xxxxxxxxxx xxxxx xx xxx $xx$x$$xx$ xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xx $xx$x$$xx$ xx xxx 0.</target>
+        </trans-unit><trans-unit id="417" translate="yes" xml:space="preserve">
+          <source>This parameter is passed uninitialized.</source>
+          <target state="new">Xxxx xxxxxxxxx xx xxxxxx xxxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="418" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="419" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the &lt;em&gt;s&lt;/em&gt; parameter was converted successfully; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx $xx$x$$xx$ xxxxxxxxx xxx xxxxxxxxx xxxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

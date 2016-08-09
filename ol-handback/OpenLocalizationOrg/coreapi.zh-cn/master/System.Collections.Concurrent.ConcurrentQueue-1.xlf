@@ -1,0 +1,61 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a thread-safe first in-first out (FIFO) collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxx$xxxx xxxxx xx$xxxxx xxx $XXXX$ xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the elements contained in the queue.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxx xxxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;collection&lt;/em&gt; argument is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxx$$xx$ xxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns null  (Nothing in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxxx  $Xxxxxxx xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SyncRoot property is not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XxxxXxxx xxxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is a null reference (Nothing in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx x xxxx xxxxxxxxx $Xxxxxxx xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;true if the object was added successfully; otherwise, false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxx xx xxx xxxxxx xxx xxxxx xxxxxxxxxxxx$ xxxxxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, if the operation was successful, &lt;em&gt;item&lt;/em&gt; contains the object removed.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xx xxx xxxxxxxxx xxx xxxxxxxxxx$ $xx$xxxx$$xx$ xxxxxxxx xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>If no object was available to be removed, the value is unspecified.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxxxxx xxx xxxxxxxxx xx xx xxxxxxx$ xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;true if an element was removed and returned succesfully; otherwise, false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxx xx xx xxxxxxx xxx xxxxxxx xxx xxxxxxxx xxxxxxxxxxx$ xxxxxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is a null reference (Nothing in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx x xxxx xxxxxxxxx $Xxxxxxx xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an enumerator that iterates through a collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxxxx xxxx xxxxxxxx xxxxxxx x xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Tries to remove and return the object at the beginning of the concurrent queue.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xx xxxxxx xxx xxxxxx xxx xxxxxx xx xxx xxxxxxxxx xx xxx xxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, if the operation was successful, &lt;em&gt;result&lt;/em&gt; contains the object removed.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xx xxx xxxxxxxxx xxx xxxxxxxxxx$ $xx$xxxxxx$$xx$ xxxxxxxx xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>If no object was available to be removed, the value is unspecified.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxxxxx xxx xxxxxxxxx xx xx xxxxxxx$ xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if an object was returned successfully; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xx xxxxxx xxx xxxxxxxx xxxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

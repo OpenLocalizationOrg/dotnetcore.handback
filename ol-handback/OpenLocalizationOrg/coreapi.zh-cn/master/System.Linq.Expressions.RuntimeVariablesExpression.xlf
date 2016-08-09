@@ -1,0 +1,19 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An expression that provides runtime read/write permission for variables.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxxx xxxx xxxxxxxx xxxxxxx xxxx$xxxxx xxxxxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The variables or parameters to which to provide runtime access.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxxxxxxx xx xxxxx xx xxxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The read-only collection containing parameters that will be provided the runtime access.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxx xxxxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxx xxxx xx xxxxxxxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new expression that is like this one, but using the supplied children.</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxxxxxx xxxx xx xxxx xxxx xxx$ xxx xxxxx xxx xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If all of the children are the same, it will return this expression.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xx xxx xxxxxxxx xxx xxx xxxx$ xx xxxx xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This expression if no children are changed or an expression with the updated children.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xx xxxxxxxx xxx xxxxxxx xx xx xxxxxxxxxx xxxx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

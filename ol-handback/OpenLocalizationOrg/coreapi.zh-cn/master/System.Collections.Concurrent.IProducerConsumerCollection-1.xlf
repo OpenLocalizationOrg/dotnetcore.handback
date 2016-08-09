@@ -1,0 +1,34 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the type of elements in the collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xx xxxxxxxx xx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index in &lt;em&gt;array&lt;/em&gt; at which copying begins.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx $xx$xxxxx$$xx$ xx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is a null reference (Nothing in Visual Basic).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx x xxxx xxxxxxxxx $Xxxxxxx xx Xxxxxx Xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is less than zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is equal to or greater than the length of the &lt;em&gt;array&lt;/em&gt; -or- The number of elements in the collection is greater than the available space from &lt;em&gt;index&lt;/em&gt; to the end of the destination &lt;em&gt;array&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxx xx xx xxxxxxx xxxx xxx xxxxxx xx xxx $xx$xxxxx$$xx$ $xx$ Xxx xxxxxx xx xxxxxxxx xx xxx xxxxxxxxxx xx xxxxxxx xxxx xxx xxxxxxxxx xxxxx xxxx $xx$xxxxx$$xx$ xx xxx xxx xx xxx xxxxxxxxxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;true if the object was added successfully; otherwise, false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxx xx xxx xxxxxx xxx xxxxx xxxxxxxxxxxx$ xxxxxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;item&lt;/em&gt; was invalid for this collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxx$$xx$ xxx xxxxxxx xxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When this method returns, if the object was removed and returned successfully, &lt;em&gt;item&lt;/em&gt; contains the removed object.</source>
+          <target state="new">$x$x$Xxxx xxxx xxxxxx xxxxxxx$ xx xxx xxxxxx xxx xxxxxxx xxx xxxxxxxx xxxxxxxxxxxx$ $xx$xxxx$$xx$ xxxxxxxx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>If no object was available to be removed, the value is unspecified.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxxxxx xxx xxxxxxxxx xx xx xxxxxxx$ xxx xxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;true if an object was removed and returned successfully; otherwise, false.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$xxxx xx xx xxxxxx xxx xxxxxxx xxx xxxxxxxx xxxxxxxxxxxx$ xxxxxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,85 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is thrown when one of the arguments provided to a method is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxx xxxx xxx xx xxx xxxxxxxxx xxxxxxxx xx x xxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is the cause of the current exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx xx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>If the &lt;em&gt;innerException&lt;/em&gt; parameter is not a null reference, the current exception is raised in a &lt;strong&gt;catch&lt;/strong&gt; block that handles the inner exception.</source>
+          <target state="new">Xx xxx $xx$xxxxxXxxxxxxxx$$xx$ xxxxxxxxx xx xxx x xxxx xxxxxxxxx$ xxx xxxxxxx xxxxxxxxx xx xxxxxx xx x $xxxxxx$xxxxx$$xxxxxx$ xxxxx xxxx xxxxxxx xxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter that caused the current exception.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xxxx xxxxxx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the parameter that caused the current exception.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xxxx xxxxxx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is the cause of the current exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx xx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>If the &lt;em&gt;innerException&lt;/em&gt; parameter is not a null reference, the current exception is raised in a &lt;strong&gt;catch&lt;/strong&gt; block that handles the inner exception.</source>
+          <target state="new">Xx xxx $xx$xxxxxXxxxxxxxx$$xx$ xxxxxxxxx xx xxx x xxxx xxxxxxxxx$ xxx xxxxxxx xxxxxxxxx xx xxxxxx xx x $xxxxxx$xxxxx$$xxxxxx$ xxxxx xxxx xxxxxxx xxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the error message and the parameter name, or only the error message if no parameter name is set.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxxx xxx xxx xxxxxxxxx xxxx$ xx xxxx xxx xxxxx xxxxxxx xx xx xxxxxxxxx xxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A text string describing the details of the exception.</source>
+          <target state="new">$x$x$X xxxx xxxxxx xxxxxxxxxx xxx xxxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>The value of this property takes one of two forms: &lt;/p&gt;\n&lt;p&gt;Condition &lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;The &lt;em&gt;paramName&lt;/em&gt; is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic) or of zero length.</source>
+          <target state="new">Xxx xxxxx xx xxxx xxxxxxxx xxxxx xxx xx xxx xxxxx$ $$x$$x$x$Xxxxxxxxx $$x$$x$x$Xxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxx $xx$xxxxxXxxx$$xx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xx xx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;The &lt;em&gt;message&lt;/em&gt; string passed to the constructor.</source>
+          <target state="new">$$x$$x$$xx$$xx$$x$x$Xxx $xx$xxxxxxx$$xx$ xxxxxx xxxxxx xx xxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;The &lt;em&gt;paramName&lt;/em&gt; is not null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic) and it has a length greater than zero.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxx $xx$xxxxxXxxx$$xx$ xx xxx xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$ xxx xx xxx x xxxxxx xxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;The &lt;em&gt;message&lt;/em&gt; string appended with the name of the invalid parameter.</source>
+          <target state="new">$$x$$x$$xx$$xx$$x$x$Xxx $xx$xxxxxxx$$xx$ xxxxxx xxxxxxxx xxxx xxx xxxx xx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the parameter that causes this exception.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxxxxxx xxxx xxxxxx xxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameter name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,130 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines the types (or classes) of documents and the properties associated with those types.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx $xx xxxxxxx$ xx xxxxxxxxx xxx xxx xxxxxxxxxx xxxxxxxxxx xxxx xxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This field reads the Windows registry base key HKEY_CLASSES_ROOT.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xxx Xxxxxxx xxxxxxxx xxxx xxx XXXX$XXXXXXX$XXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Contains configuration information pertaining to the hardware that is not specific to the user.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxxxx xxxxxxxxxxx xxxxxxxxxx xx xxx xxxxxxxx xxxx xx xxx xxxxxxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>This field reads the Windows registry base key HKEY_CURRENT_CONFIG.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xxx Xxxxxxx xxxxxxxx xxxx xxx XXXX$XXXXXXX$XXXXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Contains information about the current user preferences.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxx xxxxx xxx xxxxxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>This field reads the Windows registry base key HKEY_CURRENT_USER &lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xxx Xxxxxxx xxxxxxxx xxxx xxx XXXX$XXXXXXX$XXXX $$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Contains the configuration data for the local machine.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxxxxxxxx xxxx xxx xxx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>This field reads the Windows registry base key HKEY_LOCAL_MACHINE.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xxx Xxxxxxx xxxxxxxx xxxx xxx XXXX$XXXXX$XXXXXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Contains performance information for software components.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxx xxxxxxxxxxx xxx xxxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>This field reads the Windows registry base key HKEY_PERFORMANCE_DATA.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xxx Xxxxxxx xxxxxxxx xxxx xxx XXXX$XXXXXXXXXXX$XXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Contains information about the default user configuration.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxxxxxx xxxxx xxx xxxxxxx xxxx xxxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This field reads the Windows registry base key HKEY_USERS.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xxx Xxxxxxx xxxxxxxx xxxx xxx XXXX$XXXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the value associated with the specified name, in the specified registry key.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxx$ xx xxx xxxxxxxxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>If the name is not found in the specified key, returns a default value that you provide, or &lt;strong&gt;null&lt;/strong&gt; if the specified key does not exist.</source>
+          <target state="new">Xx xxx xxxx xx xxx xxxxx xx xxx xxxxxxxxx xxx$ xxxxxxx x xxxxxxx xxxxx xxxx xxx xxxxxxx$ xx $xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxxxxx xxx xxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the name/value pair.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx$xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to return if &lt;em&gt;valueName&lt;/em&gt; does not exist.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxx xx $xx$xxxxxXxxx$$xx$ xxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;null&lt;/strong&gt; if the subkey specified by &lt;em&gt;keyName&lt;/em&gt; does not exist; otherwise, the value associated with &lt;em&gt;valueName&lt;/em&gt;, or &lt;em&gt;defaultValue&lt;/em&gt; if &lt;em&gt;valueName&lt;/em&gt; is not found.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxxx xxxxxxxxx xx $xx$xxxXxxx$$xx$ xxxx xxx xxxxx$ xxxxxxxxx$ xxx xxxxx xxxxxxxxxx xxxx $xx$xxxxxXxxx$$xx$$ xx $xx$xxxxxxxXxxxx$$xx$ xx $xx$xxxxxXxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to read from the registry key.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxx xxxx xxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyName&lt;/em&gt; does not begin with a valid registry root.</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xxxx xxx xxxxx xxxx x xxxxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the specified name/value pair on the specified registry key.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxx xxxx$xxxxx xxxx xx xxx xxxxxxxxx xxxxxxxx xxx.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>If the specified key does not exist, it is created.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xxx xxxx xxx xxxxx$ xx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the name/value pair.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx$xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be stored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyName&lt;/em&gt; does not begin with a valid registry root.</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xxxx xxx xxxxx xxxx x xxxxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;keyName&lt;/em&gt; is longer than the maximum length allowed (255 characters).&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxXxxx$$xx$ xx xxxxxx xxxx xxx xxxxxxx xxxxxx xxxxxxx $000 xxxxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to create or modify registry keys.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xx xxxxxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the name/value pair on the specified registry key, using the specified registry data type.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx$xxxxx xxxx xx xxx xxxxxxxxx xxxxxxxx xxx$ xxxxx xxx xxxxxxxxx xxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>If the specified key does not exist, it is created.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxxxxxxxx xxx xxxx xxx xxxxx$ xx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the name/value pair.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxx$xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to be stored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The registry data type to use when storing the data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxx xx xxx xxxx xxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;keyName&lt;/em&gt; does not begin with a valid registry root.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;keyName&lt;/em&gt; is longer than the maximum length allowed (255 characters).&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The type of &lt;em&gt;value&lt;/em&gt; did not match the registry data type specified by &lt;em&gt;valueKind&lt;/em&gt;, therefore the data could not be converted properly.</source>
+          <target state="new">$x$x$$x$xx$xxxXxxx$$xx$ xxxx xxx xxxxx xxxx x xxxxx xxxxxxxx xxxx.$$x$$x$x$$xx$$$x$$x$x$$x$xx$xxxXxxx$$xx$ xx xxxxxx xxxx xxx xxxxxxx xxxxxx xxxxxxx $000 xxxxxxxxxx$.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxx xx $xx$xxxxx$$xx$ xxx xxx xxxxx xxx xxxxxxxx xxxx xxxx xxxxxxxxx xx $xx$xxxxxXxxx$$xx$$ xxxxxxxxx xxx xxxx xxxxx xxx xx xxxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The user does not have the permissions required to create or modify registry keys.</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxx xxxxxxxxxxx xxxxxxxx xx xxxxxx xx xxxxxx xxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

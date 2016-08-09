@@ -1,0 +1,31 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Lets you efficiently bulk load a SQL Server table with data from another source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxxx xxxx xxxx x XXX Xxxxxx xxxxx xxxx xxxx xxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Number of rows in each batch.</source>
+          <target state="new">$x$x$Xxxxxx xx xxxx xx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>At the end of each batch, the rows in the batch are sent to the server.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xxx xx xxxx xxxxx$ xxx xxxx xx xxx xxxxx xxx xxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Number of seconds for the operation to complete before it times out.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxxx xxx xxx xxxxxxxxx xx xxxxxxxx xxxxxx xx xxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A collection of column mappings.</source>
+          <target state="new">$x$x$X xxxxxxxxxx xx xxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>By default, it is an empty collection.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxxxx$ xx xx xx xxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Name of the destination table on the server.</source>
+          <target state="new">$x$x$Xxxx xx xxx xxxxxxxxxxx xxxxx xx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines the number of rows to be processed before generating a notification event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xx xxxx xx xx xxxxxxxxx xxxxxx xxxxxxxxxx x xxxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A task representing the asynchronous operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx xxx xxxxxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

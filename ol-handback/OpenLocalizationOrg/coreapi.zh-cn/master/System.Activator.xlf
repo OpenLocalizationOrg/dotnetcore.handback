@@ -1,0 +1,172 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Contains methods to create types of objects locally or remotely, or obtain references to existing remote objects.</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xx xxxxxx xxxxx xx xxxxxxx xxxxxxx xx xxxxxxxx$ xx xxxxxx xxxxxxxxxx xx xxxxxxxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>This class cannot be inherited.</source>
+          <target state="new">Xxxx xxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an instance of the specified type using that type's default constructor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxx xx xxx xxxxxxxxx xxxx xxxxx xxxx xxxx$x xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of object to create.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A reference to the newly created object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The constructor being called throws an exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxx xxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cannot create an instance of an abstract class, or this member was invoked with a late-binding mechanism.</source>
+          <target state="new">$x$x$Xxxxxx xxxxxx xx xxxxxxxx xx xx xxxxxxxx xxxxx$ xx xxxx xxxxxx xxx xxxxxxx xxxx x xxxx$xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is a COM object but the class identifier used to obtain the type is invalid, or the identified class is not registered.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx x XXX xxxxxx xxx xxx xxxxx xxxxxxxxxx xxxx xx xxxxxx xxx xxxx xx xxxxxxx$ xx xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is not a valid type.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxx x xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an instance of the specified type using that type's default constructor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxx xx xxx xxxxxxxxx xxxx xxxxx xxxx xxxx$x xxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of object to create.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if a public or nonpublic default constructor can match; &lt;strong&gt;false&lt;/strong&gt; if only a public default constructor can match.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx x xxxxxx xx xxxxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxx x xxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A reference to the newly created object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The constructor being called throws an exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxx xxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The caller does not have permission to call this constructor.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxx xxxxxxxxxx xx xxxx xxxx xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cannot create an instance of an abstract class, or this member was invoked with a late-binding mechanism.</source>
+          <target state="new">$x$x$Xxxxxx xxxxxx xx xxxxxxxx xx xx xxxxxxxx xxxxx$ xx xxxx xxxxxx xxx xxxxxxx xxxx x xxxx$xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No matching public constructor was found.</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxxxx xxxxxxxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is a COM object but the class identifier used to obtain the type is invalid, or the identified class is not registered.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx x XXX xxxxxx xxx xxx xxxxx xxxxxxxxxx xxxx xx xxxxxx xxx xxxx xx xxxxxxx$ xx xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is not a valid type.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxx x xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an instance of the specified type using the constructor that best matches the specified parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxx xx xxx xxxxxxxxx xxxx xxxxx xxx xxxxxxxxxxx xxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of object to create.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of arguments that match in number, order, and type the parameters of the constructor to invoke.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxxxxxxx xxxx xxxxx xx xxxxxx$ xxxxx$ xxx xxxx xxx xxxxxxxxxx xx xxx xxxxxxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>If &lt;em&gt;args&lt;/em&gt; is an empty array or &lt;strong&gt;null&lt;/strong&gt;, the constructor that takes no parameters (the default constructor) is invoked.</source>
+          <target state="new">Xx $xx$xxxx$$xx$ xx xx xxxxx xxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxxxxx xxxx xxxxx xx xxxxxxxxxx $xxx xxxxxxx xxxxxxxxxxx$ xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A reference to the newly created object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The constructor being called throws an exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxx xxxxxx xxxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Cannot create an instance of an abstract class, or this member was invoked with a late-binding mechanism.</source>
+          <target state="new">$x$x$Xxxxxx xxxxxx xx xxxxxxxx xx xx xxxxxxxx xxxxx$ xx xxxx xxxxxx xxx xxxxxxx xxxx x xxxx$xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is a COM object but the class identifier used to obtain the type is invalid, or the identified class is not registered.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx x XXX xxxxxx xxx xxx xxxxx xxxxxxxxxx xxxx xx xxxxxx xxx xxxx xx xxxxxxx$ xx xxx xxxxxxxxxx xxxxx xx xxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;type&lt;/em&gt; is not a valid type.</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx xxx x xxxxx xxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates an instance of the type designated by the specified generic type parameter, using the parameterless constructor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx xxxxxxxx xx xxx xxxx xxxxxxxxxx xx xxx xxxxxxxxx xxxxxxx xxxx xxxxxxxxx$ xxxxx xxx xxxxxxxxxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type to create.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A reference to the newly created object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xx xxx xxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

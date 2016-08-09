@@ -1,0 +1,16 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Encapsulates a method that has one parameter and returns a value of the type specified by the &lt;em&gt;TResult&lt;/em&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxxx x xxxxxx xxxx xxx xxx xxxxxxxxx xxx xxxxxxx x xxxxx xx xxx xxxx xxxxxxxxx xx xxx $xx$XXxxxxx$$xx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The parameter of the method that this delegate encapsulates.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxx xxxxxx xxxx xxxx xxxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the parameter of the method that this delegate encapsulates.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxx xx xxx xxxxxx xxxx xxxx xxxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the return value of the method that this delegate encapsulates.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx xxxxx xx xxx xxxxxx xxxx xxxx xxxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The return value of the method that this delegate encapsulates.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxx xx xxx xxxxxx xxxx xxxx xxxxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

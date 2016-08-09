@@ -1,0 +1,43 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents indexing a property or array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxxx x xxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the arguments that will be used to index the property or array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxx xxxx xxxx xx xxxx xx xxxxx xxx xxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The read-only collection containing the arguments that will be used to index the property or array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxx xxxxxxxxxx xxxxxxxxxx xxx xxxxxxxxx xxxx xxxx xx xxxx xx xxxxx xxx xxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to index.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the number of arguments to the expression tree node.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xx xxxxxxxxx xx xxx xxxxxxxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>You should not use this member.</source>
+          <target state="new">Xxx xxxxxx xxx xxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>It is only public due to assembly refactoring, and it is used internally for performance optimizations.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxxx xxxxxx xxx xx xxxxxxxx xxxxxxxxxxx$ xxx xx xx xxxx xxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the argument at index, throwing if index is out of bounds.</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xx xxxxx$ xxxxxxxx xx xxxxx xx xxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>You should not use this member.</source>
+          <target state="new">Xxx xxxxxx xxx xxx xxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>It is only public due to assembly refactoring, and it is used internally for performance optimizations.&lt;/p&gt;\n</source>
+          <target state="new">Xx xx xxxx xxxxxx xxx xx xxxxxxxx xxxxxxxxxxx$ xxx xx xx xxxx xxxxxxxxxx xxx xxxxxxxxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the argument.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new expression that is like this one, but using the supplied children.</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxxxxxx xxxx xx xxxx xxxx xxx$ xxx xxxxx xxx xxxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>If all of the children are the same, it will return this expression.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxx xx xxx xxxxxxxx xxx xxx xxxx$ xx xxxx xxxxxx xxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This expression if no children are changed or an expression with the updated children.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xx xxxxxxxx xxx xxxxxxx xx xx xxxxxxxxxx xxxx xxx xxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

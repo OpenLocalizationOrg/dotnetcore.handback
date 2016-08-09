@@ -1,0 +1,424 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a container that can store multiple data objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x xxxxxxxxx xxxx xxx xxxxx xxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file IO permissions for the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx XX xxxxxxxxxxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value for &lt;em&gt;openFileAccess&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx $xx$xxxxXxxxXxxxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the file access setting for the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxx xxxxxxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the core properties of the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The core properties of the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Saves and closes the package plus all underlying part streams.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxx xxx xxxxxxx xxxx xxx xxxxxxxxxx xxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new uncompressed part with a given URI and content type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxxxxxxxxxx xxxx xxxx x xxxxx XXX xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uniform resource identifier (URI) of the new part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxxxxx $XXX$$xx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The content type of the data stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new created part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; or &lt;em&gt;contentType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xx$xxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A part with the specified &lt;em&gt;partUri&lt;/em&gt; is already present in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxx xxxxxxxxx $xx$xxxxXxx$$xx$ xx xxxxxxx xxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is read-only (a new part cannot be added).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx$xxxx $x xxx xxxx xxxxxx xx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a new part with a given URI, content type, and compression option.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxx xxxx xxxx x xxxxx XXX$ xxxxxxx xxxx$ xxx xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The URI of the new part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX$xx xxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The content type of the data stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new created part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; or &lt;em&gt;contentType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xx$xxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A part with the specified &lt;em&gt;partUri&lt;/em&gt; is already present in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxx xxxxxxxxx $xx$xxxxXxx$$xx$ xx xxxxxxx xxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;em&gt;compressionOption&lt;/em&gt; value is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xx$xxxxxxxxxxxXxxxxx$$xx$ xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is read-only (a new part cannot be added).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx$xxxx $x xxx xxxx xxxxxx xx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, creates a new part in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxxx x xxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uniform resource identifier (URI) for the part being created.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxxxxx $XXX$ xxx xxx xxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The content type of the data stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx xx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The compression option for the data stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxx xxx xxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The created part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a package-level relationship to a part with a given URI, target mode, and relationship type.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxx$xxxxx xxxxxxxxxxxx xx x xxxx xxxx x xxxxx XXX$ xxxxxx xxxx$ xxx xxxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uniform resource identifier (URI) of the target part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxxxxx $XXX$ xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A URI that uniquely defines the role of the relationship.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X XXX xxxx xxxxxxxx xxxxxxx xxx xxxx xx xxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package-level relationship to the specified part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx$xxxxx xxxxxxxxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;targetUri&lt;/em&gt; or &lt;em&gt;relationshipType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxx$$xx$ xx $xx$xxxxxxxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value for &lt;em&gt;targetMode&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx $xx$xxxxxxXxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Creates a package-level relationship to a part with a given URI, target mode, relationship type, and identifier (ID).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxx$xxxxx xxxxxxxxxxxx xx x xxxx xxxx x xxxxx XXX$ xxxxxx xxxx$ xxxxxxxxxxxx xxxx$ xxx xxxxxxxxxx $XX$.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uniform resource identifier (URI) of the target part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxxxxx $XXX$ xx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A URI that uniquely defines the role of the relationship.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X XXX xxxx xxxxxxxx xxxxxxx xxx xxxx xx xxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A unique XML identifier.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx XXX xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package-level relationship to the specified part.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx$xxxxx xxxxxxxxxxxx xx xxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;targetUri&lt;/em&gt; or &lt;em&gt;relationshipType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxx$$xx$ xx $xx$xxxxxxxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value for &lt;em&gt;targetMode&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx $xx$xxxxxxXxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;id&lt;/em&gt; is not a valid XML identifier; or a part with the specified &lt;em&gt;id&lt;/em&gt; already occurs in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx xxx x xxxxx XXX xxxxxxxxxx$ xx x xxxx xxxx xxx xxxxxxxxx $xx$xx$$xx$ xxxxxxx xxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes a part with a given URI from the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxx xxxx x xxxxx XXX xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The URI of the part to delete.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xx xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, deletes a part with a given URI.</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxxx x xxxx xxxx x xxxxx XXX.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Deletes a package-level relationship.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxx$xxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;id&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;id&lt;/em&gt; is not a valid XML identifier.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx xxx x xxxxx XXX xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Flushes and saves the content of all parts and relationships, closes the package, and releases all resources.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxx xxx xxxxxxx xx xxx xxxxx xxx xxxxxxxxxxxxx$ xxxxxx xxx xxxxxxx$ xxx xxxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Saves the contents of all parts and relationships that are contained in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxxx xx xxx xxxxx xxx xxxxxxxxxxxxx xxxx xxx xxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is read-only and cannot be modified.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx$xxxx xxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, saves the content of all parts and relationships to the derived class store.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxx xxx xxxxxxx xx xxx xxxxx xxx xxxxxxxxxxxxx xx xxx xxxxxxx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the part with a given URI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx x xxxxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uniform resource identifier (URI) of the part to return.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxxxxx $XXX$ xx xxx xxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The part with the specified &lt;em&gt;partUri&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxxxxxxx $xx$xxxxXxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A part with the specified &lt;em&gt;partUri&lt;/em&gt; is not in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxx xxx xxxxxxxxx $xx$xxxxXxx$$xx$ xx xxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is write-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, returns the part addressed by a given URI.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxxx xxx xxxx xxxxxxxxx xx x xxxxx XXX.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The uniform resource identifier (URI) of the part to retrieve.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xxxxxxxxxx $XXX$ xx xxx xxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The requested part; or &lt;strong&gt;null&lt;/strong&gt;, if a part with the specified &lt;em&gt;partUri&lt;/em&gt; is not in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx$ xx $xxxxxx$xxxx$$xxxxxx$$ xx x xxxx xxxx xxx xxxxxxxxx $xx$xxxxXxx$$xx$ xx xxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of all the parts in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxx xxx xxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is write-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;When overridden in a derived class, returns an array of all the parts in the package.</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx x xxxxxxx xxxxx$ xxxxxxx xx xxxxx xx xxx xxx xxxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of all the parts that are contained in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xx xxx xxx xxxxx xxxx xxx xxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the package-level relationship with a given identifier.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxx$xxxxx xxxxxxxxxxxx xxxx x xxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package-level relationship with the specified &lt;em&gt;id&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx$xxxxx xxxxxxxxxxxx xxxx xxx xxxxxxxxx $xx$xx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;id&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;id&lt;/em&gt; is not a valid XML identifier.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx xxx x xxxxx XXX xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A relationship with the specified &lt;em&gt;id&lt;/em&gt; is not in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxxxx xxxx xxx xxxxxxxxx $xx$xx$$xx$ xx xxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is write-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a collection of all the package-level relationships.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxx xx xxx xxx xxxxxxx$xxxxx xxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A collection of all the package-level relationships that are contained in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xx xxx xxx xxxxxxx$xxxxx xxxxxxxxxxxxx xxxx xxx xxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is write-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A collection of package-level relationships that match the specified &lt;em&gt;relationshipType&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xx xxxxxxx$xxxxx xxxxxxxxxxxxx xxxx xxxxx xxx xxxxxxxxx $xx$xxxxxxxxxxxxXxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;relationshipType&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;relationshipType&lt;/em&gt; is an empty string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxxxxXxxx$$xx$ xx xx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is write-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a package on a given IO stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxx xx x xxxxx XX xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The IO stream on which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XX xxxxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package to open requires read or read/write permission and the specified &lt;em&gt;stream&lt;/em&gt; is write-only; or, the package to open requires write or read/write permission and the specified &lt;em&gt;stream&lt;/em&gt; is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx xxxxxxxx xxxx xx xxxx$xxxxx xxxxxxxxxx xxx xxx xxxxxxxxx $xx$xxxxxx$$xx$ xx xxxxx$xxxx$ xx$ xxx xxxxxxx xx xxxx xxxxxxxx xxxxx xx xxxx$xxxxx xxxxxxxxxx xxx xxx xxxxxxxxx $xx$xxxxxx$$xx$ xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a package with a given IO stream and file mode.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxx xxxx x xxxxx XX xxxxxx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The IO stream on which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XX xxxxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file mode in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;packageMode&lt;/em&gt; value is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxXxxx$$xx$ xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package to open requires read or read/write permission and the specified &lt;em&gt;stream&lt;/em&gt; is write-only; or, the package to open requires write or read/write permission and the specified &lt;em&gt;stream&lt;/em&gt; is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx xxxxxxxx xxxx xx xxxx$xxxxx xxxxxxxxxx xxx xxx xxxxxxxxx $xx$xxxxxx$$xx$ xx xxxxx$xxxx$ xx$ xxx xxxxxxx xx xxxx xxxxxxxx xxxxx xx xxxx$xxxxx xxxxxxxxxx xxx xxx xxxxxxxxx $xx$xxxxxx$$xx$ xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a package with a given IO stream, file mode, and file access setting.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxx xxxx x xxxxx XX xxxxxx$ xxxx xxxx$ xxx xxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The IO stream on which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XX xxxxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file mode in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file access in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;stream&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value for &lt;em&gt;packageMode&lt;/em&gt; or &lt;em&gt;packageAccess&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx $xx$xxxxxxxXxxx$$xx$ xx $xx$xxxxxxxXxxxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package to open requires read or read/write permission and the specified &lt;em&gt;stream&lt;/em&gt; is write-only; or the package to open requires write or read/write permission and the specified &lt;em&gt;stream&lt;/em&gt; is read-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx xxxxxxxx xxxx xx xxxx$xxxxx xxxxxxxxxx xxx xxx xxxxxxxxx $xx$xxxxxx$$xx$ xx xxxxx$xxxx$ xx xxx xxxxxxx xx xxxx xxxxxxxx xxxxx xx xxxx$xxxxx xxxxxxxxxx xxx xxx xxxxxxxxx $xx$xxxxxx$$xx$ xx xxxx$xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a package at a given path and file name.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxx xx x xxxxx xxxx xxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path and file name of the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a package at a given path using a given file mode.</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxx xx x xxxxx xxxx xxxxx x xxxxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path and file name of the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file mode in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Value for &lt;em&gt;packageMode&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx $xx$xxxxxxxXxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a package at a given path using a given file mode and file access setting.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxx xx x xxxxx xxxx xxxxx x xxxxx xxxx xxxx xxx xxxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path and file name of the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file mode in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file access in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Value for &lt;em&gt;packageMode&lt;/em&gt; or &lt;em&gt;packageAccess&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx $xx$xxxxxxxXxxx$$xx$ xx $xx$xxxxxxxXxxxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Opens a package at a given path using a given file mode, file access, and file share setting.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx x xxxxxxx xx x xxxxx xxxx xxxxx x xxxxx xxxx xxxx$ xxxx xxxxxx$ xxx xxxx xxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The path and file name of the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxx xxxx xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file mode in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file access in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file sharing mode in which to open the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxxx xx xxxxx xx xxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The opened package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;path&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value for &lt;em&gt;packageMode&lt;/em&gt;, &lt;em&gt;packageAccess&lt;/em&gt;, or &lt;em&gt;packageShare&lt;/em&gt; is not valid.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxx $xx$xxxxxxxXxxx$$xx$$ $xx$xxxxxxxXxxxxx$$xx$$ xx $xx$xxxxxxxXxxxx$$xx$ xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether a part with a given URI is in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx x xxxx xxxx x xxxxx XXX xx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if a part with the specified &lt;em&gt;partUri&lt;/em&gt; is in the package; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx x xxxx xxxx xxx xxxxxxxxx $xx$xxxxXxx$$xx$ xx xx xxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;partUri&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxXxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is write-only (information cannot be read).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx$xxxx $xxxxxxxxxxx xxxxxx xx xxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates whether a package-level relationship with a given ID is contained in the package.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxxxxx x xxxxxxx$xxxxx xxxxxxxxxxxx xxxx x xxxxx XX xx xxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if a package-level relationship with the specified &lt;em&gt;id&lt;/em&gt; is in the package; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx x xxxxxxx$xxxxx xxxxxxxxxxxx xxxx xxx xxxxxxxxx $xx$xx$$xx$ xx xx xxx xxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;id&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;id&lt;/em&gt; is not a valid XML identifier.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx xxx x xxxxx XXX xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The package is write-only.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxx$xxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,235 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Contains static methods for representing program contracts such as preconditions, postconditions, and object invariants.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxx xxxxxxx xxx xxxxxxxxxxxx xxxxxxx xxxxxxxxx xxxx xx xxxxxxxxxxxxx$ xxxxxxxxxxxxxx$ xxx xxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Occurs when a contract fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxx x xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for a condition; if the condition is &lt;strong&gt;false&lt;/strong&gt;, follows the escalation policy set for the analyzer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx x xxxxxxxxx$ xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$$ xxxxxxx xxx xxxxxxxxxx xxxxxx xxx xxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Checks for a condition; if the condition is &lt;strong&gt;false&lt;/strong&gt;, follows the escalation policy set by the analyzer and displays the specified message.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx x xxxxxxxxx$ xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$$ xxxxxxx xxx xxxxxxxxxx xxxxxx xxx xx xxx xxxxxxxx xxx xxxxxxxx xxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A message to display if the condition is not met.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxxxx xx xxx xxxxxxxxx xx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Instructs code analysis tools to assume that the specified condition is &lt;strong&gt;true&lt;/strong&gt;, even if it cannot be statically proven to always be &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxxxxxxx xxxxx xx xxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxx xx xx xxxxxx xx xxxxxxxxxx xxxxxx xx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to assume &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Instructs code analysis tools to assume that a condition is &lt;strong&gt;true&lt;/strong&gt;, even if it cannot be statically proven to always be &lt;strong&gt;true&lt;/strong&gt;, and displays a message if the assumption fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxxxxxxx xxxxx xx xxxxxx xxxx x xxxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxxx xx xx xxxxxx xx xxxxxxxxxx xxxxxx xx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxxx x xxxxxxx xx xxx xxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to assume &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxxxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message to post if the assumption fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxx xx xxx xxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Marks the end of the contract section when a method's contracts contain only preconditions in the &lt;strong&gt;if&lt;/strong&gt;-&lt;strong&gt;then&lt;/strong&gt;-&lt;strong&gt;throw&lt;/strong&gt; form.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxx xx xxx xxxxxxxx xxxxxxx xxxx x xxxxxx$x xxxxxxxxx xxxxxxx xxxx xxxxxxxxxxxxx xx xxx $xxxxxx$xx$$xxxxxx$$$xxxxxx$xxxx$$xxxxxx$$$xxxxxx$xxxxx$$xxxxxx$ xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a postcondition contract for the enclosing method or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a postcondition contract for a provided exit condition and a message to display if the condition is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxxx xxxxxxxx xxx x xxxxxxxx xxxx xxxxxxxxx xxx x xxxxxxx xx xxxxxxx xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message to display if the expression is not &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxxx xx xxx xxxxxxxxxx xx xxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a postcondition contract for the enclosing method or property, based on the provided exception and condition.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx$ xxxxx xx xxx xxxxxxxx xxxxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of exception that invokes the postcondition check.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxx xxxx xxxxxxx xxx xxxxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a postcondition contract and a message to display if the condition is &lt;strong&gt;false&lt;/strong&gt; for the enclosing method or property, based on the provided exception and condition.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxxx xxxxxxxx xxx x xxxxxxx xx xxxxxxx xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$ xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx$ xxxxx xx xxx xxxxxxxx xxxxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message to display if the expression is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxxx xx xxx xxxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of exception that invokes the postcondition check.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxxxxx xxxx xxxxxxx xxx xxxxxxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether a specified test is true for any integer within a range of integers.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx x xxxxxxxxx xxxx xx xxxx xxx xxx xxxxxxx xxxxxx x xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first integer to pass to &lt;em&gt;predicate&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xx xxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One more than the last integer to pass to &lt;em&gt;predicate&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxx xx xxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The function to evaluate for any value of the integer in the specified range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxxxx xxx xxx xxxxx xx xxx xxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;predicate&lt;/em&gt; returns &lt;strong&gt;true&lt;/strong&gt; for any integer starting from &lt;em&gt;fromInclusive&lt;/em&gt; to &lt;em&gt;toExclusive&lt;/em&gt; - 1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxxxxxx$$xx$ xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxx xxxxxxxx xxxx $xx$xxxxXxxxxxxxx$$xx$ xx $xx$xxXxxxxxxxx$$xx$ $ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;predicate&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;toExclusive &lt;/em&gt;is less than &lt;em&gt;fromInclusive&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxXxxxxxxxx $$xx$xx xxxx xxxx $xx$xxxxXxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether an element within a collection of elements exists within a function.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xx xxxxxxx xxxxxx x xxxxxxxxxx xx xxxxxxxx xxxxxx xxxxxx x xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection from which elements of type &lt;em&gt;T&lt;/em&gt; will be drawn to pass to &lt;em&gt;predicate&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxx xxxxx xxxxxxxx xx xxxx $xx$X$$xx$ xxxx xx xxxxx xx xxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The function to evaluate for an element in &lt;em&gt;collection&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxxxx xxx xx xxxxxxx xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type that is contained in &lt;em&gt;collection&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxxxxxx xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if and only if &lt;em&gt;predicate&lt;/em&gt; returns &lt;strong&gt;true&lt;/strong&gt; for any element of type &lt;em&gt;T&lt;/em&gt; in &lt;em&gt;collection&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx $xx$xxxxxxxxx$$xx$ xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxx xx xxxx $xx$X$$xx$ xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;collection&lt;/em&gt; or &lt;em&gt;predicate&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether a particular condition is valid for all integers in a specified range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx x xxxxxxxxxx xxxxxxxxx xx xxxxx xxx xxx xxxxxxxx xx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first integer to pass to &lt;em&gt;predicate&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xx xxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One more than the last integer to pass to &lt;em&gt;predicate&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xxx xxxx xxxxxxx xx xxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The function to evaluate for the existence of the integers in the specified range.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxxxx xxx xxx xxxxxxxxx xx xxx xxxxxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;predicate&lt;/em&gt; returns &lt;strong&gt;true&lt;/strong&gt; for all integers starting from &lt;em&gt;fromInclusive&lt;/em&gt; to &lt;em&gt;toExclusive&lt;/em&gt; - 1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxxxxxx$$xx$ xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxx xxxxxxxx xxxx $xx$xxxxXxxxxxxxx$$xx$ xx $xx$xxXxxxxxxxx$$xx$ $ 0.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;predicate&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;toExclusive &lt;/em&gt;is less than &lt;em&gt;fromInclusive&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxXxxxxxxxx $$xx$xx xxxx xxxx $xx$xxxxXxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines whether all the elements in a collection exist within a function.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxxx xxx xxx xxxxxxxx xx x xxxxxxxxxx xxxxx xxxxxx x xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The collection from which elements of type &lt;em&gt;T&lt;/em&gt; will be drawn to pass to &lt;em&gt;predicate&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxx xxxxx xxxxxxxx xx xxxx $xx$X$$xx$ xxxx xx xxxxx xx xxxx xx $xx$xxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The function to evaluate for the existence of all the elements in &lt;em&gt;collection&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxxxxxxx xxx xxx xxxxxxxxx xx xxx xxx xxxxxxxx xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type that is contained in &lt;em&gt;collection&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxxxxxx xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if and only if &lt;em&gt;predicate&lt;/em&gt; returns &lt;strong&gt;true&lt;/strong&gt; for all elements of type &lt;em&gt;T&lt;/em&gt; in &lt;em&gt;collection&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxx xx $xx$xxxxxxxxx$$xx$ xxxxxxx $xxxxxx$xxxx$$xxxxxx$ xxx xxx xxxxxxxx xx xxxx $xx$X$$xx$ xx $xx$xxxxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;collection&lt;/em&gt; or &lt;em&gt;predicate&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxxxxxx$$xx$ xx $xx$xxxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies an invariant contract for the enclosing method or property.</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies an invariant contract for the enclosing method or property, and displays a message if the condition for the contract fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx$ xxx xxxxxxxx x xxxxxxx xx xxx xxxxxxxxx xxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message to display if the condition is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxxx xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents values as they were at the start of a method or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxxxxx xx xxxx xxxx xx xxx xxxxx xx x xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to represent (field or parameter).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxxxxxx $xxxxx xx xxxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the parameter or field at the start of a method or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxxxx xx xxxxx xx xxx xxxxx xx x xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a precondition contract for the enclosing method or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a precondition contract for the enclosing method or property, and displays a message if the condition for the contract fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx$ xxx xxxxxxxx x xxxxxxx xx xxx xxxxxxxxx xxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message to display if the condition is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxxx xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a precondition contract for the enclosing method or property, and throws an exception if the condition for the contract fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx$ xxx xxxxxx xx xxxxxxxxx xx xxx xxxxxxxxx xxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception to throw if the condition is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxx xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies a precondition contract for the enclosing method or property, and throws an exception with the provided message if the condition for the contract fails.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx x xxxxxxxxxxxx xxxxxxxx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxx$ xxx xxxxxx xx xxxxxxxxx xxxx xxx xxxxxxxx xxxxxxx xx xxx xxxxxxxxx xxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The conditional expression to test.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The message to display if the condition is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxxx xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception to throw if the condition is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xx xxxxx xx xxx xxxxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the return value of a method or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxx xxxxx xx x xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Type of return value of the enclosing method or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Return value of the enclosing method or property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxx xx xxx xxxxxxxxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the final (output) value of an &lt;strong&gt;out&lt;/strong&gt; parameter when returning from a method.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxx $xxxxxx$ xxxxx xx xx $xxxxxx$xxx$$xxxxxx$ xxxxxxxxx xxxx xxxxxxxxx xxxx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;out&lt;/strong&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx $xxxxxx$xxx$$xxxxxx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of the &lt;strong&gt;out&lt;/strong&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx $xxxxxx$xxx$$xxxxxx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The output value of the &lt;strong&gt;out&lt;/strong&gt; parameter.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxx xx xxx $xxxxxx$xxx$$xxxxxx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

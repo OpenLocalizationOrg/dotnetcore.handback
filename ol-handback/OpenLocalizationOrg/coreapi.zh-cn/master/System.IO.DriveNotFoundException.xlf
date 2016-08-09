@@ -1,0 +1,19 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is thrown when trying to access a drive or share that is not available.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxxxxx xxxx xxxxxx xx xxxxxx x xxxxx xx xxxxx xxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The error message that explains the reason for the exception.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xxxx xxxxxxxx xxx xxxxxx xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The exception that is the cause of the current exception.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxx xx xxx xxxxx xx xxx xxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>If the &lt;em&gt;innerException&lt;/em&gt; parameter is not &lt;strong&gt;null&lt;/strong&gt;, the current exception is raised in a &lt;strong&gt;catch&lt;/strong&gt; block that handles the inner exception.</source>
+          <target state="new">Xx xxx $xx$xxxxxXxxxxxxxx$$xx$ xxxxxxxxx xx xxx $xxxxxx$xxxx$$xxxxxx$$ xxx xxxxxxx xxxxxxxxx xx xxxxxx xx x $xxxxxx$xxxxx$$xxxxxx$ xxxxx xxxx xxxxxxx xxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

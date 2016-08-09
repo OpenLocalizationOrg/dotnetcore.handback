@@ -1,0 +1,193 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A platform-specific type that is used to represent a pointer or a handle.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx$xxxxxxxx xxxx xxxx xx xxxx xx xxxxxxxxx x xxxxxxx xx x xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A read-only field that represents a pointer or handle that has been initialized to zero.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx$xxxx xxxxx xxxx xxxxxxxxxx x xxxxxxx xx xxxxxx xxxx xxx xxxx xxxxxxxxxxx xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer or handle contained in a 32-bit signed integer.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxxx xxxxxxxxx xx x 00$xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer or handle contained in a 64-bit signed integer.</source>
+          <target state="new">$x$x$X xxxxxxx xx xxxxxx xxxxxxxxx xx x 00$xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to an unspecified type.</source>
+          <target state="new">$x$x$X xxxxxxx xx xx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the size of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The size of a pointer or handle in this process, measured in bytes.</source>
+          <target state="new">$x$x$Xxx xxxx xx x xxxxxxx xx xxxxxx xx xxxx xxxxxxx$ xxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>The value of this property is 4 in a 32-bit process, and 8 in a 64-bit process.</source>
+          <target state="new">Xxx xxxxx xx xxxx xxxxxxxx xx 0 xx x 00$xxx xxxxxxx$ xxx 0 xx x 00$xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>You can define the process type by setting the &lt;strong&gt;/platform&lt;/strong&gt; switch when you compile your code with the C# and Visual Basic compilers.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxx xxxxxx xxx xxxxxxx xxxx xx xxxxxxx xxx $xxxxxx$$xxxxxxxx$$xxxxxx$ xxxxxx xxxx xxx xxxxxxx xxxx xxxx xxxx xxx X$ xxx Xxxxxx Xxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds an offset to the value of a pointer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xx xxx xxxxx xx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer to add the offset to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxx xxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset to add.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new pointer that reflects the addition of &lt;em&gt;offset&lt;/em&gt; to &lt;em&gt;pointer&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxxxxx xxxx xxxxxxxx xxx xxxxxxxx xx $xx$xxxxxx$$xx$ xx $xx$xxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value indicating whether this instance is equal to a specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxxxxxxxx xxxxxxx xxxx xxxxxxxx xx xxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare with this instance or &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxxx xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Adds an offset to the value of a pointer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxxxx xx xxx xxxxx xx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer to add the offset to.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxx xxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset to add.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new pointer that reflects the addition of &lt;em&gt;offset&lt;/em&gt; to &lt;em&gt;pointer&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxxxxx xxxx xxxxxxxx xxx xxxxxxxx xx $xx$xxxxxx$$xx$ xx $xx$xxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first pointer or handle to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second pointer or handle to compare.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx xx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;value1&lt;/em&gt; equals &lt;em&gt;value2&lt;/em&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxx0$$xx$ xxxxxx $xx$xxxxx0$$xx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer.</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 64-bit signed integer.</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer or handle to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The contents of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;On a 64-bit platform, the value of &lt;em&gt;value&lt;/em&gt; is too large to represent as a 32-bit signed integer.</source>
+          <target state="new">$x$x$Xx x 00$xxx xxxxxxxx$ xxx xxxxx xx $xx$xxxxx$$xx$ xx xxx xxxxx xx xxxxxxxxx xx x 00$xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer or handle to convert.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The contents of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer or handle to convert.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The contents of &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx $xx$xxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A pointer to an unspecified type.</source>
+          <target state="new">$x$x$X xxxxxxx xx xx xxxxxxxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The first pointer or handle to compare.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The second pointer or handle to compare.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx xx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;value1&lt;/em&gt; does not equal &lt;em&gt;value2&lt;/em&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxxxx0$$xx$ xxxx xxx xxxxx $xx$xxxxx0$$xx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Subtracts an offset from the value of a pointer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxxx xxxx xxx xxxxx xx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer to subtract the offset from.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxxxx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset to subtract.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new pointer that reflects the subtraction of &lt;em&gt;offset&lt;/em&gt; from &lt;em&gt;pointer&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxxxxx xxxx xxxxxxxx xxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$ xxxx $xx$xxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Subtracts an offset from the value of a pointer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xx xxxxxx xxxx xxx xxxxx xx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pointer to subtract the offset from.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxxxxxxx xxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The offset to subtract.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A new pointer that reflects the subtraction of &lt;em&gt;offset&lt;/em&gt; from &lt;em&gt;pointer&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxx xxxxxxx xxxx xxxxxxxx xxx xxxxxxxxxxx xx $xx$xxxxxx$$xx$ xxxx $xx$xxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to a 32-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx x 00$xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer equal to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;On a 64-bit platform, the value of this instance is too large or too small to represent as a 32-bit signed integer.</source>
+          <target state="new">$x$x$Xx x 00$xxx xxxxxxxx$ xxx xxxxx xx xxxx xxxxxxxx xx xxx xxxxx xx xxx xxxxx xx xxxxxxxxx xx x 00$xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx x 00$xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 64-bit signed integer equal to the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the value of this instance to a pointer to an unspecified type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxx xx xxxx xxxxxxxx xx x xxxxxxx xx xx xxxxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the value of this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

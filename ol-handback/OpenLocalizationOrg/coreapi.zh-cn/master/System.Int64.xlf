@@ -1,0 +1,298 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents a 64-bit signed integer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx x 00$xxx xxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the largest possible value of an &lt;strong&gt;Int64&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxx xxxxxxxx xxxxx xx xx $xxxxxx$Xxx00$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This field is constant.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents the smallest possible value of an &lt;strong&gt;Int64&lt;/strong&gt;.</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxxxx xxxxxxxx xxxxx xx xx $xxxxxx$Xxx00$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This field is constant.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Compares this instance to a specified 64-bit signed integer and returns an indication of their relative values.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxx xxxxxxxx xx x xxxxxxxxx 00$xxx xxxxxx xxxxxxx xxx xxxxxxx xx xxxxxxxxxx xx xxxxx xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integer to compare.</source>
+          <target state="new">$x$x$Xx xxxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed number indicating the relative values of this instance and &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;Return Value &lt;/p&gt;\n&lt;p&gt;Description &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is less than &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxxxxxxxx xxx xxxxxxxx xxxxxx xx xxxx xxxxxxxx xxx $xx$xxxxx$$xx$.$$x$$x$x$Xxxxxx Xxxxx $$x$$x$x$Xxxxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is equal to &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is greater than &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;obj&lt;/em&gt; has the same value as this instance; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$xxx$$xx$ xxx xxx xxxx xxxxx xx xxxx xxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns a value indicating whether this instance is equal to a specified object.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxx xxxxxxxxxx xxxxxxx xxxx xxxxxxxx xx xxxxx xx x xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare with this instance.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the string representation of a number to its 64-bit signed integer equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx x xxxxxx xx xxx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing a number to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx x xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 64-bit signed integer equivalent to the number contained in &lt;em&gt;s&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxxx xx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is not in the correct format.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx xxx xx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the string representation of a number in a specified style to its 64-bit signed integer equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx x xxxxxx xx x xxxxxxxxx xxxxx xx xxx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing a number to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx x xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 64-bit signed integer equivalent to the number specified in &lt;em&gt;s&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxxx xx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is not in a format compliant with &lt;em&gt;style&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx xxx xx x xxxxxx xxxxxxxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the string representation of a number in a specified style and culture-specific format to its 64-bit signed integer equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx x xxxxxx xx x xxxxxxxxx xxxxx xxx xxxxxxx$xxxxxxxx xxxxxx xx xxx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing a number to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx x xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 64-bit signed integer equivalent to the number specified in &lt;em&gt;s&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxxx xx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is not in a format compliant with &lt;em&gt;style&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx xxx xx x xxxxxx xxxxxxxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the string representation of a number in a specified culture-specific format to its 64-bit signed integer equivalent.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx x xxxxxx xx x xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxx xx xxx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing a number to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx x xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 64-bit signed integer equivalent to the number specified in &lt;em&gt;s&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxxxxxxxx xx xxx xxxxxx xxxxxxxxx xx $xx$x$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;s&lt;/em&gt; is not in the correct format.</source>
+          <target state="new">$x$x$$x$xx$x$$xx$ xx xxx xx xxx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if the value of the current instance is not zero; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxx xxxxx xx xxx xxxxxxx xxxxxxxx xx xxx xxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This conversion is not supported.</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxxx xx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>No value is returned.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;In all cases.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the current instance, unchanged.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxx xxxxxxxx$ xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value of the current instance, converted to &lt;em&gt;type&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxxx xxxxxxxx$ xxxxxxxxx xx $xx$xxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;This parameter is ignored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxxxxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the numeric value of this instance to its equivalent string representation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the value of this instance, consisting of a minus sign if the value is negative, and a sequence of digits ranging from 0 to 9 with no leading zeroes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx$ xxxxxxxxxx xx x xxxxx xxxx xx xxx xxxxx xx xxxxxxxx$ xxx x xxxxxxxx xx xxxxxx xxxxxxx xxxx 0 xx 0 xxxx xx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the numeric value of this instance to its equivalent string representation using the specified culture-specific format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxxxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxxx$xxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the value of this instance as specified by &lt;em&gt;provider&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx xx xxxxxxxxx xx $xx$xxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the numeric value of this instance to its equivalent string representation, using the specified format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxxxxxxxxxx$ xxxxx xxx xxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric format string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the value of this instance as specified by &lt;em&gt;format&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx xx xxxxxxxxx xx $xx$xxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is invalid or not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the numeric value of this instance to its equivalent string representation using the specified format and culture-specific format information.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xxxxx xx xxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxxxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxx xxx xxxxxxx$xxxxxxxx xxxxxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric format string.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about this instance.</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The string representation of the value of this instance as specified by &lt;em&gt;format&lt;/em&gt; and &lt;em&gt;provider&lt;/em&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxxxxxx xx xxx xxxxx xx xxxx xxxxxxxx xx xxxxxxxxx xx $xx$xxxxxx$$xx$ xxx $xx$xxxxxxxx$$xx$.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is invalid or not supported.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx xx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the string representation of a number in a specified style and culture-specific format to its 64-bit signed integer equivalent.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx x xxxxxx xx x xxxxxxxxx xxxxx xxx xxxxxxx$xxxxxxxx xxxxxx xx xxx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>A return value indicates whether the conversion succeeded or failed.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxx xxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing a number to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx x xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>The string is interpreted using the style specified by &lt;em&gt;style&lt;/em&gt;.</source>
+          <target state="new">Xxx xxxxxx xx xxxxxxxxxxx xxxxx xxx xxxxx xxxxxxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object that supplies culture-specific formatting information about &lt;em&gt;s&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xx xxxxxx xxxx xxxxxxxx xxxxxxx$xxxxxxxx xxxxxxxxxx xxxxxxxxxxx xxxxx $xx$x$$xx$.</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;s&lt;/em&gt; was converted successfully; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xxx xxxxxxxxx xxxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Converts the string representation of a number to its 64-bit signed integer equivalent.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxx xxxxxxxxxxxxxx xx x xxxxxx xx xxx 00$xxx xxxxxx xxxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>A return value indicates whether the conversion succeeded or failed.&lt;/p&gt;\n</source>
+          <target state="new">X xxxxxx xxxxx xxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A string containing a number to convert.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxx x xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;em&gt;s&lt;/em&gt; was converted successfully; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xx$x$$xx$ xxx xxxxxxxxx xxxxxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

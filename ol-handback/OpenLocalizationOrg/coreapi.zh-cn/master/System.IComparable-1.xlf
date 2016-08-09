@@ -1,0 +1,37 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines a generalized comparison method that a value type or class implements to create a type-specific comparison method for ordering or sorting its instances.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxxxx xxxxxxxxxx xxxxxx xxxx x xxxxx xxxx xx xxxxx xxxxxxxxxx xx xxxxxx x xxxx$xxxxxxxx xxxxxxxxxx xxxxxx xxx xxxxxxxx xx xxxxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The type of object to compare.</source>
+          <target state="new">$x$x$Xxx xxxx xx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Compares the current instance with another object of the same type and returns an integer that indicates whether the current instance precedes, follows, or occurs in the same position in the sort order as the other object.</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx xxxxxxxx xxxx xxxxxxx xxxxxx xx xxx xxxx xxxx xxx xxxxxxx xx xxxxxxx xxxx xxxxxxxxx xxxxxxx xxx xxxxxxx xxxxxxxx xxxxxxxx$ xxxxxxx$ xx xxxxxx xx xxx xxxx xxxxxxxx xx xxx xxxx xxxxx xx xxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare with this instance.</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx xxxx xxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value that indicates the relative order of the objects being compared.</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxx xx xxx xxxxxxx xxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>The return value has these meanings: &lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Meaning &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Less than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance precedes &lt;em&gt;other&lt;/em&gt; in the sort order.</source>
+          <target state="new">Xxx xxxxxx xxxxx xxx xxxxx xxxxxxxx$ $$x$$x$x$Xxxxx $$x$$x$x$Xxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$Xxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xxxxxxxx $xx$xxxxx$$xx$ xx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance occurs in the same position in the sort order as &lt;em&gt;other&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xxxxxx xx xxx xxxx xxxxxxxx xx xxx xxxx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Greater than zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance follows &lt;em&gt;other&lt;/em&gt; in the sort order.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxxxxx xxxx xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xxxxxxx $xx$xxxxx$$xx$ xx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit></group></body></file></xliff>

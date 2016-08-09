@@ -1,0 +1,19 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Determines the styles permitted in numeric string arguments that are passed to the &lt;strong&gt;Parse&lt;/strong&gt; and &lt;strong&gt;TryParse&lt;/strong&gt; methods of the integral and floating-point numeric types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xxx xxxxxx xxxxxxxxx xx xxxxxxx xxxxxx xxxxxxxxx xxxx xxx xxxxxx xx xxx $xxxxxx$Xxxxx$$xxxxxx$ xxx $xxxxxx$XxxXxxxx$$xxxxxx$ xxxxxxx xx xxx xxxxxxxx xxx xxxxxxxx$xxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that the numeric string can have one pair of parentheses enclosing the number.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xxx xxxxxxx xxxxxx xxx xxxx xxx xxxx xx xxxxxxxxxxx xxxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>The parentheses indicate that the string to be parsed represents a negative number.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxxxxxx xxxxxxxx xxxx xxx xxxxxx xx xx xxxxxx xxxxxxxxxx x xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Indicates that no style elements, such as leading or trailing white space, thousands separators, or a decimal separator, can be present in the parsed string.</source>
+          <target state="new">$x$x$Xxxxxxxxx xxxx xx xxxxx xxxxxxxx$ xxxx xx xxxxxxx xx xxxxxxxx xxxxx xxxxx$ xxxxxxxxx xxxxxxxxxx$ xx x xxxxxxx xxxxxxxxx$ xxx xx xxxxxxx xx xxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>The string to be parsed must consist of integral decimal digits only.</source>
+          <target state="new">Xxx xxxxxx xx xx xxxxxx xxxx xxxxxxx xx xxxxxxxx xxxxxxx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

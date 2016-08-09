@@ -1,0 +1,100 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the data type of a field, a property, or a &lt;strong&gt;Parameter&lt;/strong&gt; object of a .NET Framework data provider.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxx xx x xxxxx$ x xxxxxxxx$ xx x $xxxxxx$Xxxxxxxxx$$xxxxxx$ xxxxxx xx x .XXX Xxxxxxxxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A variable-length stream of non-Unicode characters ranging between 1 and 8,000 characters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx$xxxxxx xxxxxx xx xxx$Xxxxxxx xxxxxxxxxx xxxxxxx xxxxxxx 0 xxx 0$000 xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A fixed-length stream of non-Unicode characters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx$xxxxxx xxxxxx xx xxx$Xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A variable-length stream of binary data ranging between 1 and 8,000 bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx$xxxxxx xxxxxx xx xxxxxx xxxx xxxxxxx xxxxxxx 0 xxx 0$000 xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A simple type representing Boolean values of &lt;strong&gt;true&lt;/strong&gt; or &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxxxxxx Xxxxxxx xxxxxx xx $xxxxxx$xxxx$$xxxxxx$ xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An 8-bit unsigned integer ranging in value from 0 to 255.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx 0$xxx xxxxxxxx xxxxxxx xxxxxxx xx xxxxx xxxx 0 xx 000.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A currency value ranging from -2 63 (or -922,337,203,685,477.5808) to 2 63 -1 (or +922,337,203,685,477.5807) with an accuracy to a ten-thousandth of a currency unit.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxx xxxxxxx xxxx $0 00 $xx $000$000$000$000$000.0000$ xx 0 00 $0 $xx $000$000$000$000$000.0000$ xxxx xx xxxxxxxx xx x xxx$xxxxxxxxxx xx x xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A type representing a date value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx x xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A type representing a date and time value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx x xxxx xxx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Date and time data.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>Date value range is from January 1,1 AD through December 31, 9999 AD.</source>
+          <target state="new">Xxxx xxxxx xxxxx xx xxxx Xxxxxxx 0$0 XX xxxxxxx Xxxxxxxx 00$ 0000 XX.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>Time value range is 00:00:00 through 23:59:59.9999999 with an accuracy of 100 nanoseconds.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xxxxx xx 00$00$00 xxxxxxx 00$00$00.0000000 xxxx xx xxxxxxxx xx 000 xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Date and time data with time zone awareness.</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxxx xxxx xxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>Date value range is from January 1,1 AD through December 31, 9999 AD.</source>
+          <target state="new">Xxxx xxxxx xxxxx xx xxxx Xxxxxxx 0$0 XX xxxxxxx Xxxxxxxx 00$ 0000 XX.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>Time value range is 00:00:00 through 23:59:59.9999999 with an accuracy of 100 nanoseconds.</source>
+          <target state="new">Xxxx xxxxx xxxxx xx 00$00$00 xxxxxxx 00$00$00.0000000 xxxx xx xxxxxxxx xx 000 xxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>Time zone value range is -14:00 through +14:00.</source>
+          <target state="new">Xxxx xxxx xxxxx xxxxx xx $00$00 xxxxxxx $00$00.</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A simple type representing values ranging from 1.0 x 10 -28 to approximately 7.9 x 10 28 with 28-29 significant digits.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxx xxxxxxxxxxxx xxxxxx xxxxxxx xxxx 0.0 x 00 $00 xx xxxxxxxxxxxxx 0.0 x 00 00 xxxx 00$00 xxxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A floating point type representing values ranging from approximately 5.0 x 10 -324 to 1.7 x 10 308 with a precision of 15-16 digits.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxx xxxx xxxxxxxxxxxx xxxxxx xxxxxxx xxxx xxxxxxxxxxxxx 0.0 x 00 $000 xx 0.0 x 00 000 xxxx x xxxxxxxxx xx 00$00 xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A globally unique identifier (or GUID).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxxx xxxxxxxxxx $xx XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integral type representing signed 16-bit integers with values between -32768 and 32767.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxx xxxxxxxxxxxx xxxxxx 00$xxx xxxxxxxx xxxx xxxxxx xxxxxxx $00000 xxx 00000.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integral type representing signed 32-bit integers with values between -2147483648 and 2147483647.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxx xxxxxxxxxxxx xxxxxx 00$xxx xxxxxxxx xxxx xxxxxx xxxxxxx $0000000000 xxx 0000000000.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integral type representing signed 64-bit integers with values between -9223372036854775808 and 9223372036854775807.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxx xxxxxxxxxxxx xxxxxx 00$xxx xxxxxxxx xxxx xxxxxx xxxxxxx $0000000000000000000 xxx 0000000000000000000.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A general type representing any reference or value type not explicitly represented by another &lt;strong&gt;DbType&lt;/strong&gt; value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxx xxxxxxxxxxxx xxx xxxxxxxxx xx xxxxx xxxx xxx xxxxxxxxxx xxxxxxxxxxx xx xxxxxxx $xxxxxx$XxXxxx$$xxxxxx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integral type representing signed 8-bit integers with values between -128 and 127.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxx xxxxxxxxxxxx xxxxxx 0$xxx xxxxxxxx xxxx xxxxxx xxxxxxx $000 xxx 000.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A floating point type representing values ranging from approximately 1.5 x 10 -45 to 3.4 x 10 38 with a precision of 7 digits.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx xxxxx xxxx xxxxxxxxxxxx xxxxxx xxxxxxx xxxx xxxxxxxxxxxxx 0.0 x 00 $00 xx 0.0 x 00 00 xxxx x xxxxxxxxx xx 0 xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A type representing Unicode character strings.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxx xxxxxxxxxxxx Xxxxxxx xxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A fixed-length string of Unicode characters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx$xxxxxx xxxxxx xx Xxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integral type representing unsigned 16-bit integers with values between 0 and 65535.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxx xxxxxxxxxxxx xxxxxxxx 00$xxx xxxxxxxx xxxx xxxxxx xxxxxxx 0 xxx 00000.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integral type representing unsigned 32-bit integers with values between 0 and 4294967295.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxx xxxxxxxxxxxx xxxxxxxx 00$xxx xxxxxxxx xxxx xxxxxx xxxxxxx 0 xxx 0000000000.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An integral type representing unsigned 64-bit integers with values between 0 and 18446744073709551615.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxx xxxx xxxxxxxxxxxx xxxxxxxx 00$xxx xxxxxxxx xxxx xxxxxx xxxxxxx 0 xxx 00000000000000000000.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A variable-length numeric value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxx$xxxxxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A parsed representation of an XML document or fragment.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxx xxxxxxxxxxxxxx xx xx XXX xxxxxxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

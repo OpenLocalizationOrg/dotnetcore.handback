@@ -1,0 +1,82 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an integer value that is either 1 or 0 to be stored in or retrieved from a database.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxxx xxxxx xxxx xx xxxxxx 0 xx 0 xx xx xxxxxx xx xx xxxxxxxxx xxxx x xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;strong&gt;Value&lt;/strong&gt; is &lt;strong&gt;False&lt;/strong&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$Xxxxx$$xxxxxx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; if &lt;strong&gt;Value&lt;/strong&gt; is &lt;strong&gt;True&lt;/strong&gt;; otherwise, &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx $xxxxxx$Xxxxx$$xxxxxx$ xx $xxxxxx$Xxxx$$xxxxxx$$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The property is set to null.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx xxx xx xxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the logical AND operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxx XXX xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed number that indicates the relative values of the instance and value.&lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Description &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;A negative integer &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is less than &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx xxx xxxxxxxx xxx xxxxx.$$x$$x$x$Xxxxx $$x$$x$x$Xxxxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$X xxxxxxxx xxxxxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is equal to &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;A positive integer &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is greater than &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$X xxxxxxxx xxxxxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxxxx xxxx $xx$xxxxx$$xx$.$$x$$x$x$$xx$ $$x$$x$x$$x$xx$xxxxx$$xx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object to compare, or a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).</source>
+          <target state="new">$x$x$Xx xxxxxx xx xxxxxxx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A signed number that indicates the relative values of the instance and value.&lt;/p&gt;\n&lt;p&gt;Value &lt;/p&gt;\n&lt;p&gt;Description &lt;/p&gt;\n&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;A negative integer &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is less than &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$x$x$X xxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxxx xxxxxx xx xxx xxxxxxxx xxx xxxxx.$$x$$x$x$Xxxxx $$x$$x$x$Xxxxxxxxxxx $$x$$x$xxxxx$$xxxxx$$xx$$xx$$x$x$X xxxxxxxx xxxxxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;Zero &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is equal to &lt;em&gt;value&lt;/em&gt;.</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$Xxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;\n&lt;p&gt;A positive integer &lt;/p&gt;\n&lt;/td&gt;&lt;td&gt;\n&lt;p&gt;This instance is greater than &lt;em&gt;value&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is a null reference (&lt;strong&gt;Nothing&lt;/strong&gt; in Visual Basic).</source>
+          <target state="new">$$x$$x$$xx$$$xx$$xx$$xx$$x$x$X xxxxxxxx xxxxxxx $$x$$x$$xx$$xx$$x$x$Xxxx xxxxxxxx xx xxxxxxx xxxx $xx$xxxxx$$xx$.$$x$$x$x$$xx$ $$x$$x$x$$x$xx$xxxxx$$xx$ xx x xxxx xxxxxxxxx $$xxxxxx$Xxxxxxx$$xxxxxx$ xx Xxxxxx Xxxxx$.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;\n</source>
+          <target state="new">$$x$$x$$xx$$$xx$$$xxxxx$$$xxxxx$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The object to be compared.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the hash code for this instance.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxx xxxx xxx xxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit signed integer hash code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxxx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the logical AND operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxx XXX xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Computes the bitwise OR of its operands.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxx xxxxxxx XX xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The results of the logical OR operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxxxx XX xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Performs a bitwise exclusive-OR (XOR) operation on the supplied parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxx xxxxxxxxx$XX $XXX$ xxxxxxxxx xx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the logical XOR operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxx XXX xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Performs a bitwise exclusive-OR operation on the supplied parameters.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx x xxxxxxx xxxxxxxxx$XX xxxxxxxxx xx xxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The result of the logical XOR operation.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xxxxxxx XXX xxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,346 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the standard keys on a console.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxx xxxx xx x xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The BACKSPACE key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXXXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The TAB key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The CLEAR key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The ENTER key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The PAUSE key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The ESC (ESCAPE) key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX $XXXXXX$ xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SPACEBAR key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The PAGE UP key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX XX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The PAGE DOWN key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX XXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The END key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The HOME key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The LEFT ARROW key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The UP ARROW key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XX XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The RIGHT ARROW key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXX XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The DOWN ARROW key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The SELECT key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The PRINT key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The EXECUTE key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The PRINT SCREEN key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXX XXXXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The INS (INSERT) key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX $XXXXXX$ xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The DEL (DELETE) key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX $XXXXXX$ xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The HELP key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXX xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 0 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 1 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 2 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 3 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 4 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 5 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 6 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 7 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 8 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 9 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The A key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The B key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The C key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The D key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The E key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The G key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The H key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The I key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The J key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The K key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The L key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The M key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The N key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The O key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The P key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Q key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The R key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The S key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The T key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The U key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The V key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The W key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The X key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Y key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Z key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Computer Sleep key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxxxx Xxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 0 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 1 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 2 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 3 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 4 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 5 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 6 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 7 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 8 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 9 key on the numeric keypad.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx 0 xxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Multiply key (the multiplication key on the numeric keypad).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxxxx xxx $xxx xxxxxxxxxxxxxx xxx xx xxx xxxxxxx xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Add key (the addition key on the numeric keypad).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxx xxx $xxx xxxxxxxx xxx xx xxx xxxxxxx xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Separator key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Subtract key (the subtraction key on the numeric keypad).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx Xxxxxxxx xxx $xxx xxxxxxxxxxx xxx xx xxx xxxxxxx xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Decimal key (the decimal key on the numeric keypad).</source>
+          <target state="new">$x$x$Xxx Xxxxxxx xxx $xxx xxxxxxx xxx xx xxx xxxxxxx xxxxxx$.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The Divide key (the division key on the numeric keypad).</source>
+          <target state="new">$x$x$Xxx Xxxxxx xxx $xxx xxxxxxxx xxx xx xxx xxxxxxx xxxxxx$.</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F1 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F2 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F3 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F4 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F5 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F6 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F7 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F8 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F9 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X0 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F10 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F11 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F12 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F13 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F14 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F15 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F16 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F17 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F18 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F19 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F20 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F21 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F22 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F23 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The F24 key.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx X00 xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 1 key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM Plus key on any country/region keyboard (Windows 2000 or later).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxx xxx xx xxx xxxxxxx$xxxxxx xxxxxxxx $Xxxxxxx 0000 xx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM Comma key on any country/region keyboard (Windows 2000 or later).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxx xxx xx xxx xxxxxxx$xxxxxx xxxxxxxx $Xxxxxxx 0000 xx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM Minus key on any country/region keyboard (Windows 2000 or later).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxx xxx xx xxx xxxxxxx$xxxxxx xxxxxxxx $Xxxxxxx 0000 xx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM Period key on any country/region keyboard (Windows 2000 or later).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX Xxxxxx xxx xx xxx xxxxxxx$xxxxxx xxxxxxxx $Xxxxxxx 0000 xx xxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 2 key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 3 key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 4 key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 5 (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 6 key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 7 key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The OEM 8 key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXX 0 xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The CLEAR key (OEM specific).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx XXXXX xxx $XXX xxxxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The items that are affected by the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx xxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new items that are replacing the original items.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxxx xxx xxxxxxxxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The original items that are replaced.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Replace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;oldItems&lt;/em&gt; or &lt;em&gt;newItems&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxXxxxx$$xx$ xx $xx$xxxXxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new items that are replacing the original items.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxxx xxx xxxxxxxxx xxx xxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The original items that are replaced.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the first item of the items that are being replaced.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxx xxxx xx xxx xxxxx xxxx xxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Replace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;oldItems&lt;/em&gt; or &lt;em&gt;newItems&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxXxxxx$$xx$ xx $xx$xxxXxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The items affected by the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index where the change occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx xxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Reset, Add, or Remove, if &lt;em&gt;action&lt;/em&gt; is Reset and either &lt;em&gt;changedItems&lt;/em&gt; is not null or &lt;em&gt;startingIndex&lt;/em&gt; is not -1, or if action is Add or Remove and &lt;em&gt;startingIndex&lt;/em&gt; is less than -1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxxx$ Xxx$ xx Xxxxxx$ xx $xx$xxxxxx$$xx$ xx Xxxxx xxx xxxxxx $xx$xxxxxxxXxxxx$$xx$ xx xxx xxxx xx $xx$xxxxxxxxXxxxx$$xx$ xx xxx $0$ xx xx xxxxxx xx Xxx xx Xxxxxx xxx $xx$xxxxxxxxXxxxx$$xx$ xx xxxx xxxx $0.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is Add or Remove and &lt;em&gt;changedItems&lt;/em&gt; is null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx Xxx xx Xxxxxx xxx $xx$xxxxxxxXxxxx$$xx$ xx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The items affected by the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new index for the changed items.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxx xxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The old index for the changed items.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxx xxx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Move or &lt;em&gt;index&lt;/em&gt; is less than 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxx xx $xx$xxxxx$$xx$ xx xxxx xxxx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item that is affected by the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Reset, Add, or Remove, or if &lt;em&gt;action&lt;/em&gt; is Reset and &lt;em&gt;changedItem&lt;/em&gt; is not null.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxxx$ Xxx$ xx Xxxxxx$ xx xx $xx$xxxxxx$$xx$ xx Xxxxx xxx $xx$xxxxxxxXxxx$$xx$ xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item that is affected by the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxx xx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index where the change occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxx xxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Reset, Add, or Remove, or if &lt;em&gt;action&lt;/em&gt; is Reset and either &lt;em&gt;changedItems&lt;/em&gt; is not null or &lt;em&gt;index&lt;/em&gt; is not -1.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxxx$ Xxx$ xx Xxxxxx$ xx xx $xx$xxxxxx$$xx$ xx Xxxxx xxx xxxxxx $xx$xxxxxxxXxxxx$$xx$ xx xxx xxxx xx $xx$xxxxx$$xx$ xx xxx $0.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The item affected by the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new index for the changed item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The old index for the changed item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxxx xxx xxx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Move or &lt;em&gt;index&lt;/em&gt; is less than 0.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxx xx $xx$xxxxx$$xx$ xx xxxx xxxx 0.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new item that is replacing the original item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxx xxxx xx xxxxxxxxx xxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The original item that is replaced.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Replace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The new item that is replacing the original item.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxx xxxx xx xxxxxxxxx xxx xxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The original item that is replaced.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxxx xx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The index of the item being replaced.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;If &lt;em&gt;action&lt;/em&gt; is not Replace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xx$xxxxxx$$xx$ xx xxx Xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the action that caused the event.</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxx xxxxxx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the list of new items involved in the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The list of new items involved in the change.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the index at which the change occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xx xxxxx xxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based index at which the change occurred.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxxx xx xxxxx xxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

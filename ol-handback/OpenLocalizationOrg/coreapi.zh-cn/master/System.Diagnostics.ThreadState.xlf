@@ -1,0 +1,40 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the current execution state of the thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxx xxxxxxxxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A state that indicates the thread has been initialized, but has not yet started.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxx xxx xxxx xxxxxxxxxxx$ xxx xxx xxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A state that indicates the thread is waiting to use a processor because no processor is free.</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxx xx xxxxxxx xx xxx x xxxxxxxxx xxxxxxx xx xxxxxxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>The thread is prepared to run on the next available processor.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxx xx xxxxxxxx xx xxx xx xxx xxxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A state that indicates the thread is currently using a processor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxx xx xxxxxxxxx xxxxx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A state that indicates the thread is about to use a processor.</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxx xx xxxxx xx xxx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>Only one thread can be in this state at a time.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxx xxx xx xx xxxx xxxxx xx x xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A state that indicates the thread has finished executing and has exited.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxx xxx xxxxxxxx xxxxxxxxx xxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A state that indicates the thread is waiting for a resource, other than the processor, before it can execute.</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxx xx xxxxxxx xxx x xxxxxxxx$ xxxxx xxxx xxx xxxxxxxxx$ xxxxxx xx xxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>For example, it might be waiting for its execution stack to be paged in from disk.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx$ xx xxxxx xx xxxxxxx xxx xxx xxxxxxxxx xxxxx xx xx xxxxx xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The state of the thread is unknown.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A state that indicates the thread is not ready to use the processor because it is waiting for a peripheral operation to complete or a resource to become free.</source>
+          <target state="new">$x$x$X xxxxx xxxx xxxxxxxxx xxx xxxxxx xx xxx xxxxx xx xxx xxx xxxxxxxxx xxxxxxx xx xx xxxxxxx xxx x xxxxxxxxxx xxxxxxxxx xx xxxxxxxx xx x xxxxxxxx xx xxxxxx xxxx.</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>When the thread is ready, it will be rescheduled.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxx xxxxxx xx xxxxx$ xx xxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides objects for performing a structural comparison of two collection objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xxxxxxx xxx xxxxxxxxxx x xxxxxxxxxx xxxxxxxxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a predefined object that performs a structural comparison of two objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxxxxxx xxxxxx xxxx xxxxxxxx x xxxxxxxxxx xxxxxxxxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A predefined object that is used to perform a structural comparison of two collection objects.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxx xxxx xx xxxx xx xxxxxxx x xxxxxxxxxx xxxxxxxxxx xx xxx xxxxxxxxxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets a predefined object that compares two objects for structural equality.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx x xxxxxxxxxx xxxxxx xxxx xxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A predefined object that is used to compare two collection objects for structural equality.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxxx xxxxxx xxxx xx xxxx xx xxxxxxx xxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

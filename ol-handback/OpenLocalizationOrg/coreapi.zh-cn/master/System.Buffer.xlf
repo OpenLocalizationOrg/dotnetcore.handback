@@ -1,0 +1,235 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Manipulates arrays of primitive types.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxxx xxxxxx xx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies a specified number of bytes from a source array starting at a particular offset to a destination array starting at a particular offset.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxxx xxxxxx xx xxxxx xxxx x xxxxxx xxxxx xxxxxxxx xx x xxxxxxxxxx xxxxxx xx x xxxxxxxxxxx xxxxx xxxxxxxx xx x xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The source buffer.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based byte offset into &lt;em&gt;src&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxx xxxxxx xxxx $xx$xxx$$xx$.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The destination buffer.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The zero-based byte offset into &lt;em&gt;dst&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxxx xxxx xxxxxx xxxx $xx$xxx$$xx$.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to copy.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;src&lt;/em&gt; or &lt;em&gt;dst&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xx$xxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;src&lt;/em&gt; or &lt;em&gt;dst&lt;/em&gt; is not an array of primitives.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The number of bytes in &lt;em&gt;src&lt;/em&gt; is less than &lt;em&gt;srcOffset&lt;/em&gt; plus &lt;em&gt;count&lt;/em&gt;.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The number of bytes in &lt;em&gt;dst&lt;/em&gt; is less than &lt;em&gt;dstOffset&lt;/em&gt; plus &lt;em&gt;count&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxx$$xx$ xx $xx$xxx$$xx$ xx xxx xx xxxxx xx xxxxxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxx xx xxxxx xx $xx$xxx$$xx$ xx xxxx xxxx $xx$xxxXxxxxx$$xx$ xxxx $xx$xxxxx$$xx$.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxx xx xxxxx xx $xx$xxx$$xx$ xx xxxx xxxx $xx$xxxXxxxxx$$xx$ xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;srcOffset&lt;/em&gt;, &lt;em&gt;dstOffset&lt;/em&gt;, or &lt;em&gt;count&lt;/em&gt; is less than 0.</source>
+          <target state="new">$x$x$$x$xx$xxxXxxxxx$$xx$$ $xx$xxxXxxxxx$$xx$$ xx $xx$xxxxx$$xx$ xx xxxx xxxx 0.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the number of bytes in the specified array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxx xx xxxxx xx xxx xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array.</source>
+          <target state="new">$x$x$Xx xxxxx.</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes in the array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is not a primitive.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is larger than 2 gigabytes (GB).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxx xxxx 0 xxxxxxxxx $XX$.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Retrieves the byte at a specified location in a specified array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xx x xxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array.</source>
+          <target state="new">$x$x$Xx xxxxx.</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A location in the array.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the &lt;em&gt;index&lt;/em&gt; byte in the array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx $xx$xxxxx$$xx$ xxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is not a primitive.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is negative or greater than the length of &lt;em&gt;array&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxxxx xx xxxxxxx xxxx xxx xxxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is larger than 2 gigabytes (GB).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxx xxxx 0 xxxxxxxxx $XX$.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies a number of bytes specified as a long integer value from one address in memory to another.</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxx xx xxxxx xxxxxxxxx xx x xxxx xxxxxxx xxxxx xxxx xxx xxxxxxx xx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;This API is not CLS-compliant.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$Xxxx XXX xx xxx XXX$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The address of the bytes to copy.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target address.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes available in the destination memory block.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxxxxxxx xxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to copy.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceBytesToCopy&lt;/em&gt; is greater than &lt;em&gt;destinationSizeInBytes&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxXxXxxx$$xx$ xx xxxxxxx xxxx $xx$xxxxxxxxxxxXxxxXxXxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Copies a number of bytes specified as an unsigned long integer value from one address in memory to another.</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxx xx xxxxx xxxxxxxxx xx xx xxxxxxxx xxxx xxxxxxx xxxxx xxxx xxx xxxxxxx xx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;This API is not CLS-compliant.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$Xxxx XXX xx xxx XXX$xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The address of the bytes to copy.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xxx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The target address.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes available in the destination memory block.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xxxxxxxxx xx xxx xxxxxxxxxxx xxxxxx xxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to copy.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;sourceBytesToCopy&lt;/em&gt; is greater than &lt;em&gt;destinationSizeInBytes&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxxXxxxxXxXxxx$$xx$ xx xxxxxxx xxxx $xx$xxxxxxxxxxxXxxxXxXxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Assigns a specified value to a byte at a particular location in a specified array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxxx xxxxx xx x xxxx xx x xxxxxxxxxx xxxxxxxx xx x xxxxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array.</source>
+          <target state="new">$x$x$Xx xxxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A location in the array.</source>
+          <target state="new">$x$x$X xxxxxxxx xx xxx xxxxx.</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A value to assign.</source>
+          <target state="new">$x$x$X xxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is not a primitive.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxx x xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; is negative or greater than the length of &lt;em&gt;array&lt;/em&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxxxx xx xxxxxxx xxxx xxx xxxxxx xx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;array&lt;/em&gt; is larger than 2 gigabytes (GB).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx xxxxxx xxxx 0 xxxxxxxxx $XX$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

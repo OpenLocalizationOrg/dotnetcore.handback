@@ -1,0 +1,10 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Denotes a property used as a foreign key in a relationship.</source>
+          <target state="new">$x$x$Xxxxxxx x xxxxxxxx xxxx xx x xxxxxxx xxx xx x xxxxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>The annotation may be placed on the foreign key property and specify the associated navigation property name, or placed on a navigation property and specify the associated foreign key name.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxxxxx xxx xx xxxxxx xx xxx xxxxxxx xxx xxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx xxxxxxxxxx xxxxxxxx xxxx$ xx xxxxxx xx x xxxxxxxxxx xxxxxxxx xxx xxxxxxx xxx xxxxxxxxxx xxxxxxx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the associated navigation property or the associated foreign key property.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxxxxxx xxxxxxxxxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxxx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

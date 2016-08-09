@@ -1,0 +1,37 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Defines the standard keywords that apply to events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxx xxxxxxxx xxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;All the bits are set to 1, representing every possible group of events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxx xxxx xxx xxx xx 0$ xxxxxxxxxxxx xxxxx xxxxxxxx xxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attached to all failed security audit events.</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxx xxxxxx xxxxxxxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>Use this keyword only  for events in the security log.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxx xxxx  xxx xxxxxx xx xxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attached to all successful security audit events.</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxx xxxxxxxxxx xxxxxxxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Use this keyword only for events in the security log.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxx xxxxxxx xxxx xxx xxxxxx xx xxx xxxxxxxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attached to transfer events where the related activity ID (correlation ID) is a computed value and is not guaranteed to be unique (that is, it is not a real GUID).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxxxxxxx xxxxxx xxxxx xxx xxxxxxx xxxxxxxx XX $xxxxxxxxxxx XX$ xx x xxxxxxxx xxxxx xxx xx xxx xxxxxxxxxx xx xx xxxxxx $xxxx xx$ xx xx xxx x xxxx XXXX$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attached to events that are raised by using the &lt;strong&gt;RaiseEvent&lt;/strong&gt; function.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxxxxx xxxx xxx xxxxxx xx xxxxx xxx $xxxxxx$XxxxxXxxxx$$xxxxxx$ xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No filtering on keywords is performed when the event is published.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxxxx xx xxxxxxxx xx xxxxxxxxx xxxx xxx xxxxx xx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attached to all Service Quality Mechanism (SQM) events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxx Xxxxxxx Xxxxxxx Xxxxxxxxx $XXX$ xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attached to all Windows Diagnostics Infrastructure (WDI) context events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxx Xxxxxxx Xxxxxxxxxxx Xxxxxxxxxxxxxx $XXX$ xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Attached to all Windows Diagnostics Infrastructure (WDI) diagnostic events.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxx xx xxx Xxxxxxx Xxxxxxxxxxx Xxxxxxxxxxxxxx $XXX$ xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

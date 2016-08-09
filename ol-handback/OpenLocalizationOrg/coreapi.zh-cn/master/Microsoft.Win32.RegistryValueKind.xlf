@@ -1,0 +1,43 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the data types to use when storing values in the registry, or identifies the data type of a value in the registry.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxx xxxxx xx xxx xxxx xxxxxxx xxxxxx xx xxx xxxxxxxx$ xx xxxxxxxxxx xxx xxxx xxxx xx x xxxxx xx xxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Binary data in any form.</source>
+          <target state="new">$x$x$Xxxxxx xxxx xx xxx xxxx.</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>This value is equivalent to the Win32 API registry data type REG_BINARY.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxxx xx xxx Xxx00 XXX xxxxxxxx xxxx xxxx XXX$XXXXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 32-bit binary number.</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>This value is equivalent to the Win32 API registry data type REG_DWORD.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxxx xx xxx Xxx00 XXX xxxxxxxx xxxx xxxx XXX$XXXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A null-terminated string that contains unexpanded references to environment variables, such as %PATH%, that are expanded when the value is retrieved.</source>
+          <target state="new">$x$x$X xxxx$xxxxxxxxxx xxxxxx xxxx xxxxxxxx xxxxxxxxxx xxxxxxxxxx xx xxxxxxxxxxx xxxxxxxxx$ xxxx xx $XXXX$$ xxxx xxx xxxxxxxx xxxx xxx xxxxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>This value is equivalent to the Win32 API registry data type REG_EXPAND_SZ.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxxx xx xxx Xxx00 XXX xxxxxxxx xxxx xxxx XXX$XXXXXX$XX.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array of null-terminated strings, terminated by two null characters.</source>
+          <target state="new">$x$x$Xx xxxxx xx xxxx$xxxxxxxxxx xxxxxxx$ xxxxxxxxxx xx xxx xxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>This value is equivalent to the Win32 API registry data type REG_MULTI_SZ.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxxx xx xxx Xxx00 XXX xxxxxxxx xxxx xxxx XXX$XXXXX$XX.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;No data type.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A 64-bit binary number.</source>
+          <target state="new">$x$x$X 00$xxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>This value is equivalent to the Win32 API registry data type REG_QWORD.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxxx xx xxx Xxx00 XXX xxxxxxxx xxxx xxxx XXX$XXXXX.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A null-terminated string.</source>
+          <target state="new">$x$x$X xxxx$xxxxxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>This value is equivalent to the Win32 API registry data type REG_SZ.&lt;/p&gt;\n</source>
+          <target state="new">Xxxx xxxxx xx xxxxxxxxxx xx xxx Xxx00 XXX xxxxxxxx xxxx xxxx XXX$XX.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

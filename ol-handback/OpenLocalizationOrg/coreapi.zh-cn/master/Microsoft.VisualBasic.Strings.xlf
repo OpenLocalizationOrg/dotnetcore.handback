@@ -1,0 +1,37 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;Strings&lt;/strong&gt; module contains procedures used to perform string operations.</source>
+          <target state="new">$x$x$Xxx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxxx xxxxxxxx xxxxxxxxxx xxxx xx xxxxxxx xxxxxx xxxxxxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an &lt;strong&gt;Integer&lt;/strong&gt; value representing the character code corresponding to a character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxxxxxxxxxx xxx xxxxxxxxx xxxx xxxxxxxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an &lt;strong&gt;Integer&lt;/strong&gt; value representing the character code corresponding to a character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxxxxxxxxxx xxx xxxxxxxxx xxxx xxxxxxxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an &lt;strong&gt;Integer&lt;/strong&gt; value representing the character code corresponding to a character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxxxxxxxxxx xxx xxxxxxxxx xxxx xxxxxxxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns an &lt;strong&gt;Integer&lt;/strong&gt; value representing the character code corresponding to a character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xxxxxxxxxxxx xxx xxxxxxxxx xxxx xxxxxxxxxxxxx xx x xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the character associated with the specified character code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Required.</source>
+          <target state="new">$x$x$Xxxxxxxx.</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>An &lt;strong&gt;Integer&lt;/strong&gt; expression representing the &lt;em&gt;code point&lt;/em&gt;, or character code, for the character.</source>
+          <target state="new">Xx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxxxxxxx xxxxxxxxxxxx xxx $xx$xxxx xxxxx$$xx$$ xx xxxxxxxxx xxxx$ xxx xxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Returns the character associated with the specified character code.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxxxxxxxx xxxxxxxxxx xxxx xxx xxxxxxxxx xxxxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;CharCode&lt;/em&gt; &lt; -32768 or &gt; 65535 for &lt;strong&gt;ChrW&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$XxxxXxxx$$xx$ $ $00000 xx $ 00000 xxx $xxxxxx$XxxX$$xxxxxx$.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

@@ -1,0 +1,142 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Provides a set of methods and properties that enable applications to trace the execution of code and associate trace messages with their source.</source>
+          <target state="new">$x$x$Xxxxxxxx x xxx xx xxxxxxx xxx xxxxxxxxxx xxxx xxxxxx xxxxxxxxxxxx xx xxxxx xxx xxxxxxxxx xx xxxx xxx xxxxxxxxx xxxxx xxxxxxxx xxxx xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the source (typically, the name of the application).&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx $xxxxxxxxx$ xxx xxxx xx xxx xxxxxxxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the source, typically the name of the application.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxxx$ xxxxxxxxx xxx xxxx xx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A bitwise combination of the enumeration values that specifies the default source level at which to trace.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxxxx xxxxxx xxxxx xx xxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;name&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the collection of trace listeners for the trace source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx xxxxx xxxxxxxxx xxx xxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the name of the trace source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xx xxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The name of the trace source.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xx xxx xxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the source switch value.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxx xxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Closes all the trace listeners in the trace listener collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxx xxxxx xxxxxxxxx xx xxx xxxxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Flushes all the trace listeners in the trace listener collection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxx xxx xxx xxxxx xxxxxxxxx xx xxx xxxxx xxxxxxxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the event type of the trace data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxx xxxx xx xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The trace data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the event type of the trace data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxx xxxx xx xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An object array containing the trace data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxx xxxxx xxxxxxxxxx xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the event type of the trace data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxx xxxx xx xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the event type of the trace data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxx xxxx xx xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The trace message to write.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;One of the enumeration values that specifies the event type of the trace data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xx xxx xxxxxxxxxxx xxxxxx xxxx xxxxxxxxx xxx xxxxx xxxx xx xxx xxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A numeric identifier for the event.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxx xxxxxxxxxx xxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks) that contains text intermixed with zero or more format items, which correspond to objects in the &lt;em&gt;args&lt;/em&gt; array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$ xxxx xxxxxxxx xxxx xxxxxxxxxx xxxx xxxx xx xxxx xxxxxx xxxxx$ xxxxx xxxxxxxxxx xx xxxxxxx xx xxx $xx$xxxx$$xx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An &lt;strong&gt;object&lt;/strong&gt; array containing zero or more objects to format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx $xxxxxx$xxxxxx$$xxxxxx$ xxxxx xxxxxxxxxx xxxx xx xxxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is invalid.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The number that indicates an argument to format is less than zero, or greater than or equal to the number of specified objects to format.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxx xxxx xxxxxxxxx xx xxxxxxxx xx xxxxxx xx xxxx xxxx xxxx$ xx xxxxxxx xxxx xx xxxxx xx xxx xxxxxx xx xxxxxxxxx xxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The informative message to write.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxxx xxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A composite format string (see Remarks) that contains text intermixed with zero or more format items, which correspond to objects in the &lt;em&gt;args&lt;/em&gt; array.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxx xxxxxx $xxx Xxxxxxx$ xxxx xxxxxxxx xxxx xxxxxxxxxx xxxx xxxx xx xxxx xxxxxx xxxxx$ xxxxx xxxxxxxxxx xx xxxxxxx xx xxx $xx$xxxx$$xx$ xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An array containing zero or more objects to format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxx xxxxxxxxxx xxxx xx xxxx xxxxxxx xx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;format&lt;/em&gt; is invalid.&lt;/p&gt;\n&lt;p&gt;-or- &lt;/p&gt;\n&lt;p&gt;The number that indicates an argument to format is less than zero, or greater than or equal to the number of specified objects to format.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx xxxxxxx.$$x$$x$x$$xx$ $$x$$x$x$Xxx xxxxxx xxxx xxxxxxxxx xx xxxxxxxx xx xxxxxx xx xxxx xxxx xxxx$ xx xxxxxxx xxxx xx xxxxx xx xxx xxxxxx xx xxxxxxxxx xxxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An attempt was made to trace an event during finalization.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xx xxxxxxx xxx xxxx xx xxxxx xx xxxxx xxxxxx xxxxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

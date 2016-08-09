@@ -1,0 +1,244 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Represents an operating system process thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxxx xx xxxxxxxxx xxxxxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the base priority of the thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The base priority of the thread, which the operating system computes by combining the process priority class with the priority level of the associated thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxxx xx xxx xxxxxx$ xxxxx xxx xxxxxxxxx xxxxxx xxxxxxxx xx xxxxxxxxx xxx xxxxxxx xxxxxxxx xxxxx xxxx xxx xxxxxxxx xxxxx xx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the current priority of the thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The current priority of the thread, which may deviate from the base priority based on how the operating system is scheduling the thread.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxxx xx xxx xxxxxx$ xxxxx xxx xxxxxxx xxxx xxx xxxx xxxxxxxx xxxxx xx xxx xxx xxxxxxxxx xxxxxx xx xxxxxxxxxx xxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>The priority may be temporarily boosted for an active thread.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxxx xxx xx xxxxxxxxxxx xxxxxxx xxx xx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the unique identifier of the thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The unique identifier associated with a specific thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxxxx xxxxxxxxxx xxxx x xxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the preferred processor for this thread to run on.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxx xxxxxxxxx xxx xxxx xxxxxx xx xxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The preferred processor for the thread, used when the system schedules threads, to determine which processor to run the thread on.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxxx xxx xxx xxxxxx$ xxxx xxxx xxx xxxxxx xxxxxxxxx xxxxxxx$ xx xxxxxxxxx xxxxx xxxxxxxxx xx xxx xxx xxxxxx xx.$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The system could not set the thread to start on the specified processor.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxx xxx xxx xxx xxxxxx xx xxxxx xx xxx xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets a value indicating whether the operating system should temporarily boost the priority of the associated thread whenever the main window of the thread's process receives the focus.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx x xxxxx xxxxxxxxxx xxxxxxx xxx xxxxxxxxx xxxxxx xxxxxx xxxxxxxxxxx xxxxx xxx xxxxxxxx xx xxx xxxxxxxxxx xxxxxx xxxxxxxx xxx xxxx xxxxxx xx xxx xxxxxx$x xxxxxxx xxxxxxxx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to boost the thread's priority when the user interacts with the process's interface; otherwise, &lt;strong&gt;false&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxx xxx xxxxxx$x xxxxxxxx xxxx xxx xxxx xxxxxxxxx xxxx xxx xxxxxxx$x xxxxxxxxx$ xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>The default is &lt;strong&gt;false&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">Xxx xxxxxxx xx $xxxxxx$xxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The priority boost information could not be retrieved.&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The priority boost information could not be set.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xxxxxxxxxxx xxxxx xxx xx xxxxxxxxx.$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxxxx xxxxx xxxxxxxxxxx xxxxx xxx xx xxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets or sets the priority level of the thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xx xxxx xxx xxxxxxxx xxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The thread priority level information could not be retrieved.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxxxx xxxxx xxxxxxxxxxx xxxxx xxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n&lt;p&gt;-or-&lt;/p&gt;\n&lt;p&gt;The thread priority level could not be set.&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x$x$$xx$$$x$$x$x$Xxx xxxxxx xxxxxxxx xxxxx xxxxx xxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of time that the thread has spent running code inside the operating system core.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxx xxxx xxx xxxxxx xxx xxxxx xxxxxxx xxxx xxxxxx xxx xxxxxxxxx xxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The thread time could not be retrieved.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx xxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the processors on which the associated thread can run.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxxxx xx xxxxx xxx xxxxxxxxxx xxxxxx xxx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The processor affinity could not be set.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxx xxxxx xxx xx xxx.</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the memory address of the function that the operating system called that started this thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxxxxx xx xxx xxxxxxxx xxxx xxx xxxxxxxxx xxxxxx xxxxxx xxxx xxxxxxx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The thread's starting address, which points to the application-defined function that the thread executes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx$x xxxxxxxx xxxxxxx$ xxxxx xxxxxx xx xxx xxxxxxxxxxx$xxxxxxx xxxxxxxx xxxx xxx xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the time that the operating system started the thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxx xxxx xxx xxxxxxxxx xxxxxx xxxxxxx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The thread time could not be retrieved.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx xxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the current state of this thread.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxx xxxxx xx xxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the total amount of time that this thread has spent using the processor.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxx xxxxxx xx xxxx xxxx xxxx xxxxxx xxx xxxxx xxxxx xxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The thread time could not be retrieved.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx xxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the amount of time that the associated thread has spent running code inside the application.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xx xxxx xxxx xxx xxxxxxxxxx xxxxxx xxx xxxxx xxxxxxx xxxx xxxxxx xxx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The thread time could not be retrieved.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxxxx xxx xx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Gets the reason that the thread is waiting.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxx xxxx xxx xxxxxx xx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The thread is not in the wait state.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxx xx xxx xxxx xxxxx.</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Resets the ideal processor for this thread to indicate that there is no single ideal processor.</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxx xxxxxxxxx xxx xxxx xxxxxx xx xxxxxxxx xxxx xxxxx xx xx xxxxxx xxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>In other words, so that any processor is ideal.&lt;/p&gt;\n</source>
+          <target state="new">Xx xxxxx xxxxx$ xx xxxx xxx xxxxxxxxx xx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The ideal processor could not be reset.</source>
+          <target state="new">$x$x$Xxx xxxxx xxxxxxxxx xxxxx xxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The platform is Windows 98 or Windows Millennium Edition.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xx Xxxxxxx 00 xx Xxxxxxx Xxxxxxxxxx Xxxxxxx.</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The process is on a remote computer.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xx xx x xxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

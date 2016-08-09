@@ -1,0 +1,28 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Specifies the transaction locking behavior for the connection.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxxxxx xxx xxxxxxxxxxx xxxxxxx xxxxxxxx xxx xxx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The pending changes from more highly isolated transactions cannot be overwritten.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxxxx xxxx xxxx xxxxxx xxxxxxxx xxxxxxxxxxxx xxxxxx xx xxxxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Shared locks are held while the data is being read to avoid dirty reads, but the data can be changed before the end of the transaction, resulting in non-repeatable reads or phantom data.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxx xxx xxxx xxxxx xxx xxxx xx xxxxx xxxx xx xxxxx xxxxx xxxxx$ xxx xxx xxxx xxx xx xxxxxxx xxxxxx xxx xxx xx xxx xxxxxxxxxxx$ xxxxxxxxx xx xxx$xxxxxxxxxx xxxxx xx xxxxxxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A dirty read is possible, meaning that no shared locks are issued and no exclusive locks are honored.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxx xxxx xx xxxxxxxx$ xxxxxxx xxxx xx xxxxxx xxxxx xxx xxxxxx xxx xx xxxxxxxxx xxxxx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Locks are placed on all data that is used in a query, preventing other users from updating the data.</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxx xx xxx xxxx xxxx xx xxxx xx x xxxxx$ xxxxxxxxxx xxxxx xxxxx xxxx xxxxxxxx xxx xxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>Prevents non-repeatable reads but phantom rows are still possible.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxx xxx$xxxxxxxxxx xxxxx xxx xxxxxxx xxxx xxx xxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Reduces blocking by storing a version of data that one application can read while another is modifying the same data.</source>
+          <target state="new">$x$x$Xxxxxxx xxxxxxxx xx xxxxxxx x xxxxxxx xx xxxx xxxx xxx xxxxxxxxxxx xxx xxxx xxxxx xxxxxxx xx xxxxxxxxx xxx xxxx xxxx.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>Indicates that from one transaction you cannot see changes made in other transactions, even if you requery.&lt;/p&gt;\n</source>
+          <target state="new">Xxxxxxxxx xxxx xxxx xxx xxxxxxxxxxx xxx xxxxxx xxx xxxxxxx xxxx xx xxxxx xxxxxxxxxxxx$ xxxx xx xxx xxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A different isolation level than the one specified is being used, but the level cannot be determined.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxxxxxx xxxxx xxxx xxx xxx xxxxxxxxx xx xxxxx xxxx$ xxx xxx xxxxx xxxxxx xx xxxxxxxxxx.$$x$$x</target>
+        </trans-unit></group></body></file></xliff>

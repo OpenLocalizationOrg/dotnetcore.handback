@@ -1,0 +1,580 @@
+<?xml version="1.0"?><xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd"><file datatype="xml" original="markdown" source-language="en-US" target-language="en-US"><header><tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" /></header><body><group id="content" extype="content"><trans-unit id="101" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes primitive types in binary to a stream and supports writing strings in a specific encoding.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxxxxxxxx xxxxx xx xxxxxx xx x xxxxxx xxx xxxxxxxx xxxxxxx xxxxxxx xx x xxxxxxxx xxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="102" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Holds the underlying stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The output stream.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="104" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="105" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support writing or is already closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx xx xx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="106" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="107" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;output&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="108" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="109" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The output stream.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="110" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="111" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The character encoding to use.</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxx xx xxx.</target>
+        </trans-unit><trans-unit id="112" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="113" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support writing or is already closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx xx xx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="114" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="115" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;output&lt;/em&gt; or &lt;em&gt;encoding&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="116" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="117" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The output stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="118" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The character encoding to use.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxx xxxxxxxx xx xxx.$$x$$x</target>
+        </trans-unit><trans-unit id="119" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream does not support writing or is already closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xxx xxxxxxx xxxxxxx xx xx xxxxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="120" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="121" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;output&lt;/em&gt; or &lt;em&gt;encoding&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xx$xxxxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="122" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="123" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The underlying stream associated with the &lt;strong&gt;BinaryWriter&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxxxx xxxxxx xxxxxxxxxx xxxx xxx $xxxxxx$XxxxxxXxxxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="124" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;strong&gt;true&lt;/strong&gt; to release both managed and unmanaged resources; &lt;strong&gt;false&lt;/strong&gt; to release only unmanaged resources.</source>
+          <target state="new">$x$x$$x$xxxxxx$xxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxx xxx xxxxxxxxx xxxxxxxxx$ $xxxxxx$xxxxx$$xxxxxx$ xx xxxxxxx xxxx xxxxxxxxx xxxxxxxxx.</target>
+        </trans-unit><trans-unit id="125" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="126" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Clears all buffers for the current writer and causes any buffered data to be written to the underlying device.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xxx xxxxxxx xxx xxx xxxxxxx xxxxxx xxx xxxxxx xxx xxxxxxxx xxxx xx xx xxxxxxx xx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="127" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Sets the position within the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxx xxx xxxxxxxx xxxxxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="128" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A byte offset relative to &lt;em&gt;origin&lt;/em&gt;.</source>
+          <target state="new">$x$x$X xxxx xxxxxx xxxxxxxx xx $xx$xxxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="129" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="130" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The position with the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="131" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The file pointer was moved to an invalid location.</source>
+          <target state="new">$x$x$Xxx xxxx xxxxxxx xxx xxxxx xx xx xxxxxxx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="132" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="133" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a one-byte &lt;strong&gt;Boolean&lt;/strong&gt; value to the current stream, with 0 representing &lt;strong&gt;false&lt;/strong&gt; and 1 representing &lt;strong&gt;true&lt;/strong&gt;.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxx$xxxx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xx xxx xxxxxxx xxxxxx$ xxxx 0 xxxxxxxxxxxx $xxxxxx$xxxxx$$xxxxxx$ xxx 0 xxxxxxxxxxxx $xxxxxx$xxxx$$xxxxxx$.$$x$$x</target>
+        </trans-unit><trans-unit id="134" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The &lt;strong&gt;Boolean&lt;/strong&gt; value to write (0 or 1).</source>
+          <target state="new">$x$x$Xxx $xxxxxx$Xxxxxxx$$xxxxxx$ xxxxx xx xxxxx $0 xx 0$.</target>
+        </trans-unit><trans-unit id="135" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="136" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="137" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="138" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="139" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="140" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes an unsigned byte to the current stream and advances the stream position by one byte.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxxxxx xxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="141" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The unsigned byte to write.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="142" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="143" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="144" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="145" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="146" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="147" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a byte array to the underlying stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxx xxxxx xx xxx xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="148" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A byte array containing the data to write.</source>
+          <target state="new">$x$x$X xxxx xxxxx xxxxxxxxxx xxx xxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="149" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="150" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="151" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="152" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="153" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="154" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;buffer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="155" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="156" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a region of a byte array to the current stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxx xx x xxxx xxxxx xx xxx xxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="157" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A byte array containing the data to write.</source>
+          <target state="new">$x$x$X xxxx xxxxx xxxxxxxxxx xxx xxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="158" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="159" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The starting point in &lt;em&gt;buffer&lt;/em&gt; at which to begin writing.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx $xx$xxxxxx$$xx$ xx xxxxx xx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="160" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="161" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of bytes to write.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="162" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="163" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer length minus &lt;em&gt;index&lt;/em&gt; is less than &lt;em&gt;count&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxx $xx$xxxxx$$xx$ xx xxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="164" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="165" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;buffer&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="166" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="167" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is negative.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="168" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="169" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="170" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="171" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="172" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="173" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a Unicode character to the current stream and advances the current position of the stream in accordance with the &lt;strong&gt;Encoding&lt;/strong&gt; used and the specific characters being written to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x Xxxxxxx xxxxxxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxxx xxxxxxxx xx xxx xxxxxx xx xxxxxxxxxx xxxx xxx $xxxxxx$Xxxxxxxx$$xxxxxx$ xxxx xxx xxx xxxxxxxx xxxxxxxxxx xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="174" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The non-surrogate, Unicode character to write.</source>
+          <target state="new">$x$x$Xxx xxx$xxxxxxxxx$ Xxxxxxx xxxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="175" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="176" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="177" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="178" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="179" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="180" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;ch&lt;/em&gt; is a single surrogate character.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$$x$xx$xx$$xx$ xx x xxxxxx xxxxxxxxx xxxxxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="181" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a character array to the current stream and advances the current position of the stream in accordance with the &lt;strong&gt;Encoding&lt;/strong&gt; used and the specific characters being written to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxxxx xxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxxx xxxxxxxx xx xxx xxxxxx xx xxxxxxxxxx xxxx xxx $xxxxxx$Xxxxxxxx$$xxxxxx$ xxxx xxx xxx xxxxxxxx xxxxxxxxxx xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="182" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A character array containing the data to write.</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxx xxxxxxxxxx xxx xxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="183" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="184" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;chars&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="185" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="186" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="187" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="188" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="189" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="190" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a section of a character array to the current stream, and advances the current position of the stream in accordance with the &lt;strong&gt;Encoding&lt;/strong&gt; used and perhaps the specific characters being written to the stream.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxx xx x xxxxxxxxx xxxxx xx xxx xxxxxxx xxxxxx$ xxx xxxxxxxx xxx xxxxxxx xxxxxxxx xx xxx xxxxxx xx xxxxxxxxxx xxxx xxx $xxxxxx$Xxxxxxxx$$xxxxxx$ xxxx xxx xxxxxxx xxx xxxxxxxx xxxxxxxxxx xxxxx xxxxxxx xx xxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="191" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;A character array containing the data to write.</source>
+          <target state="new">$x$x$X xxxxxxxxx xxxxx xxxxxxxxxx xxx xxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="192" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="193" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The starting point in &lt;em&gt;chars&lt;/em&gt; from which to begin writing.</source>
+          <target state="new">$x$x$Xxx xxxxxxxx xxxxx xx $xx$xxxxx$$xx$ xxxx xxxxx xx xxxxx xxxxxxx.</target>
+        </trans-unit><trans-unit id="194" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="195" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The number of characters to write.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="196" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="197" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The buffer length minus &lt;em&gt;index&lt;/em&gt; is less than &lt;em&gt;count&lt;/em&gt;.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxxxx xxxxx $xx$xxxxx$$xx$ xx xxxx xxxx $xx$xxxxx$$xx$.</target>
+        </trans-unit><trans-unit id="198" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="199" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;chars&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="200" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="201" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;index&lt;/em&gt; or &lt;em&gt;count&lt;/em&gt; is negative.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xx$xxxxx$$xx$ xx xxxxxxxx.</target>
+        </trans-unit><trans-unit id="202" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="203" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="204" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="205" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="206" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="207" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a decimal value to the current stream and advances the stream position by sixteen bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxxx xxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxxxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="208" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The decimal value to write.</source>
+          <target state="new">$x$x$Xxx xxxxxxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="209" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="210" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="211" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="212" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="213" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="214" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes an eight-byte floating-point value to the current stream and advances the stream position by eight bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxx$xxxx xxxxxxxx$xxxxx xxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="215" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The eight-byte floating-point value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx$xxxx xxxxxxxx$xxxxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="216" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="217" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="218" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="219" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="220" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="221" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a two-byte signed integer to the current stream and advances the stream position by two bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxx$xxxx xxxxxx xxxxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="222" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The two-byte signed integer to write.</source>
+          <target state="new">$x$x$Xxx xxx$xxxx xxxxxx xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="223" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="224" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="225" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="226" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="227" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="228" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a four-byte signed integer to the current stream and advances the stream position by four bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxx$xxxx xxxxxx xxxxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="229" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The four-byte signed integer to write.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxx xxxxxx xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="230" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="231" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="232" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="233" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="234" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="235" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes an eight-byte signed integer to the current stream and advances the stream position by eight bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxx$xxxx xxxxxx xxxxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="236" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The eight-byte signed integer to write.</source>
+          <target state="new">$x$x$Xxx xxxxx$xxxx xxxxxx xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="237" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="238" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="239" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="240" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="241" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="242" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a signed byte to the current stream and advances the stream position by one byte.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxxxx xxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxx xxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="243" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The signed byte to write.</source>
+          <target state="new">$x$x$Xxx xxxxxx xxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="244" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="245" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="246" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="247" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="248" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="249" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a four-byte floating-point value to the current stream and advances the stream position by four bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxx$xxxx xxxxxxxx$xxxxx xxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="250" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The four-byte floating-point value to write.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxx xxxxxxxx$xxxxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="251" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="252" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="253" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="254" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="255" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="256" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The value to write.</source>
+          <target state="new">$x$x$Xxx xxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="257" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="258" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="259" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="260" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;\n&lt;em&gt;value&lt;/em&gt; is &lt;strong&gt;null&lt;/strong&gt;.</source>
+          <target state="new">$x$x$$x$xx$xxxxx$$xx$ xx $xxxxxx$xxxx$$xxxxxx$.</target>
+        </trans-unit><trans-unit id="261" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="262" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="263" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="264" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a two-byte unsigned integer to the current stream and advances the stream position by two bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxx$xxxx xxxxxxxx xxxxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="265" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The two-byte unsigned integer to write.</source>
+          <target state="new">$x$x$Xxx xxx$xxxx xxxxxxxx xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="266" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="267" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="268" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="269" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="270" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="271" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a four-byte unsigned integer to the current stream and advances the stream position by four bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x xxxx$xxxx xxxxxxxx xxxxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="272" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The four-byte unsigned integer to write.</source>
+          <target state="new">$x$x$Xxx xxxx$xxxx xxxxxxxx xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="273" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="274" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="275" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="276" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="277" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="278" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes an eight-byte unsigned integer to the current stream and advances the stream position by eight bytes.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx xx xxxxx$xxxx xxxxxxxx xxxxxxx xx xxx xxxxxxx xxxxxx xxx xxxxxxxx xxx xxxxxx xxxxxxxx xx xxxxx xxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="279" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The eight-byte unsigned integer to write.</source>
+          <target state="new">$x$x$Xxx xxxxx$xxxx xxxxxxxx xxxxxxx xx xxxxx.</target>
+        </trans-unit><trans-unit id="280" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="281" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;An I/O error occurs.</source>
+          <target state="new">$x$x$Xx X$X xxxxx xxxxxx.</target>
+        </trans-unit><trans-unit id="282" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="283" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="284" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="285" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;Writes a 32-bit integer in a compressed format.&lt;/p&gt;\n</source>
+          <target state="new">$x$x$Xxxxxx x 00$xxx xxxxxxx xx x xxxxxxxxxx xxxxxx.$$x$$x</target>
+        </trans-unit><trans-unit id="286" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The 32-bit integer to be written.</source>
+          <target state="new">$x$x$Xxx 00$xxx xxxxxxx xx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="287" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="288" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The end of the stream is reached.</source>
+          <target state="new">$x$x$Xxx xxx xx xxx xxxxxx xx xxxxxxx.</target>
+        </trans-unit><trans-unit id="289" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="290" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="291" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit><trans-unit id="292" translate="yes" xml:space="preserve">
+          <source>\n&lt;p&gt;The stream is closed.</source>
+          <target state="new">$x$x$Xxx xxxxxx xx xxxxxx.</target>
+        </trans-unit><trans-unit id="293" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;\n</source>
+          <target state="new">$$x$$x</target>
+        </trans-unit></group></body></file></xliff>
